@@ -24,6 +24,8 @@ jobs:
       - name: Configure Pages
         uses: actions/configure-pages@v5
         id: pages
+        with:
+          static_site_generator: astro
       - name: Build site
         env:
           PAGES_BASE: ${{ steps.pages.outputs.base_path }}
@@ -34,9 +36,24 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
+    outputs:
+      page_url: ${{ steps.deployment.outputs.page_url }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/deploy-pages@v4
         id: deployment
+
+  smoke:
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '22', cache: 'npm' }
+      - run: npm ci
+      - name: Smoke test live site
+        env:
+          SMOKE_URL: ${{ needs.deploy.outputs.page_url }}
+        run: npm run smoke

@@ -5,7 +5,9 @@
   "description": "Graph-first OSINT resource atlas. YAML source of truth, Astro static site, link-health validation.",
   "scripts": {
     "dev": "astro dev",
-    "build": "npm run data:build && astro build",
+    "build": "npm run data:build && astro build && npm run build:check",
+    "build:check": "tsx scripts/check-build.ts",
+    "smoke": "tsx scripts/smoke.ts",
     "preview": "astro preview",
     "data:build": "tsx scripts/build-data.ts",
     "data:validate": "tsx scripts/validate.ts",
