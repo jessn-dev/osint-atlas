@@ -1,7 +1,8 @@
 ---
 import '../styles/global.css';
-const base = import.meta.env.BASE_URL;
-const feedUrl = `${base.replace(/\/$/, '')}/osint.json`;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const feedUrl = `${base}/osint.json`;
+const faviconUrl = `${base}/favicon.svg`;
 const site = 'https://jessn-dev.github.io/osint-atlas/';
 const desc =
   'Graph-first, link-health-aware map of OSINT resources — searchable, grouped, with dead-link archiving.';
@@ -16,7 +17,7 @@ const desc =
     <meta name="keywords" content="OSINT, cheat sheet, tools, SOCMINT, GEOINT, recon, intelligence" />
     <meta name="theme-color" content="#06080f" />
     <link rel="canonical" href={site} />
-    <link rel="icon" href={`${base}favicon.svg`} type="image/svg+xml" />
+    <link rel="icon" href={faviconUrl} type="image/svg+xml" />
 
     <meta property="og:type" content="website" />
     <meta property="og:title" content="OSINT Atlas" />
