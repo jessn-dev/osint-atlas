@@ -21,12 +21,13 @@ jobs:
       - uses: actions/setup-node@v4
         with: { node-version: '22', cache: 'npm' }
       - run: npm ci
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+        id: pages
       - name: Build site
         env:
           PAGES_BASE: ${{ steps.pages.outputs.base_path }}
         run: npm run build
-      - uses: actions/configure-pages@v5
-        id: pages
       - uses: actions/upload-pages-artifact@v3
         with: { path: dist }
 
