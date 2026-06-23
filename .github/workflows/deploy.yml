@@ -24,8 +24,9 @@ jobs:
       - name: Configure Pages
         uses: actions/configure-pages@v5
         id: pages
-        with:
-          static_site_generator: astro
+        # no static_site_generator: it injects a Pages-config path that throws
+        # "TypeError: error must be an instance of Error" on v5; .nojekyll already
+        # stops Jekyll, so it's redundant here.
       - name: Build site
         env:
           PAGES_BASE: ${{ steps.pages.outputs.base_path }}
