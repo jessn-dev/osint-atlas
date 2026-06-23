@@ -9,6 +9,7 @@ const searchEl = document.getElementById('search') as HTMLInputElement;
 const statsEl = document.getElementById('stats') as HTMLSpanElement;
 const chipsEl = document.getElementById('chips') as HTMLDivElement;
 const statusEl = document.getElementById('statusfilter') as HTMLDivElement;
+const corrBtn = document.getElementById('corr') as HTMLButtonElement;
 const legendEl = document.getElementById('legend') as HTMLDivElement;
 const panel = document.getElementById('panel') as HTMLElement;
 const panelBody = document.getElementById('panel-body') as HTMLElement;
@@ -218,6 +219,14 @@ async function main(): Promise<void> {
   buildLegend();
   buildStatusFilter(graph);
 
+  corrBtn.addEventListener('click', () => {
+    const on = corrBtn.getAttribute('aria-pressed') !== 'true';
+    corrBtn.setAttribute('aria-pressed', String(on));
+    corrBtn.classList.toggle('on', on);
+    graph.setCorrelations(on);
+    setUrl({ corr: on ? '1' : undefined });
+  });
+
   let debounce: ReturnType<typeof setTimeout>;
   searchEl.addEventListener('input', () => {
     clearTimeout(debounce);
@@ -265,6 +274,11 @@ async function main(): Promise<void> {
       });
     }
   if (activeStatuses.size) graph.filterStatus(activeStatuses);
+  if (p.get('corr') === '1') {
+    corrBtn.setAttribute('aria-pressed', 'true');
+    corrBtn.classList.add('on');
+    graph.setCorrelations(true);
+  }
   const q = p.get('q');
   const cat = p.get('cat');
   const grp = p.get('group');

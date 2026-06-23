@@ -13,6 +13,9 @@ public/robots.txt
 public/sitemap.xml
 public/llms.txt
 
+# llm enrichment batch state (resumable)
+.llm-enrich-state.json
+
 # env / os
 .env
 .env.*

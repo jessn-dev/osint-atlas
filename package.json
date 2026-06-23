@@ -21,9 +21,13 @@
     "data:regroup": "tsx scripts/regroup.ts",
     "data:archive": "tsx scripts/archive-dead.ts",
     "data:sync": "tsx scripts/sync-upstream.ts",
+    "data:llm-enrich": "tsx scripts/llm-enrich.ts",
+    "data:llm-enrich-gemini": "tsx scripts/llm-enrich-gemini.ts",
     "links:check": "tsx scripts/check-links.ts"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.105.0",
+    "@google/genai": "^2.9.0",
     "astro": "^5.7.0",
     "d3": "^7.9.0",
     "fuse.js": "^7.1.0"

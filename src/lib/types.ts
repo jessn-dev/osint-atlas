@@ -54,5 +54,5 @@ export interface GraphNode {
 export interface GraphLink {
   source: string | GraphNode;
   target: string | GraphNode;
-  kind: 'group' | 'parent';
+  kind: 'group' | 'parent' | 'correlation';
 }

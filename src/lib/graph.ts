@@ -32,6 +32,7 @@ export class AtlasGraph {
   private svg: d3.Selection<SVGSVGElement, unknown, null, undefined>;
   private root: d3.Selection<SVGGElement, unknown, null, undefined>;
   private linkLayer: d3.Selection<SVGGElement, unknown, null, undefined>;
+  private corrLayer: d3.Selection<SVGGElement, unknown, null, undefined>;
   private nodeLayer: d3.Selection<SVGGElement, unknown, null, undefined>;
   private sim: d3.Simulation<GraphNode, GraphLink>;
   private nodes: GraphNode[] = [];
@@ -39,6 +40,9 @@ export class AtlasGraph {
   private expanded = new Set<string>();
   private offsets = new Map<string, number>(); // catId -> items revealed so far
   private byId = new Map<string, GraphNode>();
+  private corrPairs: [string, string][] = [];
+  private corrLinks: { a: string; b: string }[] = [];
+  private showCorr = false;
   private static readonly BATCH = 16;
   private static readonly PER_RING = 14;
   private feed: OsintFeed;
@@ -51,6 +55,7 @@ export class AtlasGraph {
     this.svg = d3.select(svgEl);
     this.root = this.svg.append('g');
     this.linkLayer = this.root.append('g').attr('class', 'links');
+    this.corrLayer = this.root.append('g').attr('class', 'correlations');
     this.nodeLayer = this.root.append('g').attr('class', 'nodes');
 
     this.svg.call(
@@ -93,7 +98,28 @@ export class AtlasGraph {
       ignoreLocation: true,
     });
 
+    this.corrPairs = computeCorrelations(feed);
     this.buildBase();
+  }
+
+  /** Toggle pivot links between categories that share a tool URL. */
+  setCorrelations(on: boolean): void {
+    this.showCorr = on;
+    this.refreshCorrelations();
+  }
+
+  private refreshCorrelations(): void {
+    this.corrLinks = this.showCorr
+      ? this.corrPairs
+          .filter(([a, b]) => this.byId.has(`cat:${a}`) && this.byId.has(`cat:${b}`))
+          .map(([a, b]) => ({ a, b }))
+      : [];
+    const sel = this.corrLayer
+      .selectAll<SVGLineElement, { a: string; b: string }>('line')
+      .data(this.corrLinks, (d) => `${d.a}~${d.b}`);
+    sel.exit().remove();
+    sel.enter().append('line').attr('class', 'link correlation');
+    this.tick();
   }
 
   private radius(d: GraphNode): number {
@@ -274,6 +300,7 @@ export class AtlasGraph {
     this.sim.nodes(this.nodes);
     (this.sim.force('link') as d3.ForceLink<GraphNode, GraphLink>).links(this.links);
     this.sim.alpha(0.8).restart();
+    this.refreshCorrelations();
   }
 
   private tick(): void {
@@ -297,6 +324,14 @@ export class AtlasGraph {
     this.nodeLayer
       .selectAll<SVGGElement, GraphNode>('g.node')
       .attr('transform', (d) => `translate(${d.x ?? 0},${d.y ?? 0})`);
+    if (this.corrLinks.length) {
+      this.corrLayer
+        .selectAll<SVGLineElement, { a: string; b: string }>('line')
+        .attr('x1', (d) => this.byId.get(`cat:${d.a}`)?.x ?? 0)
+        .attr('y1', (d) => this.byId.get(`cat:${d.a}`)?.y ?? 0)
+        .attr('x2', (d) => this.byId.get(`cat:${d.b}`)?.x ?? 0)
+        .attr('y2', (d) => this.byId.get(`cat:${d.b}`)?.y ?? 0);
+    }
   }
 
   private drag() {
@@ -385,6 +420,27 @@ export class AtlasGraph {
 
 function idOf(x: string | GraphNode): string {
   return typeof x === 'string' ? x : x.id;
+}
+
+/** Category-slug pairs that share at least one tool URL (pivot links). */
+function computeCorrelations(feed: OsintFeed): [string, string][] {
+  const urlToCats = new Map<string, Set<string>>();
+  for (const c of feed.categories) {
+    for (const it of c.items) {
+      const k = it.url.trim().toLowerCase().replace(/\/+$/, '');
+      let set = urlToCats.get(k);
+      if (!set) urlToCats.set(k, (set = new Set()));
+      set.add(c.slug);
+    }
+  }
+  const pairs = new Set<string>();
+  for (const cats of urlToCats.values()) {
+    if (cats.size < 2) continue;
+    const arr = [...cats].sort();
+    for (let i = 0; i < arr.length; i++)
+      for (let j = i + 1; j < arr.length; j++) pairs.add(`${arr[i]}|${arr[j]}`);
+  }
+  return [...pairs].map((k) => k.split('|') as [string, string]);
 }
 
 export { GROUP_COLORS, STATUS_RING };
