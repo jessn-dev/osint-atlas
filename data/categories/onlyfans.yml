@@ -5,10 +5,10 @@ description: OnlyFans — socmint resources (6 entries).
 items:
   - name: fansmetrics
     url: https://fansmetrics.com/
+    archive_url: https://web.archive.org/web/2/https://fansmetrics.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://fansmetrics.com/
   - name: onlysearch
     url: https://onlysearch.co/
     tags: []
@@ -21,10 +21,10 @@ items:
     last_checked: '2026-06-23'
   - name: onlyfans search
     url: https://hubite.com/en/onlyfans-search/
+    archive_url: https://web.archive.org/web/2/https://hubite.com/en/onlyfans-search/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://hubite.com/en/onlyfans-search/
   - name: fansearch
     url: https://www.fansearch.com/
     tags: []

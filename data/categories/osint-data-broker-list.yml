@@ -43,16 +43,16 @@ items:
     last_checked: '2026-06-23'
   - name: doxbin
     url: https://doxbin.com/home
+    archive_url: https://web.archive.org/web/2/https://doxbin.com/home
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://doxbin.com/home
   - name: intelius
     url: https://www.intelius.com/
+    archive_url: https://web.archive.org/web/2/https://www.intelius.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.intelius.com/
   - name: rocketreach
     url: https://rocketreach.co/
     tags: []

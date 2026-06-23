@@ -26,10 +26,10 @@ items:
     last_checked: '2026-06-23'
   - name: OCCRP Organized Crime and Corruption Reporting Project
     url: https://www.occrp.org/en
+    archive_url: https://web.archive.org/web/2/https://www.occrp.org/en
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.occrp.org/en
   - name: PPP Directory
     url: https://ppp.directory/search
     tags: []
@@ -37,16 +37,16 @@ items:
     last_checked: '2026-06-23'
   - name: ID LKPP
     url: https://lkpp.go.id/
+    archive_url: https://web.archive.org/web/2/https://lkpp.go.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://lkpp.go.id/
   - name: ID LPSE LKPP
     url: https://lpse.lkpp.go.id/eproc4/lelang
+    archive_url: https://web.archive.org/web/2/https://lpse.lkpp.go.id/eproc4/lelang
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://lpse.lkpp.go.id/eproc4/lelang
   - name: ID PPATK
     url: https://www.ppatk.go.id/publikasi/lists/1.html
     tags: []
@@ -54,10 +54,10 @@ items:
     last_checked: '2026-06-23'
   - name: ID KPK
     url: https://www.kpk.go.id/id
+    archive_url: https://web.archive.org/web/2/https://www.kpk.go.id/id
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.kpk.go.id/id
   - name: ID Pelaporan KPK LHKPN
     url: https://elhkpn.kpk.go.id/portal/user/petakepatuhan
     tags: []
@@ -70,34 +70,34 @@ items:
     last_checked: '2026-06-23'
   - name: ID SIKAP CARI PELAKU USAHA
     url: https://sikap.lkpp.go.id/pelaku-usaha/cari
+    archive_url: https://web.archive.org/web/2/https://sikap.lkpp.go.id/pelaku-usaha/cari
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://sikap.lkpp.go.id/pelaku-usaha/cari
   - name: ID BPK
     url: https://www.bpk.go.id/
+    archive_url: https://web.archive.org/web/2/https://www.bpk.go.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.bpk.go.id/
   - name: ID Bappebti
     url: https://bappebti.go.id/
+    archive_url: https://web.archive.org/web/2/https://bappebti.go.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://bappebti.go.id/
   - name: ID BPS
     url: https://www.bps.go.id/id
+    archive_url: https://web.archive.org/web/2/https://www.bps.go.id/id
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.bps.go.id/id
   - name: ID opentender
     url: https://opentender.net/
+    archive_url: https://web.archive.org/web/2/https://opentender.net/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://opentender.net/
   - name: ID Pengadaan Tender
     url: https://tender.pengadaan.com/tender
     tags: []
@@ -126,10 +126,10 @@ items:
     last_checked: '2026-06-23'
   - name: ID SIRUP LKPP
     url: https://sirup.lkpp.go.id/sirup/home/rekapitulasiindex
+    archive_url: https://web.archive.org/web/2/https://sirup.lkpp.go.id/sirup/home/rekapitulasiindex
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://sirup.lkpp.go.id/sirup/home/rekapitulasiindex
   - name: ID BI
     url: https://www.bi.go.id/id/default.aspx
     tags: []
@@ -142,10 +142,10 @@ items:
     last_checked: '2026-06-23'
   - name: tradingeconomics
     url: https://id.tradingeconomics.com/
+    archive_url: https://web.archive.org/web/2/https://id.tradingeconomics.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://id.tradingeconomics.com/
   - name: worldbank
     url: https://data.worldbank.org/
     tags: []
@@ -158,16 +158,16 @@ items:
     last_checked: '2026-06-23'
   - name: ID E catalogue
     url: https://e-katalog.lkpp.go.id/
+    archive_url: https://web.archive.org/web/2/https://e-katalog.lkpp.go.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://e-katalog.lkpp.go.id/
   - name: ID Cek nomor rekening
     url: https://tools.bagusok.dev/cek-rekening
+    archive_url: https://web.archive.org/web/2/https://tools.bagusok.dev/cek-rekening
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://tools.bagusok.dev/cek-rekening
   - name: ID kredibel check scammer
     url: https://www.kredibel.com/search
     tags: []
@@ -180,10 +180,10 @@ items:
     last_checked: '2026-06-23'
   - name: Cek Nama Rekening Bank/e-Wallet Indonesia
     url: https://cekrekening.github.io/
+    archive_url: https://web.archive.org/web/2/https://cekrekening.github.io/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://cekrekening.github.io/
   - name: BIN Database CC Checker
     url: https://www.bindb.com/bin-database
     tags: []
@@ -191,7 +191,7 @@ items:
     last_checked: '2026-06-23'
   - name: SPSE inaproc ID
     url: https://spse.inaproc.id/
+    archive_url: https://web.archive.org/web/2/https://spse.inaproc.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://spse.inaproc.id/

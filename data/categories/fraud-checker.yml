@@ -35,10 +35,10 @@ items:
     last_checked: '2026-06-23'
   - name: Cek Rekening
     url: https://cekrekening.id/home
+    archive_url: https://web.archive.org/web/2/https://cekrekening.id/home
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://cekrekening.id/home
   - name: Kredibel
     url: https://www.kredibel.com/
     tags: []
@@ -106,11 +106,11 @@ items:
     last_checked: '2026-06-23'
   - name: Telegram Scammer list ACC Database
     url: https://apk.ibnux.com/data/
+    archive_url: https://web.archive.org/web/2/https://apk.ibnux.com/data/
     tags:
       - telegram
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://apk.ibnux.com/data/
   - name: chainabuse - wallet scam search
     url: https://www.chainabuse.com/
     tags: []

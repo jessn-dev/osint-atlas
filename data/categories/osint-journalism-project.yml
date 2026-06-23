@@ -11,16 +11,16 @@ items:
     last_checked: '2026-06-23'
   - name: gijn
     url: https://gijn.org/
+    archive_url: https://web.archive.org/web/2/https://gijn.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://gijn.org/
   - name: Journalist toolbox
     url: https://www.journaliststoolbox.org/
+    archive_url: https://web.archive.org/web/2/https://www.journaliststoolbox.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.journaliststoolbox.org/
   - name: Google Journalist Studio
     url: https://journaliststudio.google.com/pinpoint/case-studies/
     tags: []
@@ -38,10 +38,10 @@ items:
     last_checked: '2026-06-23'
   - name: Resources Journalism
     url: https://gijn.org/resource/
+    archive_url: https://web.archive.org/web/2/https://gijn.org/resource/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://gijn.org/resource/
   - name: Danger zone
     url: https://github.com/freedomofpress/dangerzone
     tags:

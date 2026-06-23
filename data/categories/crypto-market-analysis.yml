@@ -25,10 +25,10 @@ items:
     last_checked: '2026-06-23'
   - name: dexscreener
     url: https://dexscreener.com/
+    archive_url: https://web.archive.org/web/2/https://dexscreener.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://dexscreener.com/
   - name: cryptoscamdb crypto scam
     url: https://cryptoscamdb.org/
     tags: []
@@ -36,10 +36,10 @@ items:
     last_checked: '2026-06-23'
   - name: tronscan
     url: https://tronscan.org/#/
+    archive_url: https://web.archive.org/web/2/https://tronscan.org/#/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://tronscan.org/#/
   - name: walletexplorer
     url: https://www.walletexplorer.com/
     tags: []
@@ -57,28 +57,28 @@ items:
     last_checked: '2026-06-23'
   - name: blockexplorer
     url: https://blockexplorer.com/
+    archive_url: https://web.archive.org/web/2/https://blockexplorer.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://blockexplorer.com/
   - name: blockcypher
     url: https://live.blockcypher.com/
+    archive_url: https://web.archive.org/web/2/https://live.blockcypher.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://live.blockcypher.com/
   - name: intelx
     url: https://intelx.io/
+    archive_url: https://web.archive.org/web/2/https://intelx.io/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://intelx.io/
   - name: oxt
     url: https://oxt.me/
+    archive_url: https://web.archive.org/web/2/https://oxt.me/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://oxt.me/
   - name: bitcoinwhoswho
     url: https://www.bitcoinwhoswho.com/
     tags: []
@@ -86,16 +86,16 @@ items:
     last_checked: '2026-06-23'
   - name: etherscan
     url: https://etherscan.io/
+    archive_url: https://web.archive.org/web/2/https://etherscan.io/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://etherscan.io/
   - name: etherchain
     url: https://www.etherchain.org/
+    archive_url: https://web.archive.org/web/2/https://www.etherchain.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.etherchain.org/
   - name: web3 username search
     url: https://app.ens.domains/
     tags: []
@@ -108,28 +108,28 @@ items:
     last_checked: '2026-06-23'
   - name: blockchair
     url: https://blockchair.com/
+    archive_url: https://web.archive.org/web/2/https://blockchair.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://blockchair.com/
   - name: bitaps
     url: https://bitaps.com/
+    archive_url: https://web.archive.org/web/2/https://bitaps.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://bitaps.com/
   - name: 3pxl
     url: https://3xpl.com/bitcoin
+    archive_url: https://web.archive.org/web/2/https://3xpl.com/bitcoin
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://3xpl.com/bitcoin
   - name: ARKHAM INTEL
     url: https://intel.arkm.com/
+    archive_url: https://web.archive.org/web/2/https://intel.arkm.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://intel.arkm.com/
   - name: breadcrumbs
     url: https://www.breadcrumbs.app/
     tags: []
@@ -142,10 +142,10 @@ items:
     last_checked: '2026-06-23'
   - name: ciphertrace
     url: https://ciphertrace.com/
+    archive_url: https://web.archive.org/web/2/https://ciphertrace.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://ciphertrace.com/
   - name: metasleuth
     url: https://metasleuth.io/
     tags: []
@@ -168,10 +168,10 @@ items:
     last_checked: '2026-06-23'
   - name: solscan-solana
     url: https://solscan.io/
+    archive_url: https://web.archive.org/web/2/https://solscan.io/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://solscan.io/
   - name: XMR SCAN
     url: https://xmrscan.org/
     tags: []

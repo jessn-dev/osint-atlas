@@ -5,10 +5,10 @@ description: OSINT Calender World of Calender — reference resources (3 entries
 items:
   - name: All region world calender holiday
     url: https://www.timeanddate.com/holidays/
+    archive_url: https://web.archive.org/web/2/https://www.timeanddate.com/holidays/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.timeanddate.com/holidays/
   - name: officeholidays
     url: https://www.officeholidays.com/
     tags: []

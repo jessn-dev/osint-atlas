@@ -5,10 +5,10 @@ description: OSINT Software — web resources (15 entries).
 items:
   - name: alternativeto
     url: https://alternativeto.net/
+    archive_url: https://web.archive.org/web/2/https://alternativeto.net/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://alternativeto.net/
   - name: alternative
     url: https://alternative.me/
     tags: []
@@ -36,10 +36,10 @@ items:
     last_checked: '2026-06-23'
   - name: G2
     url: https://www.g2.com/
+    archive_url: https://web.archive.org/web/2/https://www.g2.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.g2.com/
   - name: softwaresuggest
     url: https://www.softwaresuggest.com/
     tags: []
@@ -47,10 +47,10 @@ items:
     last_checked: '2026-06-23'
   - name: softpedia
     url: https://www.softpedia.com/
+    archive_url: https://web.archive.org/web/2/https://www.softpedia.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.softpedia.com/
   - name: DAPK APK SEARCH
     url: https://github.com/m4ll0k/BBTz/blob/master/dapk.py
     tags:

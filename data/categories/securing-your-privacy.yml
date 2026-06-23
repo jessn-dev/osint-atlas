@@ -81,12 +81,12 @@ items:
     last_checked: '2026-06-23'
   - name: dnmx email (ONION SITES)
     url: http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion/
+    archive_url: >-
+      https://web.archive.org/web/2/http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion/
     tags:
       - onion
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion/
   - name: Phone Burner
     url: https://www.phoneburner.com/
     tags: []
@@ -114,10 +114,10 @@ items:
     last_checked: '2026-06-23'
   - name: nordvpn
     url: https://nordvpn.com/
+    archive_url: https://web.archive.org/web/2/https://nordvpn.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://nordvpn.com/
   - name: VPN Comparison Table
     url: >-
       https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit?gid=231869418#gid=231869418
@@ -177,10 +177,10 @@ items:
     last_checked: '2026-06-23'
   - name: disint - guide for privacy action
     url: https://disint.org/main.html?checkboxes=check80
+    archive_url: https://web.archive.org/web/2/https://disint.org/main.html?checkboxes=check80
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://disint.org/main.html?checkboxes=check80
   - name: privacyguides
     url: https://www.privacyguides.org/en/
     tags: []

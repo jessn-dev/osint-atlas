@@ -18,9 +18,10 @@ try {
 
 function findDupUrls(cats: ReturnType<typeof loadCategories>): string[] {
   const seen = new Map<string, number>();
-  for (const c of cats) for (const i of c.data.items) {
-    const key = i.url.trim().toLowerCase().replace(/\/$/, '');
-    seen.set(key, (seen.get(key) ?? 0) + 1);
-  }
+  for (const c of cats)
+    for (const i of c.data.items) {
+      const key = i.url.trim().toLowerCase().replace(/\/$/, '');
+      seen.set(key, (seen.get(key) ?? 0) + 1);
+    }
   return [...seen.entries()].filter(([, n]) => n > 1).map(([u]) => u);
 }

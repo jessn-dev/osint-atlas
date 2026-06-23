@@ -10,23 +10,23 @@ items:
     last_checked: '2026-06-23'
   - name: Onion Link
     url: http://www.onion.link
+    archive_url: https://web.archive.org/web/2/http://www.onion.link
     tags:
       - onion
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://www.onion.link
   - name: Onion
     url: https://onion.cab
+    archive_url: https://web.archive.org/web/2/https://onion.cab
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://onion.cab
   - name: Onion city
     url: https://onion.city/
+    archive_url: https://web.archive.org/web/2/https://onion.city/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://onion.city/
   - name: Ahmia
     url: https://ahmia.fi/
     tags: []
@@ -51,11 +51,11 @@ items:
     last_checked: '2026-06-23'
   - name: Darknet Book
     url: https://github.com/darknet-book/tor-guide
+    archive_url: https://web.archive.org/web/2/https://github.com/darknet-book/tor-guide
     tags:
       - open-source
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://github.com/darknet-book/tor-guide
   - name: immuniweb
     url: https://www.immuniweb.com/darkweb/
     tags: []
@@ -63,10 +63,10 @@ items:
     last_checked: '2026-06-23'
   - name: darknetlive
     url: https://darknetlive.com/onions
+    archive_url: https://web.archive.org/web/2/https://darknetlive.com/onions
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://darknetlive.com/onions
   - name: ransomwatch
     url: https://ransomwatch.telemetry.ltd/#/
     tags: []
@@ -79,44 +79,44 @@ items:
     last_checked: '2026-06-23'
   - name: Ahmia Onion Site (onion link)
     url: http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: Haystak Onion Site (onion link)
     url: http://haystak5njsmn2hqkewecpaxetahtwhsbsa64jom2k22z5afxhnpxfid.onion/
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://haystak5njsmn2hqkewecpaxetahtwhsbsa64jom2k22z5afxhnpxfid.onion/
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: Dark Search Onion Site (onion link)
     url: http://darkschn4iw2hxvpv2vy2uoxwkvs2padb56t3h4wqztre6upoc5qwgid.onion
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://darkschn4iw2hxvpv2vy2uoxwkvs2padb56t3h4wqztre6upoc5qwgid.onion
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: Tor66 Onion Site (onion link)
     url: http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/
-  - name: Torch (onion link)
-    url: http://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion/cgi-bin/omega/omega
     tags:
       - onion
     status: dead
     last_checked: '2026-06-23'
+  - name: Torch (onion link)
+    url: http://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion/cgi-bin/omega/omega
     archive_url: >-
       https://web.archive.org/web/2/http://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion/cgi-bin/omega/omega
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: Darkowl
     url: https://www.darkowl.com/
     tags: []
@@ -135,18 +135,18 @@ items:
     last_checked: '2026-06-23'
   - name: ATII
     url: https://followmoneyfightslavery.org/
+    archive_url: https://web.archive.org/web/2/https://followmoneyfightslavery.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://followmoneyfightslavery.org/
   - name: Onion Land Search (onion link)
     url: http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion/
+    archive_url: >-
+      https://web.archive.org/web/2/http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion/
     tags:
       - onion
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion/
   - name: hunchly
     url: https://www.hunch.ly/
     tags: []
@@ -170,10 +170,10 @@ items:
     last_checked: '2026-06-23'
   - name: hunch ly
     url: https://www.hunch.ly/darkweb-osint/
+    archive_url: https://web.archive.org/web/2/https://www.hunch.ly/darkweb-osint/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.hunch.ly/darkweb-osint/
   - name: DarkWeb Archive - Active Japan lang
     url: https://darkweb-archive.activetk.jp/
     tags: []
@@ -186,25 +186,25 @@ items:
     last_checked: '2026-06-23'
   - name: Not Evil (onion link)
     url: http://hss3uro2hsxfogfq.onion/
+    archive_url: https://web.archive.org/web/2/http://hss3uro2hsxfogfq.onion/
     tags:
       - onion
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://hss3uro2hsxfogfq.onion/
   - name: Not Evil 2 (onion link)
     url: http://hss3uro2hsxfogfq.onion.to/
+    archive_url: https://web.archive.org/web/2/http://hss3uro2hsxfogfq.onion.to/
     tags:
       - onion
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://hss3uro2hsxfogfq.onion.to/
   - name: Visitor (onion link)
     url: http://visitorfi5kl7q7i.onion/
+    archive_url: https://web.archive.org/web/2/http://visitorfi5kl7q7i.onion/
     tags:
       - onion
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://visitorfi5kl7q7i.onion/
   - name: deepweblinks - other lists
     url: https://deepweblinks.net/
     tags: []
@@ -217,20 +217,20 @@ items:
     last_checked: '2026-06-23'
   - name: Tor Taxi (onion link)
     url: http://tortaxi2dev6xjwbaydqzla77rrnth7yn2oqzjfmiuwn5h6vsk2a4syd.onion/
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://tortaxi2dev6xjwbaydqzla77rrnth7yn2oqzjfmiuwn5h6vsk2a4syd.onion/
-  - name: Dark Fail (onion link)
-    url: http://darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion/
     tags:
       - onion
     status: dead
     last_checked: '2026-06-23'
+  - name: Dark Fail (onion link)
+    url: http://darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion/
     archive_url: >-
       https://web.archive.org/web/2/http://darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion/
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: onionland surface web
     url: https://onionland.io/
     tags: []
@@ -238,20 +238,20 @@ items:
     last_checked: '2026-06-23'
   - name: DarkWebSitesLinks (onion link)
     url: http://darkwev6xtagl7742tqu24v2j4namr5ocfsfpha74a5nh4bwyp27a3ad.onion
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://darkwev6xtagl7742tqu24v2j4namr5ocfsfpha74a5nh4bwyp27a3ad.onion
-  - name: Tor Links (onion link)
-    url: http://torlinksge6enmcyyuxjpjkoouw4oorgdgeo7ftnq3zodj7g2zxi3kyd.onion
     tags:
       - onion
     status: dead
     last_checked: '2026-06-23'
+  - name: Tor Links (onion link)
+    url: http://torlinksge6enmcyyuxjpjkoouw4oorgdgeo7ftnq3zodj7g2zxi3kyd.onion
     archive_url: >-
       https://web.archive.org/web/2/http://torlinksge6enmcyyuxjpjkoouw4oorgdgeo7ftnq3zodj7g2zxi3kyd.onion
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: onionlinkhub
     url: https://www.onionlinkhub.com/
     tags: []
@@ -264,32 +264,32 @@ items:
     last_checked: '2026-06-23'
   - name: Deep Search (onion link)
     url: http://search7tdrcvri22rieiwgi5g46qnwsesvnubqav2xakhezv4hjzkkad.onion/
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://search7tdrcvri22rieiwgi5g46qnwsesvnubqav2xakhezv4hjzkkad.onion/
-  - name: wikiwand
-    url: https://www.wikiwand.com/en/articles/List_of_Tor_onion_services
-    tags: []
-    status: dead
-    last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.wikiwand.com/en/articles/List_of_Tor_onion_services
-  - name: DarkNetLive Dark Web Markets (onion link)
-    url: http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/markets
     tags:
       - onion
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/markets
-  - name: darksearch
-    url: https://darksearch.io/
+  - name: wikiwand
+    url: https://www.wikiwand.com/en/articles/List_of_Tor_onion_services
+    archive_url: https://web.archive.org/web/2/https://www.wikiwand.com/en/articles/List_of_Tor_onion_services
     tags: []
     status: dead
     last_checked: '2026-06-23'
+  - name: DarkNetLive Dark Web Markets (onion link)
+    url: http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/markets
+    archive_url: >-
+      https://web.archive.org/web/2/http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/markets
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
+  - name: darksearch
+    url: https://darksearch.io/
     archive_url: https://web.archive.org/web/2/https://darksearch.io/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
   - name: thehiddenwiki
     url: https://thehiddenwiki.com/
     tags: []
@@ -322,52 +322,52 @@ items:
     last_checked: '2026-06-23'
   - name: Duck go (ONION SITE)
     url: https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: Onion Links List (ONION SITE)
     url: http://jaz45aabn5vkemy4jkg4mi4syheisqn2wn2n4fsuitpccdackjwxplad.onion/
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://jaz45aabn5vkemy4jkg4mi4syheisqn2wn2n4fsuitpccdackjwxplad.onion/
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: EXCAVATOR (ONION SITE)
     url: http://2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion/
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion/
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: Darksearch (ONION SITE)
     url: http://darkzqtmbdeauwq5mzcmgeeuhet42fhfjj4p5wbak3ofx2yqgecoeqyd.onion/
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://darkzqtmbdeauwq5mzcmgeeuhet42fhfjj4p5wbak3ofx2yqgecoeqyd.onion/
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: TOR watch onion domain search (ONION SITE)
     url: http://xq5hcm32m7ipdqt2ydqj6cc7lpj3lw3iwqnxiak2juynysoevjmancad.onion/
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://xq5hcm32m7ipdqt2ydqj6cc7lpj3lw3iwqnxiak2juynysoevjmancad.onion/
-  - name: The Dark Web Pug's (ONION SITE)
-    url: http://jgwe5cjqdbyvudjqskaajbfibfewew4pndx52dye7ug3mt3jimmktkid.onion/
     tags:
       - onion
     status: dead
     last_checked: '2026-06-23'
+  - name: The Dark Web Pug's (ONION SITE)
+    url: http://jgwe5cjqdbyvudjqskaajbfibfewew4pndx52dye7ug3mt3jimmktkid.onion/
     archive_url: >-
       https://web.archive.org/web/2/http://jgwe5cjqdbyvudjqskaajbfibfewew4pndx52dye7ug3mt3jimmktkid.onion/
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: deepweblinks NET
     url: https://deepweblinks.net/the-hidden-wiki/
     tags: []
@@ -375,58 +375,58 @@ items:
     last_checked: '2026-06-23'
   - name: Tor gle (ONION SITE)
     url: http://iy3544gmoeclh5de6gez2256v6pjh4omhpqdh2wpeeppjtvqmjhkfwad.onion/torgle/?query=
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://iy3544gmoeclh5de6gez2256v6pjh4omhpqdh2wpeeppjtvqmjhkfwad.onion/torgle/?query=
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: TorDex (ONION SITE)
     url: http://tordexu73joywapk2txdr54jed4imqledpcvcuf75qsas2gwdgksvnyd.onion/
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://tordexu73joywapk2txdr54jed4imqledpcvcuf75qsas2gwdgksvnyd.onion/
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: Fresh onion (ONION SITE)
     url: http://freshonifyfe4rmuh6qwpsexfhdrww7wnt5qmkoertwxmcuvm4woo4ad.onion/
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://freshonifyfe4rmuh6qwpsexfhdrww7wnt5qmkoertwxmcuvm4woo4ad.onion/
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: Onion site service (ONION SITE)
     url: http://3fzh7yuupdfyjhwt3ugzqqof6ulbcl27ecev33knxe3u7goi3vfn2qqd.onion
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://3fzh7yuupdfyjhwt3ugzqqof6ulbcl27ecev33knxe3u7goi3vfn2qqd.onion
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: Wiki page (ONION SITE)
     url: http://uquroyobsaquslaunwkz6bmc3wutpzvwe7mv62xeq64645a57bugnsyd.onion
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://uquroyobsaquslaunwkz6bmc3wutpzvwe7mv62xeq64645a57bugnsyd.onion
-  - name: Danex io (ONION SITE)
-    url: http://danexio627wiswvlpt6ejyhpxl5gla5nt2tgvgm2apj2ofrgm44vbeyd.onion
     tags:
       - onion
     status: dead
     last_checked: '2026-06-23'
+  - name: Danex io (ONION SITE)
+    url: http://danexio627wiswvlpt6ejyhpxl5gla5nt2tgvgm2apj2ofrgm44vbeyd.onion
     archive_url: >-
       https://web.archive.org/web/2/http://danexio627wiswvlpt6ejyhpxl5gla5nt2tgvgm2apj2ofrgm44vbeyd.onion
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: onionfind
     url: https://onionfind.com/
+    archive_url: https://web.archive.org/web/2/https://onionfind.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://onionfind.com/
   - name: onionlinks
     url: https://onionlinks.com/
     tags: []
@@ -444,12 +444,12 @@ items:
     last_checked: '2026-06-23'
   - name: Grams (ONION SITE)
     url: http://grams64rarzrk7rzdaz2fpb7lehcyi7zrrf5kd6w2uoamp7jw2aq6vyd.onion
+    archive_url: >-
+      https://web.archive.org/web/2/http://grams64rarzrk7rzdaz2fpb7lehcyi7zrrf5kd6w2uoamp7jw2aq6vyd.onion
     tags:
       - onion
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/http://grams64rarzrk7rzdaz2fpb7lehcyi7zrrf5kd6w2uoamp7jw2aq6vyd.onion
   - name: Dargle
     url: https://www.dargle.net/domains
     tags: []
@@ -457,36 +457,36 @@ items:
     last_checked: '2026-06-23'
   - name: onion archive (ONION LINK)
     url: http://x4ijfwy76n6jl7rs4qyhe6qi5rv6xyuos3kaczgjpjcajigjzk3k7wqd.onion
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://x4ijfwy76n6jl7rs4qyhe6qi5rv6xyuos3kaczgjpjcajigjzk3k7wqd.onion
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: onion dir (ONION LINK)
     url: http://oniodtu6xudkiblcijrwwkduu2tdle3rav7nlszrjhrxpjtkg4brmgqd.onion
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://oniodtu6xudkiblcijrwwkduu2tdle3rav7nlszrjhrxpjtkg4brmgqd.onion
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: French Market (ONION LINK)
     url: http://frenchwltobamdhyq5y2egezkbnz53ws5kaa6wnscildhnegdw5nhsyd.onion
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://frenchwltobamdhyq5y2egezkbnz53ws5kaa6wnscildhnegdw5nhsyd.onion
-  - name: Ransom Group Site (ONION LINK)
-    url: http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion/
     tags:
       - onion
     status: dead
     last_checked: '2026-06-23'
+  - name: Ransom Group Site (ONION LINK)
+    url: http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion/
     archive_url: >-
       https://web.archive.org/web/2/http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion/
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: Vormweb
     url: https://vormweb.de/en/
     tags: []
@@ -499,68 +499,68 @@ items:
     last_checked: '2026-06-23'
   - name: 4get onion search (ONION LINK)
     url: http://4getwebfrq5zr4sxugk6htxvawqehxtdgjrbcn2oslllcol2vepa23yd.onion
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://4getwebfrq5zr4sxugk6htxvawqehxtdgjrbcn2oslllcol2vepa23yd.onion
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: SearchXNG (ONION LINK)
     url: http://searx3aolosaf3urwnhpynlhuokqsgz47si4pzz5hvb7uuzyjncl2tid.onion/
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://searx3aolosaf3urwnhpynlhuokqsgz47si4pzz5hvb7uuzyjncl2tid.onion/
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: Onion find search (ONION LINK)
     url: http://ofinde3b67voi7xiq3qflof2mwriwngicd7glwvf3bclgdgcjfozlzqd.onion/
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://ofinde3b67voi7xiq3qflof2mwriwngicd7glwvf3bclgdgcjfozlzqd.onion/
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: OnionX (ONION LINK)
     url: http://onionxpwovutq7bfv54ees3sfhcj32euy4bd555vvc4aufemxhkzvoyd.onion/
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://onionxpwovutq7bfv54ees3sfhcj32euy4bd555vvc4aufemxhkzvoyd.onion/
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: Hidden wiki blog (ONION LINK)
     url: http://darkwebp7lyr44rpgqdtevalty2pk5oqmc6m2cnicnix7itelt3lp3id.onion/
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://darkwebp7lyr44rpgqdtevalty2pk5oqmc6m2cnicnix7itelt3lp3id.onion/
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: G dark onion search engine (ONION LINK)
     url: http://zb2jtkhnbvhkya3d46twv3g7lkobi4s62tjffqmafjibixk6pmq75did.onion/gdark/search.php
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://zb2jtkhnbvhkya3d46twv3g7lkobi4s62tjffqmafjibixk6pmq75did.onion/gdark/search.php
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: TOR Land (ONION LINK)
     url: http://torlgu6zhhtwe73fdu76uiswgnkfvukqfujofxjfo7vzoht2rndyhxyd.onion/
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://torlgu6zhhtwe73fdu76uiswgnkfvukqfujofxjfo7vzoht2rndyhxyd.onion/
-  - name: OurREALM search engine (ONION SITE)
-    url: http://orealmvxooetglfeguv2vp65a3rig2baq2ljc7jxxs4hsqsrcemkxcad.onion/
     tags:
       - onion
     status: dead
     last_checked: '2026-06-23'
+  - name: OurREALM search engine (ONION SITE)
+    url: http://orealmvxooetglfeguv2vp65a3rig2baq2ljc7jxxs4hsqsrcemkxcad.onion/
     archive_url: >-
       https://web.archive.org/web/2/http://orealmvxooetglfeguv2vp65a3rig2baq2ljc7jxxs4hsqsrcemkxcad.onion/
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: onionsearchengine
     url: https://onionsearchengine.com/
     tags: []
@@ -568,18 +568,18 @@ items:
     last_checked: '2026-06-23'
   - name: Tor Search (ONION SITE)
     url: http://tz75oxijdfwnobeh3sn6vfethrz4zqdasylrmp7euntqivbsaubojmyd.onion/
+    archive_url: >-
+      https://web.archive.org/web/2/http://tz75oxijdfwnobeh3sn6vfethrz4zqdasylrmp7euntqivbsaubojmyd.onion/
     tags:
       - onion
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/http://tz75oxijdfwnobeh3sn6vfethrz4zqdasylrmp7euntqivbsaubojmyd.onion/
   - name: Darkwebdaily
     url: https://darkwebdaily.net/
+    archive_url: https://web.archive.org/web/2/https://darkwebdaily.net/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://darkwebdaily.net/
   - name: Dautlink
     url: https://daunt.link/
     tags: []
@@ -592,97 +592,97 @@ items:
     last_checked: '2026-06-23'
   - name: NotEvil Search Engine (ONION SITE)
     url: http://notevil2ebbr5xjww6nryjta7bycbriyi2vh7an3wcuovlznvobykmad.onion/
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://notevil2ebbr5xjww6nryjta7bycbriyi2vh7an3wcuovlznvobykmad.onion/
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: Just onion (ONION SITE)
     url: http://justdirs5iebdkegiwbp3k6vwgwyr5mce7pztld23hlluy22ox4r3iad.onion/
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://justdirs5iebdkegiwbp3k6vwgwyr5mce7pztld23hlluy22ox4r3iad.onion/
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: The Hidden Wiki (ONION SITE)
     url: http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: Tor Node (ONION SITE)
     url: http://tornode3tnrtzgqwd3vmxdumucddqfd6zk7icu4wzdwxo5c3zn2xqfqd.onion/
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://tornode3tnrtzgqwd3vmxdumucddqfd6zk7icu4wzdwxo5c3zn2xqfqd.onion/
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: TORCH Search (ONION SITE)
     url: http://torchdeedp3i2jigzjdmfpn5ttjhthh5wbmda2rr3jvqjg5p77c54dqd.onion/
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://torchdeedp3i2jigzjdmfpn5ttjhthh5wbmda2rr3jvqjg5p77c54dqd.onion/
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: onion search server (ONION SITE)
     url: http://3fzh7yuupdfyjhwt3ugzqqof6ulbcl27ecev33knxe3u7goi3vfn2qqd.onion/oss/
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://3fzh7yuupdfyjhwt3ugzqqof6ulbcl27ecev33knxe3u7goi3vfn2qqd.onion/oss/
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: Top onion lists (ONION SITE)
     url: http://toponiibv4eo4pctlszgavni5ajzg7uvkd7e2xslkjmtcfqesjlsqpid.onion/
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://toponiibv4eo4pctlszgavni5ajzg7uvkd7e2xslkjmtcfqesjlsqpid.onion/
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: Torgol (ONION SITE)
     url: http://torgolnpeouim56dykfob6jh5r2ps2j73enc42s2um4ufob3ny4fcdyd.onion/
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://torgolnpeouim56dykfob6jh5r2ps2j73enc42s2um4ufob3ny4fcdyd.onion/
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: Tornet (ONION SITE)
     url: http://tornetupfu7gcgidt33ftnungxzyfq2pygui5qdoyss34xbgx2qruzid.onion/
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://tornetupfu7gcgidt33ftnungxzyfq2pygui5qdoyss34xbgx2qruzid.onion/
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: Find tor (ONION SITE)
     url: http://findtorroveq5wdnipkaojfpqulxnkhblymc7aramjzajcvpptd4rjqd.onion/
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://findtorroveq5wdnipkaojfpqulxnkhblymc7aramjzajcvpptd4rjqd.onion/
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: Yahoo search (ONION SITE)
     url: http://yahooirqvmmzwowaybsbtqcba2jyzwys7rb66zo7adrql4lq4wzwteqd.onion/
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://yahooirqvmmzwowaybsbtqcba2jyzwys7rb66zo7adrql4lq4wzwteqd.onion/
-  - name: TOR 777 search (ONION SITE)
-    url: http://777topalcjomgpfmxbgtnpodgkkifm4qoqjzbc7thpmtq3k4sksmj3yd.onion/
     tags:
       - onion
     status: dead
     last_checked: '2026-06-23'
+  - name: TOR 777 search (ONION SITE)
+    url: http://777topalcjomgpfmxbgtnpodgkkifm4qoqjzbc7thpmtq3k4sksmj3yd.onion/
     archive_url: >-
       https://web.archive.org/web/2/http://777topalcjomgpfmxbgtnpodgkkifm4qoqjzbc7thpmtq3k4sksmj3yd.onion/
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'

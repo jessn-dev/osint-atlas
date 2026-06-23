@@ -5,16 +5,16 @@ description: Image Search — media resources (60 entries).
 items:
   - name: 7Photos
     url: http://7photos.net
+    archive_url: https://web.archive.org/web/2/http://7photos.net
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://7photos.net
   - name: Baidu Images
     url: http://image.baidu.com
+    archive_url: https://web.archive.org/web/2/http://image.baidu.com
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://image.baidu.com
   - name: Bing Images
     url: http://www.bing.com/images
     tags: []
@@ -72,28 +72,28 @@ items:
     last_checked: '2026-06-23'
   - name: StolenCameraFinder
     url: http://www.stolencamerafinder.co.uk
+    archive_url: https://web.archive.org/web/2/http://www.stolencamerafinder.co.uk
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://www.stolencamerafinder.co.uk
   - name: TinEye
     url: https://tineye.com
+    archive_url: https://web.archive.org/web/2/https://tineye.com
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://tineye.com
   - name: Worldcam
     url: http://www.worldc.am
+    archive_url: https://web.archive.org/web/2/http://www.worldc.am
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://www.worldc.am
   - name: Yahoo Image Search
     url: https://images.search.yahoo.com
+    archive_url: https://web.archive.org/web/2/https://images.search.yahoo.com
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://images.search.yahoo.com
   - name: Yandex Images
     url: https://www.yandex.com/images
     tags: []
@@ -101,10 +101,10 @@ items:
     last_checked: '2026-06-23'
   - name: Betaface
     url: https://www.betaface.com/demo.html
+    archive_url: https://web.archive.org/web/2/https://www.betaface.com/demo.html
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.betaface.com/demo.html
   - name: Search4faces
     url: https://search4faces.com/
     tags: []
@@ -132,10 +132,10 @@ items:
     last_checked: '2026-06-23'
   - name: Vkfacewatch
     url: https://vk.watch/
+    archive_url: https://web.archive.org/web/2/https://vk.watch/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://vk.watch/
   - name: Facecheck
     url: https://facecheck.id/
     tags: []
@@ -206,11 +206,11 @@ items:
     last_checked: '2026-06-23'
   - name: shutterstock
     url: https://www.shutterstock.com/royalty-free/reverse-image-search-for-video
+    archive_url: >-
+      https://web.archive.org/web/2/https://www.shutterstock.com/royalty-free/reverse-image-search-for-video
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/https://www.shutterstock.com/royalty-free/reverse-image-search-for-video
   - name: gettyimages
     url: https://www.gettyimages.com/
     tags: []
@@ -263,10 +263,10 @@ items:
     last_checked: '2026-06-23'
   - name: faceseek
     url: https://faceseek.online/
+    archive_url: https://web.archive.org/web/2/https://faceseek.online/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://faceseek.online/
   - name: lenso
     url: https://lenso.ai/en
     tags: []

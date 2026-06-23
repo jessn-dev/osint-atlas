@@ -53,10 +53,10 @@ items:
     last_checked: '2026-06-23'
   - name: Virus Exchange
     url: https://virus.exchange/
+    archive_url: https://web.archive.org/web/2/https://virus.exchange/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://virus.exchange/
   - name: Archive Org
     url: https://archive.org/web/
     tags: []
@@ -74,10 +74,10 @@ items:
     last_checked: '2026-06-23'
   - name: Abuse IP
     url: https://www.abuseipdb.com/
+    archive_url: https://web.archive.org/web/2/https://www.abuseipdb.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.abuseipdb.com/
   - name: Check-The-Sum
     url: https://check-the-sum.fr/
     tags: []
@@ -85,16 +85,16 @@ items:
     last_checked: '2026-06-23'
   - name: Check Phish
     url: https://checkphish.ai/
+    archive_url: https://web.archive.org/web/2/https://checkphish.ai/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://checkphish.ai/
   - name: Radar By Cloudflare
     url: https://radar.cloudflare.com/
+    archive_url: https://web.archive.org/web/2/https://radar.cloudflare.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://radar.cloudflare.com/
   - name: Is it Phishing
     url: https://isitphishing.org/
     tags: []
@@ -117,10 +117,10 @@ items:
     last_checked: '2026-06-23'
   - name: Threat Miner
     url: https://www.threatminer.org/
+    archive_url: https://web.archive.org/web/2/https://www.threatminer.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.threatminer.org/
   - name: Netcraft
     url: https://www.netcraft.com/tools/
     tags: []
@@ -156,10 +156,10 @@ items:
     last_checked: '2026-06-23'
   - name: Phishtalk
     url: https://www.phishtank.com/phish_archive.php
+    archive_url: https://web.archive.org/web/2/https://www.phishtank.com/phish_archive.php
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.phishtank.com/phish_archive.php
   - name: URL Haus
     url: https://urlhaus.abuse.ch/
     tags: []
@@ -192,10 +192,10 @@ items:
     last_checked: '2026-06-23'
   - name: vx-underground
     url: https://vx-underground.org/
+    archive_url: https://web.archive.org/web/2/https://vx-underground.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://vx-underground.org/
   - name: ShadowDragon
     url: https://shadowdragon.io/
     tags: []
@@ -259,10 +259,10 @@ items:
     last_checked: '2026-06-23'
   - name: getlinkinfo
     url: https://www.getlinkinfo.com/
+    archive_url: https://web.archive.org/web/2/https://www.getlinkinfo.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.getlinkinfo.com/
   - name: Redirect Tracker
     url: https://www.websiteplanet.com/webtools/redirected/
     tags: []

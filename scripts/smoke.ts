@@ -9,10 +9,17 @@
 export {};
 
 const target = process.env.SMOKE_URL ?? process.argv[2];
-if (!target) { console.error('[-] no URL: set SMOKE_URL or pass as arg'); process.exit(1); }
+if (!target) {
+  console.error('[-] no URL: set SMOKE_URL or pass as arg');
+  process.exit(1);
+}
 const base = new URL(target);
 
-interface Check { label: string; url: string; expectType?: string }
+interface Check {
+  label: string;
+  url: string;
+  expectType?: string;
+}
 
 async function head(url: string): Promise<{ status: number; type: string }> {
   const res = await fetch(url, { redirect: 'follow' });
@@ -22,14 +29,21 @@ async function head(url: string): Promise<{ status: number; type: string }> {
 }
 
 const pageRes = await fetch(base.href, { redirect: 'follow' });
-if (!pageRes.ok) { console.error(`[-] page ${base.href} -> ${pageRes.status}`); process.exit(1); }
+if (!pageRes.ok) {
+  console.error(`[-] page ${base.href} -> ${pageRes.status}`);
+  process.exit(1);
+}
 const html = await pageRes.text();
 
 const checks: Check[] = [];
 for (const m of html.matchAll(/(?:src|href)="([^"]+)"/g)) {
   const ref = m[1];
   if (/^https?:\/\//.test(ref) || ref.startsWith('data:') || ref.startsWith('#')) continue;
-  checks.push({ label: ref.endsWith('.js') ? 'js' : 'asset', url: new URL(ref, base).href, expectType: ref.endsWith('.js') ? 'javascript' : undefined });
+  checks.push({
+    label: ref.endsWith('.js') ? 'js' : 'asset',
+    url: new URL(ref, base).href,
+    expectType: ref.endsWith('.js') ? 'javascript' : undefined,
+  });
 }
 const feed = html.match(/const feedUrl = "([^"]+)"/);
 if (feed) checks.push({ label: 'feed', url: new URL(feed[1], base).href, expectType: 'json' });
@@ -43,6 +57,12 @@ for (const c of checks) {
   if (bad) failed++;
 }
 
-if (!checks.length) { console.error('[-] page referenced no assets — likely empty'); process.exit(1); }
-if (failed) { console.error(`[-] smoke failed: ${failed}/${checks.length} resources bad`); process.exit(1); }
+if (!checks.length) {
+  console.error('[-] page referenced no assets — likely empty');
+  process.exit(1);
+}
+if (failed) {
+  console.error(`[-] smoke failed: ${failed}/${checks.length} resources bad`);
+  process.exit(1);
+}
 console.log(`[+] smoke passed: page + ${checks.length} resources OK`);

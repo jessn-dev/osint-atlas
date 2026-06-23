@@ -25,10 +25,10 @@ items:
     last_checked: '2026-06-23'
   - name: trakteer
     url: https://trakteer.id/
+    archive_url: https://web.archive.org/web/2/https://trakteer.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://trakteer.id/
   - name: bedpage
     url: http://bedpage.com/
     tags: []
@@ -87,10 +87,10 @@ items:
     last_checked: '2026-06-23'
   - name: Quora
     url: https://id.quora.com/
+    archive_url: https://web.archive.org/web/2/https://id.quora.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://id.quora.com/
   - name: X
     url: https://twitter.com/
     tags: []
@@ -129,22 +129,22 @@ items:
     last_checked: '2026-06-23'
   - name: xnxx
     url: https://www.xnxx.com/account/checkemail
+    archive_url: https://web.archive.org/web/2/https://www.xnxx.com/account/checkemail
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.xnxx.com/account/checkemail
   - name: xvideos
     url: https://www.xvideos.com/account/checkemail
+    archive_url: https://web.archive.org/web/2/https://www.xvideos.com/account/checkemail
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.xvideos.com/account/checkemail
   - name: archiveofsins Archives
     url: https://archiveofsins.com/
+    archive_url: https://web.archive.org/web/2/https://archiveofsins.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://archiveofsins.com/
   - name: deviantart
     url: https://www.deviantart.com/
     tags: []
@@ -152,16 +152,16 @@ items:
     last_checked: '2026-06-23'
   - name: tripadvisor
     url: https://www.tripadvisor.com/
+    archive_url: https://web.archive.org/web/2/https://www.tripadvisor.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.tripadvisor.com/
   - name: wikisexguide
     url: https://forum.wikisexguide.com/
+    archive_url: https://web.archive.org/web/2/https://forum.wikisexguide.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://forum.wikisexguide.com/
   - name: semprot forums
     url: https://www.semprot.com/
     tags: []
@@ -194,10 +194,10 @@ items:
     last_checked: '2026-06-23'
   - name: fansmetrics
     url: https://fansmetrics.com/
+    archive_url: https://web.archive.org/web/2/https://fansmetrics.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://fansmetrics.com/
   - name: onlysearch
     url: https://onlysearch.co/
     tags: []
@@ -210,10 +210,10 @@ items:
     last_checked: '2026-06-23'
   - name: onlyfans search
     url: https://hubite.com/en/onlyfans-search/
+    archive_url: https://web.archive.org/web/2/https://hubite.com/en/onlyfans-search/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://hubite.com/en/onlyfans-search/
   - name: fansearch
     url: https://www.fansearch.com/
     tags: []
@@ -221,10 +221,10 @@ items:
     last_checked: '2026-06-23'
   - name: xmodelfinder
     url: https://www.xmodelfinder.com/
+    archive_url: https://web.archive.org/web/2/https://www.xmodelfinder.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.xmodelfinder.com/
   - name: sotugas onlyfans search username
     url: https://sotugas.com/onlyfans/
     tags: []

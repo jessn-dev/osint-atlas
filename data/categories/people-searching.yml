@@ -10,16 +10,16 @@ items:
     last_checked: '2026-06-23'
   - name: castrickclues
     url: https://castrickclues.com/
+    archive_url: https://web.archive.org/web/2/https://castrickclues.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://castrickclues.com/
   - name: whatsmyname
     url: https://whatsmyname.app/
+    archive_url: https://web.archive.org/web/2/https://whatsmyname.app/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://whatsmyname.app/
   - name: snusbase
     url: https://snusbase.com/
     tags: []
@@ -47,16 +47,16 @@ items:
     last_checked: '2026-06-23'
   - name: reversegeni
     url: http://www.reversegenie.com/plate.php
+    archive_url: https://web.archive.org/web/2/http://www.reversegenie.com/plate.php
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://www.reversegenie.com/plate.php
   - name: PDDIKTI ID
     url: https://pddikti.kemdikbud.go.id/
+    archive_url: https://web.archive.org/web/2/https://pddikti.kemdikbud.go.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://pddikti.kemdikbud.go.id/
   - name: IDEBKU OJK ID
     url: https://idebku.ojk.go.id/Public/HomePage
     tags: []
@@ -64,10 +64,10 @@ items:
     last_checked: '2026-06-23'
   - name: SINTA ID
     url: https://sinta.kemdikbud.go.id/
+    archive_url: https://web.archive.org/web/2/https://sinta.kemdikbud.go.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://sinta.kemdikbud.go.id/
   - name: Social Searcher
     url: https://www.social-searcher.com/
     tags: []
@@ -90,10 +90,10 @@ items:
     last_checked: '2026-06-23'
   - name: SignalHire
     url: https://www.signalhire.com/
+    archive_url: https://web.archive.org/web/2/https://www.signalhire.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.signalhire.com/
   - name: Website informer
     url: https://website.informer.com/
     tags: []
@@ -112,10 +112,10 @@ items:
     last_checked: '2026-06-23'
   - name: Freepeoplesearch
     url: https://freepeoplesearch.com/
+    archive_url: https://web.archive.org/web/2/https://freepeoplesearch.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://freepeoplesearch.com/
   - name: Predicta Search
     url: https://www.predictasearch.com/
     tags: []
@@ -123,10 +123,10 @@ items:
     last_checked: '2026-06-23'
   - name: Epios
     url: https://epieos.com/
+    archive_url: https://web.archive.org/web/2/https://epieos.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://epieos.com/
   - name: anymailfinder
     url: https://anymailfinder.com/
     tags: []
@@ -149,10 +149,10 @@ items:
     last_checked: '2026-06-23'
   - name: Family Tree
     url: https://www.familytreenow.com/
+    archive_url: https://web.archive.org/web/2/https://www.familytreenow.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.familytreenow.com/
   - name: Radaris
     url: https://radaris.com/
     tags: []
@@ -160,10 +160,10 @@ items:
     last_checked: '2026-06-23'
   - name: beenverified
     url: https://www.beenverified.com/people/
+    archive_url: https://web.archive.org/web/2/https://www.beenverified.com/people/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.beenverified.com/people/
   - name: bandcamp
     url: https://bandcamp.com/
     tags: []
@@ -182,10 +182,10 @@ items:
     last_checked: '2026-06-23'
   - name: ID PENCARIAN DATA PM (PENERIMA MANFAAT) BANSOS
     url: https://cekbansos.kemensos.go.id/
+    archive_url: https://web.archive.org/web/2/https://cekbansos.kemensos.go.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://cekbansos.kemensos.go.id/
   - name: Maltego Social Links Pro
     url: https://www.maltego.com/transform-hub/social-links-pro/
     tags:
@@ -195,16 +195,16 @@ items:
     last_checked: '2026-06-23'
   - name: fastpeoplesearch
     url: https://www.fastpeoplesearch.com/
+    archive_url: https://web.archive.org/web/2/https://www.fastpeoplesearch.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.fastpeoplesearch.com/
   - name: fastpeoplesearch.info
     url: https://fastpeoplesearch.info/
+    archive_url: https://web.archive.org/web/2/https://fastpeoplesearch.info/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://fastpeoplesearch.info/
   - name: intelius
     url: https://www.intelius.com/
     tags: []
@@ -222,10 +222,10 @@ items:
     last_checked: '2026-06-23'
   - name: Arjuna Kemdikbud ID
     url: https://arjuna.kemdikbud.go.id/#/jurnal
+    archive_url: https://web.archive.org/web/2/https://arjuna.kemdikbud.go.id/#/jurnal
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://arjuna.kemdikbud.go.id/#/jurnal
   - name: peekyou
     url: https://www.peekyou.com/
     tags: []
@@ -263,10 +263,10 @@ items:
     last_checked: '2026-06-23'
   - name: infobel
     url: https://www.infobel.com/fr/world
+    archive_url: https://web.archive.org/web/2/https://www.infobel.com/fr/world
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.infobel.com/fr/world
   - name: peoplefinder
     url: https://www.peoplefinder.com/
     tags: []
@@ -307,10 +307,10 @@ items:
     last_checked: '2026-06-23'
   - name: truepeoplesearch
     url: https://www.truepeoplesearch.com/
+    archive_url: https://web.archive.org/web/2/https://www.truepeoplesearch.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.truepeoplesearch.com/
   - name: 411 reverse phone
     url: https://www.411.com/reverse-phone
     tags: []
@@ -333,16 +333,16 @@ items:
     last_checked: '2026-06-23'
   - name: ID Sistem Informasi Penelusuran Perkara
     url: https://sipp.pn-negara.go.id/
+    archive_url: https://web.archive.org/web/2/https://sipp.pn-negara.go.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://sipp.pn-negara.go.id/
   - name: ID mahkamahagung
     url: https://putusan3.mahkamahagung.go.id/
+    archive_url: https://web.archive.org/web/2/https://putusan3.mahkamahagung.go.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://putusan3.mahkamahagung.go.id/
   - name: ID Check the wealth assets of Indonesian ministries
     url: https://elhkpn.kpk.go.id/portal/user/check_search_announ#announ
     tags: []
@@ -350,10 +350,10 @@ items:
     last_checked: '2026-06-23'
   - name: ID SIKAP CARI PELAKU USAHA
     url: https://sikap.lkpp.go.id/pelaku-usaha/cari
+    archive_url: https://web.archive.org/web/2/https://sikap.lkpp.go.id/pelaku-usaha/cari
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://sikap.lkpp.go.id/pelaku-usaha/cari
   - name: ID Pejabat rekam jejak
     url: https://rekamjejak.net/direktori?query=&category=&party=&page=1&limit=9
     tags: []
@@ -361,10 +361,10 @@ items:
     last_checked: '2026-06-23'
   - name: truepeoplesearch
     url: https://truepeoplesearch.com/
+    archive_url: https://web.archive.org/web/2/https://truepeoplesearch.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://truepeoplesearch.com/
   - name: huggingface Face-Search-Online
     url: https://huggingface.co/spaces/FaceOnLive/Face-Search-Online
     tags: []
@@ -372,10 +372,10 @@ items:
     last_checked: '2026-06-23'
   - name: faceseek
     url: https://faceseek.online/
+    archive_url: https://web.archive.org/web/2/https://faceseek.online/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://faceseek.online/
   - name: lenso
     url: https://lenso.ai/en
     tags: []

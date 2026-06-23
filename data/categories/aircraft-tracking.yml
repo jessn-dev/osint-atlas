@@ -40,16 +40,16 @@ items:
     last_checked: '2026-06-23'
   - name: Planefinder
     url: https://planefinder.net/
+    archive_url: https://web.archive.org/web/2/https://planefinder.net/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://planefinder.net/
   - name: Live ATC
     url: https://www.liveatc.net/
+    archive_url: https://web.archive.org/web/2/https://www.liveatc.net/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.liveatc.net/
   - name: planespotters
     url: https://www.planespotters.net/
     tags: []
@@ -62,11 +62,11 @@ items:
     last_checked: '2026-06-23'
   - name: airrecognition
     url: https://web.archive.org/web/20240000000000*/https://airrecognition.com/
+    archive_url: >-
+      https://web.archive.org/web/2/https://web.archive.org/web/20240000000000*/https://airrecognition.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/https://web.archive.org/web/20240000000000*/https://airrecognition.com/
   - name: federal aviation administration
     url: https://www.faa.gov/
     tags:
@@ -100,10 +100,10 @@ items:
     last_checked: '2026-06-23'
   - name: flightsafety
     url: https://asn.flightsafety.org/
+    archive_url: https://web.archive.org/web/2/https://asn.flightsafety.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://asn.flightsafety.org/
   - name: airfleets
     url: https://www.airfleets.net/home/
     tags: []
@@ -126,10 +126,10 @@ items:
     last_checked: '2026-06-23'
   - name: jetphotos
     url: https://www.jetphotos.com/
+    archive_url: https://web.archive.org/web/2/https://www.jetphotos.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.jetphotos.com/
   - name: raf
     url: https://www.raf.mod.uk/
     tags: []
@@ -143,10 +143,10 @@ items:
     last_checked: '2026-06-23'
   - name: dictatoralert
     url: https://dictatoralert.org/
+    archive_url: https://web.archive.org/web/2/https://dictatoralert.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://dictatoralert.org/
   - name: airspace
     url: https://www.airspace-review.com/
     tags: []
@@ -180,10 +180,10 @@ items:
     last_checked: '2026-06-23'
   - name: airportia
     url: https://www.airportia.com/
+    archive_url: https://web.archive.org/web/2/https://www.airportia.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.airportia.com/
   - name: utopiax
     url: https://www.utopiax.org/
     tags: []
@@ -192,13 +192,13 @@ items:
   - name: Civil Aircraft Register ID
     url: >-
       https://web.archive.org/web/20241222182708/https://imsis-djpu.dephub.go.id/PortalDKPPU/CAR2023-eng.pdf
+    archive_url: >-
+      https://web.archive.org/web/2/https://web.archive.org/web/20241222182708/https://imsis-djpu.dephub.go.id/PortalDKPPU/CAR2023-eng.pdf
     tags:
       - account-required
       - document
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/https://web.archive.org/web/20241222182708/https://imsis-djpu.dephub.go.id/PortalDKPPU/CAR2023-eng.pdf
   - name: Plane Registration
     url: https://id.wikipedia.org/wiki/Registrasi_pesawat
     tags: []
@@ -226,10 +226,10 @@ items:
     last_checked: '2026-06-23'
   - name: military radar
     url: https://military.freedar.uk/
+    archive_url: https://web.archive.org/web/2/https://military.freedar.uk/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://military.freedar.uk/
   - name: airplanes
     url: https://globe.airplanes.live/
     tags: []
@@ -237,10 +237,10 @@ items:
     last_checked: '2026-06-23'
   - name: airnavradar
     url: https://www.airnavradar.com/data/flights
+    archive_url: https://web.archive.org/web/2/https://www.airnavradar.com/data/flights
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.airnavradar.com/data/flights
   - name: aireon
     url: https://aireon.com/
     tags: []
@@ -253,7 +253,7 @@ items:
     last_checked: '2026-06-23'
   - name: rzjets
     url: https://rzjets.net/aircraft/
+    archive_url: https://web.archive.org/web/2/https://rzjets.net/aircraft/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://rzjets.net/aircraft/

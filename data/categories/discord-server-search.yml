@@ -10,10 +10,10 @@ items:
     last_checked: '2026-06-23'
   - name: Discord history tracker
     url: https://www.dht.chylex.com/
+    archive_url: https://web.archive.org/web/2/https://www.dht.chylex.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.dht.chylex.com/
   - name: Darvester
     url: https://github.com/darvester/darvester
     tags:
@@ -38,10 +38,10 @@ items:
     last_checked: '2026-06-23'
   - name: Disboard
     url: https://disboard.org/servers
+    archive_url: https://web.archive.org/web/2/https://disboard.org/servers
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://disboard.org/servers
   - name: Discord server search
     url: https://discord.center/
     tags: []

@@ -45,11 +45,11 @@ items:
     last_checked: '2026-06-23'
   - name: neural-enhance
     url: https://dockship.io/model/neural-enhance/5de4333901afe15d4ec10393
+    archive_url: >-
+      https://web.archive.org/web/2/https://dockship.io/model/neural-enhance/5de4333901afe15d4ec10393
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/https://dockship.io/model/neural-enhance/5de4333901afe15d4ec10393
   - name: neural-enhance
     url: https://github.com/alexjc/neural-enhance
     tags:
@@ -94,10 +94,10 @@ items:
     last_checked: '2026-06-23'
   - name: waifu2x
     url: https://waifu2x.org/
+    archive_url: https://web.archive.org/web/2/https://waifu2x.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://waifu2x.org/
   - name: imglarger
     url: https://imglarger.com/Anime16K
     tags: []
@@ -115,10 +115,10 @@ items:
     last_checked: '2026-06-23'
   - name: imgify
     url: https://imgify.net/ai-photo-enhancer/
+    archive_url: https://web.archive.org/web/2/https://imgify.net/ai-photo-enhancer/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://imgify.net/ai-photo-enhancer/
   - name: myheritage hoto-enhancer
     url: https://www.myheritage.nl/photo-enhancer
     tags: []

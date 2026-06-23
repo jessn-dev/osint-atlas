@@ -5,10 +5,10 @@ description: Code Search — search resources (34 entries).
 items:
   - name: gitdb
     url: https://gitdb.net/
+    archive_url: https://web.archive.org/web/2/https://gitdb.net/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://gitdb.net/
   - name: code google
     url: https://code.google.com
     tags: []
@@ -87,10 +87,10 @@ items:
     last_checked: '2026-06-23'
   - name: swaggerhub
     url: https://app.swaggerhub.com/search
+    archive_url: https://web.archive.org/web/2/https://app.swaggerhub.com/search
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://app.swaggerhub.com/search
   - name: ecosyste
     url: https://ecosyste.ms/
     tags: []
@@ -139,22 +139,22 @@ items:
     last_checked: '2026-06-23'
   - name: grep
     url: https://grep.app/
+    archive_url: https://web.archive.org/web/2/https://grep.app/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://grep.app/
   - name: jsonformatter
     url: https://jsonformatter.org/recentLinksPage/json
+    archive_url: https://web.archive.org/web/2/https://jsonformatter.org/recentLinksPage/json
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://jsonformatter.org/recentLinksPage/json
   - name: codebeautify
     url: https://codebeautify.org/recentLinksPage
+    archive_url: https://web.archive.org/web/2/https://codebeautify.org/recentLinksPage
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://codebeautify.org/recentLinksPage
   - name: Pastebin
     url: https://pastebin.com/
     tags: []
@@ -173,10 +173,10 @@ items:
     last_checked: '2026-06-23'
   - name: dnslytics
     url: https://search.dnslytics.com/
+    archive_url: https://web.archive.org/web/2/https://search.dnslytics.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://search.dnslytics.com/
   - name: zerobin
     url: https://zerobin.net/
     tags: []

@@ -5,10 +5,10 @@ description: OSINT Language — reference resources (28 entries).
 items:
   - name: kemendikdasmen ID
     url: https://kbji.kemendikdasmen.go.id/.well-known/
+    archive_url: https://web.archive.org/web/2/https://kbji.kemendikdasmen.go.id/.well-known/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://kbji.kemendikdasmen.go.id/.well-known/
   - name: educalingo
     url: https://educalingo.com/
     tags: []
@@ -16,10 +16,10 @@ items:
     last_checked: '2026-06-23'
   - name: KBBI Kemendikbud - ID
     url: https://kbbi.kemdikbud.go.id/
+    archive_url: https://web.archive.org/web/2/https://kbbi.kemdikbud.go.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://kbbi.kemdikbud.go.id/
   - name: grammarly
     url: https://www.grammarly.com/
     tags: []
@@ -32,10 +32,10 @@ items:
     last_checked: '2026-06-23'
   - name: babla
     url: https://www.babla.co.id/pengucapan/bahasa-china/
+    archive_url: https://web.archive.org/web/2/https://www.babla.co.id/pengucapan/bahasa-china/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.babla.co.id/pengucapan/bahasa-china/
   - name: goong
     url: https://goong.com/id/
     tags: []
@@ -98,10 +98,10 @@ items:
     last_checked: '2026-06-23'
   - name: Chinese Hokkien dictionary 1
     url: https://niawdeleon.com/
+    archive_url: https://web.archive.org/web/2/https://niawdeleon.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://niawdeleon.com/
   - name: global dictionary
     url: https://www.wiktionary.org/
     tags: []
@@ -134,10 +134,10 @@ items:
     last_checked: '2026-06-23'
   - name: merriam slang dictionary
     url: https://www.merriam-webster.com/
+    archive_url: https://web.archive.org/web/2/https://www.merriam-webster.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.merriam-webster.com/
   - name: knowyourmeme
     url: https://knowyourmeme.com/
     tags: []

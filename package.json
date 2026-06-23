@@ -5,10 +5,14 @@
   "description": "Graph-first OSINT resource atlas. YAML source of truth, Astro static site, link-health validation.",
   "scripts": {
     "dev": "astro dev",
-    "build": "npm run data:build && astro build && npm run build:check",
+    "build": "npm run data:build && npm run seo && astro build && npm run build:check",
+    "seo": "tsx scripts/seo.ts",
     "build:check": "tsx scripts/check-build.ts",
     "smoke": "tsx scripts/smoke.ts",
     "preview": "astro preview",
+    "test": "node --import tsx --test scripts/*.test.ts",
+    "lint": "eslint . && prettier --check \"src/**/*.{ts,astro,css}\" \"scripts/**/*.ts\"",
+    "format": "prettier --write \"src/**/*.{ts,astro,css}\" \"scripts/**/*.ts\"",
     "data:build": "tsx scripts/build-data.ts",
     "data:validate": "tsx scripts/validate.ts",
     "data:migrate": "tsx scripts/migrate.ts",
@@ -25,12 +29,18 @@
     "fuse.js": "^7.1.0"
   },
   "devDependencies": {
+    "@eslint/js": "^9.39.4",
     "@types/d3": "^7.4.3",
     "@types/js-yaml": "^4.0.9",
     "@types/node": "^22.13.0",
+    "eslint": "^9.39.4",
+    "eslint-plugin-astro": "^1.7.0",
     "js-yaml": "^4.1.0",
+    "prettier": "^3.8.4",
+    "prettier-plugin-astro": "^0.14.1",
     "tsx": "^4.19.0",
     "typescript": "^5.8.0",
+    "typescript-eslint": "^8.62.0",
     "zod": "^3.24.0"
   }
 }

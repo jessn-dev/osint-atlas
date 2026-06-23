@@ -10,10 +10,10 @@ items:
     last_checked: '2026-06-23'
   - name: Dukera Gewel OSINT
     url: https://publish.obsidian.md/dukera-gewel/about
+    archive_url: https://web.archive.org/web/2/https://publish.obsidian.md/dukera-gewel/about
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://publish.obsidian.md/dukera-gewel/about
   - name: Soxoj Sowel
     url: https://sowel.soxoj.com/about
     tags: []
@@ -39,11 +39,11 @@ items:
     last_checked: '2026-06-23'
   - name: How to Investigate a Cryptocurrency Scammer
     url: https://www.onchain.industries/blog/how-to-investigate-a-cryptocurrency-scammer
+    archive_url: >-
+      https://web.archive.org/web/2/https://www.onchain.industries/blog/how-to-investigate-a-cryptocurrency-scammer
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/https://www.onchain.industries/blog/how-to-investigate-a-cryptocurrency-scammer
   - name: Unique 0-click deanonymization attack targeting Signal, Discord and hundreds of platform
     url: https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117
     tags:
@@ -84,8 +84,8 @@ items:
   - name: Forensic and check image AI generate or not
     url: >-
       https://www.science.org/content/article/deepfakes-are-everywhere-godfather-digital-forensics-fighting-back
+    archive_url: >-
+      https://web.archive.org/web/2/https://www.science.org/content/article/deepfakes-are-everywhere-godfather-digital-forensics-fighting-back
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/https://www.science.org/content/article/deepfakes-are-everywhere-godfather-digital-forensics-fighting-back

@@ -57,10 +57,10 @@ items:
     last_checked: '2026-06-23'
   - name: urlebird tiktok viewer
     url: https://urlebird.com/
+    archive_url: https://web.archive.org/web/2/https://urlebird.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://urlebird.com/
   - name: tikface TikTok Viewer
     url: https://www.tikface.com/
     tags: []
@@ -82,4 +82,5 @@ items:
   - name: Tktok username lookup and viewer
     url: https://omar-thing.nekoweb.org/
     tags: []
-    status: unchecked
+    status: active
+    last_checked: '2026-06-23'

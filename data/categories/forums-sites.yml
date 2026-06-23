@@ -15,16 +15,16 @@ items:
     last_checked: '2026-06-23'
   - name: OSINT.Team
     url: https://osint.team
+    archive_url: https://web.archive.org/web/2/https://osint.team
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://osint.team
   - name: Seccodeid Forum
     url: https://forum.seccodeid.com/category/osint
+    archive_url: https://web.archive.org/web/2/https://forum.seccodeid.com/category/osint
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://forum.seccodeid.com/category/osint
   - name: Reddit OSINT
     url: https://www.reddit.com/r/OSINT
     tags: []

@@ -20,10 +20,10 @@ items:
     last_checked: '2026-06-23'
   - name: realgrouplinks
     url: https://realgrouplinks.com/
+    archive_url: https://web.archive.org/web/2/https://realgrouplinks.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://realgrouplinks.com/
   - name: whatsapp Law Enforcement Online Requests
     url: https://www.whatsapp.com/records/login
     tags: []
@@ -48,11 +48,11 @@ items:
     last_checked: '2026-06-23'
   - name: TelegramDB
     url: http://www.telegramdb.org/
+    archive_url: https://web.archive.org/web/2/http://www.telegramdb.org/
     tags:
       - telegram
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://www.telegramdb.org/
   - name: Telegram Search Engine
     url: https://xtea.io/
     tags:
@@ -67,10 +67,10 @@ items:
     last_checked: '2026-06-23'
   - name: Social Finder
     url: https://socialfinder.app/list/Telegram
+    archive_url: https://web.archive.org/web/2/https://socialfinder.app/list/Telegram
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://socialfinder.app/list/Telegram
   - name: Telegago
     url: >-
       https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1
@@ -90,10 +90,10 @@ items:
     last_checked: '2026-06-23'
   - name: Tele Channel Overiview
     url: https://telemetr.io/
+    archive_url: https://web.archive.org/web/2/https://telemetr.io/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://telemetr.io/
   - name: TGDev
     url: https://tgdev.io/
     tags: []

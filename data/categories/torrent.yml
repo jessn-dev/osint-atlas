@@ -34,7 +34,7 @@ items:
     last_checked: '2026-06-23'
   - name: Track IP Torrent Activity
     url: https://iknowwhatyoudownload.com/
+    archive_url: https://web.archive.org/web/2/https://iknowwhatyoudownload.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://iknowwhatyoudownload.com/

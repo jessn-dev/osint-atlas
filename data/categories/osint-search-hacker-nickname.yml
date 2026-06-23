@@ -20,10 +20,10 @@ items:
     last_checked: '2026-06-23'
   - name: defacer ID
     url: https://defacer.id/
+    archive_url: https://web.archive.org/web/2/https://defacer.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://defacer.id/
   - name: zone xsec
     url: https://zone-xsec.com/
     tags: []
@@ -51,10 +51,10 @@ items:
     last_checked: '2026-06-23'
   - name: z-x archived site
     url: https://web.archive.org/web/*/z-x.my.id*
+    archive_url: https://web.archive.org/web/2/https://web.archive.org/web/*/z-x.my.id*
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://web.archive.org/web/*/z-x.my.id*
   - name: ctftime
     url: https://ctftime.org/
     tags: []
@@ -109,10 +109,10 @@ items:
     last_checked: '2026-06-23'
   - name: hackerrank
     url: https://www.hackerrank.com/contests/interncup/leaderboard
+    archive_url: https://web.archive.org/web/2/https://www.hackerrank.com/contests/interncup/leaderboard
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.hackerrank.com/contests/interncup/leaderboard
   - name: codewars
     url: https://www.codewars.com/users/leaderboard
     tags: []
@@ -120,10 +120,10 @@ items:
     last_checked: '2026-06-23'
   - name: codeforces
     url: https://codeforces.com/ratings
+    archive_url: https://web.archive.org/web/2/https://codeforces.com/ratings
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://codeforces.com/ratings
   - name: topcoder
     url: https://www.topcoder.com/marathon-match-tournament/leaderboard
     tags: []

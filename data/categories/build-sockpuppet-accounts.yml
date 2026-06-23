@@ -16,16 +16,16 @@ items:
     last_checked: '2026-06-23'
   - name: Protonmail
     url: https://protonmail.com/
+    archive_url: https://web.archive.org/web/2/https://protonmail.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://protonmail.com/
   - name: Nordvpn
     url: https://nordvpn.com/
+    archive_url: https://web.archive.org/web/2/https://nordvpn.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://nordvpn.com/
   - name: NOX
     url: https://www.bignox.com/
     tags: []
@@ -33,18 +33,18 @@ items:
     last_checked: '2026-06-23'
   - name: Browser Extension
     url: https://nordvpn.com/blog/use-these-browser-extensions-for-your-privacy/
+    archive_url: >-
+      https://web.archive.org/web/2/https://nordvpn.com/blog/use-these-browser-extensions-for-your-privacy/
     tags:
       - browser-extension
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/https://nordvpn.com/blog/use-these-browser-extensions-for-your-privacy/
   - name: Burner Phone Number
     url: https://www.mintmobile.com/
+    archive_url: https://web.archive.org/web/2/https://www.mintmobile.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.mintmobile.com/
   - name: Phone Burner
     url: https://www.phoneburner.com/
     tags: []
@@ -107,10 +107,10 @@ items:
     last_checked: '2026-06-23'
   - name: Temp Mail 6
     url: https://tempmail.so/
+    archive_url: https://web.archive.org/web/2/https://tempmail.so/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://tempmail.so/
   - name: Temp Mail 7
     url: https://tempmailto.online/
     tags: []
@@ -389,11 +389,11 @@ items:
     last_checked: '2026-06-23'
   - name: Guide AI Virtual Cam
     url: https://www.sqlsec.com/2024/05/aiface.html#%E8%BE%93%E5%85%A5%E8%A7%86%E9%A2%91
+    archive_url: >-
+      https://web.archive.org/web/2/https://www.sqlsec.com/2024/05/aiface.html#%E8%BE%93%E5%85%A5%E8%A7%86%E9%A2%91
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/https://www.sqlsec.com/2024/05/aiface.html#%E8%BE%93%E5%85%A5%E8%A7%86%E9%A2%91
   - name: facegsmproject
     url: https://github.com/facegsmproject/FaceGSM?tab=readme-ov-file
     tags:
@@ -448,17 +448,17 @@ items:
     last_checked: '2026-06-23'
   - name: Virtual cam apk mod
     url: https://apkcombo.com/id/virtual-camera-live-assist/virtual.camera.app/download/apk
-    tags: []
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/https://apkcombo.com/id/virtual-camera-live-assist/virtual.camera.app/download/apk
-  - name: vcamare - CN
-    url: https://vcames.xyz/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+  - name: vcamare - CN
+    url: https://vcames.xyz/
     archive_url: https://web.archive.org/web/2/https://vcames.xyz/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
   - name: virtual camera moudle lsposed
     url: https://github.com/Xposed-Modules-Repo/com.example.vcam
     tags:

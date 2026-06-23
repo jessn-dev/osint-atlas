@@ -21,10 +21,10 @@ items:
     last_checked: '2026-06-23'
   - name: overtoperator
     url: https://www.overtoperator.com/s/daily-intel-brief
+    archive_url: https://web.archive.org/web/2/https://www.overtoperator.com/s/daily-intel-brief
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.overtoperator.com/s/daily-intel-brief
   - name: maltego
     url: https://www.maltego.com/blog/top-osint-infosec-resources-for-you-and-your-team/
     tags:
@@ -33,11 +33,11 @@ items:
     last_checked: '2026-06-23'
   - name: skopenow image int
     url: https://www.skopenow.com/resource-center/image-based-osint-investigations-tips-techniques
+    archive_url: >-
+      https://web.archive.org/web/2/https://www.skopenow.com/resource-center/image-based-osint-investigations-tips-techniques
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/https://www.skopenow.com/resource-center/image-based-osint-investigations-tips-techniques
   - name: Telegram OSINT
     url: https://github.com/Ginsberg5150/Discord-and-Telegram-OSINT-references
     tags:
@@ -53,10 +53,10 @@ items:
     last_checked: '2026-06-23'
   - name: The Threat Intelligence Lifecycle
     url: https://www.recordedfuture.com/threat-intelligence-lifecycle
+    archive_url: https://web.archive.org/web/2/https://www.recordedfuture.com/threat-intelligence-lifecycle
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.recordedfuture.com/threat-intelligence-lifecycle
   - name: Five Phashes of the Threat Intelligence Lifecycle
     url: https://flashpoint.io/blog/threat-intelligence-lifecycle/
     tags: []
@@ -69,11 +69,11 @@ items:
     last_checked: '2026-06-23'
   - name: Open-Source Intelligence (OSINT) Cycle
     url: https://securityorb.com/featured/the-open-source-intelligence-osint-cycle/
+    archive_url: >-
+      https://web.archive.org/web/2/https://securityorb.com/featured/the-open-source-intelligence-osint-cycle/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/https://securityorb.com/featured/the-open-source-intelligence-osint-cycle/
   - name: Learn and training OSINT free
     url: https://sites.google.com/view/tpdprivacy/home?authuser=0
     tags:

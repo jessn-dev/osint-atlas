@@ -20,10 +20,10 @@ items:
     last_checked: '2026-06-23'
   - name: Emoji Tracker
     url: https://emojitracker.com/details/1F44F
+    archive_url: https://web.archive.org/web/2/https://emojitracker.com/details/1F44F
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://emojitracker.com/details/1F44F
   - name: emojipedia
     url: https://emojipedia.org/
     tags: []

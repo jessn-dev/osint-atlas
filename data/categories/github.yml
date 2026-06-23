@@ -10,10 +10,10 @@ items:
     last_checked: '2026-06-23'
   - name: gitdb
     url: https://gitdb.net/
+    archive_url: https://web.archive.org/web/2/https://gitdb.net/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://gitdb.net/
   - name: gitleaks
     url: https://github.com/gitleaks/gitleaks
     tags:
@@ -98,10 +98,10 @@ items:
     last_checked: '2026-06-23'
   - name: gittodoc
     url: https://www.gittodoc.com/
+    archive_url: https://web.archive.org/web/2/https://www.gittodoc.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.gittodoc.com/
   - name: gitsearchai
     url: https://www.gitsearchai.com/
     tags: []
@@ -168,4 +168,5 @@ items:
   - name: profile-summary-for-github.com
     url: https://profile-summary-for-github.com/search
     tags: []
-    status: unchecked
+    status: active
+    last_checked: '2026-06-23'

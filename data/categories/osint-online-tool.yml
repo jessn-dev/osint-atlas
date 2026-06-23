@@ -16,10 +16,10 @@ items:
     last_checked: '2026-06-23'
   - name: hackertarget
     url: https://hackertarget.com/
+    archive_url: https://web.archive.org/web/2/https://hackertarget.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://hackertarget.com/
   - name: bosint
     url: https://app.bosint.gg/
     tags: []
@@ -27,16 +27,16 @@ items:
     last_checked: '2026-06-23'
   - name: whatsmyname
     url: https://whatsmyname.app/
+    archive_url: https://web.archive.org/web/2/https://whatsmyname.app/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://whatsmyname.app/
   - name: OSINT rocks
     url: https://osint.rocks/
+    archive_url: https://web.archive.org/web/2/https://osint.rocks/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://osint.rocks/
   - name: scrapersnbots - available support more site for scrapper
     url: https://www.scrapersnbots.com/webtools/
     tags: []
@@ -49,16 +49,16 @@ items:
     last_checked: '2026-06-23'
   - name: Tweet Deck
     url: https://tweetdeck.twitter.com/
+    archive_url: https://web.archive.org/web/2/https://tweetdeck.twitter.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://tweetdeck.twitter.com/
   - name: Hash tracking
     url: https://www.hashtracking.com/
+    archive_url: https://web.archive.org/web/2/https://www.hashtracking.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.hashtracking.com/
   - name: OSINT Combine
     url: https://www.osintcombine.com/tools
     tags: []
@@ -76,10 +76,10 @@ items:
     last_checked: '2026-06-23'
   - name: Cek Rekening
     url: https://cekrekening.id/home
+    archive_url: https://web.archive.org/web/2/https://cekrekening.id/home
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://cekrekening.id/home
   - name: Thatsthem
     url: https://thatsthem.com/
     tags: []
@@ -87,10 +87,10 @@ items:
     last_checked: '2026-06-23'
   - name: IntelligenceX
     url: https://intelx.io/tools
+    archive_url: https://web.archive.org/web/2/https://intelx.io/tools
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://intelx.io/tools
   - name: lolarchiver
     url: https://osint.lolarchiver.com/#
     tags: []
@@ -119,17 +119,17 @@ items:
     last_checked: '2026-06-23'
   - name: Twint
     url: https://forum.seccodeid.com/d/twint-twitter-intelligence-tool
+    archive_url: https://web.archive.org/web/2/https://forum.seccodeid.com/d/twint-twitter-intelligence-tool
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://forum.seccodeid.com/d/twint-twitter-intelligence-tool
   - name: Telegram OSINT
     url: https://forum.seccodeid.com/d/telegram-nearby-map
+    archive_url: https://web.archive.org/web/2/https://forum.seccodeid.com/d/telegram-nearby-map
     tags:
       - telegram
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://forum.seccodeid.com/d/telegram-nearby-map
   - name: UBIKRON
     url: https://www.osint-tool.com/unravel-help/
     tags: []
@@ -147,7 +147,7 @@ items:
     last_checked: '2026-06-23'
   - name: securitytrails
     url: https://securitytrails.com/
+    archive_url: https://web.archive.org/web/2/https://securitytrails.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://securitytrails.com/

@@ -15,10 +15,10 @@ items:
     last_checked: '2026-06-23'
   - name: pexels
     url: https://www.pexels.com/
+    archive_url: https://web.archive.org/web/2/https://www.pexels.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.pexels.com/
   - name: AlltheFreeStock
     url: http://allthefreestock.com
     tags: []
@@ -46,11 +46,11 @@ items:
     last_checked: '2026-06-23'
   - name: IM Free
     url: http://www.imcreator.com/free
+    archive_url: https://web.archive.org/web/2/http://www.imcreator.com/free
     tags:
       - free
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://www.imcreator.com/free
   - name: ISO Republic
     url: http://isorepublic.com
     tags: []
@@ -88,10 +88,10 @@ items:
     last_checked: '2026-06-23'
   - name: Pixabay
     url: https://pixabay.com
+    archive_url: https://web.archive.org/web/2/https://pixabay.com
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://pixabay.com
   - name: Stocksnap
     url: https://stocksnap.io
     tags: []
@@ -99,10 +99,10 @@ items:
     last_checked: '2026-06-23'
   - name: Shutterstock
     url: http://www.shutterstock.com
+    archive_url: https://web.archive.org/web/2/http://www.shutterstock.com
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://www.shutterstock.com
   - name: tookapic
     url: https://stock.tookapic.com
     tags: []
@@ -110,10 +110,10 @@ items:
     last_checked: '2026-06-23'
   - name: Unsplash
     url: https://unsplash.com
+    archive_url: https://web.archive.org/web/2/https://unsplash.com
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://unsplash.com
   - name: Pimeyes
     url: https://pimeyes.com/en
     tags: []

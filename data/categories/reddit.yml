@@ -10,11 +10,11 @@ items:
     last_checked: '2026-06-23'
   - name: Reddit Account Extractor
     url: https://www.reddit.com/user/<USERNAME-HERE>/about.json
+    archive_url: https://web.archive.org/web/2/https://www.reddit.com/user/<USERNAME-HERE>/about.json
     tags:
       - account-required
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.reddit.com/user/<USERNAME-HERE>/about.json
   - name: Archive Reddit
     url: https://www.redditarchive.com/
     tags: []
@@ -37,10 +37,10 @@ items:
     last_checked: '2026-06-23'
   - name: RedActive
     url: https://www.redective.com/
+    archive_url: https://web.archive.org/web/2/https://www.redective.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.redective.com/
   - name: f5bot
     url: https://f5bot.com/
     tags: []
@@ -48,10 +48,10 @@ items:
     last_checked: '2026-06-23'
   - name: reditr
     url: https://reditr.com/search
+    archive_url: https://web.archive.org/web/2/https://reditr.com/search
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://reditr.com/search
   - name: Redit Search CSE
     url: https://cse.google.com/cse?cx=007749065626525752968:qh5bqebwi30
     tags: []
@@ -59,10 +59,10 @@ items:
     last_checked: '2026-06-23'
   - name: Reddit find sub
     url: https://anvaka.github.io/
+    archive_url: https://web.archive.org/web/2/https://anvaka.github.io/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://anvaka.github.io/
   - name: reveddit
     url: https://www.reveddit.com/
     tags: []
@@ -80,10 +80,10 @@ items:
     last_checked: '2026-06-23'
   - name: realsrikar Reddit search and viewer
     url: https://realsrikar.github.io/
+    archive_url: https://web.archive.org/web/2/https://realsrikar.github.io/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://realsrikar.github.io/
   - name: Better Reddit Search
     url: https://betterredditsearch.web.app/
     tags: []
@@ -92,4 +92,5 @@ items:
   - name: rosint
     url: https://www.rosint.dev/
     tags: []
-    status: unchecked
+    status: active
+    last_checked: '2026-06-23'

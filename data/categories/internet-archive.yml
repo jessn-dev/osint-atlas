@@ -5,10 +5,10 @@ description: Internet Archive — reference resources (54 entries).
 items:
   - name: Wayback Twitter
     url: https://waybacktweets.streamlit.app/
+    archive_url: https://web.archive.org/web/2/https://waybacktweets.streamlit.app/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://waybacktweets.streamlit.app/
   - name: thebarchive
     url: https://thebarchive.com/_/articles/faq/
     tags: []
@@ -32,10 +32,10 @@ items:
     last_checked: '2026-06-23'
   - name: Intelligence X
     url: https://intelx.io/
+    archive_url: https://web.archive.org/web/2/https://intelx.io/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://intelx.io/
   - name: Openlibrary
     url: https://openlibrary.org/
     tags: []
@@ -48,10 +48,10 @@ items:
     last_checked: '2026-06-23'
   - name: UKWA
     url: https://www.webarchive.org.uk/ukwa/
+    archive_url: https://web.archive.org/web/2/https://www.webarchive.org.uk/ukwa/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.webarchive.org.uk/ukwa/
   - name: Archive today
     url: https://archive.vn/
     tags: []
@@ -59,11 +59,11 @@ items:
     last_checked: '2026-06-23'
   - name: Waymore
     url: https://forum.seccodeid.com/d/waymore-find-way-more-from-the-wayback-machine
+    archive_url: >-
+      https://web.archive.org/web/2/https://forum.seccodeid.com/d/waymore-find-way-more-from-the-wayback-machine
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/https://forum.seccodeid.com/d/waymore-find-way-more-from-the-wayback-machine
   - name: Cached Pages
     url: http://www.cachedpages.com/
     tags: []
@@ -120,10 +120,10 @@ items:
     last_checked: '2026-06-23'
   - name: Time Travel
     url: http://timetravel.mementoweb.org/
+    archive_url: https://web.archive.org/web/2/http://timetravel.mementoweb.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://timetravel.mementoweb.org/
   - name: bellingcat wayback-google-analytics
     url: https://github.com/bellingcat/wayback-google-analytics
     tags:
@@ -178,20 +178,20 @@ items:
     last_checked: '2026-06-23'
   - name: web page archive (ONION SITES)
     url: http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/
-  - name: Archive.ch (ONION SITES)
-    url: http://arhivachqqqvwqcotafhk4ks2he56seuwcshpayrm5myeq45vlff44yd.onion/
     tags:
       - onion
     status: dead
     last_checked: '2026-06-23'
+  - name: Archive.ch (ONION SITES)
+    url: http://arhivachqqqvwqcotafhk4ks2he56seuwcshpayrm5myeq45vlff44yd.onion/
     archive_url: >-
       https://web.archive.org/web/2/http://arhivachqqqvwqcotafhk4ks2he56seuwcshpayrm5myeq45vlff44yd.onion/
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: PeekVault
     url: https://peekvault.com/
     tags: []
@@ -215,10 +215,10 @@ items:
     last_checked: '2026-06-23'
   - name: defacer ID
     url: https://defacer.id/
+    archive_url: https://web.archive.org/web/2/https://defacer.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://defacer.id/
   - name: zone xsec
     url: https://zone-xsec.com/
     tags: []
@@ -246,10 +246,10 @@ items:
     last_checked: '2026-06-23'
   - name: z-x archived site
     url: https://web.archive.org/web/*/z-x.my.id*
+    archive_url: https://web.archive.org/web/2/https://web.archive.org/web/*/z-x.my.id*
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://web.archive.org/web/*/z-x.my.id*
   - name: attrition
     url: https://attrition.org/mirror/attrition/
     tags: []
@@ -263,11 +263,11 @@ items:
   - name: rollcall
     url: >-
       https://rollcall.com/factbase/trump/topic/social/?platform=all&sort=date&sort_order=desc&page=1
+    archive_url: >-
+      https://web.archive.org/web/2/https://rollcall.com/factbase/trump/topic/social/?platform=all&sort=date&sort_order=desc&page=1
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/https://rollcall.com/factbase/trump/topic/social/?platform=all&sort=date&sort_order=desc&page=1
   - name: propublica Trump twitter archive
     url: https://projects.propublica.org/politwoops/search?q=trump
     tags: []
@@ -285,10 +285,10 @@ items:
     last_checked: '2026-06-23'
   - name: vx-underground
     url: https://vx-underground.org/
+    archive_url: https://web.archive.org/web/2/https://vx-underground.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://vx-underground.org/
   - name: churchofmalware
     url: https://churchofmalware.org/#about
     tags: []

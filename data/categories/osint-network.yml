@@ -10,10 +10,10 @@ items:
     last_checked: '2026-06-23'
   - name: synthient
     url: https://search.synthient.com/
+    archive_url: https://web.archive.org/web/2/https://search.synthient.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://search.synthient.com/
   - name: FocSec
     url: https://focsec.com/
     tags: []
@@ -21,10 +21,10 @@ items:
     last_checked: '2026-06-23'
   - name: IP VPN detector
     url: https://ip.teoh.io/vpn-detection
+    archive_url: https://web.archive.org/web/2/https://ip.teoh.io/vpn-detection
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://ip.teoh.io/vpn-detection
   - name: IPQS
     url: https://www.ipqualityscore.com/vpn-ip-address-check
     tags: []
@@ -67,10 +67,10 @@ items:
     last_checked: '2026-06-23'
   - name: bgpview
     url: https://bgpview.io/
+    archive_url: https://web.archive.org/web/2/https://bgpview.io/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://bgpview.io/
   - name: wigle
     url: https://wigle.net/
     tags: []
@@ -83,10 +83,10 @@ items:
     last_checked: '2026-06-23'
   - name: dynamite.ai search pcap file
     url: https://lab.dynamite.ai/
+    archive_url: https://web.archive.org/web/2/https://lab.dynamite.ai/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://lab.dynamite.ai/
   - name: packetsafari analys pcap file
     url: https://app.packetsafari.com/
     tags: []
@@ -99,10 +99,10 @@ items:
     last_checked: '2026-06-23'
   - name: hackertarget
     url: https://hackertarget.com/as-ip-lookup/
+    archive_url: https://web.archive.org/web/2/https://hackertarget.com/as-ip-lookup/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://hackertarget.com/as-ip-lookup/
   - name: whoisxmlapi
     url: https://mac-address.whoisxmlapi.com/api
     tags:
@@ -141,10 +141,10 @@ items:
     last_checked: '2026-06-23'
   - name: Track IP Torrent Activity
     url: https://iknowwhatyoudownload.com/
+    archive_url: https://web.archive.org/web/2/https://iknowwhatyoudownload.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://iknowwhatyoudownload.com/
   - name: Tor metrics exonarator
     url: https://metrics.torproject.org/exonerator.html
     tags: []

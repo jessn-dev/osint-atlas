@@ -16,7 +16,10 @@ const DEFAULT_SOURCES = [
   'https://raw.githubusercontent.com/Jieyab89/OSINT-Cheat-sheet/main/README.md',
   'https://raw.githubusercontent.com/Jieyab89/OSINT-Cheat-sheet/main/awesome-article.md',
 ];
-const SOURCES = (process.env.SOURCES ?? DEFAULT_SOURCES.join(',')).split(',').map((s) => s.trim()).filter(Boolean);
+const SOURCES = (process.env.SOURCES ?? DEFAULT_SOURCES.join(','))
+  .split(',')
+  .map((s) => s.trim())
+  .filter(Boolean);
 const DRY = process.env.DRY === '1';
 const UA = 'Mozilla/5.0 (compatible; OsintAtlasSync/1.0)';
 const norm = (u: string) => u.trim().toLowerCase().replace(/\/+$/, '');
@@ -63,12 +66,14 @@ for (const uc of upstream) {
     }
   } else {
     const seen = new Set<string>();
-    const items = uc.items.filter((i) => {
-      const k = norm(i.url);
-      if (seen.has(k)) return false;
-      seen.add(k);
-      return true;
-    }).map((i) => ({ name: i.name, url: i.url, tags: [], status: 'unchecked' as const }));
+    const items = uc.items
+      .filter((i) => {
+        const k = norm(i.url);
+        if (seen.has(k)) return false;
+        seen.add(k);
+        return true;
+      })
+      .map((i) => ({ name: i.name, url: i.url, tags: [], status: 'unchecked' as const }));
     if (!items.length) continue;
     const data = CategorySchema.parse({ category: uc.category, slug, group: inferGroup(uc.category), items });
     const entry = { file: `${slug}.yml`, data };
@@ -80,7 +85,9 @@ for (const uc of upstream) {
 }
 
 if (DRY) {
-  console.log(`[dry] would add ${newItems} items across ${touched.size} categories (${newCats} new categories)`);
+  console.log(
+    `[dry] would add ${newItems} items across ${touched.size} categories (${newCats} new categories)`,
+  );
   for (const { data } of touched.values()) console.log(`  ~ ${data.slug}`);
 } else {
   for (const { file, data } of touched.values()) writeCategory(file, data);

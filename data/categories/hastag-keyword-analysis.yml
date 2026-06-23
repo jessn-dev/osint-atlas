@@ -35,10 +35,10 @@ items:
     last_checked: '2026-06-23'
   - name: Tweet Deck
     url: https://pro.twitter.com/
+    archive_url: https://web.archive.org/web/2/https://pro.twitter.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://pro.twitter.com/
   - name: droneemprit
     url: https://pers.droneemprit.id/
     tags: []

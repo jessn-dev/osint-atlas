@@ -10,10 +10,10 @@ items:
     last_checked: '2026-06-23'
   - name: List tagname
     url: https://exiftool.org/TagNames/
+    archive_url: https://web.archive.org/web/2/https://exiftool.org/TagNames/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://exiftool.org/TagNames/
   - name: List tagnme 2
     url: https://metacpan.org/dist/Image-ExifTool/view/lib/Image/ExifTool/TagNames.pod
     tags: []

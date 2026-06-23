@@ -11,10 +11,10 @@ items:
     last_checked: '2026-06-23'
   - name: claude
     url: https://claude.ai/login
+    archive_url: https://web.archive.org/web/2/https://claude.ai/login
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://claude.ai/login
   - name: deepseek
     url: https://www.deepseek.com/
     tags: []
@@ -37,10 +37,10 @@ items:
     last_checked: '2026-06-23'
   - name: Chat GPT
     url: https://openai.com/chatgpt/
+    archive_url: https://web.archive.org/web/2/https://openai.com/chatgpt/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://openai.com/chatgpt/
   - name: Chat-PDF
     url: https://www.chatpdf.com/
     tags: []
@@ -48,10 +48,10 @@ items:
     last_checked: '2026-06-23'
   - name: perplexity
     url: https://www.perplexity.ai/
+    archive_url: https://web.archive.org/web/2/https://www.perplexity.ai/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.perplexity.ai/
   - name: UBIKRON
     url: https://www.osint-tool.com/unravel-help/
     tags: []

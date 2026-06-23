@@ -10,16 +10,16 @@ items:
     last_checked: '2026-06-23'
   - name: regex
     url: http://regex.info/exif.cgi
+    archive_url: https://web.archive.org/web/2/http://regex.info/exif.cgi
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://regex.info/exif.cgi
   - name: FindExif
     url: http://www.findexif.com
+    archive_url: https://web.archive.org/web/2/http://www.findexif.com
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://www.findexif.com
   - name: metapicz
     url: http://metapicz.com
     tags: []
@@ -27,10 +27,10 @@ items:
     last_checked: '2026-06-23'
   - name: imageforensic
     url: http://www.imageforensic.org
+    archive_url: https://web.archive.org/web/2/http://www.imageforensic.org
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://www.imageforensic.org
   - name: jimpl
     url: https://jimpl.com/
     tags: []

@@ -57,10 +57,10 @@ items:
     last_checked: '2026-06-23'
   - name: Humdata maps
     url: https://data.humdata.org/group
+    archive_url: https://web.archive.org/web/2/https://data.humdata.org/group
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://data.humdata.org/group
   - name: Planet - satellite maps
     url: https://www.planet.com/products/
     tags: []
@@ -168,10 +168,10 @@ items:
     last_checked: '2026-06-23'
   - name: moscow RU
     url: https://moscow.flamp.ru/
+    archive_url: https://web.archive.org/web/2/https://moscow.flamp.ru/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://moscow.flamp.ru/
   - name: sun calc
     url: https://www.suncalc.org/
     tags: []

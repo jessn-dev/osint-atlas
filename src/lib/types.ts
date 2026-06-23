@@ -40,10 +40,15 @@ export interface GraphNode {
   tags?: string[];
   count?: number;
   // orbital layout for expanded items (pinned around their parent)
-  orbitR?: number; orbitA?: number;
+  orbitR?: number;
+  orbitA?: number;
   // d3-force runtime fields
-  x?: number; y?: number; vx?: number; vy?: number;
-  fx?: number | null; fy?: number | null;
+  x?: number;
+  y?: number;
+  vx?: number;
+  vy?: number;
+  fx?: number | null;
+  fy?: number | null;
 }
 
 export interface GraphLink {

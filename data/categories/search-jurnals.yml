@@ -10,10 +10,10 @@ items:
     last_checked: '2026-06-23'
   - name: Libgen
     url: https://libgen.is/
+    archive_url: https://web.archive.org/web/2/https://libgen.is/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://libgen.is/
   - name: Ieee
     url: https://ieeexplore.ieee.org/Xplore/home.jsp
     tags: []
@@ -21,40 +21,40 @@ items:
     last_checked: '2026-06-23'
   - name: Sciencedirect
     url: https://www.sciencedirect.com/
+    archive_url: https://web.archive.org/web/2/https://www.sciencedirect.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.sciencedirect.com/
   - name: Sinta
     url: https://sinta.kemdikbud.go.id/
+    archive_url: https://web.archive.org/web/2/https://sinta.kemdikbud.go.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://sinta.kemdikbud.go.id/
   - name: Scopus
     url: https://www.scopus.com/
+    archive_url: https://web.archive.org/web/2/https://www.scopus.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.scopus.com/
   - name: Onesearch ID
     url: https://onesearch.id/
+    archive_url: https://web.archive.org/web/2/https://onesearch.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://onesearch.id/
   - name: Z-Library
     url: https://id.zlibrary-asia.se/s/?q=&type=phrase
+    archive_url: https://web.archive.org/web/2/https://id.zlibrary-asia.se/s/?q=&type=phrase
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://id.zlibrary-asia.se/s/?q=&type=phrase
   - name: DOAJ (Directory of Open Access Journals)
     url: https://doaj.org/
+    archive_url: https://web.archive.org/web/2/https://doaj.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://doaj.org/
   - name: LibGen (Library Genesis) 2
     url: https://libgen.li/
     tags: []
@@ -62,10 +62,10 @@ items:
     last_checked: '2026-06-23'
   - name: ScienceOpen
     url: https://www.scienceopen.com/
+    archive_url: https://web.archive.org/web/2/https://www.scienceopen.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.scienceopen.com/
   - name: CORE
     url: https://core.ac.uk/
     tags:
@@ -84,17 +84,17 @@ items:
     last_checked: '2026-06-23'
   - name: Academia.edu
     url: https://www.academia.edu/
+    archive_url: https://web.archive.org/web/2/https://www.academia.edu/
     tags:
       - academic
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.academia.edu/
   - name: CyberLeninka
     url: https://cyberleninka.org/
+    archive_url: https://web.archive.org/web/2/https://cyberleninka.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://cyberleninka.org/
   - name: Unpaywall
     url: https://unpaywall.org/
     tags: []
@@ -102,16 +102,16 @@ items:
     last_checked: '2026-06-23'
   - name: ResearchGate
     url: https://www.researchgate.net/
+    archive_url: https://web.archive.org/web/2/https://www.researchgate.net/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.researchgate.net/
   - name: Wiley Online Library
     url: https://onlinelibrary.wiley.com/
+    archive_url: https://web.archive.org/web/2/https://onlinelibrary.wiley.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://onlinelibrary.wiley.com/
   - name: Open Access Button
     url: https://openaccessbutton.org/
     tags: []
@@ -119,22 +119,22 @@ items:
     last_checked: '2026-06-23'
   - name: Arjuna Kemdikbud ID
     url: https://arjuna.kemdikbud.go.id/#/jurnal
+    archive_url: https://web.archive.org/web/2/https://arjuna.kemdikbud.go.id/#/jurnal
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://arjuna.kemdikbud.go.id/#/jurnal
   - name: Bima Kemdikbud ID
     url: https://bima.kemdikbud.go.id/pengumuman
+    archive_url: https://web.archive.org/web/2/https://bima.kemdikbud.go.id/pengumuman
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://bima.kemdikbud.go.id/pengumuman
   - name: Rama Kemdikbud ID
     url: https://rama.kemdikbud.go.id/
+    archive_url: https://web.archive.org/web/2/https://rama.kemdikbud.go.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://rama.kemdikbud.go.id/
   - name: Google scholar
     url: https://scholar.google.com/
     tags: []
@@ -157,11 +157,11 @@ items:
     last_checked: '2026-06-23'
   - name: Anjani Kemdikbud ID
     url: https://anjani.kemdikbud.go.id/contents/prosedur-pelaporan-78074230?ctx=prosedur-pelaporan
+    archive_url: >-
+      https://web.archive.org/web/2/https://anjani.kemdikbud.go.id/contents/prosedur-pelaporan-78074230?ctx=prosedur-pelaporan
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/https://anjani.kemdikbud.go.id/contents/prosedur-pelaporan-78074230?ctx=prosedur-pelaporan
   - name: Zotero
     url: https://www.zotero.org/
     tags: []
@@ -179,10 +179,10 @@ items:
     last_checked: '2026-06-23'
   - name: hathitrust
     url: https://www.hathitrust.org/
+    archive_url: https://web.archive.org/web/2/https://www.hathitrust.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.hathitrust.org/
   - name: connectedpapers
     url: https://www.connectedpapers.com/
     tags: []
@@ -190,10 +190,10 @@ items:
     last_checked: '2026-06-23'
   - name: base-search
     url: https://www.base-search.net/
+    archive_url: https://web.archive.org/web/2/https://www.base-search.net/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.base-search.net/
   - name: smartquantai
     url: https://www.smartquantai.com/
     tags: []
@@ -201,16 +201,16 @@ items:
     last_checked: '2026-06-23'
   - name: arxiv
     url: https://arxiv.org/multi?group=grp_physics&%2Fform=Form+Interface
+    archive_url: https://web.archive.org/web/2/https://arxiv.org/multi?group=grp_physics&%2Fform=Form+Interface
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://arxiv.org/multi?group=grp_physics&%2Fform=Form+Interface
   - name: oa citation
     url: https://oa.mg/
+    archive_url: https://web.archive.org/web/2/https://oa.mg/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://oa.mg/
   - name: sci-net
     url: https://sci-net.xyz/
     tags: []
@@ -229,9 +229,9 @@ items:
     last_checked: '2026-06-23'
   - name: Z Librrary [ONION SITE]
     url: http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/
+    archive_url: >-
+      https://web.archive.org/web/2/http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/
     tags:
       - onion
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/

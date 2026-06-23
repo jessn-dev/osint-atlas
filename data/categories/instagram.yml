@@ -5,10 +5,10 @@ description: Instagram — socmint resources (42 entries).
 items:
   - name: imginn anonymous instagram story viewer
     url: https://imginn.com/
+    archive_url: https://web.archive.org/web/2/https://imginn.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://imginn.com/
   - name: pixnoy insta viewer
     url: https://www.pixnoy.com/
     tags: []
@@ -47,16 +47,16 @@ items:
     last_checked: '2026-06-23'
   - name: anonyig IG Profiler
     url: https://anonyig.com/en/
+    archive_url: https://web.archive.org/web/2/https://anonyig.com/en/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://anonyig.com/en/
   - name: Hashtagify
     url: http://hashtagify.me
+    archive_url: https://web.archive.org/web/2/http://hashtagify.me
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://hashtagify.me
   - name: Iconosquare
     url: http://iconosquare.com
     tags: []
@@ -64,10 +64,10 @@ items:
     last_checked: '2026-06-23'
   - name: Picodash
     url: https://www.picodash.com
+    archive_url: https://web.archive.org/web/2/https://www.picodash.com
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.picodash.com
   - name: Dumpor
     url: https://dumpor.com/
     tags: []
@@ -102,10 +102,10 @@ items:
     last_checked: '2026-06-23'
   - name: Storistalker
     url: https://storistalker.com/#back
+    archive_url: https://web.archive.org/web/2/https://storistalker.com/#back
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://storistalker.com/#back
   - name: exportcomments
     url: https://exportcomments.com/
     tags: []
@@ -118,10 +118,10 @@ items:
     last_checked: '2026-06-23'
   - name: Insta Stories View
     url: https://storiesdown.com/
+    archive_url: https://web.archive.org/web/2/https://storiesdown.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://storiesdown.com/
   - name: Instagram Auditor
     url: https://socialauditor.io/
     tags: []

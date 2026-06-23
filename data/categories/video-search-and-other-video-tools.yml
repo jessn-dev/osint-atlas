@@ -15,10 +15,10 @@ items:
     last_checked: '2026-06-23'
   - name: Aol Videos
     url: http://on.aol.com
+    archive_url: https://web.archive.org/web/2/http://on.aol.com
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://on.aol.com
   - name: Bing Videos
     url: http://www.bing.com/?scope=video
     tags: []
@@ -61,10 +61,10 @@ items:
     last_checked: '2026-06-23'
   - name: LiveLeak
     url: http://www.liveleak.com
+    archive_url: https://web.archive.org/web/2/http://www.liveleak.com
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://www.liveleak.com
   - name: Metatube
     url: http://www.metatube.com
     tags: []
@@ -72,10 +72,10 @@ items:
     last_checked: '2026-06-23'
   - name: Veoh
     url: http://www.veoh.com
+    archive_url: https://web.archive.org/web/2/http://www.veoh.com
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://www.veoh.com
   - name: Vimeo
     url: https://vimeo.com
     tags: []
@@ -93,10 +93,10 @@ items:
     last_checked: '2026-06-23'
   - name: YouTube Data Viewer
     url: https://www.amnestyusa.org/citizenevidence
+    archive_url: https://web.archive.org/web/2/https://www.amnestyusa.org/citizenevidence
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.amnestyusa.org/citizenevidence
   - name: YouTube Metadata
     url: https://mattw.io/youtube-metadata/
     tags: []
@@ -146,11 +146,11 @@ items:
     last_checked: '2026-06-23'
   - name: shutterstock
     url: https://www.shutterstock.com/royalty-free/reverse-image-search-for-video
+    archive_url: >-
+      https://web.archive.org/web/2/https://www.shutterstock.com/royalty-free/reverse-image-search-for-video
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/https://www.shutterstock.com/royalty-free/reverse-image-search-for-video
   - name: invid-project
     url: https://www.invid-project.eu/tools-and-services/invid-verification-plugin/
     tags: []

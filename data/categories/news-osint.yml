@@ -45,11 +45,11 @@ items:
     last_checked: '2026-06-23'
   - name: BNF France
     url: https://gallica.bnf.fr/accueil/en/content/accueil-en?mode=desktop
+    archive_url: >-
+      https://web.archive.org/web/2/https://gallica.bnf.fr/accueil/en/content/accueil-en?mode=desktop
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/https://gallica.bnf.fr/accueil/en/content/accueil-en?mode=desktop
   - name: skynews
     url: https://news.sky.com/
     tags: []
@@ -102,10 +102,10 @@ items:
     last_checked: '2026-06-23'
   - name: gijn
     url: https://gijn.org/
+    archive_url: https://web.archive.org/web/2/https://gijn.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://gijn.org/
   - name: institute aljazeera
     url: https://institute.aljazeera.net/en
     tags: []
@@ -118,16 +118,16 @@ items:
     last_checked: '2026-06-23'
   - name: unocha
     url: https://www.unocha.org/
+    archive_url: https://web.archive.org/web/2/https://www.unocha.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.unocha.org/
   - name: ohchr
     url: https://www.ohchr.org/en/ohchr_homepage
+    archive_url: https://web.archive.org/web/2/https://www.ohchr.org/en/ohchr_homepage
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.ohchr.org/en/ohchr_homepage
   - name: ochaopt
     url: https://www.ochaopt.org/
     tags: []
@@ -140,10 +140,10 @@ items:
     last_checked: '2026-06-23'
   - name: Tempo ID
     url: https://www.tempo.co/
+    archive_url: https://web.archive.org/web/2/https://www.tempo.co/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.tempo.co/
   - name: watchdoc ID
     url: https://watchdoc.co.id/
     tags: []
@@ -176,10 +176,10 @@ items:
     last_checked: '2026-06-23'
   - name: colonialarchitecture
     url: https://colonialarchitecture.eu/
+    archive_url: https://web.archive.org/web/2/https://colonialarchitecture.eu/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://colonialarchitecture.eu/
   - name: niod archive
     url: https://www.niod.nl/
     tags: []
@@ -218,17 +218,17 @@ items:
     last_checked: '2026-06-23'
   - name: ID MPN SIDAK kominfo
     url: https://mpn.kominfo.go.id/arsip/
+    archive_url: https://web.archive.org/web/2/https://mpn.kominfo.go.id/arsip/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://mpn.kominfo.go.id/arsip/
   - name: monash edu
     url: https://repository.monash.edu/items/browse
+    archive_url: https://web.archive.org/web/2/https://repository.monash.edu/items/browse
     tags:
       - academic
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://repository.monash.edu/items/browse
   - name: scholarlypublications
     url: https://scholarlypublications.universiteitleiden.nl/
     tags: []
@@ -261,10 +261,10 @@ items:
     last_checked: '2026-06-23'
   - name: BPS ID
     url: https://www.bps.go.id/id
+    archive_url: https://web.archive.org/web/2/https://www.bps.go.id/id
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.bps.go.id/id
   - name: Vice ID
     url: https://www.vice.com/id
     tags: []
@@ -292,10 +292,10 @@ items:
     last_checked: '2026-06-23'
   - name: Journalist toolbox
     url: https://www.journaliststoolbox.org/
+    archive_url: https://web.archive.org/web/2/https://www.journaliststoolbox.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.journaliststoolbox.org/
   - name: rferl
     url: https://www.rferl.org/
     tags: []
@@ -308,11 +308,11 @@ items:
     last_checked: '2026-06-23'
   - name: chroniclingamerica
     url: https://chroniclingamerica.loc.gov/
+    archive_url: https://web.archive.org/web/2/https://chroniclingamerica.loc.gov/
     tags:
       - official
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://chroniclingamerica.loc.gov/
   - name: Google Newspaper (Archive and other)
     url: https://news.google.com/newspapers
     tags: []
@@ -325,10 +325,10 @@ items:
     last_checked: '2026-06-23'
   - name: reuters
     url: https://www.reuters.com/
+    archive_url: https://web.archive.org/web/2/https://www.reuters.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.reuters.com/
   - name: sipri
     url: https://www.sipri.org/
     tags: []
@@ -341,16 +341,16 @@ items:
     last_checked: '2026-06-23'
   - name: OCCRP Organized Crime and Corruption Reporting Project
     url: https://www.occrp.org/en
+    archive_url: https://web.archive.org/web/2/https://www.occrp.org/en
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.occrp.org/en
   - name: timesofisrael
     url: https://www.timesofisrael.com/
+    archive_url: https://web.archive.org/web/2/https://www.timesofisrael.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.timesofisrael.com/
   - name: The international news
     url: https://www.thenews.com.pk/
     tags: []
@@ -404,10 +404,10 @@ items:
     last_checked: '2026-06-23'
   - name: ID Metro TV
     url: https://www.metrotvnews.com/
+    archive_url: https://web.archive.org/web/2/https://www.metrotvnews.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.metrotvnews.com/
   - name: ID Komdigi MPN Library
     url: https://mpn.komdigi.go.id/perpus/index.php
     tags: []

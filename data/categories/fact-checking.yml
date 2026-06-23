@@ -63,10 +63,10 @@ items:
     last_checked: '2026-06-23'
   - name: TEMPO news ID cek fakta
     url: https://cekfakta.tempo.co/
+    archive_url: https://web.archive.org/web/2/https://cekfakta.tempo.co/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://cekfakta.tempo.co/
   - name: How to Verify Guide
     url: https://www.howtoverify.info/Image/Where/Geolocation/Manual_geolocation
     tags: []

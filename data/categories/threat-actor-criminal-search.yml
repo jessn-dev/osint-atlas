@@ -21,11 +21,11 @@ items:
     last_checked: '2026-06-23'
   - name: FBI Most Wanted
     url: https://web.archive.org/web/20030315000000*/https://www.fbi.gov/wanted/cyber
+    archive_url: >-
+      https://web.archive.org/web/2/https://web.archive.org/web/20030315000000*/https://www.fbi.gov/wanted/cyber
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/https://web.archive.org/web/20030315000000*/https://www.fbi.gov/wanted/cyber
   - name: FBI
     url: https://www.fbi.gov/wanted
     tags:
@@ -40,10 +40,10 @@ items:
     last_checked: '2026-06-23'
   - name: pusiknas Polri ID
     url: https://pusiknas.polri.go.id/dpo
+    archive_url: https://web.archive.org/web/2/https://pusiknas.polri.go.id/dpo
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://pusiknas.polri.go.id/dpo
   - name: kejaksaan ID
     url: https://pelayanan.kejaksaan.go.id/layanan/permohonan/dpo
     tags: []
@@ -51,17 +51,17 @@ items:
     last_checked: '2026-06-23'
   - name: reskrimum Polri ID
     url: https://web.archive.org/web/20220124010657/https://reskrimum.metro.polri.go.id/dpo/
-    tags: []
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/https://web.archive.org/web/20220124010657/https://reskrimum.metro.polri.go.id/dpo/
-  - name: reskrimum Metro Polri ID
-    url: https://reskrimum.metro.polri.go.id/dpo/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+  - name: reskrimum Metro Polri ID
+    url: https://reskrimum.metro.polri.go.id/dpo/
     archive_url: https://web.archive.org/web/2/https://reskrimum.metro.polri.go.id/dpo/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
   - name: Maltego Transform ShadowDragon
     url: https://www.maltego.com/transform-hub/socialnet/
     tags:
@@ -106,16 +106,16 @@ items:
     last_checked: '2026-06-23'
   - name: ID Sistem Informasi Penelusuran Perkara
     url: https://sipp.pn-negara.go.id/
+    archive_url: https://web.archive.org/web/2/https://sipp.pn-negara.go.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://sipp.pn-negara.go.id/
   - name: socradar
     url: https://socradar.io/labs/
+    archive_url: https://web.archive.org/web/2/https://socradar.io/labs/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://socradar.io/labs/
   - name: scamsearch
     url: https://www.scamsearch.io/
     tags: []
@@ -123,10 +123,10 @@ items:
     last_checked: '2026-06-23'
   - name: ID mahkamahagung
     url: https://putusan3.mahkamahagung.go.id/
+    archive_url: https://web.archive.org/web/2/https://putusan3.mahkamahagung.go.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://putusan3.mahkamahagung.go.id/
   - name: APT Group List
     url: >-
       https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml
@@ -140,20 +140,20 @@ items:
     last_checked: '2026-06-23'
   - name: Pitch darkweb (ONION SITE)
     url: https://pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion/
-    tags:
-      - onion
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/https://pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion/
-  - name: Dread darkweb (ONION SITE)
-    url: https://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion
     tags:
       - onion
     status: dead
     last_checked: '2026-06-23'
+  - name: Dread darkweb (ONION SITE)
+    url: https://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion
     archive_url: >-
       https://web.archive.org/web/2/https://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
   - name: CSI DB
     url: https://www.csidb.net/
     tags: []
@@ -161,10 +161,10 @@ items:
     last_checked: '2026-06-23'
   - name: altenen
     url: https://altenens.is
+    archive_url: https://web.archive.org/web/2/https://altenens.is
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://altenens.is
   - name: Groups MITRE
     url: https://attack.mitre.org/groups/
     tags: []

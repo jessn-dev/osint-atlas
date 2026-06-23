@@ -20,10 +20,10 @@ items:
     last_checked: '2026-06-23'
   - name: citizenevidence
     url: https://citizenevidence.amnestyusa.org/
+    archive_url: https://web.archive.org/web/2/https://citizenevidence.amnestyusa.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://citizenevidence.amnestyusa.org/
   - name: watchframebyframe
     url: http://www.watchframebyframe.com/
     tags: []
@@ -67,10 +67,10 @@ items:
     last_checked: '2026-06-23'
   - name: Savesubs
     url: https://savesubs.com/
+    archive_url: https://web.archive.org/web/2/https://savesubs.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://savesubs.com/
   - name: hadzy - YT Comment
     url: https://hadzy.com/
     tags: []
@@ -99,10 +99,10 @@ items:
     last_checked: '2026-06-23'
   - name: Summarize Any YouTube Video
     url: https://ytbsum.codexfolio.com/
+    archive_url: https://web.archive.org/web/2/https://ytbsum.codexfolio.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://ytbsum.codexfolio.com/
   - name: Youtube search operator
     url: https://seosly.com/blog/youtube-search-operators/
     tags: []

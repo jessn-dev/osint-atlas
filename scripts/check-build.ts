@@ -12,7 +12,8 @@ import { fileURLToPath } from 'node:url';
  */
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const DIST = join(ROOT, 'dist');
-const BASE = process.env.PAGES_BASE && process.env.PAGES_BASE !== '/' ? process.env.PAGES_BASE.replace(/\/$/, '') : '';
+const BASE =
+  process.env.PAGES_BASE && process.env.PAGES_BASE !== '/' ? process.env.PAGES_BASE.replace(/\/$/, '') : '';
 const MIN_CATEGORIES = 100;
 
 const errors: string[] = [];

@@ -10,10 +10,10 @@ items:
     last_checked: '2026-06-23'
   - name: star-chart
     url: https://apps.apple.com/us/app/star-chart/id345542655
+    archive_url: https://web.archive.org/web/2/https://apps.apple.com/us/app/star-chart/id345542655
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://apps.apple.com/us/app/star-chart/id345542655
   - name: suncalc
     url: https://www.suncalc.org/
     tags: []
@@ -79,10 +79,10 @@ items:
     last_checked: '2026-06-23'
   - name: timeanddate
     url: https://www.timeanddate.com/moon/phases/
+    archive_url: https://web.archive.org/web/2/https://www.timeanddate.com/moon/phases/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.timeanddate.com/moon/phases/
   - name: SpaceEngine Game
     url: https://store.steampowered.com/app/314650/SpaceEngine/
     tags: []
@@ -95,10 +95,10 @@ items:
     last_checked: '2026-06-23'
   - name: stuffin space sat map
     url: https://stuffin.space/
+    archive_url: https://web.archive.org/web/2/https://stuffin.space/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://stuffin.space/
   - name: NASA Sat list and mission
     url: https://www.nasa.gov/a-to-z-of-nasa-missions/
     tags:
@@ -118,7 +118,7 @@ items:
     last_checked: '2026-06-23'
   - name: asteroid launcher
     url: https://neal.fun/asteroid-launcher/
+    archive_url: https://web.archive.org/web/2/https://neal.fun/asteroid-launcher/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://neal.fun/asteroid-launcher/

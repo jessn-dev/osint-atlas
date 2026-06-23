@@ -22,11 +22,11 @@ items:
     last_checked: '2026-06-23'
   - name: Profil3r
     url: https://github.com/Rog3rSm1th/Profil3r
+    archive_url: https://web.archive.org/web/2/https://github.com/Rog3rSm1th/Profil3r
     tags:
       - open-source
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://github.com/Rog3rSm1th/Profil3r
   - name: Oblivion
     url: https://github.com/loseys/Oblivion
     tags:
@@ -73,8 +73,8 @@ items:
     last_checked: '2026-06-23'
   - name: inspektur
     url: https://github.com/bgwastu/inspektur
+    archive_url: https://web.archive.org/web/2/https://github.com/bgwastu/inspektur
     tags:
       - open-source
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://github.com/bgwastu/inspektur

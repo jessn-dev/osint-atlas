@@ -17,7 +17,7 @@ items:
     last_checked: '2026-06-23'
   - name: VK com
     url: https://vk.com/
+    archive_url: https://web.archive.org/web/2/https://vk.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://vk.com/

@@ -5,10 +5,10 @@ description: MASINT — geoint resources (25 entries).
 items:
   - name: time&date awesome calc and conveter list
     url: https://www.timeanddate.com/moon/
+    archive_url: https://web.archive.org/web/2/https://www.timeanddate.com/moon/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.timeanddate.com/moon/
   - name: smappen
     url: https://www.smappen.com/app/
     tags: []
@@ -122,13 +122,13 @@ items:
     last_checked: '2026-06-23'
   - name: wolframalpha
     url: https://www.wolframalpha.com/
+    archive_url: https://web.archive.org/web/2/https://www.wolframalpha.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.wolframalpha.com/
   - name: asteroid launcher
     url: https://neal.fun/asteroid-launcher/
+    archive_url: https://web.archive.org/web/2/https://neal.fun/asteroid-launcher/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://neal.fun/asteroid-launcher/

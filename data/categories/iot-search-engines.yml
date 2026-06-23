@@ -63,11 +63,11 @@ items:
     last_checked: '2026-06-23'
   - name: Cameraftp
     url: https://www.cameraftp.com/cameraftp/publish/publishedcameras.aspx
+    archive_url: >-
+      https://web.archive.org/web/2/https://www.cameraftp.com/cameraftp/publish/publishedcameras.aspx
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/https://www.cameraftp.com/cameraftp/publish/publishedcameras.aspx
   - name: Insecam
     url: http://Insecam.org
     tags: []
@@ -95,10 +95,10 @@ items:
     last_checked: '2026-06-23'
   - name: Rusia pub CCTV
     url: https://www.geocam.ru/en/
+    archive_url: https://web.archive.org/web/2/https://www.geocam.ru/en/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.geocam.ru/en/
   - name: lIVE CAM beach Australia
     url: https://www.livebeaches.com/australia/
     tags: []
@@ -116,10 +116,10 @@ items:
     last_checked: '2026-06-23'
   - name: Offensive OSINT OS - Surveillance
     url: https://www.os-surveillance.io/
+    archive_url: https://web.archive.org/web/2/https://www.os-surveillance.io/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.os-surveillance.io/
   - name: OSM Query surveillance cam
     url: https://wiki.openstreetmap.org/wiki/Tag:man_made=surveillance
     tags: []
@@ -138,10 +138,10 @@ items:
     last_checked: '2026-06-23'
   - name: listentothepeople surveillance map
     url: https://www.listentothepeople.net/#info
+    archive_url: https://web.archive.org/web/2/https://www.listentothepeople.net/#info
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.listentothepeople.net/#info
   - name: mapcomplete surveillance map
     url: https://mapcomplete.org/surveillance.html
     tags: []
@@ -230,11 +230,11 @@ items:
     last_checked: '2026-06-23'
   - name: BloodCat
     url: https://github.com/MartinxMax/BloodCat
+    archive_url: https://web.archive.org/web/2/https://github.com/MartinxMax/BloodCat
     tags:
       - open-source
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://github.com/MartinxMax/BloodCat
   - name: opentopia find online cam
     url: https://www.opentopia.com/
     tags: []

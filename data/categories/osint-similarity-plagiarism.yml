@@ -110,10 +110,10 @@ items:
     last_checked: '2026-06-23'
   - name: shutterstock
     url: https://www.shutterstock.com/search/like-video
+    archive_url: https://web.archive.org/web/2/https://www.shutterstock.com/search/like-video
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.shutterstock.com/search/like-video
   - name: Google Vidio Search
     url: https://www.google.com/videohp?hl=id
     tags: []
@@ -141,10 +141,10 @@ items:
     last_checked: '2026-06-23'
   - name: similarweb
     url: https://www.similarweb.com/website/
+    archive_url: https://web.archive.org/web/2/https://www.similarweb.com/website/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.similarweb.com/website/
   - name: similarsites
     url: https://www.similarsites.com/
     tags: []
@@ -192,17 +192,17 @@ items:
     last_checked: '2026-06-23'
   - name: semrush
     url: https://www.semrush.com/website/%3Cwebcompetitor-domain.com%3E/competitors/
-    tags: []
-    status: dead
-    last_checked: '2026-06-23'
     archive_url: >-
       https://web.archive.org/web/2/https://www.semrush.com/website/%3Cwebcompetitor-domain.com%3E/competitors/
-  - name: Find Similar Sites
-    url: https://www.findsimilarsites.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+  - name: Find Similar Sites
+    url: https://www.findsimilarsites.com/
     archive_url: https://web.archive.org/web/2/https://www.findsimilarsites.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
   - name: sitechecker
     url: https://sitechecker.pro/similar-websites/
     tags: []
@@ -220,11 +220,11 @@ items:
     last_checked: '2026-06-23'
   - name: moreofit
     url: http://www.moreofit.com/similar-to/www.pornhub.com/Top_10_Sites_Like_Pornhub/
+    archive_url: >-
+      https://web.archive.org/web/2/http://www.moreofit.com/similar-to/www.pornhub.com/Top_10_Sites_Like_Pornhub/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/http://www.moreofit.com/similar-to/www.pornhub.com/Top_10_Sites_Like_Pornhub/
   - name: xranks
     url: https://xranks.com/
     tags: []
@@ -232,10 +232,10 @@ items:
     last_checked: '2026-06-23'
   - name: alternativeto
     url: https://alternativeto.net/
+    archive_url: https://web.archive.org/web/2/https://alternativeto.net/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://alternativeto.net/
   - name: DMCA Lumen DB
     url: https://lumendatabase.org/
     tags: []
@@ -263,10 +263,10 @@ items:
     last_checked: '2026-06-23'
   - name: sgpbusiness
     url: https://www.sgpbusiness.com/
+    archive_url: https://web.archive.org/web/2/https://www.sgpbusiness.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.sgpbusiness.com/
   - name: WIPO INT
     url: https://branddb.wipo.int/
     tags: []

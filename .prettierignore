@@ -1,0 +1,5 @@
+dist/
+.astro/
+node_modules/
+public/osint.json
+data/categories/

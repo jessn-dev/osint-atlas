@@ -15,10 +15,10 @@ items:
     last_checked: '2026-06-23'
   - name: timeanddate
     url: https://www.timeanddate.com/weather/indonesia/jakarta/historic
+    archive_url: https://web.archive.org/web/2/https://www.timeanddate.com/weather/indonesia/jakarta/historic
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.timeanddate.com/weather/indonesia/jakarta/historic
   - name: sunearthtools
     url: https://www.sunearthtools.com/dp/tools/pos_sun.php
     tags: []
@@ -36,10 +36,10 @@ items:
     last_checked: '2026-06-23'
   - name: shadowcalculator
     url: http://shadowcalculator.eu/#/lat/50.08/lng/19.9
+    archive_url: https://web.archive.org/web/2/http://shadowcalculator.eu/#/lat/50.08/lng/19.9
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://shadowcalculator.eu/#/lat/50.08/lng/19.9
   - name: shademap
     url: https://shademap.app/
     tags: []
@@ -73,10 +73,10 @@ items:
     last_checked: '2026-06-23'
   - name: carbidedepot Trigonometry Calculator
     url: https://www.carbidedepot.com/formulas-trigright.asp
+    archive_url: https://web.archive.org/web/2/https://www.carbidedepot.com/formulas-trigright.asp
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.carbidedepot.com/formulas-trigright.asp
   - name: shadowmap
     url: https://app.shadowmap.org/
     tags: []

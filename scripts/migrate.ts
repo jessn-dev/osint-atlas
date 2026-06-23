@@ -8,12 +8,16 @@ import { slugify, cleanName, inferGroup } from './derive.ts';
  * Run once, review the generated YAML, then the JSON source can be discarded.
  *   SRC=/path/to/osint_data.json npm run data:migrate
  */
-const SRC =
-  process.env.SRC ??
-  '/Users/mrbubbles/Documents/OSINT-Cheat-sheet-main/Web-Based/osint_data.json';
+const SRC = process.env.SRC ?? '/Users/mrbubbles/Documents/OSINT-Cheat-sheet-main/Web-Based/osint_data.json';
 
-interface OldItem { name: string; url: string }
-interface OldCat { category: string; items: OldItem[] }
+interface OldItem {
+  name: string;
+  url: string;
+}
+interface OldCat {
+  category: string;
+  items: OldItem[];
+}
 
 const old: OldCat[] = JSON.parse(readFileSync(SRC, 'utf-8'));
 const usedSlugs = new Set<string>();

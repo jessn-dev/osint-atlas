@@ -15,10 +15,10 @@ items:
     last_checked: '2026-06-23'
   - name: SignalHire
     url: https://www.signalhire.com/
+    archive_url: https://web.archive.org/web/2/https://www.signalhire.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.signalhire.com/
   - name: Spiderfoot
     url: https://www.spiderfoot.net/
     tags: []
@@ -26,10 +26,10 @@ items:
     last_checked: '2026-06-23'
   - name: Spiderfoot HX
     url: https://www.spiderfoot.net/open-source-vs-hx/
+    archive_url: https://web.archive.org/web/2/https://www.spiderfoot.net/open-source-vs-hx/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.spiderfoot.net/open-source-vs-hx/
   - name: Rocket Reach
     url: https://rocketreach.co/
     tags: []
@@ -37,10 +37,10 @@ items:
     last_checked: '2026-06-23'
   - name: Glasdoor
     url: https://www.glassdoor.com/
+    archive_url: https://web.archive.org/web/2/https://www.glassdoor.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.glassdoor.com/
   - name: Linkedin
     url: https://www.linkedin.com/
     tags: []
@@ -48,10 +48,10 @@ items:
     last_checked: '2026-06-23'
   - name: Indeed
     url: https://www.indeed.com/companies?from=gnav-title-webapp
+    archive_url: https://web.archive.org/web/2/https://www.indeed.com/companies?from=gnav-title-webapp
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.indeed.com/companies?from=gnav-title-webapp
   - name: ZoomInfo
     url: https://www.zoominfo.com/
     tags: []
@@ -69,22 +69,22 @@ items:
     last_checked: '2026-06-23'
   - name: Lusha
     url: https://www.lusha.com/
+    archive_url: https://web.archive.org/web/2/https://www.lusha.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.lusha.com/
   - name: Jobstreet
     url: https://www.jobstreet.com.ph/
+    archive_url: https://web.archive.org/web/2/https://www.jobstreet.com.ph/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.jobstreet.com.ph/
   - name: BOTW
     url: https://botw.org/
+    archive_url: https://web.archive.org/web/2/https://botw.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://botw.org/
   - name: opencorporates
     url: https://opencorporates.com/
     tags: []
@@ -102,10 +102,10 @@ items:
     last_checked: '2026-06-23'
   - name: Tripadvisor
     url: https://www.tripadvisor.com/
+    archive_url: https://web.archive.org/web/2/https://www.tripadvisor.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.tripadvisor.com/
   - name: Trustindex
     url: https://www.trustindex.io/
     tags: []
@@ -123,10 +123,10 @@ items:
     last_checked: '2026-06-23'
   - name: SIMPU RI
     url: https://umrahcerdas.kemenag.go.id/
+    archive_url: https://web.archive.org/web/2/https://umrahcerdas.kemenag.go.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://umrahcerdas.kemenag.go.id/
   - name: collegerecruiter
     url: https://www.collegerecruiter.com/
     tags: []
@@ -150,10 +150,10 @@ items:
     last_checked: '2026-06-23'
   - name: opentender ID
     url: https://opentender.net/
+    archive_url: https://web.archive.org/web/2/https://opentender.net/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://opentender.net/
   - name: IndoTender ID
     url: https://indotender.com/
     tags: []
@@ -181,10 +181,10 @@ items:
     last_checked: '2026-06-23'
   - name: HAKI ID
     url: https://pdki-indonesia.dgip.go.id/search?type=trademark&keyword=
+    archive_url: https://web.archive.org/web/2/https://pdki-indonesia.dgip.go.id/search?type=trademark&keyword=
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://pdki-indonesia.dgip.go.id/search?type=trademark&keyword=
   - name: Email Format
     url: https://www.email-format.com/i/search/
     tags: []
@@ -217,10 +217,10 @@ items:
     last_checked: '2026-06-23'
   - name: Job Planet
     url: https://id.jobplanet.com/
+    archive_url: https://web.archive.org/web/2/https://id.jobplanet.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://id.jobplanet.com/
   - name: Deals Job
     url: https://dealls.com/
     tags: []
@@ -265,16 +265,16 @@ items:
     last_checked: '2026-06-23'
   - name: Kemenperin ID
     url: https://kemenperin.go.id/direktori-perusahaan
+    archive_url: https://web.archive.org/web/2/https://kemenperin.go.id/direktori-perusahaan
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://kemenperin.go.id/direktori-perusahaan
   - name: IDX ID
     url: https://www.idx.co.id/en/listed-companies/company-profiles
+    archive_url: https://web.archive.org/web/2/https://www.idx.co.id/en/listed-companies/company-profiles
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.idx.co.id/en/listed-companies/company-profiles
   - name: OJK ID
     url: https://www.ojk.go.id/id/kanal/iknb/data-dan-statistik/direktori/direktori-iknb/Default.aspx
     tags: []
@@ -282,10 +282,10 @@ items:
     last_checked: '2026-06-23'
   - name: lpse lkpp ID
     url: https://lpse.lkpp.go.id/eproc4
+    archive_url: https://web.archive.org/web/2/https://lpse.lkpp.go.id/eproc4
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://lpse.lkpp.go.id/eproc4
   - name: companieshouse ID
     url: https://companieshouse.id/
     tags: []
@@ -293,10 +293,10 @@ items:
     last_checked: '2026-06-23'
   - name: Fintech ID
     url: https://fintech.id/id/member
+    archive_url: https://web.archive.org/web/2/https://fintech.id/id/member
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://fintech.id/id/member
   - name: Website informer
     url: https://website.informer.com/
     tags: []
@@ -329,10 +329,10 @@ items:
     last_checked: '2026-06-23'
   - name: ID Bappebti
     url: https://ceklegalitas.bappebti.go.id/
+    archive_url: https://web.archive.org/web/2/https://ceklegalitas.bappebti.go.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://ceklegalitas.bappebti.go.id/
   - name: candid
     url: https://app.candid.org/
     tags: []
@@ -346,16 +346,16 @@ items:
     last_checked: '2026-06-23'
   - name: protocol
     url: https://protocol.ooo/
+    archive_url: https://web.archive.org/web/2/https://protocol.ooo/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://protocol.ooo/
   - name: snef SG
     url: https://snef.org.sg/
+    archive_url: https://web.archive.org/web/2/https://snef.org.sg/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://snef.org.sg/
   - name: kendoemailapp
     url: https://kendoemailapp.com/
     tags: []
@@ -363,10 +363,10 @@ items:
     last_checked: '2026-06-23'
   - name: sgpbusiness
     url: https://www.sgpbusiness.com/
+    archive_url: https://web.archive.org/web/2/https://www.sgpbusiness.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.sgpbusiness.com/
   - name: CrossLinked
     url: https://github.com/m8sec/CrossLinked
     tags:
@@ -385,10 +385,10 @@ items:
     last_checked: '2026-06-23'
   - name: lexisnexis
     url: https://www.lexisnexis.com/en-us
+    archive_url: https://web.archive.org/web/2/https://www.lexisnexis.com/en-us
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.lexisnexis.com/en-us
   - name: Public Database of Domestic Politically Exposed Persons of Russia, Belarus and Kazakhstan
     url: https://rupep.org/en/
     tags: []
@@ -396,34 +396,34 @@ items:
     last_checked: '2026-06-23'
   - name: ID E catalogue
     url: https://e-katalog.lkpp.go.id/
+    archive_url: https://web.archive.org/web/2/https://e-katalog.lkpp.go.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://e-katalog.lkpp.go.id/
   - name: ID SIRUP LKPP
     url: https://sirup.lkpp.go.id/sirup/rekap/klpd/L40
+    archive_url: https://web.archive.org/web/2/https://sirup.lkpp.go.id/sirup/rekap/klpd/L40
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://sirup.lkpp.go.id/sirup/rekap/klpd/L40
   - name: ID INAPROC daftar hitam penyedia
     url: https://daftar-hitam.inaproc.id/
+    archive_url: https://web.archive.org/web/2/https://daftar-hitam.inaproc.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://daftar-hitam.inaproc.id/
   - name: ID SIKAP CARI PELAKU USAHA
     url: https://sikap.lkpp.go.id/pelaku-usaha/cari
+    archive_url: https://web.archive.org/web/2/https://sikap.lkpp.go.id/pelaku-usaha/cari
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://sikap.lkpp.go.id/pelaku-usaha/cari
   - name: ID TKDN Kemenperin
     url: https://tkdn.kemenperin.go.id/search.php?where=perush&what=
+    archive_url: https://web.archive.org/web/2/https://tkdn.kemenperin.go.id/search.php?where=perush&what=
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://tkdn.kemenperin.go.id/search.php?where=perush&what=
   - name: WIPO INT
     url: https://branddb.wipo.int/
     tags: []

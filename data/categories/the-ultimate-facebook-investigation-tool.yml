@@ -26,10 +26,10 @@ items:
     last_checked: '2026-06-23'
   - name: Wolfram Alpha Facebook Report
     url: http://www.wolframalpha.com/input/?i=facebook+report
+    archive_url: https://web.archive.org/web/2/http://www.wolframalpha.com/input/?i=facebook+report
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://www.wolframalpha.com/input/?i=facebook+report
   - name: Facebook Recover Lookup
     url: https://web.facebook.com/login/identify?ctx=recover&_rdc=1&_rdr
     tags: []
@@ -47,10 +47,10 @@ items:
     last_checked: '2026-06-23'
   - name: Hastag Analzer
     url: https://www.hashatit.com/
+    archive_url: https://web.archive.org/web/2/https://www.hashatit.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.hashatit.com/
   - name: Export comment
     url: https://exportcomments.com/
     tags: []
@@ -63,10 +63,10 @@ items:
     last_checked: '2026-06-23'
   - name: Facebook Graph
     url: https://graph.tips/facebook.html
+    archive_url: https://web.archive.org/web/2/https://graph.tips/facebook.html
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://graph.tips/facebook.html
   - name: Facebook live
     url: https://www.facebook.com/watch/live/?ref=live_delegate
     tags: []
@@ -89,11 +89,11 @@ items:
     last_checked: '2026-06-23'
   - name: F**ck Facebook Github
     url: https://github.com/Ph4nToM00/FuckFacebook
+    archive_url: https://web.archive.org/web/2/https://github.com/Ph4nToM00/FuckFacebook
     tags:
       - open-source
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://github.com/Ph4nToM00/FuckFacebook
   - name: Facebook search photo
     url: https://cse.google.com/cse?cx=013991603413798772546:jyvyp2ppxma#gsc.tab=0
     tags: []
@@ -106,10 +106,10 @@ items:
     last_checked: '2026-06-23'
   - name: Intelx Facebook
     url: https://intelx.io/tools?tab=facebook
+    archive_url: https://web.archive.org/web/2/https://intelx.io/tools?tab=facebook
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://intelx.io/tools?tab=facebook
   - name: Check email and phone num on facebook
     url: https://web.facebook.com/login/identify?ctx=recover&_rdc=1&_rdr#
     tags: []

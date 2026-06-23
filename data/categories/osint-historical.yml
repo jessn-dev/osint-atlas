@@ -5,10 +5,10 @@ description: OSINT Historical — reference resources (33 entries).
 items:
   - name: colonialarchitecture
     url: https://colonialarchitecture.eu/
+    archive_url: https://web.archive.org/web/2/https://colonialarchitecture.eu/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://colonialarchitecture.eu/
   - name: niod archive
     url: https://www.niod.nl/
     tags: []
@@ -47,10 +47,10 @@ items:
     last_checked: '2026-06-23'
   - name: ID MPN SIDAK Kominfo
     url: https://mpn.kominfo.go.id/arsip/
+    archive_url: https://web.archive.org/web/2/https://mpn.kominfo.go.id/arsip/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://mpn.kominfo.go.id/arsip/
   - name: ID Komdigi MPN Library
     url: https://mpn.komdigi.go.id/perpus/index.php
     tags: []
@@ -63,10 +63,10 @@ items:
     last_checked: '2026-06-23'
   - name: geheugen delpher
     url: https://geheugen.delpher.nl/nl
+    archive_url: https://web.archive.org/web/2/https://geheugen.delpher.nl/nl
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://geheugen.delpher.nl/nl
   - name: Old maps online
     url: https://www.oldmapsonline.org/en/
     tags: []
@@ -94,17 +94,17 @@ items:
     last_checked: '2026-06-23'
   - name: chroniclingamerica
     url: https://chroniclingamerica.loc.gov/
+    archive_url: https://web.archive.org/web/2/https://chroniclingamerica.loc.gov/
     tags:
       - official
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://chroniclingamerica.loc.gov/
   - name: britishnewspaperarchive
     url: https://www.britishnewspaperarchive.co.uk/
+    archive_url: https://web.archive.org/web/2/https://www.britishnewspaperarchive.co.uk/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.britishnewspaperarchive.co.uk/
   - name: Google Archive News
     url: https://news.google.com/newspapers
     tags: []
@@ -123,11 +123,11 @@ items:
     last_checked: '2026-06-23'
   - name: BNF France
     url: https://gallica.bnf.fr/accueil/en/content/accueil-en?mode=desktop
+    archive_url: >-
+      https://web.archive.org/web/2/https://gallica.bnf.fr/accueil/en/content/accueil-en?mode=desktop
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/https://gallica.bnf.fr/accueil/en/content/accueil-en?mode=desktop
   - name: Myheritage
     url: https://www.myheritage.com/
     tags: []
@@ -140,10 +140,10 @@ items:
     last_checked: '2026-06-23'
   - name: geneanet
     url: https://en.geneanet.org/
+    archive_url: https://web.archive.org/web/2/https://en.geneanet.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://en.geneanet.org/
   - name: CSE Google Search
     url: https://cse.google.com/cse?cx=partner-pub-7233843800519946:6667570044&ie=UTF-8&q=
     tags: []
@@ -156,10 +156,10 @@ items:
     last_checked: '2026-06-23'
   - name: newspaperarchive
     url: https://newspaperarchive.com/
+    archive_url: https://web.archive.org/web/2/https://newspaperarchive.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://newspaperarchive.com/
   - name: openhistoricalmap
     url: https://www.openhistoricalmap.org/
     tags: []

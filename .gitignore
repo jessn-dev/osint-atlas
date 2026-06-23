@@ -8,6 +8,11 @@ node_modules/
 # generated data feed (built from data/categories/*.yml)
 public/osint.json
 
+# generated SEO/discovery files (built by scripts/seo.ts)
+public/robots.txt
+public/sitemap.xml
+public/llms.txt
+
 # env / os
 .env
 .env.*

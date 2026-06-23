@@ -15,10 +15,10 @@ items:
     last_checked: '2026-06-23'
   - name: tripadvisor
     url: https://www.tripadvisor.com/
+    archive_url: https://web.archive.org/web/2/https://www.tripadvisor.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.tripadvisor.com/
   - name: booking
     url: https://booking.com
     tags: []
@@ -41,10 +41,10 @@ items:
     last_checked: '2026-06-23'
   - name: copernix
     url: https://copernix.io/
+    archive_url: https://web.archive.org/web/2/https://copernix.io/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://copernix.io/
   - name: trip
     url: https://www.trip.com/
     tags: []
@@ -67,10 +67,10 @@ items:
     last_checked: '2026-06-23'
   - name: yelp
     url: https://www.yelp.com/
+    archive_url: https://web.archive.org/web/2/https://www.yelp.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.yelp.com/
   - name: wikinearby
     url: https://wikinearby.toolforge.org/
     tags: []

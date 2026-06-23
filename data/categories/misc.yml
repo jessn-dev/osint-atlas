@@ -32,10 +32,10 @@ items:
     last_checked: '2026-06-23'
   - name: turboscribe - YT Tools and downloander and conveter
     url: https://turboscribe.ai/
+    archive_url: https://web.archive.org/web/2/https://turboscribe.ai/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://turboscribe.ai/
   - name: telegra.ph
     url: https://telegra.ph/
     tags: []

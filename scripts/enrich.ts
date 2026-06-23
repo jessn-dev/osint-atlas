@@ -12,7 +12,13 @@ function tagsFor(item: Item): string[] {
   const t = new Set(item.tags);
   let host = '';
   let path = '';
-  try { const u = new URL(item.url); host = u.hostname.toLowerCase(); path = u.pathname.toLowerCase(); } catch { /* keep */ }
+  try {
+    const u = new URL(item.url);
+    host = u.hostname.toLowerCase();
+    path = u.pathname.toLowerCase();
+  } catch {
+    /* keep */
+  }
   const name = item.name.toLowerCase();
   const hay = `${name} ${item.url.toLowerCase()}`;
 

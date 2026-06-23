@@ -35,10 +35,10 @@ items:
     last_checked: '2026-06-23'
   - name: Carnet
     url: https://carnet.ai/
+    archive_url: https://web.archive.org/web/2/https://carnet.ai/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://carnet.ai/
   - name: ID number plate
     url: https://auto2000.co.id/berita-dan-tips/plat-nomor-seluruh-indonesia
     tags: []
@@ -66,10 +66,10 @@ items:
     last_checked: '2026-06-23'
   - name: commercialtrucktrader
     url: https://www.commercialtrucktrader.com/
+    archive_url: https://web.archive.org/web/2/https://www.commercialtrucktrader.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.commercialtrucktrader.com/
   - name: License Plate AI Recognition
     url: https://github.com/winter2897/Real-time-Auto-License-Plate-Recognition-with-Jetson-Nano
     tags:
@@ -83,10 +83,10 @@ items:
     last_checked: '2026-06-23'
   - name: vehiclehistory
     url: https://www.vehiclehistory.com/license-plate-search
+    archive_url: https://web.archive.org/web/2/https://www.vehiclehistory.com/license-plate-search
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.vehiclehistory.com/license-plate-search
   - name: faxvin
     url: https://www.faxvin.com/license-plate-lookup
     tags: []
@@ -114,10 +114,10 @@ items:
     last_checked: '2026-06-23'
   - name: avtocod
     url: https://avtocod.ru/
+    archive_url: https://web.archive.org/web/2/https://avtocod.ru/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://avtocod.ru/
   - name: dmvcivls.gov
     url: https://dmvcivls-wselfservice.ct.gov/Registration/VerifyRegistration
     tags:
@@ -157,10 +157,10 @@ items:
     last_checked: '2026-06-23'
   - name: mail.e-data.com.ua
     url: https://mail.e-data.com.ua/
+    archive_url: https://web.archive.org/web/2/https://mail.e-data.com.ua/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://mail.e-data.com.ua/
   - name: platetracker
     url: https://www.stopice.net/platetracker/index.cgi
     tags: []
@@ -173,16 +173,16 @@ items:
     last_checked: '2026-06-23'
   - name: vehiclehistory
     url: https://www.vehiclehistory.com/
+    archive_url: https://web.archive.org/web/2/https://www.vehiclehistory.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.vehiclehistory.com/
   - name: vindecoderz
     url: https://www.vindecoderz.com/
+    archive_url: https://web.archive.org/web/2/https://www.vindecoderz.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.vindecoderz.com/
   - name: fordvinlookup
     url: https://www.fordvinlookup.com/
     tags: []
@@ -215,11 +215,11 @@ items:
     last_checked: '2026-06-23'
   - name: toyota
     url: https://www.toyota.com/owners/my-vehicle/vehicle-specification.html
+    archive_url: >-
+      https://web.archive.org/web/2/https://www.toyota.com/owners/my-vehicle/vehicle-specification.html
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/https://www.toyota.com/owners/my-vehicle/vehicle-specification.html
   - name: audiworld
     url: https://www.audiworld.com/forums/vindecoder.php
     tags: []
@@ -253,10 +253,10 @@ items:
     last_checked: '2026-06-23'
   - name: carvx JP
     url: https://carvx.jp/
+    archive_url: https://web.archive.org/web/2/https://carvx.jp/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://carvx.jp/
   - name: cyclevin
     url: https://cyclevin.com/
     tags: []
@@ -290,14 +290,14 @@ items:
     last_checked: '2026-06-23'
   - name: Jaklingko ID MAP
     url: https://www.jaklingkoindonesia.co.id/id/map
+    archive_url: https://web.archive.org/web/2/https://www.jaklingkoindonesia.co.id/id/map
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.jaklingkoindonesia.co.id/id/map
   - name: Palembang ID Pub Transport
     url: https://geoportal.palembang.go.id/pencarian?kategori=Transportasi
+    archive_url: >-
+      https://web.archive.org/web/2/https://geoportal.palembang.go.id/pencarian?kategori=Transportasi
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/https://geoportal.palembang.go.id/pencarian?kategori=Transportasi

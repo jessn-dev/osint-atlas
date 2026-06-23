@@ -50,11 +50,11 @@ items:
     last_checked: '2026-06-23'
   - name: Free Operator Search
     url: https://freecarrierlookup.com/
+    archive_url: https://web.archive.org/web/2/https://freecarrierlookup.com/
     tags:
       - free
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://freecarrierlookup.com/
   - name: HLR Lookup
     url: https://www.hlrlookup.com/
     tags: []
@@ -95,10 +95,10 @@ items:
     last_checked: '2026-06-23'
   - name: Reverse Phone
     url: https://www.reversephonecheck.com/
+    archive_url: https://web.archive.org/web/2/https://www.reversephonecheck.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.reversephonecheck.com/
   - name: Reverse Phone Lookup
     url: https://www.reversephonelookup.com/
     tags: []
@@ -112,10 +112,10 @@ items:
     last_checked: '2026-06-23'
   - name: Search Country Operator (IMSI)
     url: https://www.heicard.com/en/operator.html
+    archive_url: https://web.archive.org/web/2/https://www.heicard.com/en/operator.html
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.heicard.com/en/operator.html
   - name: Analysis of IMSI numbers
     url: https://www.numberingplans.com/?page=analysis&sub=imsinr
     tags: []
@@ -133,11 +133,11 @@ items:
     last_checked: '2026-06-23'
   - name: World Mobile Network Code
     url: https://en.wikipedia.org/wiki/Mobile_network_codes_in_ITU_region_5xx_(Oceania
+    archive_url: >-
+      https://web.archive.org/web/2/https://en.wikipedia.org/wiki/Mobile_network_codes_in_ITU_region_5xx_(Oceania
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/https://en.wikipedia.org/wiki/Mobile_network_codes_in_ITU_region_5xx_(Oceania
   - name: World Network Coverage
     url: >-
       https://www.nperf.com/en/map/ID/-/-/signal/?ll=-2.5678942164342513&lg=118.01999999999998&zoom=5
@@ -156,10 +156,10 @@ items:
     last_checked: '2026-06-23'
   - name: Freepeoplesearch
     url: https://freepeoplesearch.com/
+    archive_url: https://web.archive.org/web/2/https://freepeoplesearch.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://freepeoplesearch.com/
   - name: IMSI imei info
     url: https://www.imei.info/imsi/
     tags: []
@@ -187,11 +187,11 @@ items:
     last_checked: '2026-06-23'
   - name: Cell Global Identity Article
     url: https://medium.com/@fthcknmz/cell-global-identity-cgi-407ea0288943
+    archive_url: >-
+      https://web.archive.org/web/2/https://medium.com/@fthcknmz/cell-global-identity-cgi-407ea0288943
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/https://medium.com/@fthcknmz/cell-global-identity-cgi-407ea0288943
   - name: GSM Cell ID
     url: https://en.wikipedia.org/wiki/GSM_Cell_ID
     tags: []
@@ -239,10 +239,10 @@ items:
     last_checked: '2026-06-23'
   - name: cell2gps
     url: http://cell2gps.net/
+    archive_url: https://web.archive.org/web/2/http://cell2gps.net/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://cell2gps.net/
   - name: unwiredlabs
     url: https://unwiredlabs.com/products
     tags: []
@@ -261,10 +261,10 @@ items:
     last_checked: '2026-06-23'
   - name: SMS PING APK
     url: https://f-droid.org/id/packages/com.itds.sms.ping/
+    archive_url: https://web.archive.org/web/2/https://f-droid.org/id/packages/com.itds.sms.ping/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://f-droid.org/id/packages/com.itds.sms.ping/
   - name: Wireshark wiki voip call
     url: https://wiki.wireshark.org/VoIP_calls
     tags: []

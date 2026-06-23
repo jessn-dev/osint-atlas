@@ -5,10 +5,10 @@ description: Capturing Information — general resources (10 entries).
 items:
   - name: HTTrack
     url: https://www.httrack.com/
+    archive_url: https://web.archive.org/web/2/https://www.httrack.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.httrack.com/
   - name: Wayback Machine
     url: https://archive.org/web/
     tags: []
@@ -48,10 +48,10 @@ items:
     last_checked: '2026-06-23'
   - name: Wayback Twitter
     url: https://waybacktweets.streamlit.app/
+    archive_url: https://web.archive.org/web/2/https://waybacktweets.streamlit.app/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://waybacktweets.streamlit.app/
   - name: OBS
     url: https://obsproject.com/
     tags: []

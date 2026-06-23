@@ -55,29 +55,29 @@ items:
     last_checked: '2026-06-23'
   - name: shipfinder
     url: https://shipfinder.co/
+    archive_url: https://web.archive.org/web/2/https://shipfinder.co/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://shipfinder.co/
   - name: shiplocation
     url: https://www.shiplocation.com/
+    archive_url: https://web.archive.org/web/2/https://www.shiplocation.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.shiplocation.com/
   - name: CMA CGM vesel finder
     url: https://www.cma-cgm.com/ebusiness/schedules/voyage
+    archive_url: https://web.archive.org/web/2/https://www.cma-cgm.com/ebusiness/schedules/voyage
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.cma-cgm.com/ebusiness/schedules/voyage
   - name: marinevesseltraffic
     url: https://www.marinevesseltraffic.com/2013/02/military-ship-track.html
+    archive_url: >-
+      https://web.archive.org/web/2/https://www.marinevesseltraffic.com/2013/02/military-ship-track.html
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/https://www.marinevesseltraffic.com/2013/02/military-ship-track.html
   - name: globalmaritimetraffic
     url: https://www.globalmaritimetraffic.org/gmtds.html
     tags: []
@@ -85,10 +85,10 @@ items:
     last_checked: '2026-06-23'
   - name: Maritim world lightphotos
     url: https://www.lightphotos.net/photos/map_all.php
+    archive_url: https://web.archive.org/web/2/https://www.lightphotos.net/photos/map_all.php
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.lightphotos.net/photos/map_all.php
   - name: openseamap
     url: https://map.openseamap.org/
     tags: []
@@ -101,10 +101,10 @@ items:
     last_checked: '2026-06-23'
   - name: MARITIME AWARENESS PROJECT
     url: https://map.nbr.org/interactivemap/
+    archive_url: https://web.archive.org/web/2/https://map.nbr.org/interactivemap/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://map.nbr.org/interactivemap/
   - name: shipspotting
     url: https://www.shipspotting.com/
     tags: []

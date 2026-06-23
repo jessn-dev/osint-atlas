@@ -30,22 +30,22 @@ items:
     last_checked: '2026-06-23'
   - name: geneanet
     url: https://en.geneanet.org/
+    archive_url: https://web.archive.org/web/2/https://en.geneanet.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://en.geneanet.org/
   - name: wiewaswie NL
     url: https://www.wiewaswie.nl/
+    archive_url: https://web.archive.org/web/2/https://www.wiewaswie.nl/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.wiewaswie.nl/
   - name: familytreenow
     url: https://familytreenow.com/
+    archive_url: https://web.archive.org/web/2/https://familytreenow.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://familytreenow.com/
   - name: locatefamily
     url: https://www.locatefamily.com/
     tags: []
@@ -63,7 +63,7 @@ items:
     last_checked: '2026-06-23'
   - name: truepeoplesearch
     url: https://truepeoplesearch.com/
+    archive_url: https://web.archive.org/web/2/https://truepeoplesearch.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://truepeoplesearch.com/

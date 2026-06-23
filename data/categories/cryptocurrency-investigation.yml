@@ -5,10 +5,10 @@ description: Cryptocurrency Investigation — finance resources (26 entries).
 items:
   - name: bitquery
     url: https://explorer.bitquery.io/
+    archive_url: https://web.archive.org/web/2/https://explorer.bitquery.io/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://explorer.bitquery.io/
   - name: Blockchain
     url: https://www.blockchain.com/
     tags: []
@@ -49,16 +49,16 @@ items:
     last_checked: '2026-06-23'
   - name: Blockhain Explorer
     url: https://www.blockexplorer.com/l/en-US/
+    archive_url: https://web.archive.org/web/2/https://www.blockexplorer.com/l/en-US/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.blockexplorer.com/l/en-US/
   - name: blockcypher
     url: https://live.blockcypher.com/
+    archive_url: https://web.archive.org/web/2/https://live.blockcypher.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://live.blockcypher.com/
   - name: BTC Scan
     url: https://btcscan.org/
     tags: []
@@ -72,16 +72,16 @@ items:
     last_checked: '2026-06-23'
   - name: OXT
     url: https://oxt.me/
+    archive_url: https://web.archive.org/web/2/https://oxt.me/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://oxt.me/
   - name: etherscan
     url: https://etherscan.io/
+    archive_url: https://web.archive.org/web/2/https://etherscan.io/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://etherscan.io/
   - name: Maltego Transform ShadowDragon
     url: https://www.maltego.com/transform-hub/socialnet/
     tags:
@@ -103,10 +103,10 @@ items:
     last_checked: '2026-06-23'
   - name: tokensniffer
     url: https://tokensniffer.com/
+    archive_url: https://web.archive.org/web/2/https://tokensniffer.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://tokensniffer.com/
   - name: opensea
     url: https://opensea.io/
     tags: []
@@ -129,10 +129,10 @@ items:
     last_checked: '2026-06-23'
   - name: blockchair
     url: https://blockchair.com/
+    archive_url: https://web.archive.org/web/2/https://blockchair.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://blockchair.com/
   - name: chainalysis
     url: https://www.chainalysis.com/blockchain-intelligence/
     tags: []

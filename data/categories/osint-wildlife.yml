@@ -21,11 +21,11 @@ items:
   - name: viirs skytruth
     url: >-
       https://viirs.skytruth.org/apps/heatmap/flaringmap.html#lat=33.85472&lon=35.86229&zoom=8&offset=27
+    archive_url: >-
+      https://web.archive.org/web/2/https://viirs.skytruth.org/apps/heatmap/flaringmap.html#lat=33.85472&lon=35.86229&zoom=8&offset=27
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/https://viirs.skytruth.org/apps/heatmap/flaringmap.html#lat=33.85472&lon=35.86229&zoom=8&offset=27
   - name: protectedplanet
     url: https://www.protectedplanet.net/
     tags: []
@@ -38,10 +38,10 @@ items:
     last_checked: '2026-06-23'
   - name: ID SIPONGI
     url: https://sipongi.menlhk.go.id/peta
+    archive_url: https://web.archive.org/web/2/https://sipongi.menlhk.go.id/peta
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://sipongi.menlhk.go.id/peta
   - name: greenpeace
     url: https://www.greenpeace.org/indonesia/
     tags: []

@@ -5,10 +5,10 @@ description: OSINT for Scraping and Data Collection — web resources (28 entrie
 items:
   - name: Zenrows
     url: https://www.zenrows.com/
+    archive_url: https://web.archive.org/web/2/https://www.zenrows.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.zenrows.com/
   - name: Scrapfly
     url: https://scrapfly.io/
     tags: []
@@ -26,10 +26,10 @@ items:
     last_checked: '2026-06-23'
   - name: Puppeter
     url: https://www.npmjs.com/package/puppeteer-extra-plugin-stealth
+    archive_url: https://web.archive.org/web/2/https://www.npmjs.com/package/puppeteer-extra-plugin-stealth
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.npmjs.com/package/puppeteer-extra-plugin-stealth
   - name: spiderfoot
     url: https://github.com/smicallef/spiderfoot
     tags:

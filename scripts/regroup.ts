@@ -22,4 +22,9 @@ for (const { file, data } of loadCategories()) {
   }
 }
 console.log(`[+] regrouped ${changed} categories`);
-console.log([...dist.entries()].sort((a, b) => b[1] - a[1]).map(([g, n]) => `${g}:${n}`).join('  '));
+console.log(
+  [...dist.entries()]
+    .sort((a, b) => b[1] - a[1])
+    .map(([g, n]) => `${g}:${n}`)
+    .join('  '),
+);

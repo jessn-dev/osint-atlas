@@ -15,10 +15,10 @@ items:
     last_checked: '2026-06-23'
   - name: SCI HUB TELE BOT
     url: https://sci-hub.41610.org/sci-hub-telegram-bot
+    archive_url: https://web.archive.org/web/2/https://sci-hub.41610.org/sci-hub-telegram-bot
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://sci-hub.41610.org/sci-hub-telegram-bot
   - name: SCI HUB TELE BOT 2
     url: https://scihub.help/nexus-search-project
     tags: []
@@ -26,16 +26,16 @@ items:
     last_checked: '2026-06-23'
   - name: Z-Library
     url: https://id.zlibrary-asia.se/s/?q=&type=phrase
+    archive_url: https://web.archive.org/web/2/https://id.zlibrary-asia.se/s/?q=&type=phrase
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://id.zlibrary-asia.se/s/?q=&type=phrase
   - name: DOAJ (Directory of Open Access Journals)
     url: https://doaj.org/
+    archive_url: https://web.archive.org/web/2/https://doaj.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://doaj.org/
   - name: LibGen (Library Genesis)
     url: https://libgen.li/
     tags: []
@@ -43,10 +43,10 @@ items:
     last_checked: '2026-06-23'
   - name: ScienceOpen
     url: https://www.scienceopen.com/
+    archive_url: https://web.archive.org/web/2/https://www.scienceopen.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.scienceopen.com/
   - name: CORE
     url: https://core.ac.uk/
     tags:
@@ -60,10 +60,10 @@ items:
     last_checked: '2026-06-23'
   - name: Wiley Online Library
     url: https://onlinelibrary.wiley.com/
+    archive_url: https://web.archive.org/web/2/https://onlinelibrary.wiley.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://onlinelibrary.wiley.com/
   - name: Open Access Button
     url: https://openaccessbutton.org/
     tags: []
@@ -81,10 +81,10 @@ items:
     last_checked: '2026-06-23'
   - name: freedium medium unpaywall
     url: https://freedium.cfd/
+    archive_url: https://web.archive.org/web/2/https://freedium.cfd/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://freedium.cfd/
   - name: freedium (mirror) unpaywall
     url: https://freedium-mirror.cfd/
     tags: []

@@ -60,10 +60,10 @@ items:
     last_checked: '2026-06-23'
   - name: Vkfacewatch
     url: https://vk.watch/
+    archive_url: https://web.archive.org/web/2/https://vk.watch/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://vk.watch/
   - name: Facecheck
     url: https://facecheck.id/
     tags: []
@@ -259,10 +259,10 @@ items:
     last_checked: '2026-06-23'
   - name: imageforensic
     url: https://www.imageforensic.org/
+    archive_url: https://web.archive.org/web/2/https://www.imageforensic.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.imageforensic.org/
   - name: watermarkremover
     url: https://www.watermarkremover.io/
     tags: []

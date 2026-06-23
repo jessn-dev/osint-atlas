@@ -5,10 +5,10 @@ description: OSINT The Artists — media resources (5 entries).
 items:
   - name: Artnet
     url: https://www.artnet.com/artists/
+    archive_url: https://web.archive.org/web/2/https://www.artnet.com/artists/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.artnet.com/artists/
   - name: NGV AU
     url: https://www.ngv.vic.gov.au/explore/collection/
     tags:
@@ -17,10 +17,10 @@ items:
     last_checked: '2026-06-23'
   - name: influzoom
     url: https://influzoom.com/
+    archive_url: https://web.archive.org/web/2/https://influzoom.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://influzoom.com/
   - name: google arts and culture
     url: https://artsandculture.google.com/explore
     tags: []

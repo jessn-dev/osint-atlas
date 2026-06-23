@@ -20,16 +20,16 @@ items:
     last_checked: '2026-06-23'
   - name: ID MA Web Monitoring
     url: https://www.mahkamahagung.go.id/id/webmon
+    archive_url: https://web.archive.org/web/2/https://www.mahkamahagung.go.id/id/webmon
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.mahkamahagung.go.id/id/webmon
   - name: trustpositif Kominfo ID
     url: https://trustpositif.komdigi.go.id/normalisasi
+    archive_url: https://web.archive.org/web/2/https://trustpositif.komdigi.go.id/normalisasi
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://trustpositif.komdigi.go.id/normalisasi
   - name: OONI
     url: https://explorer.ooni.org/search?since=2025-05-02&until=2025-06-02&failure=false
     tags: []
@@ -47,7 +47,7 @@ items:
     last_checked: '2026-06-23'
   - name: w3snoop
     url: https://w3snoop.com/
+    archive_url: https://web.archive.org/web/2/https://w3snoop.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://w3snoop.com/

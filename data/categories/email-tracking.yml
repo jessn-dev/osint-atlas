@@ -72,16 +72,16 @@ items:
     last_checked: '2026-06-23'
   - name: ip-adress
     url: http://www.ip-adress.com/trace_email/
+    archive_url: https://web.archive.org/web/2/http://www.ip-adress.com/trace_email/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://www.ip-adress.com/trace_email/
   - name: whatismyipaddress
     url: http://www.whatismyipaddress.com/trace-email
+    archive_url: https://web.archive.org/web/2/http://www.whatismyipaddress.com/trace-email
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://www.whatismyipaddress.com/trace-email
   - name: hunter
     url: https://hunter.io/
     tags: []
@@ -104,10 +104,10 @@ items:
     last_checked: '2026-06-23'
   - name: SignalHire
     url: https://www.signalhire.com/
+    archive_url: https://web.archive.org/web/2/https://www.signalhire.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.signalhire.com/
   - name: Holehe
     url: https://github.com/megadose/holehe
     tags:
@@ -133,16 +133,16 @@ items:
     last_checked: '2026-06-23'
   - name: getnotify
     url: http://www.getnotify.com
+    archive_url: https://web.archive.org/web/2/http://www.getnotify.com
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://www.getnotify.com
   - name: epieos
     url: https://epieos.com/
+    archive_url: https://web.archive.org/web/2/https://epieos.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://epieos.com/
   - name: seon
     url: >-
       https://seon.io/resources/the-ultimate-guide-to-free-email-lookup-and-reverse-email-lookup-tools/
@@ -156,10 +156,10 @@ items:
     last_checked: '2026-06-23'
   - name: Freepeoplesearch
     url: https://freepeoplesearch.com/
+    archive_url: https://web.archive.org/web/2/https://freepeoplesearch.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://freepeoplesearch.com/
   - name: anymailfinder
     url: https://anymailfinder.com/
     tags: []
@@ -223,11 +223,11 @@ items:
     last_checked: '2026-06-23'
   - name: inspektur
     url: https://github.com/bgwastu/inspektur
+    archive_url: https://web.archive.org/web/2/https://github.com/bgwastu/inspektur
     tags:
       - open-source
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://github.com/bgwastu/inspektur
   - name: lolarchiver
     url: https://osint.lolarchiver.com/#
     tags: []
@@ -245,10 +245,10 @@ items:
     last_checked: '2026-06-23'
   - name: findemail
     url: https://findemail.io/
+    archive_url: https://web.archive.org/web/2/https://findemail.io/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://findemail.io/
   - name: skymem
     url: https://www.skymem.info/
     tags: []
@@ -299,10 +299,10 @@ items:
     last_checked: '2026-06-23'
   - name: OSINT rocks
     url: https://osint.rocks/
+    archive_url: https://web.archive.org/web/2/https://osint.rocks/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://osint.rocks/
   - name: email-permutator perform possible email addresses
     url: http://metricsparrow.com/toolkit/email-permutator/
     tags: []
@@ -326,10 +326,10 @@ items:
     last_checked: '2026-06-23'
   - name: snov.io
     url: https://snov.io/email-finder
+    archive_url: https://web.archive.org/web/2/https://snov.io/email-finder
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://snov.io/email-finder
   - name: experte
     url: https://www.experte.com/email-finder
     tags: []
@@ -443,10 +443,10 @@ items:
     last_checked: '2026-06-23'
   - name: castrickclues
     url: https://castrickclues.com/
+    archive_url: https://web.archive.org/web/2/https://castrickclues.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://castrickclues.com/
   - name: usersearch
     url: https://usersearch.com/
     tags: []

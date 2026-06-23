@@ -5,10 +5,10 @@ description: Twitter — socmint resources (70 entries).
 items:
   - name: instalker - x viewer
     url: https://www.instalker.org/
+    archive_url: https://web.archive.org/web/2/https://www.instalker.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.instalker.org/
   - name: Hoaxy
     url: https://hoaxy.osome.iu.edu/
     tags:
@@ -23,34 +23,34 @@ items:
     last_checked: '2026-06-23'
   - name: search.twitter.com
     url: https://twitter.com/search-home
+    archive_url: https://web.archive.org/web/2/https://twitter.com/search-home
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://twitter.com/search-home
   - name: twitter advanced
     url: https://www.twitter.com/search-advanced
+    archive_url: https://web.archive.org/web/2/https://www.twitter.com/search-advanced
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.twitter.com/search-advanced
   - name: twitter who_to_follow
     url: https://www.twitter.com/who_to_follow
+    archive_url: https://web.archive.org/web/2/https://www.twitter.com/who_to_follow
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.twitter.com/who_to_follow
   - name: Backtweets
     url: http://backtweets.com
+    archive_url: https://web.archive.org/web/2/http://backtweets.com
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://backtweets.com
   - name: First Tweet
     url: http://ctrlq.org/first
+    archive_url: https://web.archive.org/web/2/http://ctrlq.org/first
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://ctrlq.org/first
   - name: Foller.me
     url: http://foller.me
     tags: []
@@ -73,23 +73,23 @@ items:
     last_checked: '2026-06-23'
   - name: Harvard TweetMap
     url: http://worldmap.harvard.edu/tweetmap
+    archive_url: https://web.archive.org/web/2/http://worldmap.harvard.edu/tweetmap
     tags:
       - academic
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://worldmap.harvard.edu/tweetmap
   - name: Hashtagify
     url: http://hashtagify.me
+    archive_url: https://web.archive.org/web/2/http://hashtagify.me
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://hashtagify.me
   - name: Hashtags.org
     url: http://www.hashtags.org
+    archive_url: https://web.archive.org/web/2/http://www.hashtags.org
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://www.hashtags.org
   - name: MyTweetAlerts
     url: https://www.mytweetalerts.com/
     tags: []
@@ -107,16 +107,16 @@ items:
     last_checked: '2026-06-23'
   - name: Spoonbill
     url: http://spoonbill.io
+    archive_url: https://web.archive.org/web/2/http://spoonbill.io
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://spoonbill.io
   - name: Tagdef
     url: https://tagdef.com
+    archive_url: https://web.archive.org/web/2/https://tagdef.com
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://tagdef.com
   - name: Tinfoleak
     url: https://tinfoleak.com
     tags: []
@@ -129,16 +129,16 @@ items:
     last_checked: '2026-06-23'
   - name: TrendsMap
     url: http://trendsmap.com
+    archive_url: https://web.archive.org/web/2/http://trendsmap.com
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://trendsmap.com
   - name: TwChat
     url: http://twchat.com
+    archive_url: https://web.archive.org/web/2/http://twchat.com
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://twchat.com
   - name: TweetArchivist
     url: http://www.tweetarchivist.com
     tags: []
@@ -146,17 +146,17 @@ items:
     last_checked: '2026-06-23'
   - name: TweetDeck
     url: https://www.tweetdeck.com
+    archive_url: https://web.archive.org/web/2/https://www.tweetdeck.com
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.tweetdeck.com
   - name: TweetMap
     url: http://mapd.csail.mit.edu/tweetmap
+    archive_url: https://web.archive.org/web/2/http://mapd.csail.mit.edu/tweetmap
     tags:
       - academic
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://mapd.csail.mit.edu/tweetmap
   - name: Twiangulate
     url: http://www.twiangulate.com
     tags: []
@@ -169,10 +169,10 @@ items:
     last_checked: '2026-06-23'
   - name: Twitter Advanced Search
     url: https://twitter.com/search-advanced?lang=en
+    archive_url: https://web.archive.org/web/2/https://twitter.com/search-advanced?lang=en
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://twitter.com/search-advanced?lang=en
   - name: Twitter Audit
     url: https://www.twitteraudit.com
     tags: []
@@ -180,16 +180,16 @@ items:
     last_checked: '2026-06-23'
   - name: Twitter Chat Schedule
     url: http://tweetreports.com/twitter-chat-schedule
+    archive_url: https://web.archive.org/web/2/http://tweetreports.com/twitter-chat-schedule
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://tweetreports.com/twitter-chat-schedule
   - name: Twitter Search
     url: http://search.twitter.com
+    archive_url: https://web.archive.org/web/2/http://search.twitter.com
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://search.twitter.com
   - name: Twint
     url: https://github.com/twintproject/twint
     tags:
@@ -204,18 +204,18 @@ items:
     last_checked: '2026-06-23'
   - name: Twitter Account Profiler
     url: https://www.sotwe.com/
+    archive_url: https://web.archive.org/web/2/https://www.sotwe.com/
     tags:
       - account-required
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.sotwe.com/
   - name: Twitter Account Profiler
     url: https://twstalker.com/
+    archive_url: https://web.archive.org/web/2/https://twstalker.com/
     tags:
       - account-required
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://twstalker.com/
   - name: Twitter Archive
     url: https://github.com/humandecoded/twayback
     tags:
@@ -229,10 +229,10 @@ items:
     last_checked: '2026-06-23'
   - name: Wayback Twitter
     url: https://waybacktweets.streamlit.app/
+    archive_url: https://web.archive.org/web/2/https://waybacktweets.streamlit.app/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://waybacktweets.streamlit.app/
   - name: Twitter BOT
     url: https://botometer.osome.iu.edu/
     tags:
@@ -289,10 +289,10 @@ items:
     last_checked: '2026-06-23'
   - name: botsentinel
     url: https://botsentinel.com/dashboard
+    archive_url: https://web.archive.org/web/2/https://botsentinel.com/dashboard
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://botsentinel.com/dashboard
   - name: bluesky-crossposter
     url: https://github.com/Linus2punkt0/bluesky-crossposter
     tags:
@@ -332,10 +332,10 @@ items:
     last_checked: '2026-06-23'
   - name: Tweet Map
     url: https://www.heavy.ai/demos/tweetmap
+    archive_url: https://web.archive.org/web/2/https://www.heavy.ai/demos/tweetmap
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.heavy.ai/demos/tweetmap
   - name: drone emprit
     url: https://pers.droneemprit.id/
     tags: []
@@ -343,10 +343,10 @@ items:
     last_checked: '2026-06-23'
   - name: nitter
     url: https://nitter.net/
+    archive_url: https://web.archive.org/web/2/https://nitter.net/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://nitter.net/
   - name: xcancel like nitter
     url: https://xcancel.com/
     tags: []

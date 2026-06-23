@@ -20,10 +20,10 @@ items:
     last_checked: '2026-06-23'
   - name: pkgs
     url: https://pkgs.org/
+    archive_url: https://web.archive.org/web/2/https://pkgs.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://pkgs.org/
   - name: Ubbuntu Package
     url: https://packages.ubuntu.com/
     tags: []
@@ -37,4 +37,5 @@ items:
   - name: pkgs Kali Linux
     url: https://pkg.kali.org/
     tags: []
-    status: unchecked
+    status: active
+    last_checked: '2026-06-23'

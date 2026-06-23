@@ -7,11 +7,18 @@ import type { ItemStatus } from '../data/schema.ts';
  * - flags dead (network / 4xx / 5xx), risky (known-bad domain or defacement keywords)
  * - writes status + last_checked back into the YAML source
  *
- * Env: CONCURRENCY (default 20), TIMEOUT_MS (default 12000), LIMIT (cap items, for testing)
+ * Env:
+ *   CONCURRENCY  parallel workers across hosts (default 20)
+ *   TIMEOUT_MS   per-request timeout (default 12000)
+ *   LIMIT        cap items (testing)
+ *   FRESH_DAYS   skip items checked within N days (default 0 = check all)
+ *   HOST_DELAY_MS  min gap between requests to the same host (default 400)
  */
 const CONCURRENCY = Number(process.env.CONCURRENCY ?? 20);
 const TIMEOUT_MS = Number(process.env.TIMEOUT_MS ?? 12000);
 const LIMIT = process.env.LIMIT ? Number(process.env.LIMIT) : Infinity;
+const FRESH_DAYS = Number(process.env.FRESH_DAYS ?? 0);
+const HOST_DELAY_MS = Number(process.env.HOST_DELAY_MS ?? 400);
 const UA = 'Mozilla/5.0 (compatible; OsintAtlasLinkCheck/1.0)';
 
 // Seeded from the original repo's dev notes (hijacked / malicious).
@@ -20,10 +27,17 @@ const RISKY_KEYWORDS = /(online gambling|casino|slot gacor|judi|viagra|defaced b
 
 const today = new Date().toISOString().slice(0, 10);
 
-interface Target { url: string; setStatus: (s: ItemStatus) => void }
+interface Target {
+  url: string;
+  setStatus: (s: ItemStatus) => void;
+}
 
 function hostOf(url: string): string {
-  try { return new URL(url).hostname.replace(/^www\./, ''); } catch { return ''; }
+  try {
+    return new URL(url).hostname.replace(/^www\./, '');
+  } catch {
+    return '';
+  }
 }
 
 async function probe(url: string): Promise<ItemStatus> {
@@ -34,10 +48,20 @@ async function probe(url: string): Promise<ItemStatus> {
     const ctrl = new AbortController();
     const t = setTimeout(() => ctrl.abort(), TIMEOUT_MS);
     try {
-      let res = await fetch(url, { method: 'HEAD', redirect: 'follow', signal: ctrl.signal, headers: { 'User-Agent': UA } });
+      let res = await fetch(url, {
+        method: 'HEAD',
+        redirect: 'follow',
+        signal: ctrl.signal,
+        headers: { 'User-Agent': UA },
+      });
       // some servers reject HEAD; fall back to a light GET
       if (res.status === 405 || res.status === 501) {
-        res = await fetch(url, { method: 'GET', redirect: 'follow', signal: ctrl.signal, headers: { 'User-Agent': UA } });
+        res = await fetch(url, {
+          method: 'GET',
+          redirect: 'follow',
+          signal: ctrl.signal,
+          headers: { 'User-Agent': UA },
+        });
       }
       clearTimeout(t);
       if (res.status >= 400) return 'dead';
@@ -57,13 +81,33 @@ async function probe(url: string): Promise<ItemStatus> {
   return 'dead';
 }
 
+// Serialize requests per host and space them by HOST_DELAY_MS, while keeping
+// global concurrency high across different hosts. Politeness without slowdown.
+const hostChains = new Map<string, Promise<void>>();
+async function politeProbe(url: string): Promise<ItemStatus> {
+  const host = hostOf(url);
+  const prev = hostChains.get(host) ?? Promise.resolve();
+  let release!: () => void;
+  const turn = new Promise<void>((r) => (release = r));
+  hostChains.set(
+    host,
+    prev.then(() => turn),
+  );
+  await prev;
+  try {
+    return await probe(url);
+  } finally {
+    setTimeout(release, HOST_DELAY_MS);
+  }
+}
+
 async function pool(targets: Target[]): Promise<void> {
   let idx = 0;
   let done = 0;
   async function worker() {
     while (idx < targets.length) {
       const cur = targets[idx++];
-      const status = await probe(cur.url);
+      const status = await politeProbe(cur.url);
       cur.setStatus(status);
       if (++done % 100 === 0) console.log(`  ...${done}/${targets.length}`);
     }
@@ -71,19 +115,33 @@ async function pool(targets: Target[]): Promise<void> {
   await Promise.all(Array.from({ length: CONCURRENCY }, worker));
 }
 
+const freshCutoff =
+  FRESH_DAYS > 0 ? new Date(Date.now() - FRESH_DAYS * 86400_000).toISOString().slice(0, 10) : null;
+
 const loaded = loadCategories();
 const targets: Target[] = [];
+let skipped = 0;
 for (const { data } of loaded) {
   for (const item of data.items) {
     if (targets.length >= LIMIT) break;
+    if (freshCutoff && item.last_checked && item.last_checked >= freshCutoff) {
+      skipped++;
+      continue;
+    }
     targets.push({
       url: item.url,
-      setStatus: (s) => { item.status = s; item.last_checked = today; },
+      setStatus: (s) => {
+        item.status = s;
+        item.last_checked = today;
+      },
     });
   }
 }
 
-console.log(`[*] checking ${targets.length} links @ concurrency ${CONCURRENCY}`);
+console.log(
+  `[*] checking ${targets.length} links @ concurrency ${CONCURRENCY}` +
+    (skipped ? ` (${skipped} skipped, fresh within ${FRESH_DAYS}d)` : ''),
+);
 await pool(targets);
 
 for (const { file, data } of loaded) writeCategory(file, data);

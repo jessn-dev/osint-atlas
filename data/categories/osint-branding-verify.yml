@@ -20,10 +20,10 @@ items:
     last_checked: '2026-06-23'
   - name: Trus Pilot
     url: https://www.trustpilot.com/
+    archive_url: https://web.archive.org/web/2/https://www.trustpilot.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.trustpilot.com/
   - name: Google Alert
     url: https://www.google.com/alerts
     tags: []
@@ -36,10 +36,10 @@ items:
     last_checked: '2026-06-23'
   - name: Tripadvisor
     url: https://www.tripadvisor.com/
+    archive_url: https://web.archive.org/web/2/https://www.tripadvisor.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.tripadvisor.com/
   - name: Trustindex
     url: https://www.trustindex.io/
     tags: []
@@ -57,22 +57,22 @@ items:
     last_checked: '2026-06-23'
   - name: SIMPU RI
     url: https://umrahcerdas.kemenag.go.id/
+    archive_url: https://web.archive.org/web/2/https://umrahcerdas.kemenag.go.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://umrahcerdas.kemenag.go.id/
   - name: Jobstreet.co.id
     url: https://www.jobstreet.co.id/
+    archive_url: https://web.archive.org/web/2/https://www.jobstreet.co.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.jobstreet.co.id/
   - name: WEB Check
     url: https://web-check.xyz/
+    archive_url: https://web.archive.org/web/2/https://web-check.xyz/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://web-check.xyz/
   - name: brightcloud ip lookup
     url: https://www.brightcloud.com/tools/url-ip-lookup.php
     tags: []
@@ -149,16 +149,16 @@ items:
     last_checked: '2026-06-23'
   - name: opentender ID
     url: https://opentender.net/
+    archive_url: https://web.archive.org/web/2/https://opentender.net/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://opentender.net/
   - name: lpse lkpp ID
     url: https://lpse.lkpp.go.id/eproc4
+    archive_url: https://web.archive.org/web/2/https://lpse.lkpp.go.id/eproc4
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://lpse.lkpp.go.id/eproc4
   - name: ahu ID
     url: https://ahu.go.id/pencarian/profil-pt
     tags: []
@@ -176,10 +176,10 @@ items:
     last_checked: '2026-06-23'
   - name: HAKI ID
     url: https://pdki-indonesia.dgip.go.id/search?type=trademark&keyword=
+    archive_url: https://web.archive.org/web/2/https://pdki-indonesia.dgip.go.id/search?type=trademark&keyword=
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://pdki-indonesia.dgip.go.id/search?type=trademark&keyword=
   - name: Katadata ID
     url: https://databoks.katadata.co.id/
     tags: []
@@ -187,10 +187,10 @@ items:
     last_checked: '2026-06-23'
   - name: pddikti ID
     url: https://pddikti.kemdikbud.go.id/
+    archive_url: https://web.archive.org/web/2/https://pddikti.kemdikbud.go.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://pddikti.kemdikbud.go.id/
   - name: pipl
     url: https://pipl.com/
     tags: []
@@ -218,10 +218,10 @@ items:
     last_checked: '2026-06-23'
   - name: ID INAPROC daftar hitam penyedia
     url: https://daftar-hitam.inaproc.id/
+    archive_url: https://web.archive.org/web/2/https://daftar-hitam.inaproc.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://daftar-hitam.inaproc.id/
   - name: WIPO INT
     url: https://branddb.wipo.int/
     tags: []
@@ -229,10 +229,10 @@ items:
     last_checked: '2026-06-23'
   - name: SPSE inaproc ID
     url: https://spse.inaproc.id/
+    archive_url: https://web.archive.org/web/2/https://spse.inaproc.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://spse.inaproc.id/
   - name: URL Haus
     url: https://urlhaus.abuse.ch/
     tags: []

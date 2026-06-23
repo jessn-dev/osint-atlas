@@ -56,10 +56,10 @@ items:
     last_checked: '2026-06-23'
   - name: Topix.com
     url: http://www.topix.com
+    archive_url: https://web.archive.org/web/2/http://www.topix.com
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://www.topix.com
   - name: Shodan
     url: https://www.shodan.io/
     tags: []
@@ -72,16 +72,16 @@ items:
     last_checked: '2026-06-23'
   - name: Onesearch
     url: https://www.onesearch.com/
+    archive_url: https://web.archive.org/web/2/https://www.onesearch.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.onesearch.com/
   - name: Searchencrypt
     url: https://www.searchencrypt.com/home
+    archive_url: https://web.archive.org/web/2/https://www.searchencrypt.com/home
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.searchencrypt.com/home
   - name: Duckgo
     url: https://duckduckgo.com/
     tags: []
@@ -89,11 +89,11 @@ items:
     last_checked: '2026-06-23'
   - name: Waymore
     url: https://forum.seccodeid.com/d/waymore-find-way-more-from-the-wayback-machine
+    archive_url: >-
+      https://web.archive.org/web/2/https://forum.seccodeid.com/d/waymore-find-way-more-from-the-wayback-machine
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/https://forum.seccodeid.com/d/waymore-find-way-more-from-the-wayback-machine
   - name: StartPage
     url: https://www.startpage.com/
     tags: []
@@ -126,10 +126,10 @@ items:
     last_checked: '2026-06-23'
   - name: Goo Search
     url: https://www.goo.ne.jp/
+    archive_url: https://web.archive.org/web/2/https://www.goo.ne.jp/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.goo.ne.jp/
   - name: swisscows
     url: https://swisscows.com/en
     tags: []
@@ -264,10 +264,10 @@ items:
     last_checked: '2026-06-23'
   - name: censys
     url: https://search.censys.io/
+    archive_url: https://web.archive.org/web/2/https://search.censys.io/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://search.censys.io/
   - name: verifyhalal
     url: https://verifyhalal.com/
     tags: []

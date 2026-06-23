@@ -30,10 +30,10 @@ items:
     last_checked: '2026-06-23'
   - name: OSINT rock
     url: https://osint.rocks/
+    archive_url: https://web.archive.org/web/2/https://osint.rocks/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://osint.rocks/
   - name: OSINT indsutries
     url: https://www.osint.industries/
     tags: []
@@ -46,10 +46,10 @@ items:
     last_checked: '2026-06-23'
   - name: namecheckr
     url: https://www.namecheckr.com/
+    archive_url: https://web.archive.org/web/2/https://www.namecheckr.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://www.namecheckr.com/
   - name: Namechk
     url: http://www.namechk.com
     tags: []
@@ -57,10 +57,10 @@ items:
     last_checked: '2026-06-23'
   - name: Knowem
     url: http://www.knowem.com
+    archive_url: https://web.archive.org/web/2/http://www.knowem.com
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/http://www.knowem.com
   - name: Instantusername
     url: https://instantusername.com/#/
     tags: []
@@ -73,10 +73,10 @@ items:
     last_checked: '2026-06-23'
   - name: Checkusernames
     url: https://checkusernames.com/
+    archive_url: https://web.archive.org/web/2/https://checkusernames.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://checkusernames.com/
   - name: Maigret
     url: https://github.com/soxoj/maigret
     tags:
@@ -100,10 +100,10 @@ items:
     last_checked: '2026-06-23'
   - name: whatsmyname
     url: https://whatsmyname.app/
+    archive_url: https://web.archive.org/web/2/https://whatsmyname.app/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://whatsmyname.app/
   - name: holehe
     url: https://github.com/megadose/holehe
     tags:
@@ -158,10 +158,10 @@ items:
     last_checked: '2026-06-23'
   - name: castrickclues
     url: https://castrickclues.com/
+    archive_url: https://web.archive.org/web/2/https://castrickclues.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://castrickclues.com/
   - name: usersearch
     url: https://usersearch.com/
     tags: []

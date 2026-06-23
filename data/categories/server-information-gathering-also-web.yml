@@ -10,10 +10,10 @@ items:
     last_checked: '2026-06-23'
   - name: cloudflare radar
     url: https://radar.cloudflare.com/
+    archive_url: https://web.archive.org/web/2/https://radar.cloudflare.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://radar.cloudflare.com/
   - name: fullhunt
     url: https://fullhunt.io/
     tags: []
@@ -31,10 +31,10 @@ items:
     last_checked: '2026-06-23'
   - name: odin
     url: https://search.odin.io/
+    archive_url: https://web.archive.org/web/2/https://search.odin.io/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://search.odin.io/
   - name: onyphe
     url: https://search.onyphe.io/
     tags: []
@@ -42,10 +42,10 @@ items:
     last_checked: '2026-06-23'
   - name: censys
     url: https://search.censys.io/
+    archive_url: https://web.archive.org/web/2/https://search.censys.io/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://search.censys.io/
   - name: zoomeye
     url: https://www.zoomeye.ai/
     tags: []
@@ -74,10 +74,10 @@ items:
     last_checked: '2026-06-23'
   - name: securitytrails
     url: https://securitytrails.com/
+    archive_url: https://web.archive.org/web/2/https://securitytrails.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://securitytrails.com/
   - name: SSL Scan
     url: https://www.kali.org/tools/sslscan/
     tags: []

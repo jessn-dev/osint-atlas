@@ -52,10 +52,10 @@ items:
     last_checked: '2026-06-23'
   - name: Intelligence X
     url: https://intelx.io/
+    archive_url: https://web.archive.org/web/2/https://intelx.io/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://intelx.io/
   - name: Wiki Leaks
     url: https://wikileaks.org/
     tags: []
@@ -63,22 +63,22 @@ items:
     last_checked: '2026-06-23'
   - name: DDO Secrets
     url: https://ddosecrets.com/wiki/Distributed_Denial_of_Secrets
+    archive_url: https://web.archive.org/web/2/https://ddosecrets.com/wiki/Distributed_Denial_of_Secrets
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://ddosecrets.com/wiki/Distributed_Denial_of_Secrets
   - name: darkforums
     url: https://darkforums.io/
+    archive_url: https://web.archive.org/web/2/https://darkforums.io/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://darkforums.io/
   - name: breachforums
     url: https://breachforums.cz/index.php
+    archive_url: https://web.archive.org/web/2/https://breachforums.cz/index.php
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://breachforums.cz/index.php
   - name: Stealthmole
     url: https://www.stealthmole.com/products/darkweb-tracker
     tags: []
@@ -86,16 +86,16 @@ items:
     last_checked: '2026-06-23'
   - name: Doxbin
     url: https://doxbin.com/
+    archive_url: https://web.archive.org/web/2/https://doxbin.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://doxbin.com/
   - name: Breach Directory
     url: https://breachdirectory.org/
+    archive_url: https://web.archive.org/web/2/https://breachdirectory.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://breachdirectory.org/
   - name: Snusbase
     url: https://snusbase.com/
     tags: []
@@ -155,10 +155,10 @@ items:
     last_checked: '2026-06-23'
   - name: databreaches
     url: https://databreaches.net/
+    archive_url: https://web.archive.org/web/2/https://databreaches.net/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://databreaches.net/
   - name: lolarchiver
     url: https://osint.lolarchiver.com/#
     tags: []
@@ -196,10 +196,10 @@ items:
     last_checked: '2026-06-23'
   - name: BF Database Search
     url: https://bf.based.re/
+    archive_url: https://web.archive.org/web/2/https://bf.based.re/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://bf.based.re/
   - name: darkradar
     url: https://www.darkradar.io/
     tags: []
@@ -222,11 +222,11 @@ items:
     last_checked: '2026-06-23'
   - name: Hawker
     url: https://github.com/RetrO-M/Hawker
+    archive_url: https://web.archive.org/web/2/https://github.com/RetrO-M/Hawker
     tags:
       - open-source
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://github.com/RetrO-M/Hawker
   - name: deepfind
     url: https://www.deepfind.me/tools
     tags: []
@@ -239,10 +239,10 @@ items:
     last_checked: '2026-06-23'
   - name: breachguard
     url: https://breachguard.profiler.me/
+    archive_url: https://web.archive.org/web/2/https://breachguard.profiler.me/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://breachguard.profiler.me/
   - name: intelbase
     url: https://intelbase.is/
     tags: []
@@ -250,10 +250,10 @@ items:
     last_checked: '2026-06-23'
   - name: mozilla monitor
     url: https://monitor.mozilla.org/
+    archive_url: https://web.archive.org/web/2/https://monitor.mozilla.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://monitor.mozilla.org/
   - name: google darkweb security checkup
     url: https://myactivity.google.com/dark-web-report/setup-profile
     tags: []
@@ -276,24 +276,24 @@ items:
     last_checked: '2026-06-23'
   - name: Leak Finder [ONION SITE]
     url: http://leakfindrg5s2zcwwdmxlvz6oefz6hdwlkckh4eir4huqcpjsefxkead.onion/Market
+    archive_url: >-
+      https://web.archive.org/web/2/http://leakfindrg5s2zcwwdmxlvz6oefz6hdwlkckh4eir4huqcpjsefxkead.onion/Market
     tags:
       - onion
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/http://leakfindrg5s2zcwwdmxlvz6oefz6hdwlkckh4eir4huqcpjsefxkead.onion/Market
   - name: hacked email com [archived site]
     url: https://web.archive.org/web/*/http://hacked-emails.com/*
+    archive_url: https://web.archive.org/web/2/https://web.archive.org/web/*/http://hacked-emails.com/*
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://web.archive.org/web/*/http://hacked-emails.com/*
   - name: domainbigdata com [archived site]
     url: https://web.archive.org/web/*/https://domainbigdata.com/*
+    archive_url: https://web.archive.org/web/2/https://web.archive.org/web/*/https://domainbigdata.com/*
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://web.archive.org/web/*/https://domainbigdata.com/*
   - name: Personal data leak check
     url: https://cybernews.com/personal-data-leak-check/
     tags: []
@@ -348,22 +348,22 @@ items:
     last_checked: '2026-06-23'
   - name: oathnet
     url: https://oathnet.org/
+    archive_url: https://web.archive.org/web/2/https://oathnet.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://oathnet.org/
   - name: breach VIP
     url: https://breach.vip/
+    archive_url: https://web.archive.org/web/2/https://breach.vip/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://breach.vip/
   - name: infodra
     url: https://infodra.com/
+    archive_url: https://web.archive.org/web/2/https://infodra.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://infodra.com/
   - name: breachbase
     url: https://breachbase.com/search
     tags: []
@@ -387,4 +387,5 @@ items:
   - name: linktr
     url: https://linktr.ee/
     tags: []
-    status: unchecked
+    status: active
+    last_checked: '2026-06-23'

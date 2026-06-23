@@ -75,10 +75,10 @@ items:
     last_checked: '2026-06-23'
   - name: Virus Exchange
     url: https://virus.exchange/
+    archive_url: https://web.archive.org/web/2/https://virus.exchange/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://virus.exchange/
   - name: Malware Sample and IOC
     url: https://github.com/rivitna/Malware
     tags:
@@ -87,11 +87,11 @@ items:
     last_checked: '2026-06-23'
   - name: Avilla Forensics
     url: https://forum.seccodeid.com/d/avillaforensics-mobile-digital-forensics
+    archive_url: >-
+      https://web.archive.org/web/2/https://forum.seccodeid.com/d/avillaforensics-mobile-digital-forensics
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/https://forum.seccodeid.com/d/avillaforensics-mobile-digital-forensics
   - name: Autopsy
     url: https://www.autopsy.com/
     tags: []
@@ -115,11 +115,11 @@ items:
   - name: Ntfstool Forensics
     url: >-
       https://forum.seccodeid.com/d/ntfstool-forensics-tool-for-ntfs-parser-mft-bitlocker-deleted-files
+    archive_url: >-
+      https://web.archive.org/web/2/https://forum.seccodeid.com/d/ntfstool-forensics-tool-for-ntfs-parser-mft-bitlocker-deleted-files
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: >-
-      https://web.archive.org/web/2/https://forum.seccodeid.com/d/ntfstool-forensics-tool-for-ntfs-parser-mft-bitlocker-deleted-files
   - name: Sleuthkit
     url: https://www.sleuthkit.org/sleuthkit/
     tags: []
@@ -364,10 +364,10 @@ items:
     last_checked: '2026-06-23'
   - name: Burpsuite
     url: https://portswigger.net/burp
+    archive_url: https://web.archive.org/web/2/https://portswigger.net/burp
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://portswigger.net/burp
   - name: volatilityfoundation
     url: https://github.com/volatilityfoundation
     tags:
@@ -419,10 +419,10 @@ items:
     last_checked: '2026-06-23'
   - name: socradar
     url: https://socradar.io/labs/
+    archive_url: https://web.archive.org/web/2/https://socradar.io/labs/
     tags: []
     status: dead
     last_checked: '2026-06-23'
-    archive_url: https://web.archive.org/web/2/https://socradar.io/labs/
   - name: Cuckoo
     url: https://cuckoo.readthedocs.io/en/latest/installation/host/installation/
     tags: []
