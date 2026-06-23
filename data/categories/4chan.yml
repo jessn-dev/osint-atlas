@@ -1,0 +1,40 @@
+category: 4chan
+slug: 4chan
+group: general
+description: 4chan — general resources (7 entries).
+items:
+  - name: 4chan
+    url: https://4chan.org/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: 4chansearch
+    url: https://4chansearch.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: find 4chan
+    url: https://find.4chan.org/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: search4chan
+    url: https://search4chan.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: wiki archiveteam for 4chan archive
+    url: https://wiki.archiveteam.org/index.php/4chan#The_Second_4archive.org
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: 4chanarchives
+    url: https://4chanarchives.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: archived moe 4chan
+    url: https://archived.moe/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'

@@ -1,0 +1,50 @@
+category: Tracking Website Changes
+slug: tracking-website-changes
+group: general
+description: Tracking Website Changes — general resources (9 entries).
+items:
+  - name: Changedetection
+    url: http://www.changedetection.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Followthatpage
+    url: http://www.followthatpage.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: visualping
+    url: https://visualping.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ID MA Web Monitoring
+    url: https://www.mahkamahagung.go.id/id/webmon
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: trustpositif Kominfo ID
+    url: https://trustpositif.komdigi.go.id/normalisasi
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: OONI
+    url: https://explorer.ooni.org/search?since=2025-05-02&until=2025-06-02&failure=false
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: wayback machine
+    url: https://archive.org/web/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Archive Fo
+    url: https://archive.fo/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: w3snoop
+    url: https://w3snoop.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'

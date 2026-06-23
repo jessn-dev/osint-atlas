@@ -1,0 +1,10 @@
+category: IP CIDR Conveter
+slug: ip-cidr-conveter
+group: web
+description: IP CIDR Conveter — web resources (1 entries).
+items:
+  - name: CIDR Conveter
+    url: http://magic-cookie.co.uk/iplist.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

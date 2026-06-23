@@ -1,0 +1,39 @@
+category: Linux Distribution Package Search
+slug: linux-distribution-package-search
+group: general
+description: Linux Distribution Package Search — general resources (6 entries).
+items:
+  - name: Redhat Linux
+    url: https://access.redhat.com/search/?q=packages&documentKind=Solution%26Article
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Debian Linux
+    url: https://packages.debian.org/index
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Arch Linux
+    url: https://archlinux.org/packages/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: pkgs
+    url: https://pkgs.org/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Ubbuntu Package
+    url: https://packages.ubuntu.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Boot-Repair ubuntu
+    url: https://help.ubuntu.com/community/Boot-Repair
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: pkgs Kali Linux
+    url: https://pkg.kali.org/
+    tags: []
+    status: unchecked

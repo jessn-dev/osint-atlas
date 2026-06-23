@@ -1,0 +1,29 @@
+category: OSINT RESOURCES DATASET e.g E-BOOK, TELEGRAM, ARTICLE
+slug: osint-resources-dataset-e-g-e-book-telegram-article
+group: socmint
+description: OSINT RESOURCES DATASET e.g E-BOOK, TELEGRAM, ARTICLE — socmint resources (4 entries).
+items:
+  - name: Join Telegram channel
+    url: https://t.me/seccodeid
+    tags:
+      - telegram
+    status: active
+    last_checked: '2026-06-23'
+  - name: OSINT beginner
+    url: https://t.me/seccodeid/38
+    tags:
+      - telegram
+    status: active
+    last_checked: '2026-06-23'
+  - name: OSINT handbook 2022 OSINT information gathering and threat intel
+    url: https://t.me/seccodeid/87
+    tags:
+      - telegram
+    status: active
+    last_checked: '2026-06-23'
+  - name: Introducing social media intelligence (SOCMINT)
+    url: >-
+      https://www.researchgate.net/publication/262869934_Introducing_social_media_intelligence_SOCMINT
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'

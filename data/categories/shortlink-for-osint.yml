@@ -1,0 +1,20 @@
+category: Shortlink for OSINT
+slug: shortlink-for-osint
+group: general
+description: Shortlink for OSINT — general resources (3 entries).
+items:
+  - name: t.ly
+    url: https://t.ly/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: bit.ly
+    url: https://bitly.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: tiny url
+    url: https://tinyurl.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

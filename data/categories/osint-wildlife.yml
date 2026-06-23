@@ -1,0 +1,56 @@
+category: OSINT Wildlife
+slug: osint-wildlife
+group: general
+description: OSINT Wildlife — general resources (10 entries).
+items:
+  - name: SIKU
+    url: https://siku.org/project-management
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: globalforestwatch
+    url: https://www.globalforestwatch.org/map/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: oxpeckers
+    url: https://oxpeckers.org/tools/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: viirs skytruth
+    url: >-
+      https://viirs.skytruth.org/apps/heatmap/flaringmap.html#lat=33.85472&lon=35.86229&zoom=8&offset=27
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: protectedplanet
+    url: https://www.protectedplanet.net/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: globalfishingwatch
+    url: https://globalfishingwatch.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ID SIPONGI
+    url: https://sipongi.menlhk.go.id/peta
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: greenpeace
+    url: https://www.greenpeace.org/indonesia/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: river-runner-global
+    url: https://river-runner-global.samlearner.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: dinosaurpictures
+    url: https://dinosaurpictures.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

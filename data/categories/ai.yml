@@ -1,0 +1,18 @@
+category: AI
+slug: ai
+group: general
+description: AI — general resources (2 entries).
+items:
+  - name: >-
+      dutchosintguy Using AI for extracting Usernames, Emails, Phone Numbers, and Personal Names
+      from large datasets
+    url: >-
+      https://www.dutchosintguy.com/post/using-ai-for-extracting-usernames-emails-phone-numbers-and-personal-names-from-large-datasets
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: 'Deepfake Geography: How AI Can Now Falsify Satellite Images'
+    url: https://gijn.org/stories/deepfake-geography-how-ai-can-now-falsify-satellite-images/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'

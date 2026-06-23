@@ -1,0 +1,22 @@
+category: VK
+slug: vk
+group: general
+description: VK — general resources (3 entries).
+items:
+  - name: SocNet Dynamic Image Search
+    url: https://github.com/DataSalo/SocNet_Dynamic_Image_Search
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Bellingcat VK scrapper
+    url: https://github.com/bellingcat/vk-url-scraper
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: VK com
+    url: https://vk.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'

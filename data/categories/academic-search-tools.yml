@@ -1,0 +1,83 @@
+category: Academic Search Tools
+slug: academic-search-tools
+group: general
+description: Academic Search Tools — general resources (15 entries).
+items:
+  - name: Base Search
+    url: https://www.base-search.net/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: SCI HUB
+    url: https://www.sci-hub.se/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: msearch
+    url: https://msearch.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Google scholar
+    url: https://scholar.google.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Jstor
+    url: https://www.jstor.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: worldwidescience
+    url: https://worldwidescience.org/index.html
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: CORE
+    url: https://core.ac.uk/
+    tags:
+      - academic
+    status: active
+    last_checked: '2026-06-23'
+  - name: Academic Literature on Open Source Research & Methods
+    url: >-
+      https://docs.google.com/document/d/1uqzGi9asZZlaEs8syHbh3AsizVccU-IKJp4zPufaaBk/edit#heading=h.s9zomzvdp109
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: OSINT ethics
+    url: https://stanleycenter.org/publications/osint-applied-ethics-workbook/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: G Drive - Navigating digital media
+    url: https://drive.google.com/drive/folders/1eF9FE-2B-bVciTCbajMR_f1Q7fHZl0s5
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Cryptome - search doc about publication that are prohibited by government
+    url: https://cryptome.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: smartquantai
+    url: https://www.smartquantai.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: semanticscholar
+    url: https://www.semanticscholar.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Web Archive
+    url: https://web.archive.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Z Librrary [ONION SITE]
+    url: http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'

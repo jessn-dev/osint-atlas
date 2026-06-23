@@ -1,0 +1,10 @@
+category: Red Teamer OSINT
+slug: red-teamer-osint
+group: general
+description: Red Teamer OSINT — general resources (1 entries).
+items:
+  - name: ID - Linux chattr command
+    url: https://www.linuxsec.org/2019/06/perintah-chattr.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

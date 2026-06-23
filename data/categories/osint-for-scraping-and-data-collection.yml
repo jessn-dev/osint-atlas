@@ -1,0 +1,159 @@
+category: OSINT for Scraping and Data Collection
+slug: osint-for-scraping-and-data-collection
+group: general
+description: OSINT for Scraping and Data Collection — general resources (28 entries).
+items:
+  - name: Zenrows
+    url: https://www.zenrows.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Scrapfly
+    url: https://scrapfly.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: capsolver
+    url: https://www.capsolver.com/id
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: 2captcha
+    url: https://2captcha.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Puppeter
+    url: https://www.npmjs.com/package/puppeteer-extra-plugin-stealth
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: spiderfoot
+    url: https://github.com/smicallef/spiderfoot
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: TorBot
+    url: https://github.com/DedSecInside/TorBoT
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: TorCrawl
+    url: https://github.com/MikeMeliz/TorCrawl.py
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Onioningestor
+    url: https://github.com/danieleperera/OnionIngestor
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: selenium
+    url: https://www.selenium.dev/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: BeautifulSoup
+    url: https://BeautifulSoup.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: BeautifulSoup
+    url: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: scrapehero
+    url: https://www.scrapehero.com/marketplace/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Google maps review scrapper
+    url: https://github.com/omkarcloud/google-maps-reviews-scraper
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Omkar
+    url: https://www.omkar.cloud/tools/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: torpy
+    url: https://github.com/torpyorg/torpy
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: DARC
+    url: https://github.com/JarryShaw/darc
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: browser-use
+    url: https://github.com/browser-use/browser-use
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: stagehand
+    url: https://github.com/browserbase/stagehand
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: playwright
+    url: https://playwright.dev/docs/writing-tests
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: G maps scrapper
+    url: https://github.com/gosom/google-maps-scraper
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Brave Search API
+    url: https://brave.com/search/api/
+    tags:
+      - api
+    status: active
+    last_checked: '2026-06-23'
+  - name: anti-captcha
+    url: https://anti-captcha.com/apidoc
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: tailscale
+    url: https://tailscale.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: scrapy
+    url: https://www.scrapy.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: puppeteer
+    url: https://github.com/puppeteer/puppeteer
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: SNSSCRAPE
+    url: https://github.com/JustAnotherArchivist/snscrape
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Photon
+    url: https://github.com/s0md3v/Photon
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'

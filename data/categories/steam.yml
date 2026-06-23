@@ -1,0 +1,26 @@
+category: Steam
+slug: steam
+group: general
+description: Steam — general resources (4 entries).
+items:
+  - name: STEAM DB
+    url: https://steamdb.info/calculator/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Steam OSINT tool
+    url: https://github.com/matiash26/Steam-OSINT-TOOL
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: exportcomments
+    url: https://exportcomments.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: steamcharts
+    url: https://steamcharts.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

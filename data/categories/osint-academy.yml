@@ -1,0 +1,22 @@
+category: OSINT Academy
+slug: osint-academy
+group: reference
+description: OSINT Academy — reference resources (3 entries).
+items:
+  - name: Jieyab89 Gitbook (free and no ads)
+    url: https://jieyab89-osint.gitbook.io/jieyab89-osint-cheat-sheet-wiki-tips
+    tags:
+      - free
+    status: active
+    last_checked: '2026-06-23'
+  - name: Maltego academy
+    url: https://academy.maltego.com/
+    tags:
+      - maltego
+    status: active
+    last_checked: '2026-06-23'
+  - name: Darkweb academy
+    url: https://www.darkwebacademy.com/labs/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

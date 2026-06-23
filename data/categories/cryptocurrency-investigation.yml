@@ -1,0 +1,143 @@
+category: Cryptocurrency Investigation
+slug: cryptocurrency-investigation
+group: general
+description: Cryptocurrency Investigation — general resources (26 entries).
+items:
+  - name: bitquery
+    url: https://explorer.bitquery.io/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Blockchain
+    url: https://www.blockchain.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Flashpoint
+    url: >-
+      https://flashpoint.io/resources/research/flashpoint-and-chainalysis-investigate-hydra-where-cryptocurrency-cybercrime-goes-dark/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Intel471
+    url: https://intel471.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Tatum
+    url: https://tatum.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: bitquery
+    url: https://www.bitquery.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Bitcoin Abuse
+    url: https://www.bitcoinabuse.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: GraphSense
+    url: https://github.com/INTERPOL-Innovation-Centre/GraphSense-Maltego-transform
+    tags:
+      - maltego
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Blockhain Explorer
+    url: https://www.blockexplorer.com/l/en-US/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: blockcypher
+    url: https://live.blockcypher.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: BTC Scan
+    url: https://btcscan.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: TON of privacy
+    url: https://github.com/aaarghhh/a_TON_of_privacy
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: OXT
+    url: https://oxt.me/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: etherscan
+    url: https://etherscan.io/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Maltego Transform ShadowDragon
+    url: https://www.maltego.com/transform-hub/socialnet/
+    tags:
+      - maltego
+    status: active
+    last_checked: '2026-06-23'
+  - name: Maltego Social Links Pro
+    url: https://www.maltego.com/transform-hub/social-links-pro/
+    tags:
+      - maltego
+      - paid
+    status: active
+    last_checked: '2026-06-23'
+  - name: trackenn
+    url: https://github.com/kennbroorg/trackenn?tab=readme-ov-file
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: tokensniffer
+    url: https://tokensniffer.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: opensea
+    url: https://opensea.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: nyckel NFT Finder
+    url: https://www.nyckel.com/nft-finder
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: chainabuse
+    url: https://www.chainabuse.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: bitinfocharts
+    url: https://bitinfocharts.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: blockchair
+    url: https://blockchair.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: chainalysis
+    url: https://www.chainalysis.com/blockchain-intelligence/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: breadcrumbs
+    url: https://www.breadcrumbs.app/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: cryptoscamdb crypto scam
+    url: https://cryptoscamdb.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

@@ -1,0 +1,214 @@
+category: Search Jurnals
+slug: search-jurnals
+group: general
+description: Search Jurnals — general resources (41 entries).
+items:
+  - name: annas-archive
+    url: https://annas-archive.pk/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Libgen
+    url: https://libgen.is/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Ieee
+    url: https://ieeexplore.ieee.org/Xplore/home.jsp
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Sciencedirect
+    url: https://www.sciencedirect.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Sinta
+    url: https://sinta.kemdikbud.go.id/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Scopus
+    url: https://www.scopus.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Onesearch ID
+    url: https://onesearch.id/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Z-Library
+    url: https://id.zlibrary-asia.se/s/?q=&type=phrase
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: DOAJ (Directory of Open Access Journals)
+    url: https://doaj.org/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: LibGen (Library Genesis) 2
+    url: https://libgen.li/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ScienceOpen
+    url: https://www.scienceopen.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: CORE
+    url: https://core.ac.uk/
+    tags:
+      - academic
+    status: active
+    last_checked: '2026-06-23'
+  - name: Springer Support
+    url: https://www.springeropen.com/journals
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Springer link 2
+    url: https://link.springer.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Academia.edu
+    url: https://www.academia.edu/
+    tags:
+      - academic
+    status: dead
+    last_checked: '2026-06-23'
+  - name: CyberLeninka
+    url: https://cyberleninka.org/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Unpaywall
+    url: https://unpaywall.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ResearchGate
+    url: https://www.researchgate.net/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Wiley Online Library
+    url: https://onlinelibrary.wiley.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Open Access Button
+    url: https://openaccessbutton.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Arjuna Kemdikbud ID
+    url: https://arjuna.kemdikbud.go.id/#/jurnal
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Bima Kemdikbud ID
+    url: https://bima.kemdikbud.go.id/pengumuman
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Rama Kemdikbud ID
+    url: https://rama.kemdikbud.go.id/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Google scholar
+    url: https://scholar.google.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Publish or Perish
+    url: https://harzing.com/resources/publish-or-perish/windows
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: mendeley
+    url: https://www.mendeley.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Sciepub
+    url: https://www.sciepub.com/portal/search.aspx
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Anjani Kemdikbud ID
+    url: https://anjani.kemdikbud.go.id/contents/prosedur-pelaporan-78074230?ctx=prosedur-pelaporan
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Zotero
+    url: https://www.zotero.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ebsco
+    url: https://www.ebsco.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: gale
+    url: https://www.gale.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: hathitrust
+    url: https://www.hathitrust.org/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: connectedpapers
+    url: https://www.connectedpapers.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: base-search
+    url: https://www.base-search.net/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: smartquantai
+    url: https://www.smartquantai.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: arxiv
+    url: https://arxiv.org/multi?group=grp_physics&%2Fform=Form+Interface
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: oa citation
+    url: https://oa.mg/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: sci-net
+    url: https://sci-net.xyz/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: elsevier - Get and search cite the jouurnal api
+    url: https://dev.elsevier.com/
+    tags:
+      - api
+    status: active
+    last_checked: '2026-06-23'
+  - name: semanticscholar
+    url: https://www.semanticscholar.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Z Librrary [ONION SITE]
+    url: http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'

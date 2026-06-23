@@ -1,0 +1,54 @@
+category: API for OSINT
+slug: api-for-osint
+group: general
+description: API for OSINT — general resources (8 entries).
+items:
+  - name: ecosyste
+    url: https://ecosyste.ms/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: API Resoruces OSINT - For Your Private Tool
+    url: https://github.com/cipher387/API-s-for-OSINT/blob/main/README.md
+    tags:
+      - api
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: API for OSINT
+    url: https://github.com/cipher387/API-s-for-OSINT
+    tags:
+      - api
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: C99's API Service
+    url: https://api.c99.nl/
+    tags:
+      - api
+    status: active
+    last_checked: '2026-06-23'
+  - name: RAPID API Collection
+    url: https://rapidapi.com/hub
+    tags:
+      - api
+    status: active
+    last_checked: '2026-06-23'
+  - name: API Hudson rock
+    url: https://docs.hudsonrock.com/
+    tags:
+      - api
+    status: active
+    last_checked: '2026-06-23'
+  - name: API LeakRadar
+    url: https://api.leakradar.io/docs
+    tags:
+      - api
+    status: active
+    last_checked: '2026-06-23'
+  - name: jojapi like rapid api
+    url: https://jojapi.com/
+    tags:
+      - api
+    status: active
+    last_checked: '2026-06-23'

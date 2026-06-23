@@ -1,0 +1,607 @@
+category: SOC & Threat Hunting
+slug: soc-threat-hunting
+group: threat
+description: SOC & Threat Hunting — threat resources (116 entries).
+items:
+  - name: vecert
+    url: https://analyzer.vecert.io/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: ransomlook
+    url: https://www.ransomlook.io/browse
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: >-
+      OPEN SOURCE MALWARE A community database, API and collaboration platform to help identify and
+      protect against open-source malware
+    url: https://opensourcemalware.com/
+    tags:
+      - api
+    status: active
+    last_checked: '2026-06-23'
+  - name: attack MITRE TTP
+    url: https://attack.mitre.org/techniques/mobile/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: breach house
+    url: https://breach.house/all_stealers
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: VMRay Sandbox
+    url: https://www.vmray.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: maltiverse
+    url: https://whatis.maltiverse.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: virusscan
+    url: https://virusscan.jotti.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: AnyRun
+    url: https://app.any.run/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ransom db
+    url: https://www.ransom-db.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: grafana
+    url: https://grafana.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: wazuh
+    url: https://wazuh.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Hudson Rock Cybercrime Intelligence Free Tools
+    url: https://www.hudsonrock.com/threat-intelligence-cybercrime-tools
+    tags:
+      - free
+    status: active
+    last_checked: '2026-06-23'
+  - name: Alien Vault
+    url: https://otx.alienvault.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Exploit db
+    url: https://www.exploit-db.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: AT&T
+    url: https://cybersecurity.att.com/resource-center#content_analyst-reports
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Yara
+    url: https://yara.readthedocs.io/en/stable/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Yara Hub
+    url: https://yaraify.abuse.ch/yarahub/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Yara Offc Repo
+    url: https://github.com/yara-rules/rules
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Virustotal
+    url: https://www.virustotal.com/gui/home/upload
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Virus Exchange
+    url: https://virus.exchange/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Malware Sample and IOC
+    url: https://github.com/rivitna/Malware
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Joesandbox
+    url: https://www.joesandbox.com/#windows
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Spiderfoot
+    url: https://www.spiderfoot.net/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Open CTI
+    url: https://github.com/OpenCTI-Platform/opencti
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Solarwinds
+    url: https://www.solarwinds.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: VMware Carbon Black Endpoint
+    url: https://www.vmware.com/products/carbon-black-cloud-endpoint.html
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Insightidr
+    url: https://www.rapid7.com/products/insightidr/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: MISP
+    url: https://www.misp-project.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: NVD
+    url: https://nvd.nist.gov/search
+    tags:
+      - official
+    status: active
+    last_checked: '2026-06-23'
+  - name: Seclist
+    url: https://seclists.org/fulldisclosure/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: CVE Mitre
+    url: https://cve.mitre.org/cve/search_cve_list.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Whois Record
+    url: https://centralops.net/co/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Abuse IP DB
+    url: https://www.abuseipdb.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Check-The-Sum
+    url: https://check-the-sum.fr/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Talos CTI
+    url: https://www.talosintelligence.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Darkfeed
+    url: https://darkfeed.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Flare
+    url: https://flare.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Mihari
+    url: https://github.com/ninoseki/mihari
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Processhacker
+    url: https://processhacker.sourceforge.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Koodous
+    url: https://koodous.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Blackite
+    url: https://blackkite.com/community/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Open Phish
+    url: https://openphish.com/phishing_feeds.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Phish Talk
+    url: https://www.phishtank.com/phish_archive.php
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Sophos
+    url: https://www.sophos.com/en-us/intelix
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Signature Base
+    url: https://github.com/Neo23x0/signature-base
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: SIEM Rules
+    url: https://www.siemrules.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Threat Feed
+    url: https://threatfeeds.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Threat Connect
+    url: https://threatconnect.com/threat-intelligence-operations-platform/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Threat Miner
+    url: https://www.threatminer.org/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Virus Share
+    url: https://virusshare.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Intel OWL
+    url: https://github.com/intelowlproject/IntelOwl/
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: RiskIQ
+    url: https://community.riskiq.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: TypeDB
+    url: https://github.com/typedb-osi/typedb-cti
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Goosint
+    url: https://github.com/ciscocsirt/gosint
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Google APT search
+    url: https://cse.google.com/cse?cx=003248445720253387346:turlh5vi4xc
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: LOKI
+    url: https://github.com/Neo23x0/Loki
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Mandiant
+    url: https://www.mandiant.com/advantage/threat-intelligence
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: IoC Editor
+    url: https://fireeye.market/apps/S7cWpi9W
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: CREST Threat Intel
+    url: >-
+      https://www.crest-approved.org/wp-content/uploads/2022/04/CREST-Cyber-Threat-Intelligence.pdf?ref=secjuice.com
+    tags:
+      - document
+    status: active
+    last_checked: '2026-06-23'
+  - name: Intel471
+    url: https://intel471.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: flashpoint
+    url: https://flashpoint.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: pestudio
+    url: https://www.winitor.com/download
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: procmon
+    url: https://learn.microsoft.com/en-us/sysinternals/downloads/procmon
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: zerofox
+    url: https://www.zerofox.com/platform/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: malpedia
+    url: https://malpedia.caad.fkie.fraunhofer.de/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: vx-underground
+    url: https://vx-underground.org/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: shellpub
+    url: https://n.shellpub.com/en
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: qianxin
+    url: https://ti.qianxin.com/en
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: CAPA MANDIANT
+    url: https://github.com/mandiant/capa
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: ShadowDragon
+    url: https://shadowdragon.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: sociallinks
+    url: https://sociallinks.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: decompiler
+    url: https://www.decompiler.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: deepdarkCTI
+    url: https://github.com/fastfire/deepdarkCTI
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: metadefender
+    url: https://metadefender.opswat.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: CTX
+    url: https://www.ctx.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Falcon Feeds
+    url: https://falconfeeds.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: NetAlertX
+    url: https://github.com/jokob-sk/NetAlertX
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: filescan
+    url: https://www.filescan.io/scan
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Malware Bazaar
+    url: https://bazaar.abuse.ch/browse/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: greynoise
+    url: https://www.greynoise.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: darktrace
+    url: https://darktrace.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: threatbook
+    url: https://threatbook.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: pulsedive
+    url: https://pulsedive.com/dashboard/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: cuckoo
+    url: https://cuckoo.cert.ee/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: polyswarm
+    url: https://polyswarm.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: recordedfuture
+    url: https://www.recordedfuture.com/vulnerability-database
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: neiki
+    url: https://tip.neiki.dev/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: dynamite.ai search pcap file
+    url: https://lab.dynamite.ai/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: packetsafari analys pcap file
+    url: https://app.packetsafari.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: cybersixgill
+    url: https://cybersixgill.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Google Safe Browsing
+    url: https://developers.google.com/safe-browsing/reference?hl=id
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Cuckoo
+    url: https://cuckoo.readthedocs.io/en/latest/installation/host/installation/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: autoruns
+    url: https://learn.microsoft.com/id-id/sysinternals/downloads/autoruns
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Awesome list malware analysis
+    url: https://github.com/rshipp/awesome-malware-analysis
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Process Hacker
+    url: https://systeminformer.sourceforge.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: remnux
+    url: https://remnux.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: intezer
+    url: https://analyze.intezer.com/scan
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Splunk
+    url: https://www.splunk.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ransomware live
+    url: https://www.ransomware.live/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Ransomware Posts
+    url: https://ransom.privtools.eu/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ID Ransomware analysis
+    url: https://id-ransomware.malwarehunterteam.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: nomoreransom
+    url: https://www.nomoreransom.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ransomwatch
+    url: https://ransomwatch.telemetry.ltd/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: tirreno
+    url: https://www.tirreno.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: capesandbox
+    url: https://capesandbox.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: docguard
+    url: https://www.docguard.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: threatfox
+    url: https://threatfox.abuse.ch/browse/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: infostealers
+    url: https://www.infostealers.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: malshare
+    url: https://malshare.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: APT Group List
+    url: >-
+      https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: threatbook
+    url: https://i.threatbook.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: huntress
+    url: https://www.huntress.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: cyble
+    url: https://cyble.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: cyfirma
+    url: https://www.cyfirma.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Google threat intelligence
+    url: >-
+      https://cloud.google.com/security/products/threat-intelligence#threat-intelligence-and-advanced-hunting
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

@@ -1,0 +1,202 @@
+category: Crypto Market & Analysis
+slug: crypto-market-analysis
+group: general
+description: Crypto Market & Analysis — general resources (39 entries).
+items:
+  - name: coinmarketcap
+    url: https://coinmarketcap.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: coinbase
+    url: https://www.coinbase.com/explore
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: binance
+    url: https://www.binance.com/en/markets
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: geckoterminal
+    url: https://www.geckoterminal.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: dexscreener
+    url: https://dexscreener.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: cryptoscamdb crypto scam
+    url: https://cryptoscamdb.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: tronscan
+    url: https://tronscan.org/#/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: walletexplorer
+    url: https://www.walletexplorer.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: bitref
+    url: https://bitref.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: blockchain
+    url: https://www.blockchain.com/explorer
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: blockexplorer
+    url: https://blockexplorer.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: blockcypher
+    url: https://live.blockcypher.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: intelx
+    url: https://intelx.io/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: oxt
+    url: https://oxt.me/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: bitcoinwhoswho
+    url: https://www.bitcoinwhoswho.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: etherscan
+    url: https://etherscan.io/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: etherchain
+    url: https://www.etherchain.org/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: web3 username search
+    url: https://app.ens.domains/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: bitinfocharts
+    url: https://bitinfocharts.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: blockchair
+    url: https://blockchair.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: bitaps
+    url: https://bitaps.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: 3pxl
+    url: https://3xpl.com/bitcoin
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: ARKHAM INTEL
+    url: https://intel.arkm.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: breadcrumbs
+    url: https://www.breadcrumbs.app/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: tonscan
+    url: https://tonscan.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ciphertrace
+    url: https://ciphertrace.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: metasleuth
+    url: https://metasleuth.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: misttrack
+    url: https://misttrack.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Tatum
+    url: https://tatum.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: chainalysis
+    url: https://www.chainalysis.com/blockchain-intelligence/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: solscan-solana
+    url: https://solscan.io/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: XMR SCAN
+    url: https://xmrscan.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: XMR SCAN 2
+    url: https://localmonero.co/blocks/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: blockscan
+    url: https://blockscan.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: open-search aleph
+    url: https://open-search.aleph-networks.eu/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: blockpath
+    url: https://blockpath.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: trmlabs
+    url: https://www.trmlabs.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Blockchain Insights Hub
+    url: https://github.com/nemo-nesciam/Blockchain-Insights-Hub?tab=readme-ov-file
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Awesome guide blockhain analysis
+    url: https://github.com/aaarghhh/awesome_osint_blockchain_analysis
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'

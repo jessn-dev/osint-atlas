@@ -1,0 +1,189 @@
+category: Document and Slides Search OSINT
+slug: document-and-slides-search-osint
+group: general
+description: Document and Slides Search OSINT — general resources (36 entries).
+items:
+  - name: filephish
+    url: https://greylensresearch.github.io/filephish/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Find-pdf-doc
+    url: http://www.findpdfdoc.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Free Full PDF
+    url: http://www.freefullpdf.com
+    tags:
+      - free
+    status: active
+    last_checked: '2026-06-23'
+  - name: SlideShare
+    url: http://www.slideshare.net
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Scribd
+    url: http://www.scribd.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Doclibra.com
+    url: https://doclibra.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: FilePursuit
+    url: https://filepursuit.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: NAPALM FTP Indexer
+    url: https://www.searchftps.net/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Cryptome - search doc about publication that are prohibited by government
+    url: https://cryptome.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Finda PDF
+    url: https://www.findapdf.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Pdf analyzer
+    url: http://pdf-analyser.edpsciences.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Tools pdf24
+    url: https://tools.pdf24.org/en/extract-images
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ArchivEye
+    url: https://github.com/eastrd/ArchivEye
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Metashield Analyzer
+    url: https://metashieldanalyzer.elevenpaths.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: CV REesume Search
+    url: https://booleanstrings.com/hidden-resumes/#gsc.tab=0&gsc.q=
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: booleanstrings document search
+    url: https://booleanstrings.com/doc-finder-storage/#gsc.tab=0&gsc.q=
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: wikileaks
+    url: https://search.wikileaks.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: pdfdrive
+    url: https://www.pdfdrive.com/search?q=password
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: goofile
+    url: https://www.kali.org/tools/goofile/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: worldbank webdocs
+    url: https://thedocs.worldbank.org/en/doc/webdocs
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Data OCCRP
+    url: https://data.occrp.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Google Search CSE File type search
+    url: https://cse.google.com/cse?cx=013991603413798772546:mu-oio3a980#gsc.tab=0&gsc.sort=
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: pdfyes
+    url: http://pdfyes.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Web Archive
+    url: https://web.archive.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: documentcloud
+    url: https://www.documentcloud.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: meawfy - mega.nz search engine
+    url: https://meawfy.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: telegra.ph
+    url: https://telegra.ph/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: mega
+    url: https://mega.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: terabox
+    url: https://www.terabox.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: mediafire
+    url: https://www.mediafire.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: justpaste
+    url: https://justpaste.it/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Harvester
+    url: https://github.com/laramies/theHarvester
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: How to view scribd
+    url: >-
+      https://www.scribd.com/embeds/<HANGEID>/content?start_page=1&view_mode=scroll&access_key=key-fFexxf7r1bzEfWu3HKwf
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Scribd docdownloader
+    url: https://docdownloader.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Scribd Downloader 2
+    url: https://scribd.vdownloaders.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Scrib Downloader 3
+    url: https://scribdownloader.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

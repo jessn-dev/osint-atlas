@@ -1,0 +1,131 @@
+category: Forums & Sites
+slug: forums-sites
+group: general
+description: Forums & Sites — general resources (25 entries).
+items:
+  - name: Bellingcat Discord
+    url: https://discord.com/invite/nTaNPmz
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Independent OSINT
+    url: https://discord.com/invite/2DGJ2EC
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: OSINT.Team
+    url: https://osint.team
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Seccodeid Forum
+    url: https://forum.seccodeid.com/category/osint
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Reddit OSINT
+    url: https://www.reddit.com/r/OSINT
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: TraceLabs Discord
+    url: https://discord.com/invite/Rn8z2QNAD9
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: IntelTechniques
+    url: https://inteltechniques.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Google Group
+    url: https://groups.google.com/?pli=1
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: 4Chan
+    url: https://4chansearch.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: boardreader
+    url: https://boardreader.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: maltego
+    url: https://www.maltego.com/categories/osint/
+    tags:
+      - maltego
+    status: active
+    last_checked: '2026-06-23'
+  - name: offensiveosint
+    url: https://www.offensiveosint.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: SANS
+    url: https://www.sans.org/blog/-must-have-free-resources-for-open-source-intelligence-osint-/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: cybdetective
+    url: https://cybdetective.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: secjuice
+    url: https://www.secjuice.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: sector35
+    url: https://sector035.nl/articles/category:week-in-osint
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ohshint
+    url: https://ohshint.gitbook.io/oh-shint-its-a-blog
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: osintcombine
+    url: https://www.osintcombine.com/blog
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: osintteam
+    url: https://osintteam.blog/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: KASE OSINT Scenario
+    url: https://kasescenarios.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Sophia Santos
+    url: https://gralhix.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Bellingcat Volunteer
+    url: https://sites.google.com/bellingcat.com/bellingcat-volunteer-community/projects-opportunities
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: benjaminstrick
+    url: https://benjaminstrick.com/blog/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: osinord
+    url: https://www.osinord.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: UK OSINT
+    url: https://www.uk-osint.net/tiktok.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

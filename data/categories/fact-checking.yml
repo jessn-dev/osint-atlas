@@ -1,0 +1,103 @@
+category: Fact Checking
+slug: fact-checking
+group: general
+description: Fact Checking — general resources (19 entries).
+items:
+  - name: Captin Fact
+    url: https://captainfact.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Fact Check
+    url: http://www.factcheck.org
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Full Fact
+    url: https://fullfact.org
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Snopes
+    url: http://www.snopes.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Verification Handbook
+    url: http://verificationhandbook.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Google Fact
+    url: https://toolbox.google.com/factcheck/explorer
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Google Fact API
+    url: https://toolbox.google.com/factcheck/apis
+    tags:
+      - api
+    status: active
+    last_checked: '2026-06-23'
+  - name: Open Measures
+    url: https://openmeasures.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Hoaxy
+    url: https://hoaxy.osome.iu.edu/
+    tags:
+      - academic
+    status: active
+    last_checked: '2026-06-23'
+  - name: FEAT Visual Tool
+    url: https://github.com/GONZOsint/FEAT
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: followeraudit
+    url: https://www.followeraudit.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: TEMPO news ID cek fakta
+    url: https://cekfakta.tempo.co/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: How to Verify Guide
+    url: https://www.howtoverify.info/Image/Where/Geolocation/Manual_geolocation
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Gephi Visual Tool
+    url: https://gephi.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: 3 new ways to check images and sources online
+    url: https://blog.google/products/search/google-search-new-fact-checking-features/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: BBC fact checking
+    url: https://www.bbc.com/news/bbcverify
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: CNN
+    url: https://edition.cnn.com/politics/fact-check
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: verificationhandbook
+    url: https://verificationhandbook.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Exposing the Invisible - The Kit
+    url: https://kit.exposingtheinvisible.org/en/index.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

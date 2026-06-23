@@ -1,0 +1,24 @@
+category: HUMINT
+slug: humint
+group: general
+description: HUMINT — general resources (3 entries).
+items:
+  - name: MICE”- the 4 pillars of CIA spy recruitment
+    url: https://spyauthor.medium.com/mice-the-4-pillars-of-cia-spy-recruitment-61d3f5cf9d3c
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: >-
+      Rethinking and Old Approach: An Alternative Framework for Agent Recruitment: From MICE to
+      RASCLS
+    url: >-
+      https://www.cia.gov/resources/csi/studies-in-intelligence/volume-57-no-1/an-alternative-framework-for-agent-recruitment-from-mice-to-rascls/
+    tags:
+      - official
+    status: active
+    last_checked: '2026-06-23'
+  - name: Decoding MICE
+    url: https://www.insurgent.ca/p/decoding-mice
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'

@@ -1,0 +1,180 @@
+category: Finding Usernames
+slug: finding-usernames
+group: people
+description: Finding Usernames — people resources (34 entries).
+items:
+  - name: 360username
+    url: https://360username.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: TraceFind
+    url: https://tracefind.info
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Snusbase
+    url: https://snusbase.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Username Checker
+    url: https://analyzeid.com/username/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: leakpeek
+    url: https://leakpeek.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: OSINT rock
+    url: https://osint.rocks/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: OSINT indsutries
+    url: https://www.osint.industries/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: lullar
+    url: https://lullar-com-3.appspot.com/en
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: namecheckr
+    url: https://www.namecheckr.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Namechk
+    url: http://www.namechk.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Knowem
+    url: http://www.knowem.com
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Instantusername
+    url: https://instantusername.com/#/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Snitch
+    url: http://snitch.name/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Checkusernames
+    url: https://checkusernames.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Maigret
+    url: https://github.com/soxoj/maigret
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Picuki
+    url: https://www.picuki.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ZoomInfo
+    url: https://www.zoominfo.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Bellingcat Username
+    url: https://bellingcat.github.io/name-variant-search/#gsc.tab=0
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: whatsmyname
+    url: https://whatsmyname.app/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: holehe
+    url: https://github.com/megadose/holehe
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: peekyou
+    url: https://www.peekyou.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: lolarchiver
+    url: https://osint.lolarchiver.com/#
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: User Searcher
+    url: https://www.user-searcher.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: idcrawl
+    url: https://www.idcrawl.com/username
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Ghunt online tools
+    url: https://app.osint.industries/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Bellingcat Name Finder
+    url: https://bellingcat.github.io/name-variant-search/#gsc.tab=0&gsc.q=%22alex%22&gsc.sort=
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: lampyre
+    url: https://lampyre.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Maigret OSINT tele bot
+    url: https://t.me/osint_maigret_bot
+    tags:
+      - telegram
+    status: active
+    last_checked: '2026-06-23'
+  - name: Leakcheck
+    url: https://leakcheck.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: castrickclues
+    url: https://castrickclues.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: usersearch
+    url: https://usersearch.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: blackbird (mostly Indonesia)
+    url: https://blackbird.mom/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: user-scanner
+    url: https://github.com/kaifcodec/user-scanner/releases/tag/v1.1.0
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: maigret 2 made by Rust
+    url: https://github.com/krishpranav/maigret/blob/master/data.json
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'

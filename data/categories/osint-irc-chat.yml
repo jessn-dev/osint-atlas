@@ -1,0 +1,20 @@
+category: OSINT IRC Chat
+slug: osint-irc-chat
+group: general
+description: OSINT IRC Chat — general resources (3 entries).
+items:
+  - name: netsplit
+    url: https://netsplit.de/channels/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: kiwiirc
+    url: https://kiwiirc.com/search
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: sn0int irc-monitor
+    url: https://sn0int.com/r/kpcyrd/irc-monitor
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

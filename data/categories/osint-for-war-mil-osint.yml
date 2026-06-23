@@ -1,0 +1,16 @@
+category: OSINT for WAR (Mil OSINT)
+slug: osint-for-war-mil-osint
+group: general
+description: OSINT for WAR (Mil OSINT) — general resources (2 entries).
+items:
+  - name: 'Investigating War Crimes: Open Source Research'
+    url: https://gijn.org/resource/reporters-guide-to-investigating-war-crimes-open-source-research/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: 'Scorched Earth: Using NASA Fire Data to Monitor War Zones'
+    url: >-
+      https://www.bellingcat.com/resources/2022/10/04/scorched-earth-using-nasa-fire-data-to-monitor-war-zones/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

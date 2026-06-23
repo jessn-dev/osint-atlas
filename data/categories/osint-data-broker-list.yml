@@ -1,0 +1,58 @@
+category: OSINT Data Broker List
+slug: osint-data-broker-list
+group: general
+description: OSINT Data Broker List — general resources (10 entries).
+items:
+  - name: yaelwrites Data-Broker-Opt-Out-List
+    url: https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: glamrock data-brokers
+    url: https://github.com/glamrock/data-brokers
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: privacyrights
+    url: https://privacyrights.org/data-brokers
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: simpleoptout
+    url: https://github.com/troy/simpleoptout
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: spokeo
+    url: https://www.spokeo.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: whitepages
+    url: https://www.whitepages.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: beenverified
+    url: https://www.beenverified.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: doxbin
+    url: https://doxbin.com/home
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: intelius
+    url: https://www.intelius.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: rocketreach
+    url: https://rocketreach.co/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

@@ -1,0 +1,19 @@
+name: validate
+on:
+  pull_request:
+    paths: ['data/**', 'scripts/**', 'src/**', 'package.json']
+  push:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '22', cache: 'npm' }
+      - run: npm ci
+      - name: Schema validate
+        run: npm run data:validate
+      - name: Build feed
+        run: npm run data:build

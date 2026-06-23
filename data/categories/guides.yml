@@ -1,0 +1,86 @@
+category: Guides
+slug: guides
+group: general
+description: Guides — general resources (15 entries).
+items:
+  - name: Bellingcat
+    url: https://bellingcat.gitbook.io/toolkit/resources/guides-and-handbooks
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Dukera Gewel OSINT
+    url: https://publish.obsidian.md/dukera-gewel/about
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Soxoj Sowel
+    url: https://sowel.soxoj.com/about
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Linkedin Guide
+    url: https://hatless1der.com/new-linkedin-search-features-mean-new-osint-opportunities/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: intelligence.eu - Chrome extension for journalist
+    url: >-
+      https://i-intelligence.eu/insights/the-best-chrome-extensions-for-osint-professionals-researchers-and-journalists-in-2024
+    tags:
+      - browser-extension
+    status: active
+    last_checked: '2026-06-23'
+  - name: media manipulators to target journalists and other influential public figures
+    url: https://datasociety.net/wp-content/uploads/2019/09/Source-Hacking_Hi-res.pdf
+    tags:
+      - document
+    status: active
+    last_checked: '2026-06-23'
+  - name: How to Investigate a Cryptocurrency Scammer
+    url: https://www.onchain.industries/blog/how-to-investigate-a-cryptocurrency-scammer
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Unique 0-click deanonymization attack targeting Signal, Discord and hundreds of platform
+    url: https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: google initiative news - Basic GEE
+    url: https://newsinitiative.withgoogle.com/resources/trainings/introduction-to-google-earth-engine/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: OSINT TIPS AND GUIDE
+    url: https://ohshint.gitbook.io/oh-shint-its-a-blog/osint/osint-protips
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Using Flight Tracking For Geolocation
+    url: https://nixintel.info/osint/using-flight-tracking-for-geolocation-quiztime-30th-october-2019/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: How Reverse Phone Lookups Work [with OSINT Industries]
+    url: https://www.osint.industries/post/how-reverse-phone-lookups-work-with-osint-industries
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: 'OSINT Basics: Reverse Email Lookup'
+    url: https://www.osint.industries/post/reverse-email-lookup-the-basics
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: OPEN SOURCE INTELLIGENCE TOOLS AND RESOURCES HANDBOOK
+    url: >-
+      https://drive.google.com/viewerng/viewer?url=https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_June-2018_Final.pdf
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Forensic and check image AI generate or not
+    url: >-
+      https://www.science.org/content/article/deepfakes-are-everywhere-godfather-digital-forensics-fighting-back
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'

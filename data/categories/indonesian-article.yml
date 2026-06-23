@@ -1,0 +1,67 @@
+category: Indonesian Article
+slug: indonesian-article
+group: reference
+description: Indonesian Article — reference resources (11 entries).
+items:
+  - name: OSINT Open Source Intelligence Fundamental
+    url: https://blog.seccodeid.com/2022/09/osint-open-source-intelligence.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: OSINT Tutorial Maltego -Open Source Intelligence Free Handbook
+    url: https://blog.tegalsec.org/osint-tutorial-maltego-open-source-intelligence-free-handbook/
+    tags:
+      - free
+      - maltego
+    status: active
+    last_checked: '2026-06-23'
+  - name: Open Source Intelligence - Open Source Threat Intelligence
+    url: https://blog.seccodeid.com/2022/01/open-source-intelligence-open-source.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Metode pelacakan osint dan keaslian sumber
+    url: https://blog.seccodeid.com/2021/05/metode-pelacakan-osint-dan-keaslian.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Panduan Untuk Social Media Intelligence Gathering (SOCMINT)
+    url: https://blog.seccodeid.com/2020/08/panduan-untuk-social-media-intelligence.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: OSINT tips and trick technique hunt your target
+    url: >-
+      https://blog.seccodeid.com/2021/11/httpsblog.seccodeid.com202111osint-tips-and-trick-technique-hunt-id.html.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Melacak Posisi Berdasarkan LAC dan Cell ID pada Simcard No.Handphone
+    url: >-
+      https://1sit.blog.amikom.me/2015/05/29/melacak-posisi-berdasarkan-lac-dan-cell-id-pada-simcard-no-handphone/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Identitas BTS
+    url: http://karionotelco.blogspot.com/p/blog-page_6191.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Bagaimana Lokasi Kita Ditemukan Dengan Triangulasi
+    url: https://medium.com/@adya/bagaimana-lokasi-kita-ditemukan-dengan-triangulasi-3b87796c1dd
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Cegah Website Tampilkan Konten Judi Online dengan Cloudflare Worker
+    url: >-
+      https://mastomi.id/articles/2025-01/cegah-website-tampilkan-konten-judol-dengan-cloudflare-worker
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Melacak Pengguna Telegram Menggunakan Fitur People Nearby
+    url: >-
+      https://candramawa.medium.com/melacak-pengguna-telegram-menggunakan-fitur-people-nearby-bd841f561e36
+    tags:
+      - telegram
+    status: active
+    last_checked: '2026-06-23'

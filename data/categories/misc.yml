@@ -1,0 +1,88 @@
+category: MISC
+slug: misc
+group: general
+description: MISC — general resources (16 entries).
+items:
+  - name: Awesome Telegram
+    url: https://github.com/ebertti/awesome-telegram
+    tags:
+      - open-source
+      - telegram
+    status: active
+    last_checked: '2026-06-23'
+  - name: osintrack
+    url: https://osintrack.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: pasal ID
+    url: https://pasal.id/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: tubeoffline - Tools and media downloader
+    url: https://www.tubeoffline.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: humantraffickingsearch
+    url: https://humantraffickingsearch.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: turboscribe - YT Tools and downloander and conveter
+    url: https://turboscribe.ai/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: telegra.ph
+    url: https://telegra.ph/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: List of interesting and active OSINT researchers/bloggers
+    url: https://github.com/ubikron/OSINT-People
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: OSINT of Israel
+    url: https://unishka.substack.com/p/osint-of-israel
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: OSINT of Indonesia
+    url: https://unishka.substack.com/p/osint-of-indonesia
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: OSINT of the Philippines
+    url: https://unishka.substack.com/p/osint-of-the-philippines
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: OSINT of UAE
+    url: https://unishka.substack.com/p/osint-of-uae
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: OSINT of Syria
+    url: https://unishka.substack.com/p/osint-of-syria
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: OSINT of Iraq
+    url: https://unishka.substack.com/p/osint-of-iraq
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: OSINT of Egypt
+    url: https://unishka.substack.com/p/osint-of-egypt
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: OSINT of India
+    url: https://unishka.substack.com/p/osint-of-india
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

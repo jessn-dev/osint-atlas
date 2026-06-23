@@ -1,0 +1,1182 @@
+category: Geospatial Research and Mapping Tools
+slug: geospatial-research-and-mapping-tools
+group: geoint
+description: Geospatial Research and Mapping Tools — geoint resources (230 entries).
+items:
+  - name: geoseeer AI Geo find
+    url: https://geoseeer.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: plonkit guide for geospatial
+    url: https://www.plonkit.net/guide
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Apple Maps
+    url: https://beta.maps.apple.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Atlasify
+    url: http://www.atlasify.com
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Batchgeo
+    url: http://batchgeo.com
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Bing Maps
+    url: http://www.bing.com/maps
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: CartoDB
+    url: https://cartodb.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Colorbrewer
+    url: http://colorbrewer2.org
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: CrowdMap
+    url: https://crowdmap.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Dominoc925
+    url: https://dominoc925-pages.appspot.com/mapplets/cs_mgrs.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: DualMaps
+    url: https://www.mapchannels.com/dualmaps7/map.htm
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: GeoGig
+    url: http://geogig.org
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: GeoNames
+    url: http://www.geonames.org
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Esri
+    url: http://www.esri.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Flash Earth
+    url: http://www.flashearth.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Google Earth
+    url: http://www.google.com/earth
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Google Earth Pro
+    url: https://www.google.com/intl/en/earth/versions/#earth-pro
+    tags:
+      - paid
+    status: active
+    last_checked: '2026-06-23'
+  - name: Google Maps
+    url: https://www.google.com/maps
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Google Maps Streetview Player
+    url: http://brianfolts.com/driver
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Google My Maps
+    url: https://www.google.com/maps/about/mymaps
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: GPSVisualizer
+    url: http://www.gpsvisualizer.com
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: GrassGIS
+    url: http://grass.osgeo.org
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Here
+    url: http://here.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Hyperlapse Google Street View
+    url: https://github.com/TeehanLax/Hyperlapse.js
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Inspire Geoportal
+    url: http://inspire-geoportal.ec.europa.eu
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: InstantAtlas
+    url: http://www.instantatlas.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Instant Google Street View
+    url: http://www.instantstreetview.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Kartograph
+    url: http://kartograph.org
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Leaflet
+    url: http://leafletjs.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: MapAList
+    url: http://mapalist.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: MapBox
+    url: https://www.mapbox.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Mapbuildr
+    url: https://mapbuildr.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Mapchart.net
+    url: https://mapchart.net
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Maperitive
+    url: http://maperitive.net
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: MapHub
+    url: https://maphub.net
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: MapJam
+    url: http://mapjam.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Mapline
+    url: https://mapline.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Map Maker
+    url: https://maps.co
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Mapquest
+    url: https://www.mapquest.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Modest Maps
+    url: http://modestmaps.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: NGA GEOINT
+    url: https://github.com/ngageoint
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: OpenLayers
+    url: http://openlayers.org
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Polymaps
+    url: http://polymaps.org
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Perry Castaneda Library
+    url: https://www.lib.utexas.edu/maps
+    tags:
+      - academic
+    status: active
+    last_checked: '2026-06-23'
+  - name: Open Street Map
+    url: http://www.openstreetmap.org
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: QGIS
+    url: http://qgis.org
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Scribble Maps
+    url: http://scribblemaps.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Terrapattern
+    url: http://www.terrapattern.com
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Tableau
+    url: http://www.tableausoftware.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Timescape
+    url: https://www.timescape.io
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: View in Google Earth
+    url: http://www.mgmaps.com/kml/#view
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Wikimapia
+    url: http://wikimapia.org
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: World Aeronautical Database
+    url: http://worldaerodata.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: WorldMap Harvard
+    url: http://worldmap.harvard.edu
+    tags:
+      - academic
+    status: active
+    last_checked: '2026-06-23'
+  - name: ViaMichelin
+    url: http://www.viamichelin.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Yahoo Maps
+    url: https://maps.yahoo.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Zeemaps
+    url: https://www.zeemaps.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Sentinel Hub
+    url: https://www.sentinel-hub.com/explore/sentinelplayground/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Maxar
+    url: https://discover.digitalglobe.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Zoom Earth
+    url: https://zoom.earth/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Remote Pixel
+    url: https://remotepixel.ca/projects/index.html
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: SunCalc
+    url: https://www.suncalc.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: mooncalc
+    url: https://www.mooncalc.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: planetscalc
+    url: https://www.planetscalc.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: moonsighting
+    url: https://www.moonsighting.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: mooncalendar
+    url: https://www.mooncalc.org/mooncalendar/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ArcGIS
+    url: https://livingatlas.arcgis.com/en/browse/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Pic2Map
+    url: https://www.pic2map.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Mapillary
+    url: https://www.mapillary.com/app/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: KartaView
+    url: https://kartaview.org/map/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Satellites Pro
+    url: https://satellites.pro/
+    tags:
+      - paid
+    status: active
+    last_checked: '2026-06-23'
+  - name: Liveuamap
+    url: https://liveuamap.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Descartes Labs
+    url: https://maps.descarteslabs.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Baidu Maps
+    url: https://map.baidu.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: QQ map
+    url: https://map.qq.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: MapChecking
+    url: https://www.mapchecking.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Windy
+    url: https://www.windy.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: SOAR
+    url: https://soar.earth/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: digiKam
+    url: https://www.digikam.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: geoq
+    url: https://github.com/ngageoint/geoq
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: gvision
+    url: https://github.com/GONZOsint/gvision
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: OSM Bellingcat
+    url: https://osm-search.bellingcat.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: labs.tib.eu
+    url: https://labs.tib.eu/geoestimation/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: sketchmapper
+    url: https://sketchmapper.cellgrid.co/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: github sketchmapper
+    url: https://github.com/mlkin/sketchmapper
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: byt-georagging
+    url: https://github.com/Yachay-AI/byt5-geotagging
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: CSIS maps
+    url: https://amti.csis.org/maps/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Humdata maps
+    url: https://data.humdata.org/group
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Planet - satellite maps
+    url: https://www.planet.com/products/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: OSM Finder
+    url: https://github.com/Xetnus/osm-finder
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: OSM Finder - Web based
+    url: https://osm-finder.netlify.app/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Wayback Geospatial
+    url: https://livingatlas.arcgis.com/wayback
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Twitter Geo
+    url: http://geosocialfootprint.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Insta Geo
+    url: https://github.com/bellingcat/instagram-location-search
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: NASA EARTH
+    url: https://www.earthdata.nasa.gov/learn/find-data/near-real-time/firms
+    tags:
+      - official
+    status: active
+    last_checked: '2026-06-23'
+  - name: EARTH DATA NASA
+    url: https://wvs.earthdata.nasa.gov/
+    tags:
+      - official
+    status: active
+    last_checked: '2026-06-23'
+  - name: peakvisor
+    url: https://peakvisor.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: peakfinder
+    url: https://www.peakfinder.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Calc Map Coordinate
+    url: https://www.calcmaps.com/map-coordinates/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Latlong Calc
+    url: https://www.latlong.net/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Gps Visualizer
+    url: https://www.gpsvisualizer.com/calculators
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Iq Air
+    url: https://www.iqair.com/id/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: NASA Earth Data
+    url: https://search.earthdata.nasa.gov/search
+    tags:
+      - official
+    status: active
+    last_checked: '2026-06-23'
+  - name: NASA World View
+    url: https://worldview.earthdata.nasa.gov/
+    tags:
+      - official
+    status: active
+    last_checked: '2026-06-23'
+  - name: Earth Exploer
+    url: https://earthexplorer.usgs.gov/
+    tags:
+      - official
+    status: active
+    last_checked: '2026-06-23'
+  - name: Sky Watch Earth Cache
+    url: https://skywatch.com/earthcache/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Skylens
+    url: https://app.skylens.io/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Corona Atlsa
+    url: https://corona.cast.uark.edu/
+    tags:
+      - academic
+    status: active
+    last_checked: '2026-06-23'
+  - name: BMKG RI
+    url: https://www.bmkg.go.id/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: GIS INA
+    url: https://tanahair.indonesia.go.id/portal-web/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Kpler
+    url: https://www.kpler.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: wanderlog review on Google maps
+    url: https://wanderlog.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: planet
+    url: https://www.planet.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: NBR Map
+    url: https://map.nbr.org/interactivemap/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: geohints
+    url: https://geohints.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: geotips
+    url: https://geotips.net/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: shademap
+    url: https://shademap.app/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: shadowmap
+    url: https://shadowmap.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: livingatlas wayback Guide
+    url: >-
+      https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/use-world-imagery-wayback/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: supermapol
+    url: https://www.supermapol.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: supermapol docs
+    url: https://doc.supermapol.com/en/Introduction/Introduction.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: gpsjam
+    url: https://gpsjam.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: freemaptools
+    url: https://www.freemaptools.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: bbbike
+    url: https://mc.bbbike.org/mc/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: geojson
+    url: https://geojson.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: moon timeanddate
+    url: https://www.timeanddate.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: urbanaccessregulations
+    url: https://urbanaccessregulations.eu/userhome/map
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: mapsm
+    url: https://mapsm.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: picarta
+    url: https://picarta.ai/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Kaseware Geospatial
+    url: https://www.kaseware.com/geospatial-analysis-software
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: nominatim OSM
+    url: https://nominatim.openstreetmap.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Calculator IPVM
+    url: https://calculator.ipvm.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: f4map
+    url: https://demo.f4map.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: osmbuildings
+    url: https://osmbuildings.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: geospy
+    url: https://geospy.ai/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: unwiredlabs
+    url: https://unwiredlabs.com/products
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: copernix
+    url: https://copernix.io/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: skydb DB for building
+    url: https://www.skydb.net/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: dataspace copernicus EU
+    url: https://browser.dataspace.copernicus.eu/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: openinframap
+    url: https://openinframap.org/#2/57.92/72.82/L,O
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: openseamap
+    url: https://map.openseamap.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: openstreetbrowser
+    url: https://openstreetbrowser.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: maproulette
+    url: https://maproulette.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Old maps online
+    url: https://www.oldmapsonline.org/en/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: graylark
+    url: https://graylark.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: earthkit
+    url: https://earthkit.app/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: drivingdirectionsandmaps
+    url: https://www.drivingdirectionsandmaps.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: virtualglobetrotting
+    url: https://virtualglobetrotting.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Population Count
+    url: https://landscan.ornl.gov/
+    tags:
+      - official
+    status: active
+    last_checked: '2026-06-23'
+  - name: grid Area mapping
+    url: https://grid.bellingcat.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Maritim world lightphotos
+    url: https://www.lightphotos.net/photos/map_all.php
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: geohack
+    url: https://geohack.toolforge.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: alltrails
+    url: https://www.alltrails.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: pastvu map
+    url: https://pastvu.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Latest change OSM
+    url: https://rene78.github.io/latest-changes/#5/-3.448/115.532
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: OSM - Taginfo
+    url: https://taginfo.openstreetmap.org/keys
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Bellingcat Google Maps review Filename Chrome Extension
+    url: https://www.bellingcat.com/resources/2024/10/15/google-maps-image-filename-finder-tool/
+    tags:
+      - browser-extension
+    status: active
+    last_checked: '2026-06-23'
+  - name: SOAR Earth
+    url: https://soar.earth/maps?
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: dual maps
+    url: https://data.mashedworld.com/dualmaps/map.htm
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: instantstreetview
+    url: https://www.instantstreetview.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: skyscrapercenter Buildings
+    url: https://www.skyscrapercenter.com/buildings
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Geo and 3D building in Istanbul
+    url: https://harita.istanbul/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: anvaka city road creator
+    url: https://anvaka.github.io/city-roads
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Windows mapp
+    url: https://apps.microsoft.com/detail/9wzdncrdtbvb?hl=en-US&gl=US
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: worldatlas
+    url: https://www.worldatlas.com/countries
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: earthquake hazards USGS
+    url: https://www.usgs.gov/programs/earthquake-hazards
+    tags:
+      - official
+    status: active
+    last_checked: '2026-06-23'
+  - name: ID earthquake bmkg
+    url: https://www.bmkg.go.id/gempabumi/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: mapcreator
+    url: https://mapcreator.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: google initiative news - Basic GEE
+    url: https://newsinitiative.withgoogle.com/resources/trainings/introduction-to-google-earth-engine/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: shadowbreakintl
+    url: https://www.shadowbreakintl.com/#products
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: earthkit
+    url: https://agent.earthkit.app/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: solara-maxar
+    url: https://github.com/opengeos/solara-maxar
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: qgis
+    url: https://qgis.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: showmystreet
+    url: https://showmystreet.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: geoguessr GPT
+    url: https://chatgpt.com/g/g-brlHi7t2R-geoguessr-gpt
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: findpiclocation
+    url: https://findpiclocation.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: sveaflet
+    url: https://sveaflet.vercel.app/docs/pages/introduction
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: chinaconnects
+    url: https://chinaconnects.iiss.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: citywalki
+    url: https://www.citywalki.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: openhistoricalmap
+    url: https://www.openhistoricalmap.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: chronas
+    url: https://www.chronas.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: river-runner-global
+    url: https://river-runner-global.samlearner.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: skyscraperpage
+    url: https://skyscraperpage.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: geograph - mostly europe
+    url: https://www.geograph.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: airpano
+    url: https://www.airpano.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: notable-people
+    url: https://tjukanovt.github.io/notable-people
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: OSM leaflet
+    url: https://osm-gadget-leaflet.toolforge.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: geoportal ESDM Mineral and other ID
+    url: https://geoportal.esdm.go.id/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: earthquake USGS map
+    url: https://earthquake.usgs.gov/
+    tags:
+      - official
+    status: active
+    last_checked: '2026-06-23'
+  - name: worldmonitor map
+    url: https://worldmonitor.app/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: GeoSentinel
+    url: https://github.com/h9zdev/GeoSentinel
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: irwatch
+    url: https://irwatch.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: saucenao
+    url: https://saucenao.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: whatiswhere like osm
+    url: https://www.whatiswhere.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Kamerka
+    url: https://github.com/woj-ciech/Kamerka-GUI
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: SHP to KML Converrt
+    url: https://mygeodata.cloud/converter/shp-to-kml
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Geojson to KML Convert
+    url: https://mygeodata.cloud/converter/geojson-to-kml
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: geojson
+    url: https://geojson.io/#map=5.37/-4.098/137.614
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: geojson
+    url: https://geojson.tools/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: mapshaper
+    url: https://mapshaper.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: tubvsig-so2sat-vm1.srv.mwn
+    url: https://tubvsig-so2sat-vm1.srv.mwn.de/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: osm-3d globe
+    url: https://osm-3d.org/screenshots.en.htm
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: OSM 3D Map Lists Awesome
+    url: https://wiki.openstreetmap.org/wiki/3D
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: streets gl
+    url: https://streets.gl/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: G maps
+    url: https://maps.google.com/maps
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: G earth
+    url: https://earth.google.com/web
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: arcgis
+    url: https://www.arcgis.com/home/webscene/viewer.html?layers=ca0470dbbddb4db28bad74ed39949e25
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: hub arcgis
+    url: https://hub.arcgis.com/maps/ca0470dbbddb4db28bad74ed39949e25/about
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: onegeo
+    url: https://onegeo.co/data/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: osmbuildings
+    url: https://osmbuildings.org/?lat=31.54568&lon=34.45578&zoom=16.8&tilt=30
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: maptoolkit
+    url: https://www.maptoolkit.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: maptiler
+    url: https://www.maptiler.com/maps/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: 3D mapper
+    url: https://3d-mapper.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Blender 3D maker
+    url: https://www.blender.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: 3D Maker by OSM
+    url: https://osmbuildings.org/documentation/leaflet/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Microsoft GlobalMLBuildingFootprints
+    url: https://github.com/microsoft/GlobalMLBuildingFootprints
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Microsoft flightsimulator
+    url: https://www.flightsimulator.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: wego here
+    url: https://wego.here.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: sunpath3d
+    url: https://drajmarsh.bitbucket.io/sunpath3d.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Microsoft Building Dataset
+    url: https://planetarycomputer.microsoft.com/dataset/ms-buildings
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: maps3d
+    url: https://maps3d.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: osm2world
+    url: https://osm2world.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: euspaceimaging
+    url: https://www.euspaceimaging.com/products/3d-products/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: cesium
+    url: https://cesium.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: arcgis webscene
+    url: https://www.arcgis.com/home/webscene/viewer.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: samgeo
+    url: https://samgeo.gishub.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: leafmap
+    url: https://leafmap.org/#youtube-channel
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: nationsonline Country Codes List
+    url: https://www.nationsonline.org/oneworld/country_code_list.htm
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Earth Engine Doc
+    url: https://developers.google.com/earth-engine/guides/getstarted
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: 'Google Earth Engine: A Quick Guide for Beginners'
+    url: https://gisgeography.com/google-earth-engine/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

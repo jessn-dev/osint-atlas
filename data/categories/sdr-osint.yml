@@ -1,0 +1,55 @@
+category: SDR OSINT
+slug: sdr-osint
+group: general
+description: SDR OSINT — general resources (10 entries).
+items:
+  - name: map sdr points
+    url: https://rx-tx.info/map-sdr-points
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Airspy SDR RADIO
+    url: https://www.sdr-radio.com/airspy-server
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: AirSpy MAP
+    url: https://airspy.com/directory/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: WEB SDR
+    url: http://websdr.ewi.utwente.nl:8901/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Bellingcat Radar
+    url: https://ollielballinger.users.earthengine.app/view/bellingcat-radar-interference-tracker
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Wireshark
+    url: https://www.wireshark.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: radioreference
+    url: https://www.radioreference.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: hamnetdb
+    url: https://hamnetdb.net/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: sdr-radio
+    url: https://www.sdr-radio.com/gallery
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: radio garden
+    url: https://radio.garden/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

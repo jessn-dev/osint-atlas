@@ -1,0 +1,123 @@
+category: OSINT Technique Tips
+slug: osint-technique-tips
+group: web
+description: OSINT Technique Tips — web resources (22 entries).
+items:
+  - name: Awesome guide attack vector OSINT
+    url: https://github.com/sinwindie/OSINT
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Bellingcat Guides Tools and Handbook
+    url: https://bellingcat.gitbook.io/toolkit/resources/guides-and-handbooks
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: osintcombine
+    url: https://www.osintcombine.com/post/dark-web-searching
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: overtoperator
+    url: https://www.overtoperator.com/s/daily-intel-brief
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: maltego
+    url: https://www.maltego.com/blog/top-osint-infosec-resources-for-you-and-your-team/
+    tags:
+      - maltego
+    status: active
+    last_checked: '2026-06-23'
+  - name: skopenow image int
+    url: https://www.skopenow.com/resource-center/image-based-osint-investigations-tips-techniques
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Telegram OSINT
+    url: https://github.com/Ginsberg5150/Discord-and-Telegram-OSINT-references
+    tags:
+      - open-source
+      - telegram
+    status: active
+    last_checked: '2026-06-23'
+  - name: OSINT Handbook
+    url: https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf
+    tags:
+      - document
+    status: active
+    last_checked: '2026-06-23'
+  - name: The Threat Intelligence Lifecycle
+    url: https://www.recordedfuture.com/threat-intelligence-lifecycle
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Five Phashes of the Threat Intelligence Lifecycle
+    url: https://flashpoint.io/blog/threat-intelligence-lifecycle/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Threat Intelligence Lifecycle Phases & Best Practices Explained
+    url: https://snyk.io/learn/threat-intelligence/threat-intelligence-lifecycle/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Open-Source Intelligence (OSINT) Cycle
+    url: https://securityorb.com/featured/the-open-source-intelligence-osint-cycle/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Learn and training OSINT free
+    url: https://sites.google.com/view/tpdprivacy/home?authuser=0
+    tags:
+      - free
+    status: active
+    last_checked: '2026-06-23'
+  - name: Bellingcat Resouces Guide
+    url: https://www.bellingcat.com/category/resources/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Guide for verification and SOCMINT
+    url: https://datajournalism.com/read/handbook/verification-3
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Youtube OSINT Tutorial
+    url: https://www.youtube.com/playlist?list=PLrFPX1Vfqk3ehZKSFeb9pVIHqxqrNW8Sy
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Ethical and about more OSINT
+    url: https://stanleycenter.org/publications/osint-applied-ethics-workbook/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Exposing the Invisible - The Kit
+    url: https://kit.exposingtheinvisible.org/en/index.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: The Atypical OSINT Guide
+    url: >-
+      https://github.com/OffcierCia/non-typical-OSINT-guide?tab=readme-ov-file#introduction-civil-osint
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: cheatsheet - awesome list checklist OSINT and OSINT Branch
+    url: https://cheatsheet.haax.fr/open-source-intelligence-osint/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: osintnewsletter
+    url: https://osintnewsletter.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Millitary OSINT
+    url: https://drive.google.com/drive/folders/1S6f4Qgt9p9x6h9fnfMWTp18WY6rRstjU
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

@@ -1,0 +1,11 @@
+category: Dorking
+slug: dorking
+group: breach
+description: Dorking — breach resources (1 entries).
+items:
+  - name: Dorking list 2
+    url: https://github.com/yogsec/One-Liner-OSINT
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'

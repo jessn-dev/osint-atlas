@@ -1,0 +1,15 @@
+category: OSINT Property
+slug: osint-property
+group: general
+description: OSINT Property — general resources (2 entries).
+items:
+  - name: ZILLOW
+    url: https://www.zillow.com/homes/for_sale/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: trulia
+    url: https://www.trulia.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

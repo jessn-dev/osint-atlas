@@ -1,0 +1,31 @@
+category: Dorking Other Search Engine
+slug: dorking-other-search-engine
+group: breach
+description: Dorking Other Search Engine — breach resources (5 entries).
+items:
+  - name: YANDEX
+    url: https://seosly.com/blog/yandex-search-operators/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: BING
+    url: https://seosly.com/blog/bing-search-operators/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: mediasova
+    url: https://search.mediasova.com/en/index
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: wbmii
+    url: https://webmii.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: YaSeeker - Yandex Search Tools
+    url: https://github.com/HowToFind-bot/YaSeeker
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'

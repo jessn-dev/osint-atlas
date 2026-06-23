@@ -1,0 +1,91 @@
+category: OSINT Shadow Analysis
+slug: osint-shadow-analysis
+group: general
+description: OSINT Shadow Analysis — general resources (17 entries).
+items:
+  - name: andrewmarsh sun path 3d
+    url: https://andrewmarsh.com/software/sunpath3d-web/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: suncalc
+    url: https://www.suncalc.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: timeanddate
+    url: https://www.timeanddate.com/weather/indonesia/jakarta/historic
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: sunearthtools
+    url: https://www.sunearthtools.com/dp/tools/pos_sun.php
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: academo azimuth calc
+    url: https://academo.org/demos/azimuth-calculator/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: findmyshadow
+    url: https://www.findmyshadow.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: shadowcalculator
+    url: http://shadowcalculator.eu/#/lat/50.08/lng/19.9
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: shademap
+    url: https://shademap.app/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: bellingcat shadow finder
+    url: https://github.com/bellingcat/ShadowFinder
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Moon Calc
+    url: https://www.mooncalc.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: moonsighting
+    url: https://www.moonsighting.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: mooncalendar
+    url: https://www.mooncalc.org/mooncalendar/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Dcode Azimuth Calc
+    url: https://www.dcode.fr/azimuth
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: carbidedepot Trigonometry Calculator
+    url: https://www.carbidedepot.com/formulas-trigright.asp
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: shadowmap
+    url: https://app.shadowmap.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: gaisma sunrise, sunset arround world
+    url: https://www.gaisma.com/en/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: sunpath3d
+    url: https://drajmarsh.bitbucket.io/sunpath3d.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

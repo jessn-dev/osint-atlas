@@ -1,0 +1,31 @@
+category: OSINT The Artists
+slug: osint-the-artists
+group: general
+description: OSINT The Artists — general resources (5 entries).
+items:
+  - name: Artnet
+    url: https://www.artnet.com/artists/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: NGV AU
+    url: https://www.ngv.vic.gov.au/explore/collection/
+    tags:
+      - official
+    status: active
+    last_checked: '2026-06-23'
+  - name: influzoom
+    url: https://influzoom.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: google arts and culture
+    url: https://artsandculture.google.com/explore
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: famousbirthdays
+    url: https://www.famousbirthdays.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

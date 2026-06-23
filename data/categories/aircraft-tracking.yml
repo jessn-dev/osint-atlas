@@ -1,0 +1,246 @@
+category: Aircraft Tracking
+slug: aircraft-tracking
+group: general
+description: Aircraft Tracking — general resources (47 entries).
+items:
+  - name: Phantom Tide
+    url: https://phantom.labs.jamessawyer.co.uk/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: aerobasegroup
+    url: https://aerobasegroup.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: flightmapper
+    url: https://flightmapper.net/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: flightradar24
+    url: https://www.flightradar24.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: flightaware
+    url: https://www.flightaware.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: radarbox
+    url: https://www.radarbox.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: adsbexchange
+    url: https://globe.adsbexchange.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Planefinder
+    url: https://planefinder.net/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Live ATC
+    url: https://www.liveatc.net/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: planespotters
+    url: https://www.planespotters.net/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: theaviationist
+    url: https://theaviationist.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: airrecognition
+    url: https://web.archive.org/web/20240000000000*/https://airrecognition.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: federal aviation administration
+    url: https://www.faa.gov/
+    tags:
+      - official
+    status: active
+    last_checked: '2026-06-23'
+  - name: adsb one
+    url: https://adsb.one/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: adsb lol
+    url: https://www.adsb.lol/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: adsb fi
+    url: https://adsb.fi/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: open sky network
+    url: https://opensky-network.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: adsb im
+    url: https://www.adsb.im/home
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: flightsafety
+    url: https://asn.flightsafety.org/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: airfleets
+    url: https://www.airfleets.net/home/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: skyvector
+    url: https://skyvector.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: flightconnections
+    url: https://www.flightconnections.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: flight status check current flight
+    url: https://flight-status.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: jetphotos
+    url: https://www.jetphotos.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: raf
+    url: https://www.raf.mod.uk/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: skytrack
+    url: https://github.com/ANG13T/skytrack
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: dictatoralert
+    url: https://dictatoralert.org/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: airspace
+    url: https://www.airspace-review.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: airframes
+    url: https://www.airframes.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Aircraft Mil Dataset
+    url: https://github.com/sdr-enthusiasts/plane-alert-db
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: live-military
+    url: https://www.live-military-mode-s.eu/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: theairtraffic
+    url: https://globe.theairtraffic.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ADS hub Station
+    url: https://www.adsbhub.org/stations.php
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: airportia
+    url: https://www.airportia.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: utopiax
+    url: https://www.utopiax.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Civil Aircraft Register ID
+    url: >-
+      https://web.archive.org/web/20241222182708/https://imsis-djpu.dephub.go.id/PortalDKPPU/CAR2023-eng.pdf
+    tags:
+      - account-required
+      - document
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Plane Registration
+    url: https://id.wikipedia.org/wiki/Registrasi_pesawat
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Plane Registration 2
+    url: https://en.wikipedia.org/wiki/List_of_aircraft_registration_prefixes
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Military Aircraft Wiki
+    url: https://en.wikipedia.org/wiki/Military_aircraft
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Search Model Aircraft
+    url: https://dna.icao.int/wagmar/Search/InitAircraftSearchModel
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ADS B Tracking Military Aircraft
+    url: https://www.ads-b.nl/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: military radar
+    url: https://military.freedar.uk/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: airplanes
+    url: https://globe.airplanes.live/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: airnavradar
+    url: https://www.airnavradar.com/data/flights
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: aireon
+    url: https://aireon.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: IATA check airlines code
+    url: https://www.iata.org/en/publications/directories/code-search/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: rzjets
+    url: https://rzjets.net/aircraft/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'

@@ -1,0 +1,16 @@
+# build output
+dist/
+.astro/
+
+# deps
+node_modules/
+
+# generated data feed (built from data/categories/*.yml)
+public/osint.json
+
+# env / os
+.env
+.env.*
+.DS_Store
+*.log
+.idea

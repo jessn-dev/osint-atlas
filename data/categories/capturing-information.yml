@@ -1,0 +1,57 @@
+category: Capturing Information
+slug: capturing-information
+group: general
+description: Capturing Information — general resources (10 entries).
+items:
+  - name: HTTrack
+    url: https://www.httrack.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Wayback Machine
+    url: https://archive.org/web/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: cachedview
+    url: https://cachedview.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: url png
+    url: https://www.url2png.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Bellingcat Auto Archive
+    url: https://github.com/bellingcat/auto-archiver
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Archive today
+    url: https://archive.ph/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: flameshot
+    url: https://flameshot.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Googl earth pro
+    url: https://earth.google.com/web
+    tags:
+      - paid
+    status: active
+    last_checked: '2026-06-23'
+  - name: Wayback Twitter
+    url: https://waybacktweets.streamlit.app/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: OBS
+    url: https://obsproject.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

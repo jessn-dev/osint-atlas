@@ -1,0 +1,120 @@
+category: OSINT Astronomy
+slug: osint-astronomy
+group: general
+description: OSINT Astronomy — general resources (22 entries).
+items:
+  - name: stellarium
+    url: https://stellarium-web.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: star-chart
+    url: https://apps.apple.com/us/app/star-chart/id345542655
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: suncalc
+    url: https://www.suncalc.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: mooncalc
+    url: https://www.mooncalc.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: planetscalc
+    url: https://www.planetscalc.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: space-track.org
+    url: https://www.space-track.org/auth/login
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: n2yo
+    url: https://www.n2yo.com/api/
+    tags:
+      - api
+    status: active
+    last_checked: '2026-06-23'
+  - name: NASA
+    url: https://www.nasa.gov/
+    tags:
+      - official
+    status: active
+    last_checked: '2026-06-23'
+  - name: openspaceproject
+    url: https://www.openspaceproject.com/tutorial-videos
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: astrometry
+    url: https://astrometry.net/gallery.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: worldwidetelescope
+    url: https://worldwidetelescope.org/webclient/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: SKY ESA
+    url: https://sky.esa.int/esasky/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: science NASA
+    url: https://science.nasa.gov/
+    tags:
+      - official
+    status: active
+    last_checked: '2026-06-23'
+  - name: esahubble
+    url: https://esahubble.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: timeanddate
+    url: https://www.timeanddate.com/moon/phases/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: SpaceEngine Game
+    url: https://store.steampowered.com/app/314650/SpaceEngine/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: lightpollutionmap
+    url: https://www.lightpollutionmap.info/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: stuffin space sat map
+    url: https://stuffin.space/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: NASA Sat list and mission
+    url: https://www.nasa.gov/a-to-z-of-nasa-missions/
+    tags:
+      - official
+    status: active
+    last_checked: '2026-06-23'
+  - name: Eyes NASA
+    url: https://eyes.nasa.gov/
+    tags:
+      - official
+    status: active
+    last_checked: '2026-06-23'
+  - name: universesandbox
+    url: https://universesandbox.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: asteroid launcher
+    url: https://neal.fun/asteroid-launcher/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'

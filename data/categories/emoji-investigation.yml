@@ -1,0 +1,35 @@
+category: Emoji Investigation
+slug: emoji-investigation
+group: general
+description: Emoji Investigation — general resources (6 entries).
+items:
+  - name: dutchosintguy
+    url: https://www.dutchosintguy.com/post/cryptography-osint-can-you-read-emoji
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Emoji Wiki
+    url: https://emojis.wiki/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Emoji Guide
+    url: https://emojiguide.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Emoji Tracker
+    url: https://emojitracker.com/details/1F44F
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: emojipedia
+    url: https://emojipedia.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: fastemoji
+    url: https://www.fastemoji.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

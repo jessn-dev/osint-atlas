@@ -1,0 +1,20 @@
+category: OSINT Playground
+slug: osint-playground
+group: general
+description: OSINT Playground — general resources (3 entries).
+items:
+  - name: challenge bellincgcat
+    url: https://challenge.bellingcat.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: tracelabs
+    url: https://www.tracelabs.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: geoguessr
+    url: https://www.geoguessr.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

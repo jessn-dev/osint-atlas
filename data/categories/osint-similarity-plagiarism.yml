@@ -1,0 +1,270 @@
+category: OSINT Similarity (Plagiarism)
+slug: osint-similarity-plagiarism
+group: general
+description: OSINT Similarity (Plagiarism) — general resources (53 entries).
+items:
+  - name: 1text
+    url: https://1text.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: gptzero
+    url: https://gptzero.me/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: grammarly
+    url: https://www.grammarly.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: duplichecker
+    url: https://www.duplichecker.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: smallseotools
+    url: https://smallseotools.com/plagiarism-checker/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: turnitin
+    url: https://www.turnitin.com/products/similarity/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: hivemoderation
+    url: https://hivemoderation.com/ai-generated-content-detection
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: humata
+    url: https://www.humata.ai/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: kipper
+    url: https://www.kipper.ai/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: sintelix
+    url: https://sintelix.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ntlk
+    url: https://www.nltk.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: voyant
+    url: https://voyant-tools.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: brandmentions
+    url: https://brandmentions.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: copyleaks
+    url: https://copyleaks.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: gowinston
+    url: https://gowinston.ai/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: humbot
+    url: https://humbot.ai/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ithenticate
+    url: https://www.ithenticate.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: DiffChecker
+    url: https://www.diffchecker.com/image-diff/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: text compare
+    url: https://text-compare.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Youtube search with voice
+    url: https://www.youtube.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Google search with voice
+    url: https://www.google.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: shutterstock
+    url: https://www.shutterstock.com/search/like-video
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Google Vidio Search
+    url: https://www.google.com/videohp?hl=id
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: invid-project
+    url: https://www.invid-project.eu/tools-and-services/invid-verification-plugin/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Face Similarity Test Online
+    url: https://facecomparison.toolpie.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: reversely
+    url: https://www.reversely.ai/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: google image search
+    url: https://www.google.com/imghp?hl=EN
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: similarweb
+    url: https://www.similarweb.com/website/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: similarsites
+    url: https://www.similarsites.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: sitelike
+    url: https://www.sitelike.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: pr-cy.io
+    url: https://pr-cy.io/tools/similar-websites/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Clone UI Design
+    url: https://clone-ui.design/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Website informer
+    url: https://website.informer.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: vstat
+    url: https://vstat.info/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: siteslike
+    url: https://www.siteslike.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: domains - search similarity domain and niche web
+    url: https://www.domains.ch/en
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: smallseotools compare web similar
+    url: https://smallseotools.com/similar-sites/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: semrush
+    url: https://www.semrush.com/website/%3Cwebcompetitor-domain.com%3E/competitors/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Find Similar Sites
+    url: https://www.findsimilarsites.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: sitechecker
+    url: https://sitechecker.pro/similar-websites/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: topsimilarsites
+    url: https://www.topsimilarsites.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: similarsitesearch
+    url: https://www.similarsitesearch.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: moreofit
+    url: http://www.moreofit.com/similar-to/www.pornhub.com/Top_10_Sites_Like_Pornhub/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: xranks
+    url: https://xranks.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: alternativeto
+    url: https://alternativeto.net/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: DMCA Lumen DB
+    url: https://lumendatabase.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: siteprice
+    url: https://www.siteprice.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: similartech
+    url: https://similartech.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Venture Radar
+    url: https://www.ventureradar.com/search
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: tracxn
+    url: https://tracxn.com/?redirect=false
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: sgpbusiness
+    url: https://www.sgpbusiness.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: WIPO INT
+    url: https://branddb.wipo.int/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: socialblade similarity
+    url: https://socialblade.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

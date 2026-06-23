@@ -1,0 +1,10 @@
+category: Mastodon
+slug: mastodon
+group: socmint
+description: Mastodon — socmint resources (1 entries).
+items:
+  - name: imagstodon
+    url: https://seintpl.github.io/imagstodon/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

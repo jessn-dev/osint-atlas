@@ -1,0 +1,57 @@
+category: OSINT Art Collection
+slug: osint-art-collection
+group: general
+description: OSINT Art Collection — general resources (10 entries).
+items:
+  - name: Getty Edu
+    url: https://www.getty.edu/art/collection/
+    tags:
+      - academic
+    status: active
+    last_checked: '2026-06-23'
+  - name: graphicsatlas
+    url: http://www.graphicsatlas.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: NPG UK
+    url: https://www.npg.org.uk/collections/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Artnet
+    url: https://www.artnet.com/artists/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: NGV AU
+    url: https://www.ngv.vic.gov.au/explore/collection/
+    tags:
+      - official
+    status: active
+    last_checked: '2026-06-23'
+  - name: DAAO AU
+    url: https://www.daao.org.au/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Old Indiana Photo
+    url: https://www.oldindianphotos.in/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Lostart DE
+    url: https://www.lostart.de/en/start
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: google arts and culture
+    url: https://artsandculture.google.com/explore
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: google artsexperiments
+    url: https://artsexperiments.withgoogle.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

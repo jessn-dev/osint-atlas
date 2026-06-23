@@ -1,0 +1,241 @@
+category: IoT Search Engines
+slug: iot-search-engines
+group: general
+description: IoT Search Engines — general resources (46 entries).
+items:
+  - name: criminalip
+    url: https://www.criminalip.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: zoomeye
+    url: https://www.zoomeye.ai/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: LeakIX
+    url: https://leakix.net
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Binary Edge
+    url: https://www.binaryedge.io
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Shodan
+    url: https://www.shodan.io
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Shodan Filters
+    url: https://github.com/T43cr0wl3r/shodan-filters
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Shodan Scripts
+    url: https://github.com/random-robbie/My-Shodan-Scripts
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Kamerka
+    url: https://github.com/woj-ciech/Kamerka-GUI
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: airportwebcams
+    url: https://airportwebcams.net/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Earthcam
+    url: https://www.earthcam.com/#google_vignette
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: tvway
+    url: http://tvway.ru/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Cameraftp
+    url: https://www.cameraftp.com/cameraftp/publish/publishedcameras.aspx
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Insecam
+    url: http://Insecam.org
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Molecool CCTV and Nearby
+    url: https://www.molecool.id/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Calculator IPVM
+    url: https://calculator.ipvm.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: webcamtaxi
+    url: https://www.webcamtaxi.com/en/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: weatherbug
+    url: https://www.weatherbug.com/traffic-cam/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Rusia pub CCTV
+    url: https://www.geocam.ru/en/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: lIVE CAM beach Australia
+    url: https://www.livebeaches.com/australia/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: webcamcse cipher387
+    url: https://cipher387.github.io/webcamcse/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Sunder Survilance Cam
+    url: https://sunders.uber.space/?lat=-2.4833826&lon=117.8902853&zoom=11
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Offensive OSINT OS - Surveillance
+    url: https://www.os-surveillance.io/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: OSM Query surveillance cam
+    url: https://wiki.openstreetmap.org/wiki/Tag:man_made=surveillance
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: cwwp2 surveillance map
+    url: https://cwwp2.dot.ca.gov/vm/iframemap.htm
+    tags:
+      - official
+    status: active
+    last_checked: '2026-06-23'
+  - name: hacked surveillance map
+    url: https://hacked.camera/map/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: listentothepeople surveillance map
+    url: https://www.listentothepeople.net/#info
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: mapcomplete surveillance map
+    url: https://mapcomplete.org/surveillance.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: osmcamera surveillance map
+    url: https://osmcamera.dihe.de/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: atlasofsurveillance
+    url: https://atlasofsurveillance.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: offensiveosint
+    url: https://www.offensiveosint.io/offensive-osint-s04e07-open-source-surveillance-cameras/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: netlas.io
+    url: https://app.netlas.io/host/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: camstreamer
+    url: https://camstreamer.com/live/map
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: worldcams
+    url: https://worldcams.tv/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: CSE Webcam search
+    url: https://cse.google.com/cse?cx=013991603413798772546:gjcdtyiytey#gsc.tab=0&gsc.sort=
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: livetraffic
+    url: https://livetraffic.eu/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ShodanSpider
+    url: https://github.com/shubhamrooter/ShodanSpider
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: iplivecams
+    url: https://www.iplivecams.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: camscape
+    url: https://www.camscape.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: worldcam EU
+    url: https://worldcam.eu/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: worldcam RU
+    url: https://world-cam.ru/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: TVway RU
+    url: https://tvway.ru/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: insecam
+    url: http://www.insecam.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Campod - IP CAM (MOST INDONESIAN ID)
+    url: https://campod.my.id/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: BloodCat
+    url: https://github.com/MartinxMax/BloodCat
+    tags:
+      - open-source
+    status: dead
+    last_checked: '2026-06-23'
+  - name: opentopia find online cam
+    url: https://www.opentopia.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: skylinewebcams find online cam
+    url: https://www.skylinewebcams.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

@@ -1,0 +1,27 @@
+name: link-health
+on:
+  schedule:
+    - cron: '0 6 * * 1' # weekly, Monday 06:00 UTC
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '22', cache: 'npm' }
+      - run: npm ci
+      - name: Check links (writes status back to YAML)
+        run: npm run links:check
+      - name: Open PR with status updates
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: 'chore: weekly link-health update'
+          title: 'chore: weekly link-health update'
+          body: 'Automated dead/risky link status update.'
+          branch: bot/link-health
+          delete-branch: true

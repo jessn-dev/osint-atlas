@@ -1,0 +1,181 @@
+category: Ship Tracking & Maritim
+slug: ship-tracking-maritim
+group: web
+description: Ship Tracking & Maritim — web resources (35 entries).
+items:
+  - name: theshippingdatabase
+    url: https://theshippingdatabase.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: shiptracker
+    url: https://shiptracker.live/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: marinetraffic
+    url: https://www.marinetraffic.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: vesselfinder
+    url: https://www.vesselfinder.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: gisis
+    url: https://gisis.imo.org/Public/Default.aspx
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: WindWard
+    url: https://windward.ai/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Kpler
+    url: https://www.kpler.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Container tracking
+    url: http://container-tracking.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: marineteacher
+    url: https://www.marineteacher.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: seasearcher
+    url: https://www.seasearcher.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: shipfinder
+    url: https://shipfinder.co/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: shiplocation
+    url: https://www.shiplocation.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: CMA CGM vesel finder
+    url: https://www.cma-cgm.com/ebusiness/schedules/voyage
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: marinevesseltraffic
+    url: https://www.marinevesseltraffic.com/2013/02/military-ship-track.html
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: globalmaritimetraffic
+    url: https://www.globalmaritimetraffic.org/gmtds.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Maritim world lightphotos
+    url: https://www.lightphotos.net/photos/map_all.php
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: openseamap
+    url: https://map.openseamap.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: equasis
+    url: https://www.equasis.org/EquasisWeb/public/HomePage
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: MARITIME AWARENESS PROJECT
+    url: https://map.nbr.org/interactivemap/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: shipspotting
+    url: https://www.shipspotting.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: maritime DB
+    url: https://www.maritime-database.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: portfocus
+    url: https://portfocus.com/#google_vignette
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: submarinecablemap
+    url: https://www.submarinecablemap.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: AIS Signal Map
+    url: https://www.aishub.net/coverage
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: myshiptracking
+    url: https://www.myshiptracking.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: vesseltracker
+    url: https://www.vesseltracker.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: shipnext
+    url: https://shipnext.com/vessel/9417440/Ohio
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: magicport
+    url: https://magicport.ai/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: opencpn GPS Navigation Software
+    url: https://opencpn.org/OpenCPN/info/about.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: incidentnews NOOA
+    url: https://incidentnews.noaa.gov/map
+    tags:
+      - official
+    status: active
+    last_checked: '2026-06-23'
+  - name: EMSA
+    url: https://www.emsa.europa.eu/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: balticshipping
+    url: https://www.balticshipping.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: shipfinder
+    url: https://www.shipfinder.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: boatinfoworld
+    url: https://www.boatinfoworld.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Phantom Tide
+    url: https://phantom.labs.jamessawyer.co.uk/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

@@ -1,0 +1,36 @@
+category: OSINT Cloud
+slug: osint-cloud
+group: general
+description: OSINT Cloud — general resources (6 entries).
+items:
+  - name: Google CSE search drive
+    url: https://cse.google.com/cse?cx=013991603413798772546:nwzqlcysx_w
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: cloud enum
+    url: https://github.com/initstring/cloud_enum
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: dedigger
+    url: https://www.dedigger.com/#gsc.tab=0
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Google DOCS CSE
+    url: https://cse.google.com/cse?cx=013991603413798772546:rse-4irjrn8
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Find google drive public
+    url: https://cse.google.com/cse?cx=009049714591083331396:54vj9vejyek
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: meawfy - mega.nz search engine
+    url: https://meawfy.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

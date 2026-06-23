@@ -1,0 +1,489 @@
+category: Collection Dataset
+slug: collection-dataset
+group: general
+description: Collection Dataset — general resources (93 entries).
+items:
+  - name: Kaggle
+    url: https://www.kaggle.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: RAPID API Collection
+    url: https://rapidapi.com/hub
+    tags:
+      - api
+    status: active
+    last_checked: '2026-06-23'
+  - name: Exploit Database
+    url: https://www.exploit-db.com/google-hacking-database
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: AWS open data
+    url: https://registry.opendata.aws/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Open Network
+    url: http://www.opendatanetwork.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: WHO Data
+    url: https://www.who.int/data/gho/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Humdata
+    url: https://data.humdata.org/dataset
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Google datasetsearch
+    url: https://datasetsearch.research.google.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: OSINT Collection
+    url: https://start.me/p/DPYPMz/the-ultimate-osint-collection
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Academic Torrent
+    url: https://academictorrents.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Microsoft Building Fingerprints
+    url: https://github.com/microsoft/GlobalMLBuildingFootprints
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: MAXAR Satellite imagery
+    url: https://www.maxar.com/open-data
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Satellite Collection
+    url: https://www.nesdis.noaa.gov/real-time-imagery/imagery-collections
+    tags:
+      - official
+    status: active
+    last_checked: '2026-06-23'
+  - name: Open measure
+    url: https://public.openmeasures.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Fiugis
+    url: >-
+      https://fiugis.maps.arcgis.com/home/search.html?restrict=false&sortField=relevance&sortOrder=desc&categories=%2FCategories%2FLocation#content
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Earth ESA
+    url: https://earth.esa.int/eogateway
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Google Public Data
+    url: https://www.google.com/publicdata/directory
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: paperswithcode
+    url: https://paperswithcode.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ID BPS
+    url: https://www.bps.go.id/id
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: ID data Kementrian & Lembaga Dataset
+    url: https://data.go.id/home
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: datasetlist
+    url: https://www.datasetlist.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: roboflow
+    url: https://roboflow.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: databoks katadata ID
+    url: https://databoks.katadata.co.id/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Google Engine Dataset
+    url: https://developers.google.com/earth-engine/datasets
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: All world geojson data
+    url: https://code.highcharts.com/mapdata/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: statista
+    url: https://www.statista.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: World Bank Open Data
+    url: https://data.worldbank.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: iceye sat dataset
+    url: https://www.iceye.com/resources/datasets
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: gigasheet
+    url: https://app.gigasheet.com/datasets
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: techforpalestine
+    url: https://data.techforpalestine.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: genocide
+    url: https://genocide.club/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: data world
+    url: https://data.world/search?q=
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: KEMNAKER Data ID
+    url: https://satudata.kemnaker.go.id/data
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: BNN Stats ID
+    url: https://puslitdatin.bnn.go.id/portfolio/data-statistik-kasus-narkoba/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Microsoft Building Dataset
+    url: https://planetarycomputer.microsoft.com/dataset/ms-buildings
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: huggingface
+    url: https://huggingface.co/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: goodstats ID
+    url: https://goodstats.id/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ransomwhe Browse ransomware data
+    url: https://ransomwhe.re/#report
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ransomware wiki
+    url: https://ransom.wiki/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: botometer Twitter bot dataset
+    url: https://botometer.osome.iu.edu/bot-repository/datasets.html
+    tags:
+      - academic
+    status: active
+    last_checked: '2026-06-23'
+  - name: Aircraft Mil Dataset
+    url: https://github.com/sdr-enthusiasts/plane-alert-db
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: datareportal
+    url: https://datareportal.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: medgismar GIS
+    url: https://medgismar.rempec.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Conflict Gaza damage
+    url: https://ee-ollielballinger.projects.earthengine.app/view/gazadamage
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: resourcewatch
+    url: https://resourcewatch.org/data/explore
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Open Measures Database
+    url: https://openmeasures.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: planet openstreetmap
+    url: https://planet.openstreetmap.org/planet/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: arcgis dataset
+    url: https://hub.arcgis.com/search?collection=Dataset
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: atlasofsurveillance
+    url: https://atlasofsurveillance.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ID Pelaporan LHKPN
+    url: https://elhkpn.kpk.go.id/portal/user/petakepatuhan
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: NASA Fire Dataset
+    url: https://firms.modaps.eosdis.nasa.gov/
+    tags:
+      - official
+    status: active
+    last_checked: '2026-06-23'
+  - name: Dataset global forest watch
+    url: https://data.globalforestwatch.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: datasets global fire data
+    url: https://www.globalfiredata.org/related.html#fireatlas
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: UNRWA photoshelter
+    url: https://unrwa.photoshelter.com/search
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Committee to Protect Journalists Dataset
+    url: https://cpj.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: worldbank webdocs
+    url: https://thedocs.worldbank.org/en/doc/webdocs
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: ALEPT OCCRP
+    url: https://aleph.occrp.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: archive Machine Learning Repository
+    url: https://archive.ics.uci.edu/
+    tags:
+      - academic
+    status: active
+    last_checked: '2026-06-23'
+  - name: data EU
+    url: https://data.europa.eu/en
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Crime Data Explorer (CDE)
+    url: https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads
+    tags:
+      - official
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Other Dataset Collection
+    url: https://github.com/awesomedata/awesome-public-datasets
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: unwiredlabs
+    url: https://unwiredlabs.com/products
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: FaceForensics - List face dataset
+    url: https://github.com/ondyari/FaceForensics
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: DC gov opendata
+    url: https://opendata.dc.gov/
+    tags:
+      - official
+    status: active
+    last_checked: '2026-06-23'
+  - name: Eyes NASA
+    url: https://eyes.nasa.gov/
+    tags:
+      - official
+    status: active
+    last_checked: '2026-06-23'
+  - name: UNOSAT Gaza Emergency Response Data Hub
+    url: https://gaza-unosat.hub.arcgis.com/pages/data
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: opengeos
+    url: https://github.com/opengeos
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Github data wayback machine
+    url: https://www.gharchive.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: IL Dataset Gov
+    url: https://data.gov.il/dataset
+    tags:
+      - official
+    status: active
+    last_checked: '2026-06-23'
+  - name: 0day database
+    url: https://www.zero-day.cz/database/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Dataset crime for blockchain
+    url: https://hacked.slowmist.io/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: threatfox IOC Database
+    url: https://threatfox.abuse.ch/browse/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: urlhaus - database malicious URLs
+    url: https://urlhaus.abuse.ch/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: libraryofleaks
+    url: https://search.libraryofleaks.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: open-search aleph
+    url: https://open-search.aleph-networks.eu/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: githut - most discover languages in GitHub
+    url: https://githut.info/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: seasia infographic
+    url: https://seasia.co/infographic
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: OONI
+    url: https://explorer.ooni.org/search?since=2025-05-02&until=2025-06-02&failure=false
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: malware-traffic-analysis
+    url: https://www.malware-traffic-analysis.net/2025/index.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Track IP Torrent Activity
+    url: https://iknowwhatyoudownload.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: AWS Earth
+    url: https://aws.amazon.com/earth/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: unavco sat
+    url: https://www.unavco.org/data/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Planet sat data stories
+    url: https://www.planet.com/stories/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: NASA visibleearth catalog
+    url: https://visibleearth.nasa.gov/
+    tags:
+      - official
+    status: active
+    last_checked: '2026-06-23'
+  - name: Labelbox dataset
+    url: https://labelbox.com/datasets/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: tableau public dataset
+    url: https://public.tableau.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: World’s single largest Internet domains dataset
+    url: https://github.com/tb0hdan/domains
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: 7 darkweb market forum datasets, with usernames obfuscated
+    url: https://github.com/gayanku/darkweb_clearweb_darktopics?tab=readme-ov-file
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: DOTA Dataset for Object Detection in Aerial Images
+    url: https://captain-whu.github.io/DOTA/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: TOR Archive Github list node tor
+    url: https://tor-archive.github.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: worldpopulationreview dataset information POI and other around world
+    url: https://worldpopulationreview.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: zenodo all collection datasset
+    url: https://zenodo.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: deepdarkCTI many information dataset for hunting cyber threat
+    url: https://github.com/fastfire/deepdarkCTI
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'

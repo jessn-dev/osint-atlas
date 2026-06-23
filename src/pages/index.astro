@@ -1,0 +1,37 @@
+---
+import '../styles/global.css';
+const base = import.meta.env.BASE_URL;
+const feedUrl = `${base.replace(/\/$/, '')}/osint.json`;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="OSINT Atlas — graph-first, link-health-aware OSINT resource map." />
+    <title>OSINT Atlas</title>
+  </head>
+  <body>
+    <div class="topbar">
+      <h1>OSINT <b>Atlas</b></h1>
+      <input id="search" type="search" placeholder="Search categories, tools, tags…" autocomplete="off" />
+      <span class="stats" id="stats"></span>
+    </div>
+
+    <div id="chips" class="chips"></div>
+    <div class="hint">click group → category → tools · "+more" loads more · double-click opens · scroll to zoom</div>
+
+    <aside class="panel" id="panel">
+      <button class="close" id="panel-close" aria-label="close">×</button>
+      <div id="panel-body"></div>
+    </aside>
+
+    <div id="app"><svg></svg></div>
+
+    <script define:vars={{ feedUrl }}>
+      window.__FEED_URL__ = feedUrl;
+    </script>
+    <script src="../lib/bootstrap.ts"></script>
+  </body>
+</html>

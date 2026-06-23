@@ -1,0 +1,31 @@
+category: Linux Distribution For OSINT
+slug: linux-distribution-for-osint
+group: general
+description: Linux Distribution For OSINT — general resources (5 entries).
+items:
+  - name: tlosint-live
+    url: https://github.com/tracelabs/tlosint-live
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: tails
+    url: https://tails.net/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: qubes
+    url: https://www.qubes-os.org/doc/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: parrot sec
+    url: https://www.parrotsec.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: csi linux
+    url: https://csilinux.com/csi-linux-downloads/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

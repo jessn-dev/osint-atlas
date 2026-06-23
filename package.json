@@ -1,0 +1,32 @@
+{
+  "name": "osint-atlas",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Graph-first OSINT resource atlas. YAML source of truth, Astro static site, link-health validation.",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "npm run data:build && astro build",
+    "preview": "astro preview",
+    "data:build": "tsx scripts/build-data.ts",
+    "data:validate": "tsx scripts/validate.ts",
+    "data:migrate": "tsx scripts/migrate.ts",
+    "data:dedupe": "tsx scripts/dedupe.ts",
+    "data:enrich": "tsx scripts/enrich.ts",
+    "data:sync": "tsx scripts/sync-upstream.ts",
+    "links:check": "tsx scripts/check-links.ts"
+  },
+  "dependencies": {
+    "astro": "^5.7.0",
+    "d3": "^7.9.0",
+    "fuse.js": "^7.1.0"
+  },
+  "devDependencies": {
+    "@types/d3": "^7.4.3",
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^22.13.0",
+    "js-yaml": "^4.1.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.8.0",
+    "zod": "^3.24.0"
+  }
+}

@@ -1,0 +1,85 @@
+category: Nearby Map From Geospatial
+slug: nearby-map-from-geospatial
+group: geoint
+description: Nearby Map From Geospatial — geoint resources (16 entries).
+items:
+  - name: virtualglobetrotting
+    url: https://virtualglobetrotting.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: foursquare
+    url: https://location.foursquare.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: tripadvisor
+    url: https://www.tripadvisor.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: booking
+    url: https://booking.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: agoda
+    url: https://agoda.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: wanderlog review on Google maps
+    url: https://wanderlog.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: airbnb
+    url: https://www.airbnb.co.id/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: copernix
+    url: https://copernix.io/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: trip
+    url: https://www.trip.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: traveloka
+    url: https://www.traveloka.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: hotels
+    url: https://id.hotels.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: booking
+    url: https://www.booking.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: yelp
+    url: https://www.yelp.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: wikinearby
+    url: https://wikinearby.toolforge.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Wikimapia
+    url: http://wikimapia.org
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: vrbo
+    url: https://www.vrbo.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

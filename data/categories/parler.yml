@@ -1,0 +1,15 @@
+category: Parler
+slug: parler
+group: general
+description: Parler — general resources (2 entries).
+items:
+  - name: Parler Vidio Map
+    url: https://kylemcdonald.net/parler/map/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Open Measures
+    url: https://public.openmeasures.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

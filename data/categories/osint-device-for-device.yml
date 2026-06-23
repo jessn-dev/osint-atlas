@@ -1,0 +1,154 @@
+category: OSINT Device for Device
+slug: osint-device-for-device
+group: general
+description: OSINT Device for Device — general resources (29 entries).
+items:
+  - name: Bellingcat Google Maps review Filename Chrome Extension
+    url: https://www.bellingcat.com/resources/2024/10/15/google-maps-image-filename-finder-tool/
+    tags:
+      - browser-extension
+    status: active
+    last_checked: '2026-06-23'
+  - name: gsmarena
+    url: https://www.gsmarena.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: hardreset
+    url: https://www.hardreset.info/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: 3u tool
+    url: https://www.3u.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Old Device or Phone
+    url: https://www.mobilephonemuseum.com/catalogue
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ifixit IT
+    url: https://it.ifixit.com/Device/Other_OS_Phone
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: scrcpy
+    url: https://github.com/Genymobile/scrcpy/releases
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Android Studio
+    url: https://developer.android.com/studio
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: NOX
+    url: https://www.bignox.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: bluestacks
+    url: https://www.bluestacks.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: mumuplayer
+    url: https://www.mumuplayer.com/index.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: memuplay
+    url: https://www.memuplay.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ldplayer
+    url: https://id.ldplayer.net/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ifixit EN
+    url: https://www.ifixit.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Apple Check Coverage
+    url: https://checkcoverage.apple.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: IPhone IMEI
+    url: https://iunlocker.com/en/check_imei.php
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: imei24 - Check serial number
+    url: https://imei24.com/check/apple_sn/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Iphone model number code
+    url: https://support.apple.com/en-mt/108044
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Iphone model number country code
+    url: https://discussions.apple.com/thread/251748775?sortBy=rank
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Iphone model serial number code
+    url: >-
+      https://theapplewiki.com/wiki/Models#:~:text=%22%20F%20%22%3A%20refurbished%20unit,%22%3A%20personalized%20(engraved
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Decode The Meaning Behind Your Apple Serial Number
+    url: https://beetstech.com/blog/decode-meaning-behind-apple-serial-number
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: iunlocker
+    url: https://iunlocker.com/id/check_imei.php
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: samsung
+    url: https://www.samsung.com/us/support/warranty/#Warranty_Checker
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: lenovo
+    url: https://pcsupport.lenovo.com/id/id/warranty-lookup#/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: asus
+    url: https://as-rma.asus.com/id/info/warranty
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: asus
+    url: https://www.asus.com/support/warranty-status-inquiry/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: all-xiaomi-codenames
+    url: https://xiaomiui.net/all-xiaomi-codenames-5137/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: List of Samsung Galaxy Codenames
+    url: https://www.droidthunder.com/samsung-galaxy-codenames/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: list brand code name device
+    url: https://github.com/KHwang9883/MobileModels/tree/master/brands
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'

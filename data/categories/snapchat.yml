@@ -1,0 +1,16 @@
+category: Snapchat
+slug: snapchat
+group: general
+description: Snapchat — general resources (2 entries).
+items:
+  - name: Snapchat MAP
+    url: https://map.snapchat.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ignorant
+    url: https://github.com/megadose/ignorant
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'

@@ -1,0 +1,56 @@
+category: Monitoring & Alerting
+slug: monitoring-alerting
+group: darkweb
+description: Monitoring & Alerting — darkweb resources (10 entries).
+items:
+  - name: Pastebin Alerts
+    url: http://pastebin.com/u/alerts
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: HaveIBeenPwned
+    url: http://www.haveIbeenpwned.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Hudson Rock Cybercrime Intelligence Free Tools
+    url: https://www.hudsonrock.com/threat-intelligence-cybercrime-tools
+    tags:
+      - free
+    status: active
+    last_checked: '2026-06-23'
+  - name: brandmentions
+    url: https://brandmentions.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Google Alert
+    url: https://www.google.com/alerts?hl=en
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: flashpoint
+    url: https://flashpoint.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: canarytokens
+    url: https://canarytokens.org/nest/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Intel471
+    url: https://intel471.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: shadowdragon
+    url: https://shadowdragon.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: IGDetective
+    url: https://www.igdetective.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

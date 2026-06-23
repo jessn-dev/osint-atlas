@@ -1,0 +1,131 @@
+category: Fraud Checker
+slug: fraud-checker
+group: general
+description: Fraud Checker — general resources (24 entries).
+items:
+  - name: darkseclabs
+    url: https://darkseclabs.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: scamdb
+    url: https://www.scamdb.net/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: cryptoscamdb crypto scam
+    url: https://cryptoscamdb.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: prescam
+    url: https://www.prescam.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: scamwarners forums
+    url: https://www.scamwarners.com/forum/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: scamsearch
+    url: https://www.scamsearch.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Cek Rekening
+    url: https://cekrekening.id/home
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Kredibel
+    url: https://www.kredibel.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Verihub
+    url: https://verihubs.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Scamadviser
+    url: https://www.maltego.com/transform-hub/scamadviser/
+    tags:
+      - maltego
+    status: active
+    last_checked: '2026-06-23'
+  - name: Ipqualityscore
+    url: >-
+      https://docs.maltego.com/support/solutions/articles/15000041408-maltego-ipqualityscore-transforms#overview-0-0
+    tags:
+      - maltego
+    status: active
+    last_checked: '2026-06-23'
+  - name: OpenCNAM
+    url: https://docs.maltego.com/support/solutions/articles/15000045282-maltego-opencnam-transforms
+    tags:
+      - maltego
+    status: active
+    last_checked: '2026-06-23'
+  - name: Fullcontact
+    url: https://www.fullcontact.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Spam Calls
+    url: https://spamcalls.net/en/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Maltego Transform ShadowDragon
+    url: https://www.maltego.com/transform-hub/socialnet/
+    tags:
+      - maltego
+    status: active
+    last_checked: '2026-06-23'
+  - name: Crimewall
+    url: https://sociallinks.io/products/sl-crimewall
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: getcontact
+    url: https://getcontact.com/en/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: SEON
+    url: https://seon.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: snusbase
+    url: https://snusbase.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Telegram Scammer list ACC Database
+    url: https://apk.ibnux.com/data/
+    tags:
+      - telegram
+    status: dead
+    last_checked: '2026-06-23'
+  - name: chainabuse - wallet scam search
+    url: https://www.chainabuse.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: blacklistseller TH
+    url: https://blacklistseller.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: nemesis ID
+    url: https://nemesis.assai.id/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: IPASIS
+    url: https://ipasis.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

@@ -1,0 +1,10 @@
+category: OSINT Jobs
+slug: osint-jobs
+group: general
+description: OSINT Jobs — general resources (1 entries).
+items:
+  - name: OSINT Jobs
+    url: https://www.osint-jobs.com/applicants
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'

@@ -1,0 +1,131 @@
+category: MASINT
+slug: masint
+group: geoint
+description: MASINT — geoint resources (25 entries).
+items:
+  - name: time&date awesome calc and conveter list
+    url: https://www.timeanddate.com/moon/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: smappen
+    url: https://www.smappen.com/app/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Google earth
+    url: https://earth.google.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: imagemeasurement
+    url: https://imagemeasurement.online/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Apple Measurement Apps
+    url: https://support.apple.com/id-id/102468
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: imageJ
+    url: https://imagej.net/ij/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: suncalc
+    url: https://www.suncalc.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: suncalc 2
+    url: http://suncalc.net/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: mooncalc
+    url: https://www.mooncalc.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: planetscalc
+    url: https://www.planetscalc.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: moonsighting
+    url: https://www.moonsighting.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: mooncalendar
+    url: https://www.mooncalc.org/mooncalendar/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Google maps measurement
+    url: https://zhenyanghua.github.io/MeasureTool-GoogleMaps-V3/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Microsoft powertoys
+    url: https://learn.microsoft.com/id-id/windows/powertoys/screen-ruler
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Angle Measurement
+    url: https://www.ginifab.com/feeds/angle_measurement/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: sunpath3d
+    url: https://drajmarsh.bitbucket.io/sunpath3d.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: rapidtables conveter calc
+    url: https://www.rapidtables.com/convert/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: dcode fr awesome calc and conveter
+    url: https://www.dcode.fr/en
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: unsaferguard Blast Damage Estimation
+    url: https://unsaferguard.org/un-saferguard/blast-damage-estimation
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: nukemap nuclear damage estimation
+    url: https://nuclearsecrecy.com/nukemap/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: nuclearweaponsedproj blast effects calc
+    url: https://nuclearweaponsedproj.mit.edu/nuclear-weapons-blast-effects-calculator/
+    tags:
+      - academic
+    status: active
+    last_checked: '2026-06-23'
+  - name: outrider sains nuclear weapon estimate calc
+    url: https://outrider.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: MapChecking Crowd counting tool
+    url: https://www.mapchecking.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: wolframalpha
+    url: https://www.wolframalpha.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: asteroid launcher
+    url: https://neal.fun/asteroid-launcher/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'

@@ -1,0 +1,50 @@
+category: EXIF Analysis
+slug: exif-analysis
+group: geoint
+description: EXIF Analysis — geoint resources (9 entries).
+items:
+  - name: EXIF Editor
+    url: https://exifeditor.io
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: regex
+    url: http://regex.info/exif.cgi
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: FindExif
+    url: http://www.findexif.com
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: metapicz
+    url: http://metapicz.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: imageforensic
+    url: http://www.imageforensic.org
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: jimpl
+    url: https://jimpl.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: pic2map
+    url: https://www.pic2map.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: labs.tib.eu
+    url: https://labs.tib.eu/geoestimation/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Geotag
+    url: https://vsudo.net/tools/geotag
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

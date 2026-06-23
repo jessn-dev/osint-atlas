@@ -1,0 +1,178 @@
+category: Code Search
+slug: code-search
+group: general
+description: Code Search — general resources (34 entries).
+items:
+  - name: gitdb
+    url: https://gitdb.net/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: code google
+    url: https://code.google.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: srclog
+    url: https://srclog.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Chromium Code Search
+    url: https://source.chromium.org/chromium
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Android Code Search
+    url: https://cs.android.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Debian Code Search
+    url: http://codesearch.debian.net
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: SearchCode
+    url: https://searchcode.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: SourceCodeOnline
+    url: http://www.sourcecodeonline.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Woboq
+    url: https://code.woboq.org
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: publicwww
+    url: https://publicwww.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: awesomeopensource
+    url: https://awesomeopensource.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: nerdydata
+    url: https://www.nerdydata.com/reports/new
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Github code search
+    url: https://github.com/search?type=code
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: sourcegraph
+    url: https://sourcegraph.com/search
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: cybdetective code search
+    url: https://cybdetective.com/codesearch.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: postman
+    url: https://www.postman.com/explore/collections
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: swaggerhub
+    url: https://app.swaggerhub.com/search
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: ecosyste
+    url: https://ecosyste.ms/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: wpdirectory
+    url: https://wpdirectory.net/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: launchpad
+    url: https://launchpad.net/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: snipplr
+    url: https://snipplr.com/all
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: invent
+    url: https://invent.kde.org/explore
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: stackoverflow
+    url: https://stackoverflow.com/questions
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Find Pasted Text
+    url: https://cse.google.com/cse?cx=013991603413798772546:nxs552dhq8k
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Github code search CSE
+    url: https://cse.google.com/cse?cx=017261104271573007538:fqn_jyftcdq#gsc.tab=0&gsc.sort=
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Gist Github
+    url: https://gist.github.com/starred
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: grep
+    url: https://grep.app/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: jsonformatter
+    url: https://jsonformatter.org/recentLinksPage/json
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: codebeautify
+    url: https://codebeautify.org/recentLinksPage
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Pastebin
+    url: https://pastebin.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: bevigil
+    url: https://bevigil.com/osint-api
+    tags:
+      - api
+    status: active
+    last_checked: '2026-06-23'
+  - name: codeberg
+    url: https://codeberg.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: dnslytics
+    url: https://search.dnslytics.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: zerobin
+    url: https://zerobin.net/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

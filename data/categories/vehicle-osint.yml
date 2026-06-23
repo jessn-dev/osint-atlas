@@ -1,0 +1,290 @@
+category: Vehicle OSINT
+slug: vehicle-osint
+group: general
+description: Vehicle OSINT — general resources (56 entries).
+items:
+  - name: licenseplatemania
+    url: https://licenseplatemania.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: worldlicenseplates
+    url: http://worldlicenseplates.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: platesmania
+    url: https://platesmania.com/uk/search?&lang=en
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: findbyplate
+    url: https://findbyplate.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: google image
+    url: https://www.google.com/imghp?hl=en
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Wiki Routes
+    url: https://wikiroutes.info/en/padang
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Carnet
+    url: https://carnet.ai/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: ID number plate
+    url: https://auto2000.co.id/berita-dan-tips/plat-nomor-seluruh-indonesia
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ID number wikipedia
+    url: https://id.wikipedia.org/wiki/Tanda_Nomor_Kendaraan_Bermotor_Indonesia
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: World Car Brand Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_car_brands
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: License Plate Lookup
+    url: https://www.licenseplatelookup.org
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: carlogos
+    url: https://www.carlogos.org/car-brands/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: commercialtrucktrader
+    url: https://www.commercialtrucktrader.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: License Plate AI Recognition
+    url: https://github.com/winter2897/Real-time-Auto-License-Plate-Recognition-with-Jetson-Nano
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: vehicleregistrationapi
+    url: https://www.vehicleregistrationapi.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: vehiclehistory
+    url: https://www.vehiclehistory.com/license-plate-search
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: faxvin
+    url: https://www.faxvin.com/license-plate-lookup
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: worldlicenseplates
+    url: http://www.worldlicenseplates.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: autotraveler
+    url: https://autotraveler.ru/en/spravka/vehicle-registration-codes-in-the-world.html#.Y3R6BnbMJPY
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: cipher387
+    url: https://cipher387.github.io/venicle_number_search_toolbox/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: inteltechniques
+    url: https://inteltechniques.com/tools/Vehicle.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: avtocod
+    url: https://avtocod.ru/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: dmvcivls.gov
+    url: https://dmvcivls-wselfservice.ct.gov/Registration/VerifyRegistration
+    tags:
+      - official
+    status: active
+    last_checked: '2026-06-23'
+  - name: etimspayments
+    url: https://prodpci.etimspayments.com/pbw/include/dc_parking/input.jsp?ticketType=P
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: platerecognizer
+    url: https://platerecognizer.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: partialnumberplate UK
+    url: https://www.partialnumberplate.co.uk/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ID Samsat
+    url: https://samsat.info/cek-pajak-kendaraan-bermotor-online
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Free Car Check UK
+    url: https://motorscan.co.uk/
+    tags:
+      - free
+    status: active
+    last_checked: '2026-06-23'
+  - name: auto-info.gratis
+    url: https://auto-info.gratis/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: mail.e-data.com.ua
+    url: https://mail.e-data.com.ua/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: platetracker
+    url: https://www.stopice.net/platetracker/index.cgi
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: faxvin
+    url: https://www.faxvin.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: vehiclehistory
+    url: https://www.vehiclehistory.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: vindecoderz
+    url: https://www.vindecoderz.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: fordvinlookup
+    url: https://www.fordvinlookup.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: chevroletforum
+    url: https://chevroletforum.com/forum/vindecoder.php
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: hyundaiforum
+    url: https://www.hyundaiforum.com/forum/vindecoder.php
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: nissanusa
+    url: https://www.nissanusa.com/recalls-vin.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: cadillacforum
+    url: https://www.cadillacforum.com/forum/vindecoder.php
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: dodgeforum
+    url: https://dodgeforum.com/forum/vindecoder.php
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: toyota
+    url: https://www.toyota.com/owners/my-vehicle/vehicle-specification.html
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: audiworld
+    url: https://www.audiworld.com/forums/vindecoder.php
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: vinpit
+    url: https://vinpit.com/vin-decoder/yamaha
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: scionlife
+    url: https://www.scionlife.com/forums/vindecoder.php
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: nhtsa
+    url: https://www.nhtsa.gov/vin-decoder
+    tags:
+      - official
+    status: active
+    last_checked: '2026-06-23'
+  - name: bigrigvin
+    url: https://bigrigvin.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: cartell Japan
+    url: https://www.cartell.ie/japanese-import/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: carvx JP
+    url: https://carvx.jp/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: cyclevin
+    url: https://cyclevin.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: epicvin
+    url: https://epicvin.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: VIN Decoder
+    url: https://vpic.nhtsa.dot.gov/decoder
+    tags:
+      - official
+    status: active
+    last_checked: '2026-06-23'
+  - name: moovitapp (Global)
+    url: https://moovitapp.com/index/id/Tranportasi_Umum-countries
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: KAI ID ROUTE
+    url: https://commuterline.id/perjalanan-krl/peta-rute
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: transjakarta ID ROUTE
+    url: https://transjakarta.co.id/rute
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Jaklingko ID MAP
+    url: https://www.jaklingkoindonesia.co.id/id/map
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Palembang ID Pub Transport
+    url: https://geoportal.palembang.go.id/pencarian?kategori=Transportasi
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'

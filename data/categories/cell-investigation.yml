@@ -1,0 +1,315 @@
+category: Cell Investigation
+slug: cell-investigation
+group: sigint
+description: Cell Investigation — sigint resources (60 entries).
+items:
+  - name: wigle
+    url: https://wigle.net/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: 3wifi
+    url: https://3wifi.dev/map.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Opencellid
+    url: https://opencellid.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: CellTower Locator - Cell2gps
+    url: http://www.cell2gps.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Cell-id Query
+    url: https://www.cell-id.info/?lang=en
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Cell Mapping
+    url: https://www.cellmapper.net/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Global Internet Infrastructure Map
+    url: https://www.infrapedia.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Spy Dialer
+    url: https://spydialer.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Phone Validator
+    url: https://www.phonevalidator.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Free Operator Search
+    url: https://freecarrierlookup.com/
+    tags:
+      - free
+    status: dead
+    last_checked: '2026-06-23'
+  - name: HLR Lookup
+    url: https://www.hlrlookup.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Ceebydith HLR Lookup
+    url: https://ceebydith.com/cek-hlr-lokasi-hp.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Free HLR
+    url: https://www.free-hlr.com/
+    tags:
+      - free
+    status: active
+    last_checked: '2026-06-23'
+  - name: HLR Lookup API
+    url: https://www.hlr-lookups.com/
+    tags:
+      - api
+    status: active
+    last_checked: '2026-06-23'
+  - name: Maltego Phone Search
+    url: https://www.maltego.com/transform-hub/phonesearch/
+    tags:
+      - maltego
+    status: active
+    last_checked: '2026-06-23'
+  - name: Emobiletracker
+    url: https://www.emobiletracker.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Phone Validator
+    url: https://www.phonevalidator.com/index.aspx
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Reverse Phone
+    url: https://www.reversephonecheck.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Reverse Phone Lookup
+    url: https://www.reversephonelookup.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: OpenCNAM
+    url: https://docs.maltego.com/support/solutions/articles/15000045282-maltego-opencnam-transforms
+    tags:
+      - maltego
+    status: active
+    last_checked: '2026-06-23'
+  - name: Search Country Operator (IMSI)
+    url: https://www.heicard.com/en/operator.html
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Analysis of IMSI numbers
+    url: https://www.numberingplans.com/?page=analysis&sub=imsinr
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: World MCC & MNC Code
+    url: https://en.wikipedia.org/wiki/Mobile_country_code
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: World MCC & MNC Code 2
+    url: https://www.mcc-mnc.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: World Mobile Network Code
+    url: https://en.wikipedia.org/wiki/Mobile_network_codes_in_ITU_region_5xx_(Oceania
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: World Network Coverage
+    url: >-
+      https://www.nperf.com/en/map/ID/-/-/signal/?ll=-2.5678942164342513&lg=118.01999999999998&zoom=5
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Profone GSM Tracker
+    url: https://cellphonetrackers.org/gsm/gsm-tracker.php
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Thatsthem
+    url: https://thatsthem.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Freepeoplesearch
+    url: https://freepeoplesearch.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: IMSI imei info
+    url: https://www.imei.info/imsi/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: cellebrite
+    url: https://cellebrite.com/en/ufed/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: LIST MCC & MNC World
+    url: https://docs.routee.net/docs/list-of-mccmnc-codes
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Cell Global Identity World
+    url: https://en.wikipedia.org/wiki/Cell_Global_Identity
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: MCC MNC World Net
+    url: https://mcc-mnc.net/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Cell Global Identity Article
+    url: https://medium.com/@fthcknmz/cell-global-identity-cgi-407ea0288943
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: GSM Cell ID
+    url: https://en.wikipedia.org/wiki/GSM_Cell_ID
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: CALL APP
+    url: https://callapp.com/app-features
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Number Finder IOS
+    url: https://apps.apple.com/us/app/number-finder-caller-id-book/id1324048797?platform=iphone
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Dalily Android Apps
+    url: https://play.google.com/store/apps/details?id=dalily.caller.ids&hl=en&gl=US
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ViewCaller
+    url: https://play.google.com/store/apps/details?id=id.caller.viewcaller&hl=en_US
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ip info
+    url: https://ipinfo.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: countrycode
+    url: https://countrycode.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: evrytania
+    url: http://www.evrytania.com/lte-tools
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: sqimway
+    url: https://www.sqimway.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: cell2gps
+    url: http://cell2gps.net/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: unwiredlabs
+    url: https://unwiredlabs.com/products
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: netmonster
+    url: https://netmonster.app/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: SMS PING
+    url: https://github.com/MatejKovacic/silent-sms-ping
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: SMS PING APK
+    url: https://f-droid.org/id/packages/com.itds.sms.ping/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Wireshark wiki voip call
+    url: https://wiki.wireshark.org/VoIP_calls
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: opensignal
+    url: https://www.opensignal.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: osmocom
+    url: https://osmocom.org/projects/baseband
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: DTMF Decoder
+    url: https://dtmf.netlify.app/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ipification API
+    url: https://www.ipification.com/
+    tags:
+      - api
+    status: active
+    last_checked: '2026-06-23'
+  - name: rayhunter
+    url: https://github.com/EFForg/rayhunter
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Silent SMSping
+    url: https://www.smsdeliverer.com/onlinehelp/interface/pingsms/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: IMSI Catcher
+    url: https://sls.eff.org/technologies/cell-site-simulators-imsi-catchers
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: bscoords
+    url: https://github.com/kolonist/bscoords
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: TraceFind
+    url: https://tracefind.info
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: wayp international yellow pages
+    url: https://www.wayp.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

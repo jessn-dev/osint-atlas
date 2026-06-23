@@ -1,0 +1,53 @@
+category: OSINT Journalism Project
+slug: osint-journalism-project
+group: general
+description: OSINT Journalism Project — general resources (9 entries).
+items:
+  - name: journalism
+    url: https://github.com/wbkd/awesome-interactive-journalism
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: gijn
+    url: https://gijn.org/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Journalist toolbox
+    url: https://www.journaliststoolbox.org/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Google Journalist Studio
+    url: https://journaliststudio.google.com/pinpoint/case-studies/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: expertisefinder
+    url: https://expertisefinder.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: datajournalism
+    url: https://datajournalism.com/read
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Resources Journalism
+    url: https://gijn.org/resource/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Danger zone
+    url: https://github.com/freedomofpress/dangerzone
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: protect from macro virus guide
+    url: >-
+      https://support.microsoft.com/id-id/office/protect-yourself-from-macro-viruses-a3f3576a-bfef-4d25-84dc-70d18bde5903
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

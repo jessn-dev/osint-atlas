@@ -1,0 +1,492 @@
+category: Digital Forensics
+slug: digital-forensics
+group: general
+description: Digital Forensics — general resources (92 entries).
+items:
+  - name: Binwalk
+    url: https://github.com/ReFirmLabs/binwalk
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: intezer
+    url: https://analyze.intezer.com/scan
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: AnyRun
+    url: https://any.run/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Yggdrasil
+    url: https://github.com/Jarl-Bjoern/Yggdrasil/
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: MISP
+    url: https://www.misp-project.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Maltego
+    url: https://www.maltego.com/
+    tags:
+      - maltego
+    status: active
+    last_checked: '2026-06-23'
+  - name: Filesec - check the extension also ttp attacker
+    url: https://filesec.io/
+    tags:
+      - browser-extension
+    status: active
+    last_checked: '2026-06-23'
+  - name: Logstash kibana
+    url: https://www.elastic.co/logstash/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Kibana
+    url: https://www.elastic.co/kibana/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Extundelete Ext3 or ext4 partition recovery
+    url: https://extundelete.sourceforge.net/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: TestDisk
+    url: https://www.cgsecurity.org/wiki/TestDisk_Download
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: VirusTotal
+    url: https://www.virustotal.com/gui/home/upload
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: virustotal mcp
+    url: https://github.com/BurtTheCoder/mcp-virustotal
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Virus Exchange
+    url: https://virus.exchange/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Malware Sample and IOC
+    url: https://github.com/rivitna/Malware
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Avilla Forensics
+    url: https://forum.seccodeid.com/d/avillaforensics-mobile-digital-forensics
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Autopsy
+    url: https://www.autopsy.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Recuva
+    url: https://www.ccleaner.com/recuva
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Magnetforensics
+    url: https://www.magnetforensics.com/free-tools/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Opentxt
+    url: https://www.opentext.com/products/security-cloud
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Ntfstool Forensics
+    url: >-
+      https://forum.seccodeid.com/d/ntfstool-forensics-tool-for-ntfs-parser-mft-bitlocker-deleted-files
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Sleuthkit
+    url: https://www.sleuthkit.org/sleuthkit/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: SIFT SANS
+    url: https://www.sans.org/tools/sift-workstation/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: SIFT CLI
+    url: https://github.com/teamdfir/sift-cli/releases/tag/v1.8.5
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: HYAS Insight
+    url: https://www.maltego.com/transform-hub/hyas-insight/
+    tags:
+      - maltego
+    status: active
+    last_checked: '2026-06-23'
+  - name: imago-forensics
+    url: https://github.com/redaelli/imago-forensics
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: SimpleImager
+    url: https://github.com/QXJ6YW4/SimpleImager
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Processhacker
+    url: https://processhacker.sourceforge.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Koodous
+    url: https://koodous.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Nirsoft Bwowsing History
+    url: https://www.nirsoft.net/utils/browsing_history_view.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: dfrlab.org
+    url: https://dfrlab.org/research/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: atlanticcouncil
+    url: https://www.atlanticcouncil.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Mever
+    url: https://mever.iti.gr/forensics/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: cellebrite
+    url: https://cellebrite.com/en/ufed/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: MOBSF
+    url: https://github.com/MobSF/Mobile-Security-Framework-MobSF
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: RMS - Mobile Pentest
+    url: https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: APK Leaks
+    url: https://github.com/dwisiswant0/apkleaks
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: forensictools
+    url: https://github.com/cristianzsh/forensictools
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: VolWeb
+    url: https://github.com/k1nd0ne/VolWeb
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: C2-Tracker
+    url: https://github.com/montysecurity/C2-Tracker
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Wanna Browser Sandbox
+    url: https://www.wannabrowser.net/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: pestudio
+    url: https://www.winitor.com/download
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: procmon
+    url: https://learn.microsoft.com/en-us/sysinternals/downloads/procmon
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: IoC Editor
+    url: https://fireeye.market/apps/S7cWpi9W
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Gfobins
+    url: https://gtfobins.github.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Lolbas
+    url: https://lolbas-project.github.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Loonbins
+    url: https://www.loobins.io/tactics/collection/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: sociallinks
+    url: https://sociallinks.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: decompiler
+    url: https://www.decompiler.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: exterro
+    url: https://www.exterro.com/digital-forensics-software/ftk-imager
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: wireshark
+    url: https://www.wireshark.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: bulk-extractor
+    url: https://www.kali.org/tools/bulk-extractor/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: sleuthkit
+    url: https://www.sleuthkit.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: recoverit
+    url: https://recoverit.wondershare.net/ad/data-recovery.html?gad_source=1
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: easeus
+    url: https://www.easeus.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: belkasoft
+    url: https://belkasoft.com/x
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: domaintools
+    url: https://www.domaintools.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Imperva
+    url: https://www.imperva.com/products/attack-analytics/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: magnetforensics
+    url: https://www.magnetforensics.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: IBM
+    url: https://www.ibm.com/products/qradar-siem
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Hex viewer
+    url: https://github.com/Keidan/HexViewer
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Ghidra
+    url: https://www.ghidra-sre.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: IDA
+    url: https://hex-rays.com/ida-free/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: PSPY Linux
+    url: https://github.com/DominicBreuker/pspy
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Process explorer Windows
+    url: https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: TCPView
+    url: https://learn.microsoft.com/id-id/sysinternals/downloads/tcpview
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Sysinternals Suite
+    url: https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Burpsuite
+    url: https://portswigger.net/burp
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: volatilityfoundation
+    url: https://github.com/volatilityfoundation
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Fire eye tool
+    url: https://fireeye.market/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: SANS Faculty Free Tools
+    url: >-
+      https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltd8ba96a0fce78883/Free_Faculty_Tools.pdf
+    tags:
+      - document
+      - free
+    status: active
+    last_checked: '2026-06-23'
+  - name: Forensically
+    url: https://29a.ch/photo-forensics/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: GCK'S FILE SIGNATURES TABLE
+    url: https://www.garykessler.net/library/file_sigs.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: stylesuxx Steganography Online
+    url: https://stylesuxx.github.io/steganography/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: georgeom
+    url: https://georgeom.net/StegOnline/upload
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: fotoforensics
+    url: https://fotoforensics.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: List and guides about tools forensic
+    url: https://ericzimmerman.github.io/#!index.md
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: socradar
+    url: https://socradar.io/labs/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Cuckoo
+    url: https://cuckoo.readthedocs.io/en/latest/installation/host/installation/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: autoruns
+    url: https://learn.microsoft.com/id-id/sysinternals/downloads/autoruns
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Hybrid Analysis
+    url: https://www.hybrid-analysis.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Awesome list malware analysis
+    url: https://github.com/rshipp/awesome-malware-analysis
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Process Hacker
+    url: https://systeminformer.sourceforge.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: regshot
+    url: https://sourceforge.net/projects/regshot/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: remnux
+    url: https://remnux.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: resourcehacker
+    url: https://www.angusj.com/resourcehacker/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Splunk
+    url: https://www.splunk.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Stirling-PDF
+    url: https://github.com/Stirling-Tools/Stirling-PDF
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: CISA Public Repo
+    url: https://github.com/cisagov
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: drweb
+    url: https://vms.drweb.com/online/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: List file signature
+    url: https://filesig.search.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: IPED
+    url: https://github.com/sepinf-inc/IPED
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'

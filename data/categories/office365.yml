@@ -1,0 +1,23 @@
+category: Office365
+slug: office365
+group: general
+description: Office365 — general resources (3 entries).
+items:
+  - name: Oh365UserFinder
+    url: https://github.com/dievus/Oh365UserFinder
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: o365chk
+    url: https://github.com/nixintel/o365chk
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: AD o365recon
+    url: https://github.com/nyxgeek/o365recon
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'

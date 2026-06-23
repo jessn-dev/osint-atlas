@@ -1,0 +1,31 @@
+category: EXIF TOOL COMMAND
+slug: exif-tool-command
+group: geoint
+description: EXIF TOOL COMMAND — geoint resources (5 entries).
+items:
+  - name: Exiftool
+    url: https://exiftool.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: List tagname
+    url: https://exiftool.org/TagNames/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: List tagnme 2
+    url: https://metacpan.org/dist/Image-ExifTool/view/lib/Image/ExifTool/TagNames.pod
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: List tagname 3
+    url: https://manpages.org/imageexiftooltagnames/3
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Exif python script remover
+    url: https://github.com/davidbombal/red-python-scripts/blob/main/remove_exif.py
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'

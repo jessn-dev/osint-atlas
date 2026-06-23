@@ -1,0 +1,11 @@
+category: Slack
+slug: slack
+group: general
+description: Slack — general resources (1 entries).
+items:
+  - name: SlackPirate
+    url: https://github.com/emtunc/SlackPirate
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'

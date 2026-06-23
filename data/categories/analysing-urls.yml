@@ -1,0 +1,272 @@
+category: Analysing URLs
+slug: analysing-urls
+group: web
+description: Analysing URLs — web resources (52 entries).
+items:
+  - name: GAU getallurls
+    url: https://github.com/lc/gau
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: trendmicro
+    url: https://global.sitesafety.trendmicro.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: zscaler
+    url: https://zulu.zscaler.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: drweb
+    url: https://vms.drweb.com/online/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: urlfiltering
+    url: https://urlfiltering.paloaltonetworks.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: dnshistory
+    url: https://osint.sh/dnshistory/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Unfurl
+    url: https://github.com/obsidianforensics/unfurl
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: VirusTotal
+    url: https://www.virustotal.com/gui/home/upload
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: virustotal mcp
+    url: https://github.com/BurtTheCoder/mcp-virustotal
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Virus Exchange
+    url: https://virus.exchange/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Archive Org
+    url: https://archive.org/web/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Iplocation
+    url: https://iplocation.io/website-link-analyzer
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Smallseotools
+    url: https://smallseotools.com/website-link-analyzer-tool/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Abuse IP
+    url: https://www.abuseipdb.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Check-The-Sum
+    url: https://check-the-sum.fr/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Check Phish
+    url: https://checkphish.ai/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Radar By Cloudflare
+    url: https://radar.cloudflare.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Is it Phishing
+    url: https://isitphishing.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: dnstwist
+    url: https://dnstwist.it/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Kaspersky
+    url: https://opentip.kaspersky.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: PolySwarm
+    url: https://polyswarm.network/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Threat Miner
+    url: https://www.threatminer.org/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Netcraft
+    url: https://www.netcraft.com/tools/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Malwareworld
+    url: https://malwareworld.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: DNS TWIST
+    url: https://github.com/elceef/dnstwist
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: URL CRAZY - Phishing detector
+    url: https://github.com/urbanadventurer/urlcrazy
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Phishing catcher
+    url: https://github.com/x0rz/phishing_catcher
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Open Phish
+    url: https://openphish.com/phishing_feeds.html
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Phishtalk
+    url: https://www.phishtank.com/phish_archive.php
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: URL Haus
+    url: https://urlhaus.abuse.ch/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Expand Url
+    url: https://www.expandurl.net/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Tiny Scan
+    url: https://www.tiny-scan.com
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: redirectdetective
+    url: https://redirectdetective.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: wheregoes
+    url: https://wheregoes.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: spyoffers
+    url: https://www.spyoffers.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: vx-underground
+    url: https://vx-underground.org/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: ShadowDragon
+    url: https://shadowdragon.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: metadefender
+    url: https://metadefender.opswat.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: fofa
+    url: https://en.fofa.info/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: safeweb norton
+    url: https://safeweb.norton.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: haveibeensquatted
+    url: https://www.haveibeensquatted.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: favihash
+    url: https://www.favihash.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: waybackpack download wayback archive url
+    url: https://github.com/jsvine/waybackpack
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Google Safe Browsing
+    url: https://developers.google.com/safe-browsing?hl=id
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: threatintelligenceplatform
+    url: https://threatintelligenceplatform.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: unshorten.it
+    url: https://unshorten.it/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: URL Expander Tool
+    url: https://t.ly/tools/link-expander/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Expand and verify all your shortened links
+    url: https://checkshorturl.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: getlinkinfo
+    url: https://www.getlinkinfo.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Redirect Tracker
+    url: https://www.websiteplanet.com/webtools/redirected/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: fortiguard
+    url: https://www.fortiguard.com/threatintel-search
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Url Scan
+    url: https://urlscan.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

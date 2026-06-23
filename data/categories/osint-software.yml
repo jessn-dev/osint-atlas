@@ -1,0 +1,82 @@
+category: OSINT Software
+slug: osint-software
+group: general
+description: OSINT Software — general resources (15 entries).
+items:
+  - name: alternativeto
+    url: https://alternativeto.net/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: alternative
+    url: https://alternative.me/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Apk mirror
+    url: https://www.apkmirror.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: apkpure
+    url: https://apkpure.com/id/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: slant
+    url: https://www.slant.co/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: capterra
+    url: https://www.capterra.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: G2
+    url: https://www.g2.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: softwaresuggest
+    url: https://www.softwaresuggest.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: softpedia
+    url: https://www.softpedia.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: DAPK APK SEARCH
+    url: https://github.com/m4ll0k/BBTz/blob/master/dapk.py
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: apkeep
+    url: https://github.com/EFForg/apkeep?tab=readme-ov-file
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: cyberarsenal
+    url: https://cyberarsenal.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: XSS
+    url: https://xss.is/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: apkcombo
+    url: https://apkcombo.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: sourceforge
+    url: https://sourceforge.net
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

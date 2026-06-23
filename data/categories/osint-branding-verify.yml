@@ -1,0 +1,229 @@
+category: OSINT Branding & Verify
+slug: osint-branding-verify
+group: general
+description: OSINT Branding & Verify — general resources (44 entries).
+items:
+  - name: prescam
+    url: https://www.prescam.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: smartcustomer
+    url: https://www.smartcustomer.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: nemesis ID
+    url: https://nemesis.assai.id/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Trus Pilot
+    url: https://www.trustpilot.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Google Alert
+    url: https://www.google.com/alerts
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: White Pages
+    url: https://www.whitepages.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Tripadvisor
+    url: https://www.tripadvisor.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Trustindex
+    url: https://www.trustindex.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: G Map Review
+    url: https://www.google.com/maps/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Provenexpert
+    url: https://www.provenexpert.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: SIMPU RI
+    url: https://umrahcerdas.kemenag.go.id/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Jobstreet.co.id
+    url: https://www.jobstreet.co.id/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: WEB Check
+    url: https://web-check.xyz/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: brightcloud ip lookup
+    url: https://www.brightcloud.com/tools/url-ip-lookup.php
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Url Filltering
+    url: https://urlfiltering.paloaltonetworks.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: A href Backlink Checker
+    url: https://ahrefs.com/backlink-checker
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Neil Patel Backlink
+    url: https://neilpatel.com/backlinks/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Semrush Backlink
+    url: https://www.semrush.com/analytics/backlinks/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Small SEO Tool Backlink
+    url: https://smallseotools.com/backlink-checker/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: SEO Backlink Check
+    url: https://www.seobility.net/en/backlinkchecker/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Moz Backlink
+    url: https://moz.com/link-explorer
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: SPAM Check Score
+    url: https://www.dapachecker.org/spam-score-checker
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: MOZ Spam Check
+    url: https://moz.com/help/link-explorer/link-building/spam-score
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: NIK PARSE ID
+    url: https://github.com/bachors/nik_parse.js?tab=readme-ov-file#nik_parsejs
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: API for Indonesian ID card (KTP) identification
+    url: https://github.com/audhiaprilliant/indonesian-id-card-identification
+    tags:
+      - api
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Maltego Transform ShadowDragon
+    url: https://www.maltego.com/transform-hub/socialnet/
+    tags:
+      - maltego
+    status: active
+    last_checked: '2026-06-23'
+  - name: Kaseware
+    url: https://www.kaseware.com/link-analysis
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: opentender ID
+    url: https://opentender.net/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: lpse lkpp ID
+    url: https://lpse.lkpp.go.id/eproc4
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: ahu ID
+    url: https://ahu.go.id/pencarian/profil-pt
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Minerba ESDM ID
+    url: https://momi.minerba.esdm.go.id/gisportal/home/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: MODI ID
+    url: https://modi.esdm.go.id/portal/dataPerusahaan
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: HAKI ID
+    url: https://pdki-indonesia.dgip.go.id/search?type=trademark&keyword=
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Katadata ID
+    url: https://databoks.katadata.co.id/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: pddikti ID
+    url: https://pddikti.kemdikbud.go.id/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: pipl
+    url: https://pipl.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ipqs
+    url: https://www.ipqualityscore.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: sociallinks
+    url: https://sociallinks.io/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: urlvoid
+    url: https://www.urlvoid.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: How to Verify Guide
+    url: https://www.howtoverify.info/Image/Where/Geolocation/Manual_geolocation
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: ID INAPROC daftar hitam penyedia
+    url: https://daftar-hitam.inaproc.id/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: WIPO INT
+    url: https://branddb.wipo.int/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: SPSE inaproc ID
+    url: https://spse.inaproc.id/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: URL Haus
+    url: https://urlhaus.abuse.ch/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

@@ -1,0 +1,39 @@
+category: Torrent
+slug: torrent
+group: darkweb
+description: Torrent — darkweb resources (6 entries).
+items:
+  - name: utorrent
+    url: https://www.utorrent.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: bittorrent
+    url: https://www.bittorrent.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Jacket
+    url: https://github.com/Jackett/Jackett
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: API OSINT TORRENT
+    url: https://github.com/cipher387/API-s-for-OSINT/blob/main/README.md
+    tags:
+      - api
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: torrentinim
+    url: https://github.com/sergiotapia/torrentinim
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Track IP Torrent Activity
+    url: https://iknowwhatyoudownload.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'

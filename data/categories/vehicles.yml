@@ -1,0 +1,15 @@
+category: Vehicles
+slug: vehicles
+group: general
+description: Vehicles — general resources (2 entries).
+items:
+  - name: China number plates
+    url: https://jenxi.com/china-vehicle-registration-plates/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Indonesia number plates
+    url: https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Indonesia
+    tags: []
+    status: active
+    last_checked: '2026-06-23'

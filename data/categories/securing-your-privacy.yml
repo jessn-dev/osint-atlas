@@ -1,0 +1,190 @@
+category: Securing Your Privacy
+slug: securing-your-privacy
+group: general
+description: Securing Your Privacy — general resources (36 entries).
+items:
+  - name: Eraser
+    url: https://eraser.heidi.ie/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Thunderbird
+    url: https://www.thunderbird.net/en-US/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Ublock origin
+    url: https://github.com/gorhill/uBlock
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
+  - name: Zmail
+    url: https://zmail.sourceforge.net/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Open DNS
+    url: https://www.opendns.com/home-internet-security/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: I2P
+    url: https://geti2p.net/en/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Gnupg
+    url: https://gnupg.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: HTTPS Everywhere
+    url: https://www.eff.org/https-everywhere/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Pelock
+    url: https://www.pelock.com/products/steganography-online-codec
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Tails OS
+    url: https://tails.boum.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: WOT
+    url: https://www.mywot.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Temp Mail 1
+    url: https://mail.tm/en/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Temp Mail 2
+    url: https://temp-mail.org/en/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Temp Mail 3
+    url: https://tempmailo.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: dnmx email
+    url: https://dnmx.su/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: dnmx email (ONION SITES)
+    url: http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion/
+    tags:
+      - onion
+    status: dead
+    last_checked: '2026-06-23'
+  - name: Phone Burner
+    url: https://www.phoneburner.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Hushed
+    url: https://hushed.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Privacy Badger
+    url: https://privacybadger.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Apple Kuncitara
+    url: https://support.apple.com/id-id/guide/iphone/iph049680987/ios
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Apple Focus Mode
+    url: https://support.apple.com/id-id/guide/iphone/iphd6288a67f/17.0/ios/17.0
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: nordvpn
+    url: https://nordvpn.com/
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: VPN Comparison Table
+    url: >-
+      https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit?gid=231869418#gid=231869418
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: cloudflare 0 trust
+    url: https://www.cloudflare.com/zero-trust/solutions/vpn-replacement/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Bitcoin
+    url: https://bitcoin.org/id/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Monero
+    url: https://www.getmonero.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Keepas
+    url: https://keepass.info/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Dashlane
+    url: https://www.dashlane.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Nordpass
+    url: https://nordpass.com/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Securing your email
+    url: https://cybernews.com/secure-email-providers/find-all-accounts-linked-to-email-address/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Surveillance Self-Defense
+    url: https://ssd.eff.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Street level Surveillance
+    url: https://sls.eff.org/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Protesters' Guide to Smartphone Security
+    url: >-
+      https://www.privacyguides.org/articles/2025/01/23/activists-guide-securing-your-smartphone/#avoid-external-storage
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: disint - guide for privacy action
+    url: https://disint.org/main.html?checkboxes=check80
+    tags: []
+    status: dead
+    last_checked: '2026-06-23'
+  - name: privacyguides
+    url: https://www.privacyguides.org/en/
+    tags: []
+    status: active
+    last_checked: '2026-06-23'
+  - name: Soxoj - Counter-OSINT & privacy guide
+    url: https://github.com/soxoj/counter-osint-guide-en
+    tags:
+      - open-source
+    status: active
+    last_checked: '2026-06-23'
