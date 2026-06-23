@@ -1,7 +1,7 @@
 category: OSINT Financial (FININT)
 slug: osint-financial-finint
-group: general
-description: OSINT Financial (FININT) — general resources (35 entries).
+group: finance
+description: OSINT Financial (FININT) — finance resources (35 entries).
 items:
   - name: bincheck Bank Identification Number
     url: https://bincheck.io/
@@ -29,6 +29,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.occrp.org/en
   - name: PPP Directory
     url: https://ppp.directory/search
     tags: []
@@ -39,11 +40,13 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://lkpp.go.id/
   - name: ID LPSE LKPP
     url: https://lpse.lkpp.go.id/eproc4/lelang
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://lpse.lkpp.go.id/eproc4/lelang
   - name: ID PPATK
     url: https://www.ppatk.go.id/publikasi/lists/1.html
     tags: []
@@ -54,6 +57,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.kpk.go.id/id
   - name: ID Pelaporan KPK LHKPN
     url: https://elhkpn.kpk.go.id/portal/user/petakepatuhan
     tags: []
@@ -69,26 +73,31 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://sikap.lkpp.go.id/pelaku-usaha/cari
   - name: ID BPK
     url: https://www.bpk.go.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.bpk.go.id/
   - name: ID Bappebti
     url: https://bappebti.go.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://bappebti.go.id/
   - name: ID BPS
     url: https://www.bps.go.id/id
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.bps.go.id/id
   - name: ID opentender
     url: https://opentender.net/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://opentender.net/
   - name: ID Pengadaan Tender
     url: https://tender.pengadaan.com/tender
     tags: []
@@ -120,6 +129,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://sirup.lkpp.go.id/sirup/home/rekapitulasiindex
   - name: ID BI
     url: https://www.bi.go.id/id/default.aspx
     tags: []
@@ -135,6 +145,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://id.tradingeconomics.com/
   - name: worldbank
     url: https://data.worldbank.org/
     tags: []
@@ -150,11 +161,13 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://e-katalog.lkpp.go.id/
   - name: ID Cek nomor rekening
     url: https://tools.bagusok.dev/cek-rekening
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://tools.bagusok.dev/cek-rekening
   - name: ID kredibel check scammer
     url: https://www.kredibel.com/search
     tags: []
@@ -170,6 +183,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://cekrekening.github.io/
   - name: BIN Database CC Checker
     url: https://www.bindb.com/bin-database
     tags: []
@@ -180,3 +194,4 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://spse.inaproc.id/

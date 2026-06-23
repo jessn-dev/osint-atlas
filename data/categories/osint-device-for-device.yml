@@ -1,7 +1,7 @@
 category: OSINT Device for Device
 slug: osint-device-for-device
-group: general
-description: OSINT Device for Device — general resources (29 entries).
+group: web
+description: OSINT Device for Device — web resources (29 entries).
 items:
   - name: Bellingcat Google Maps review Filename Chrome Extension
     url: https://www.bellingcat.com/resources/2024/10/15/google-maps-image-filename-finder-tool/
@@ -19,6 +19,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.hardreset.info/
   - name: 3u tool
     url: https://www.3u.com/
     tags: []

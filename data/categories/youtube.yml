@@ -23,6 +23,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://citizenevidence.amnestyusa.org/
   - name: watchframebyframe
     url: http://www.watchframebyframe.com/
     tags: []
@@ -69,6 +70,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://savesubs.com/
   - name: hadzy - YT Comment
     url: https://hadzy.com/
     tags: []
@@ -100,6 +102,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://ytbsum.codexfolio.com/
   - name: Youtube search operator
     url: https://seosly.com/blog/youtube-search-operators/
     tags: []

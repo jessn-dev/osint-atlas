@@ -6,6 +6,8 @@
  *   SMOKE_URL=https://user.github.io/repo/ npm run smoke
  *   npm run smoke -- https://user.github.io/repo/
  */
+export {};
+
 const target = process.env.SMOKE_URL ?? process.argv[2];
 if (!target) { console.error('[-] no URL: set SMOKE_URL or pass as arg'); process.exit(1); }
 const base = new URL(target);

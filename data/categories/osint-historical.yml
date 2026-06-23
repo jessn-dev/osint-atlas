@@ -1,13 +1,14 @@
 category: OSINT Historical
 slug: osint-historical
-group: darkweb
-description: OSINT Historical — darkweb resources (33 entries).
+group: reference
+description: OSINT Historical — reference resources (33 entries).
 items:
   - name: colonialarchitecture
     url: https://colonialarchitecture.eu/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://colonialarchitecture.eu/
   - name: niod archive
     url: https://www.niod.nl/
     tags: []
@@ -49,6 +50,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://mpn.kominfo.go.id/arsip/
   - name: ID Komdigi MPN Library
     url: https://mpn.komdigi.go.id/perpus/index.php
     tags: []
@@ -64,6 +66,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://geheugen.delpher.nl/nl
   - name: Old maps online
     url: https://www.oldmapsonline.org/en/
     tags: []
@@ -95,11 +98,13 @@ items:
       - official
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://chroniclingamerica.loc.gov/
   - name: britishnewspaperarchive
     url: https://www.britishnewspaperarchive.co.uk/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.britishnewspaperarchive.co.uk/
   - name: Google Archive News
     url: https://news.google.com/newspapers
     tags: []
@@ -121,6 +126,8 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://gallica.bnf.fr/accueil/en/content/accueil-en?mode=desktop
   - name: Myheritage
     url: https://www.myheritage.com/
     tags: []
@@ -136,6 +143,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://en.geneanet.org/
   - name: CSE Google Search
     url: https://cse.google.com/cse?cx=partner-pub-7233843800519946:6667570044&ie=UTF-8&q=
     tags: []
@@ -151,6 +159,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://newspaperarchive.com/
   - name: openhistoricalmap
     url: https://www.openhistoricalmap.org/
     tags: []

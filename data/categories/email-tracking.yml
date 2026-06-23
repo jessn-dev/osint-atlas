@@ -75,11 +75,13 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/http://www.ip-adress.com/trace_email/
   - name: whatismyipaddress
     url: http://www.whatismyipaddress.com/trace-email
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/http://www.whatismyipaddress.com/trace-email
   - name: hunter
     url: https://hunter.io/
     tags: []
@@ -105,6 +107,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.signalhire.com/
   - name: Holehe
     url: https://github.com/megadose/holehe
     tags:
@@ -133,11 +136,13 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/http://www.getnotify.com
   - name: epieos
     url: https://epieos.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://epieos.com/
   - name: seon
     url: >-
       https://seon.io/resources/the-ultimate-guide-to-free-email-lookup-and-reverse-email-lookup-tools/
@@ -154,6 +159,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://freepeoplesearch.com/
   - name: anymailfinder
     url: https://anymailfinder.com/
     tags: []
@@ -221,6 +227,7 @@ items:
       - open-source
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://github.com/bgwastu/inspektur
   - name: lolarchiver
     url: https://osint.lolarchiver.com/#
     tags: []
@@ -241,6 +248,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://findemail.io/
   - name: skymem
     url: https://www.skymem.info/
     tags: []
@@ -294,6 +302,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://osint.rocks/
   - name: email-permutator perform possible email addresses
     url: http://metricsparrow.com/toolkit/email-permutator/
     tags: []
@@ -320,6 +329,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://snov.io/email-finder
   - name: experte
     url: https://www.experte.com/email-finder
     tags: []
@@ -436,6 +446,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://castrickclues.com/
   - name: usersearch
     url: https://usersearch.com/
     tags: []

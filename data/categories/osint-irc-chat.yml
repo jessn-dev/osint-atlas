@@ -1,7 +1,7 @@
 category: OSINT IRC Chat
 slug: osint-irc-chat
-group: general
-description: OSINT IRC Chat — general resources (3 entries).
+group: socmint
+description: OSINT IRC Chat — socmint resources (3 entries).
 items:
   - name: netsplit
     url: https://netsplit.de/channels/

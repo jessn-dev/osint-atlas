@@ -1,7 +1,7 @@
 category: Web Intel Article
 slug: web-intel-article
-group: web
-description: Web Intel Article — web resources (2 entries).
+group: reference
+description: Web Intel Article — reference resources (2 entries).
 items:
   - name: Using Favicon Hashes for OSINT Reconnaissance
     url: https://fagun18.medium.com/using-favicon-hashes-for-osint-reconnaissanc-cefcb8c4ddca

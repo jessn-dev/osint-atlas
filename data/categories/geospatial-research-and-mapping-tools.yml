@@ -23,11 +23,13 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/http://www.atlasify.com
   - name: Batchgeo
     url: http://batchgeo.com
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/http://batchgeo.com
   - name: Bing Maps
     url: http://www.bing.com/maps
     tags: []
@@ -68,6 +70,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/http://www.geonames.org
   - name: Esri
     url: http://www.esri.com
     tags: []
@@ -109,6 +112,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/http://www.gpsvisualizer.com
   - name: GrassGIS
     url: http://grass.osgeo.org
     tags: []
@@ -130,6 +134,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/http://inspire-geoportal.ec.europa.eu
   - name: InstantAtlas
     url: http://www.instantatlas.com
     tags: []
@@ -145,6 +150,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/http://kartograph.org
   - name: Leaflet
     url: http://leafletjs.com
     tags: []
@@ -170,6 +176,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://mapchart.net
   - name: Maperitive
     url: http://maperitive.net
     tags: []
@@ -247,6 +254,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/http://www.terrapattern.com
   - name: Tableau
     url: http://www.tableausoftware.com
     tags: []
@@ -303,6 +311,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://discover.digitalglobe.com/
   - name: Zoom Earth
     url: https://zoom.earth/
     tags: []
@@ -313,6 +322,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://remotepixel.ca/projects/index.html
   - name: SunCalc
     url: https://www.suncalc.org/
     tags: []
@@ -369,11 +379,13 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://liveuamap.com/
   - name: Descartes Labs
     url: https://maps.descarteslabs.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://maps.descarteslabs.com/
   - name: Baidu Maps
     url: https://map.baidu.com/
     tags: []
@@ -453,6 +465,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://data.humdata.org/group
   - name: Planet - satellite maps
     url: https://www.planet.com/products/
     tags: []
@@ -527,6 +540,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.iqair.com/id/
   - name: NASA Earth Data
     url: https://search.earthdata.nasa.gov/search
     tags:
@@ -550,11 +564,13 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://skywatch.com/earthcache/
   - name: Skylens
     url: https://app.skylens.io/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://app.skylens.io/
   - name: Corona Atlsa
     url: https://corona.cast.uark.edu/
     tags:
@@ -591,6 +607,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://map.nbr.org/interactivemap/
   - name: geohints
     url: https://geohints.com/
     tags: []
@@ -652,6 +669,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.timeanddate.com/
   - name: urbanaccessregulations
     url: https://urbanaccessregulations.eu/userhome/map
     tags: []
@@ -707,6 +725,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://copernix.io/
   - name: skydb DB for building
     url: https://www.skydb.net/
     tags: []
@@ -778,6 +797,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.lightphotos.net/photos/map_all.php
   - name: geohack
     url: https://geohack.toolforge.org/
     tags: []
@@ -844,6 +864,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://apps.microsoft.com/detail/9wzdncrdtbvb?hl=en-US&gl=US
   - name: worldatlas
     url: https://www.worldatlas.com/countries
     tags: []
@@ -1039,6 +1060,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://osm-3d.org/screenshots.en.htm
   - name: OSM 3D Map Lists Awesome
     url: https://wiki.openstreetmap.org/wiki/3D
     tags: []

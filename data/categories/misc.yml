@@ -1,7 +1,7 @@
 category: MISC
 slug: misc
-group: general
-description: MISC — general resources (16 entries).
+group: reference
+description: MISC — reference resources (16 entries).
 items:
   - name: Awesome Telegram
     url: https://github.com/ebertti/awesome-telegram
@@ -35,6 +35,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://turboscribe.ai/
   - name: telegra.ph
     url: https://telegra.ph/
     tags: []

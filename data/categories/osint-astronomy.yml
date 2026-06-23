@@ -1,7 +1,7 @@
 category: OSINT Astronomy
 slug: osint-astronomy
-group: general
-description: OSINT Astronomy — general resources (22 entries).
+group: geoint
+description: OSINT Astronomy — geoint resources (22 entries).
 items:
   - name: stellarium
     url: https://stellarium-web.org/
@@ -13,6 +13,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://apps.apple.com/us/app/star-chart/id345542655
   - name: suncalc
     url: https://www.suncalc.org/
     tags: []
@@ -81,6 +82,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.timeanddate.com/moon/phases/
   - name: SpaceEngine Game
     url: https://store.steampowered.com/app/314650/SpaceEngine/
     tags: []
@@ -96,6 +98,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://stuffin.space/
   - name: NASA Sat list and mission
     url: https://www.nasa.gov/a-to-z-of-nasa-missions/
     tags:
@@ -118,3 +121,4 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://neal.fun/asteroid-launcher/

@@ -1,23 +1,26 @@
 category: OSINT Game
 slug: osint-game
-group: general
-description: OSINT Game — general resources (6 entries).
+group: reference
+description: OSINT Game — reference resources (6 entries).
 items:
   - name: Steamdb
     url: https://steamdb.info/calculator/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://steamdb.info/calculator/
   - name: tracker
     url: https://tracker.gg/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://tracker.gg/
   - name: steamidfinder
     url: https://www.steamidfinder.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.steamidfinder.com/
   - name: steamcommunity
     url: https://steamcommunity.com/search/users/
     tags: []
@@ -28,6 +31,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://tools.bagusok.dev/cek-id-game
   - name: OsintCat
     url: https://www.osintcat.net/
     tags: []

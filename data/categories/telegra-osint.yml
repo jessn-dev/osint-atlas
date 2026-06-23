@@ -1,7 +1,7 @@
 category: Telegra OSINT
 slug: telegra-osint
-group: general
-description: Telegra OSINT — general resources (2 entries).
+group: socmint
+description: Telegra OSINT — socmint resources (2 entries).
 items:
   - name: telegra
     url: https://telegra.ph/
@@ -13,3 +13,4 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://telegcrack.com/

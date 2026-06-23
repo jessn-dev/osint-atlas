@@ -1,7 +1,7 @@
 category: Office365
 slug: office365
-group: general
-description: Office365 — general resources (3 entries).
+group: socmint
+description: Office365 — socmint resources (3 entries).
 items:
   - name: Oh365UserFinder
     url: https://github.com/dievus/Oh365UserFinder

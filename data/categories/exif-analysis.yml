@@ -1,7 +1,7 @@
 category: EXIF Analysis
 slug: exif-analysis
-group: geoint
-description: EXIF Analysis — geoint resources (9 entries).
+group: media
+description: EXIF Analysis — media resources (9 entries).
 items:
   - name: EXIF Editor
     url: https://exifeditor.io
@@ -13,11 +13,13 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/http://regex.info/exif.cgi
   - name: FindExif
     url: http://www.findexif.com
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/http://www.findexif.com
   - name: metapicz
     url: http://metapicz.com
     tags: []
@@ -28,6 +30,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/http://www.imageforensic.org
   - name: jimpl
     url: https://jimpl.com/
     tags: []

@@ -1,7 +1,7 @@
 category: VK
 slug: vk
-group: general
-description: VK — general resources (3 entries).
+group: socmint
+description: VK — socmint resources (3 entries).
 items:
   - name: SocNet Dynamic Image Search
     url: https://github.com/DataSalo/SocNet_Dynamic_Image_Search
@@ -20,3 +20,4 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://vk.com/

@@ -1,7 +1,7 @@
 category: Image Analysis
 slug: image-analysis
-group: geoint
-description: Image Analysis — geoint resources (61 entries).
+group: media
+description: Image Analysis — media resources (61 entries).
 items:
   - name: geoseeer AI Geo find
     url: https://geoseeer.com/
@@ -63,6 +63,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://vk.watch/
   - name: Facecheck
     url: https://facecheck.id/
     tags: []
@@ -261,6 +262,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.imageforensic.org/
   - name: watermarkremover
     url: https://www.watermarkremover.io/
     tags: []

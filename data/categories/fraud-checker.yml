@@ -1,7 +1,7 @@
 category: Fraud Checker
 slug: fraud-checker
-group: general
-description: Fraud Checker — general resources (24 entries).
+group: finance
+description: Fraud Checker — finance resources (24 entries).
 items:
   - name: darkseclabs
     url: https://darkseclabs.com/
@@ -38,6 +38,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://cekrekening.id/home
   - name: Kredibel
     url: https://www.kredibel.com/
     tags: []
@@ -109,6 +110,7 @@ items:
       - telegram
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://apk.ibnux.com/data/
   - name: chainabuse - wallet scam search
     url: https://www.chainabuse.com/
     tags: []

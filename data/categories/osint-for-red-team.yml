@@ -1,18 +1,20 @@
 category: OSINT for Red Team
 slug: osint-for-red-team
-group: general
-description: OSINT for Red Team — general resources (422 entries).
+group: threat
+description: OSINT for Red Team — threat resources (422 entries).
 items:
   - name: securitytrails
     url: https://securitytrails.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://securitytrails.com/
   - name: maldevacademy database
     url: https://search.maldevacademy.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://search.maldevacademy.com/
   - name: ThreatCheck
     url: https://github.com/rasta-mouse/ThreatCheck
     tags:
@@ -73,11 +75,13 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://0day.today/
   - name: cvexploits
     url: https://cvexploits.io/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://cvexploits.io/
   - name: rustcat
     url: https://github.com/robiot/rustcat
     tags:
@@ -207,6 +211,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.zenrows.com/
   - name: Scrapfly
     url: https://scrapfly.io/
     tags: []
@@ -227,6 +232,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.npmjs.com/package/puppeteer-extra-plugin-stealth
   - name: MOBSF
     url: https://github.com/MobSF/Mobile-Security-Framework-MobSF
     tags:
@@ -390,6 +396,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://sploitus.com/
   - name: thehacker recipe
     url: https://www.thehacker.recipes/
     tags: []
@@ -455,6 +462,8 @@ items:
       - browser-extension
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify
   - name: Bug bounty hunter javascript reccon
     url: https://www.bugbountyhunter.com/guides/?type=javascript_files
     tags: []
@@ -484,6 +493,7 @@ items:
       - open-source
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://github.com/chaitin/xray/blob/master/README_ID.md
   - name: aquasecurity vuln list
     url: https://github.com/aquasecurity/vuln-list
     tags:
@@ -739,11 +749,14 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
   - name: SQL Injection Portswigger Cheat Sheet
     url: https://portswigger.net/web-security/sql-injection/cheat-sheet
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://portswigger.net/web-security/sql-injection/cheat-sheet
   - name: GitTools
     url: https://github.com/internetwache/GitTools
     tags:
@@ -984,6 +997,8 @@ items:
       - open-source
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://github.com/Whitecat18/Powershell-Scripts-for-Hackers-and-Pentesters
   - name: Sn1per
     url: https://github.com/1N3/Sn1per
     tags:
@@ -1199,6 +1214,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://vulners.com/
   - name: malapi
     url: https://malapi.io/
     tags: []
@@ -1225,6 +1241,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.httrack.com/
   - name: saveweb2zip
     url: https://saveweb2zip.com/en
     tags: []
@@ -1235,6 +1252,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://same.dev/
   - name: anonymailer email sender
     url: https://www.anonymailer.net/m-demo.asp
     tags: []
@@ -1562,6 +1580,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://oathnet.org/
   - name: Have I Been Pwned
     url: https://haveibeenpwned.com/
     tags: []
@@ -1597,6 +1616,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://breachdirectory.org/
   - name: Intel Techniques Breach Tool
     url: https://inteltechniques.com/tools/Breaches.html
     tags: []
@@ -1612,11 +1632,13 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://breach.vip/
   - name: infodra
     url: https://infodra.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://infodra.com/
   - name: hashcat
     url: https://github.com/hashcat/hashcat
     tags:
@@ -1961,6 +1983,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://wackopicko.csalab.app/
   - name: 8ksec Battlegrounds
     url: https://8ksec.io/battle/
     tags: []
@@ -1971,6 +1994,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://juiceshop.csalab.app/#/
   - name: dvwa CSLAB
     url: https://dvwa.csalab.app/
     tags: []
@@ -1986,6 +2010,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://tryhackme.com/
   - name: LaraVuln Jieyab89
     url: https://github.com/Jieyab89/LaraVuln
     tags:
@@ -2009,6 +2034,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.mobilehackinglab.com/free-mobile-hacking-labs
   - name: hextree
     url: https://www.hextree.io/
     tags: []
@@ -2063,6 +2089,8 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://portswigger.net/bappstore/228336544ebe4e68824b5146dbbd93ae
   - name: PyCript-WebSocket
     url: https://github.com/Anof-cyber/PyCript-WebSocket/
     tags:
@@ -2074,6 +2102,8 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://portswigger.net/bappstore/f9bbac8c4acf4aefa4d7dc92a991af2f
   - name: Retire.js
     url: https://github.com/RetireJS/retire.js
     tags:
@@ -2085,26 +2115,36 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://portswigger.net/bappstore/b2244cbb6953442cb3c82fa0a0d908fa
   - name: Backslash Powered Scanner
     url: https://portswigger.net/bappstore/9cff8c55432a45808432e26dbb2b41d8
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://portswigger.net/bappstore/9cff8c55432a45808432e26dbb2b41d8
   - name: Turbo Intruder
     url: https://portswigger.net/bappstore/9abaa233088242e8be252cd4ff534988
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://portswigger.net/bappstore/9abaa233088242e8be252cd4ff534988
   - name: Wayback Machine
     url: https://portswigger.net/bappstore/5c7c516c690345c19fbf55b2b2ebeb76
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://portswigger.net/bappstore/5c7c516c690345c19fbf55b2b2ebeb76
   - name: 403 Bypasser
     url: https://portswigger.net/bappstore/444407b96d9c4de0adb7aed89e826122
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://portswigger.net/bappstore/444407b96d9c4de0adb7aed89e826122
   - name: BURP MCP SERVER
     url: https://github.com/PortSwigger/mcp-server
     tags:
@@ -2116,11 +2156,14 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://portswigger.net/bappstore/2eb2b1cb1cf34cc79cda36f0f9019874
   - name: cobaltstrike
     url: https://www.cobaltstrike.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.cobaltstrike.com/
   - name: bruteratel C4
     url: https://bruteratel.com/tabs/tutorials/
     tags: []
@@ -2207,6 +2250,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://parrotsec.org/docs/category/tools/
   - name: katoolin3 for Ubbuntu Kali tools
     url: https://github.com/s-h-3-l-l/katoolin3
     tags:
@@ -2253,6 +2297,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.raspberrypi.com/products/raspberry-pi-4-model-b/
   - name: RTL SDR
     url: https://www.rtl-sdr.com/
     tags: []

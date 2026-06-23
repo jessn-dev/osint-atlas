@@ -8,6 +8,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://imginn.com/
   - name: pixnoy insta viewer
     url: https://www.pixnoy.com/
     tags: []
@@ -49,11 +50,13 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://anonyig.com/en/
   - name: Hashtagify
     url: http://hashtagify.me
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/http://hashtagify.me
   - name: Iconosquare
     url: http://iconosquare.com
     tags: []
@@ -64,6 +67,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.picodash.com
   - name: Dumpor
     url: https://dumpor.com/
     tags: []
@@ -101,6 +105,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://storistalker.com/#back
   - name: exportcomments
     url: https://exportcomments.com/
     tags: []
@@ -116,6 +121,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://storiesdown.com/
   - name: Instagram Auditor
     url: https://socialauditor.io/
     tags: []

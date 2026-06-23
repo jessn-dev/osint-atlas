@@ -1,7 +1,7 @@
 category: Microsoft OneDrive
 slug: microsoft-onedrive
-group: general
-description: Microsoft OneDrive — general resources (1 entries).
+group: socmint
+description: Microsoft OneDrive — socmint resources (1 entries).
 items:
   - name: Onedrive enum
     url: https://github.com/nyxgeek/onedrive_user_enum

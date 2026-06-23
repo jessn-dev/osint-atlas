@@ -1,7 +1,7 @@
 category: OSINT Shadow Analysis
 slug: osint-shadow-analysis
-group: general
-description: OSINT Shadow Analysis — general resources (17 entries).
+group: geoint
+description: OSINT Shadow Analysis — geoint resources (17 entries).
 items:
   - name: andrewmarsh sun path 3d
     url: https://andrewmarsh.com/software/sunpath3d-web/
@@ -18,6 +18,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.timeanddate.com/weather/indonesia/jakarta/historic
   - name: sunearthtools
     url: https://www.sunearthtools.com/dp/tools/pos_sun.php
     tags: []
@@ -38,6 +39,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/http://shadowcalculator.eu/#/lat/50.08/lng/19.9
   - name: shademap
     url: https://shademap.app/
     tags: []
@@ -74,6 +76,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.carbidedepot.com/formulas-trigright.asp
   - name: shadowmap
     url: https://app.shadowmap.org/
     tags: []

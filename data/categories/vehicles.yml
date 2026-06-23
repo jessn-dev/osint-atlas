@@ -1,7 +1,7 @@
 category: Vehicles
 slug: vehicles
-group: general
-description: Vehicles — general resources (2 entries).
+group: transport
+description: Vehicles — transport resources (2 entries).
 items:
   - name: China number plates
     url: https://jenxi.com/china-vehicle-registration-plates/

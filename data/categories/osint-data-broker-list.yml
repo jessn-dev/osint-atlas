@@ -1,7 +1,7 @@
 category: OSINT Data Broker List
 slug: osint-data-broker-list
-group: general
-description: OSINT Data Broker List — general resources (10 entries).
+group: finance
+description: OSINT Data Broker List — finance resources (10 entries).
 items:
   - name: yaelwrites Data-Broker-Opt-Out-List
     url: https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List
@@ -46,11 +46,13 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://doxbin.com/home
   - name: intelius
     url: https://www.intelius.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.intelius.com/
   - name: rocketreach
     url: https://rocketreach.co/
     tags: []

@@ -1,7 +1,7 @@
 category: OSINT Online Tool
 slug: osint-online-tool
-group: general
-description: OSINT Online Tool — general resources (27 entries).
+group: web
+description: OSINT Online Tool — web resources (27 entries).
 items:
   - name: fingerprint
     url: https://fingerprint.to/
@@ -19,6 +19,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://hackertarget.com/
   - name: bosint
     url: https://app.bosint.gg/
     tags: []
@@ -29,11 +30,13 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://whatsmyname.app/
   - name: OSINT rocks
     url: https://osint.rocks/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://osint.rocks/
   - name: scrapersnbots - available support more site for scrapper
     url: https://www.scrapersnbots.com/webtools/
     tags: []
@@ -49,11 +52,13 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://tweetdeck.twitter.com/
   - name: Hash tracking
     url: https://www.hashtracking.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.hashtracking.com/
   - name: OSINT Combine
     url: https://www.osintcombine.com/tools
     tags: []
@@ -74,6 +79,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://cekrekening.id/home
   - name: Thatsthem
     url: https://thatsthem.com/
     tags: []
@@ -84,6 +90,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://intelx.io/tools
   - name: lolarchiver
     url: https://osint.lolarchiver.com/#
     tags: []
@@ -115,12 +122,14 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://forum.seccodeid.com/d/twint-twitter-intelligence-tool
   - name: Telegram OSINT
     url: https://forum.seccodeid.com/d/telegram-nearby-map
     tags:
       - telegram
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://forum.seccodeid.com/d/telegram-nearby-map
   - name: UBIKRON
     url: https://www.osint-tool.com/unravel-help/
     tags: []
@@ -141,3 +150,4 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://securitytrails.com/

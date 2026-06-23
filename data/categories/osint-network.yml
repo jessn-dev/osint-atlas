@@ -1,7 +1,7 @@
 category: OSINT Network
 slug: osint-network
-group: general
-description: OSINT Network — general resources (34 entries).
+group: web
+description: OSINT Network — web resources (34 entries).
 items:
   - name: Spur
     url: https://spur.us/
@@ -13,6 +13,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://search.synthient.com/
   - name: FocSec
     url: https://focsec.com/
     tags: []
@@ -23,6 +24,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://ip.teoh.io/vpn-detection
   - name: IPQS
     url: https://www.ipqualityscore.com/vpn-ip-address-check
     tags: []
@@ -68,6 +70,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://bgpview.io/
   - name: wigle
     url: https://wigle.net/
     tags: []
@@ -83,6 +86,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://lab.dynamite.ai/
   - name: packetsafari analys pcap file
     url: https://app.packetsafari.com/
     tags: []
@@ -98,6 +102,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://hackertarget.com/as-ip-lookup/
   - name: whoisxmlapi
     url: https://mac-address.whoisxmlapi.com/api
     tags:
@@ -139,6 +144,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://iknowwhatyoudownload.com/
   - name: Tor metrics exonarator
     url: https://metrics.torproject.org/exonerator.html
     tags: []

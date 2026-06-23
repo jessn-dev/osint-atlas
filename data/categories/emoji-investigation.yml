@@ -1,7 +1,7 @@
 category: Emoji Investigation
 slug: emoji-investigation
-group: general
-description: Emoji Investigation — general resources (6 entries).
+group: media
+description: Emoji Investigation — media resources (6 entries).
 items:
   - name: dutchosintguy
     url: https://www.dutchosintguy.com/post/cryptography-osint-can-you-read-emoji
@@ -23,6 +23,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://emojitracker.com/details/1F44F
   - name: emojipedia
     url: https://emojipedia.org/
     tags: []

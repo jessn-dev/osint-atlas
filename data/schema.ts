@@ -18,6 +18,7 @@ export const ItemSchema = z
   .object({
     name: z.string().min(1),
     url: z.string().url(),
+    archive_url: z.string().url().optional(),
     description: z.string().optional(),
     tags: z.array(TagSchema).default([]),
     status: ItemStatus.default('unchecked'),

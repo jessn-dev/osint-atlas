@@ -8,6 +8,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.timeanddate.com/moon/
   - name: smappen
     url: https://www.smappen.com/app/
     tags: []
@@ -124,8 +125,10 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.wolframalpha.com/
   - name: asteroid launcher
     url: https://neal.fun/asteroid-launcher/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://neal.fun/asteroid-launcher/

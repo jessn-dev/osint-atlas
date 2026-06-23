@@ -1,7 +1,7 @@
 category: Chat Apps Investigation
 slug: chat-apps-investigation
-group: general
-description: Chat Apps Investigation — general resources (21 entries).
+group: socmint
+description: Chat Apps Investigation — socmint resources (21 entries).
 items:
   - name: Analyze your WhatsApp Chat
     url: https://whatsanalyze-80665.web.app/
@@ -23,6 +23,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://realgrouplinks.com/
   - name: whatsapp Law Enforcement Online Requests
     url: https://www.whatsapp.com/records/login
     tags: []
@@ -51,6 +52,7 @@ items:
       - telegram
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/http://www.telegramdb.org/
   - name: Telegram Search Engine
     url: https://xtea.io/
     tags:
@@ -68,6 +70,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://socialfinder.app/list/Telegram
   - name: Telegago
     url: >-
       https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1
@@ -90,6 +93,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://telemetr.io/
   - name: TGDev
     url: https://tgdev.io/
     tags: []

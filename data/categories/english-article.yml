@@ -32,6 +32,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.pcwdld.com/osint-tools-and-software#wbounce-modal
   - name: OSINT Open Source Intelligence Fundamental
     url: https://en-blog.seccodeid.com/2022/09/osint-open-source-intelligence.html
     tags: []
@@ -42,11 +43,13 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://os2int.com/toolbox/
   - name: Types of Threat Intelligence Gathering
     url: https://socradar.io/types-of-threat-intelligence-gathering/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://socradar.io/types-of-threat-intelligence-gathering/
   - name: Learn transform Maltego
     url: https://www.maltego.com/transform-hub/
     tags:
@@ -70,6 +73,8 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://www.ehacking.net/2021/04/osint-wifi-tutorial-track-people-using-wifi-via-wigle.html
   - name: Finding location using MCC, MNC, LAC, and Cell ID
     url: https://stackoverflow.com/questions/18686888/finding-location-using-mcc-mnc-lac-and-cell-id
     tags: []

@@ -1,13 +1,14 @@
 category: Medium OSINT
 slug: medium-osint
-group: general
-description: Medium OSINT — general resources (2 entries).
+group: socmint
+description: Medium OSINT — socmint resources (2 entries).
 items:
   - name: freedium medium unpaywall
     url: https://freedium.cfd/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://freedium.cfd/
   - name: freedium (mirror) unpaywall
     url: https://freedium-mirror.cfd/
     tags: []

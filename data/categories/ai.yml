@@ -1,7 +1,7 @@
 category: AI
 slug: ai
-group: general
-description: AI — general resources (2 entries).
+group: ai
+description: AI — ai resources (2 entries).
 items:
   - name: >-
       dutchosintguy Using AI for extracting Usernames, Emails, Phone Numbers, and Personal Names
@@ -16,3 +16,5 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://gijn.org/stories/deepfake-geography-how-ai-can-now-falsify-satellite-images/

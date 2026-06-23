@@ -1,7 +1,7 @@
 category: OSINT Cryptography (Cipher)
 slug: osint-cryptography-cipher
-group: web
-description: OSINT Cryptography (Cipher) — web resources (6 entries).
+group: finance
+description: OSINT Cryptography (Cipher) — finance resources (6 entries).
 items:
   - name: dcode
     url: https://www.dcode.fr/identification-chiffrement

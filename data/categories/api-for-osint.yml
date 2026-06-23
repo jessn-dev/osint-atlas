@@ -1,7 +1,7 @@
 category: API for OSINT
 slug: api-for-osint
-group: general
-description: API for OSINT — general resources (8 entries).
+group: web
+description: API for OSINT — web resources (8 entries).
 items:
   - name: ecosyste
     url: https://ecosyste.ms/

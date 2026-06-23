@@ -128,7 +128,7 @@ export class AtlasGraph {
       if (!cat) return [];
       return cat.items.map((it, i) => ({
         id: `item:${slug}:${i}`, label: it.name, kind: 'item', group: cat.group,
-        status: it.status, url: it.url, tags: it.tags,
+        status: it.status, url: it.url, archive_url: it.archive_url, tags: it.tags,
       }));
     }
     return [];

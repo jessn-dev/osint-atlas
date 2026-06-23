@@ -1,7 +1,7 @@
 category: Shortlink for OSINT
 slug: shortlink-for-osint
-group: general
-description: Shortlink for OSINT — general resources (3 entries).
+group: web
+description: Shortlink for OSINT — web resources (3 entries).
 items:
   - name: t.ly
     url: https://t.ly/

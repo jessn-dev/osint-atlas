@@ -1,7 +1,7 @@
 category: Monitoring & Alerting
 slug: monitoring-alerting
-group: darkweb
-description: Monitoring & Alerting — darkweb resources (10 entries).
+group: web
+description: Monitoring & Alerting — web resources (10 entries).
 items:
   - name: Pastebin Alerts
     url: http://pastebin.com/u/alerts

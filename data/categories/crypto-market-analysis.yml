@@ -1,7 +1,7 @@
 category: Crypto Market & Analysis
 slug: crypto-market-analysis
-group: general
-description: Crypto Market & Analysis — general resources (39 entries).
+group: finance
+description: Crypto Market & Analysis — finance resources (39 entries).
 items:
   - name: coinmarketcap
     url: https://coinmarketcap.com/
@@ -28,6 +28,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://dexscreener.com/
   - name: cryptoscamdb crypto scam
     url: https://cryptoscamdb.org/
     tags: []
@@ -38,6 +39,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://tronscan.org/#/
   - name: walletexplorer
     url: https://www.walletexplorer.com/
     tags: []
@@ -58,21 +60,25 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://blockexplorer.com/
   - name: blockcypher
     url: https://live.blockcypher.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://live.blockcypher.com/
   - name: intelx
     url: https://intelx.io/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://intelx.io/
   - name: oxt
     url: https://oxt.me/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://oxt.me/
   - name: bitcoinwhoswho
     url: https://www.bitcoinwhoswho.com/
     tags: []
@@ -83,11 +89,13 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://etherscan.io/
   - name: etherchain
     url: https://www.etherchain.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.etherchain.org/
   - name: web3 username search
     url: https://app.ens.domains/
     tags: []
@@ -103,21 +111,25 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://blockchair.com/
   - name: bitaps
     url: https://bitaps.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://bitaps.com/
   - name: 3pxl
     url: https://3xpl.com/bitcoin
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://3xpl.com/bitcoin
   - name: ARKHAM INTEL
     url: https://intel.arkm.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://intel.arkm.com/
   - name: breadcrumbs
     url: https://www.breadcrumbs.app/
     tags: []
@@ -133,6 +145,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://ciphertrace.com/
   - name: metasleuth
     url: https://metasleuth.io/
     tags: []
@@ -158,6 +171,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://solscan.io/
   - name: XMR SCAN
     url: https://xmrscan.org/
     tags: []

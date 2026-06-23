@@ -1,7 +1,7 @@
 category: Forums & Sites
 slug: forums-sites
-group: general
-description: Forums & Sites — general resources (25 entries).
+group: socmint
+description: Forums & Sites — socmint resources (25 entries).
 items:
   - name: Bellingcat Discord
     url: https://discord.com/invite/nTaNPmz
@@ -18,11 +18,13 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://osint.team
   - name: Seccodeid Forum
     url: https://forum.seccodeid.com/category/osint
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://forum.seccodeid.com/category/osint
   - name: Reddit OSINT
     url: https://www.reddit.com/r/OSINT
     tags: []

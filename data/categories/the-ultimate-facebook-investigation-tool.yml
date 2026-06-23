@@ -29,6 +29,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/http://www.wolframalpha.com/input/?i=facebook+report
   - name: Facebook Recover Lookup
     url: https://web.facebook.com/login/identify?ctx=recover&_rdc=1&_rdr
     tags: []
@@ -49,6 +50,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.hashatit.com/
   - name: Export comment
     url: https://exportcomments.com/
     tags: []
@@ -64,6 +66,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://graph.tips/facebook.html
   - name: Facebook live
     url: https://www.facebook.com/watch/live/?ref=live_delegate
     tags: []
@@ -90,6 +93,7 @@ items:
       - open-source
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://github.com/Ph4nToM00/FuckFacebook
   - name: Facebook search photo
     url: https://cse.google.com/cse?cx=013991603413798772546:jyvyp2ppxma#gsc.tab=0
     tags: []
@@ -105,6 +109,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://intelx.io/tools?tab=facebook
   - name: Check email and phone num on facebook
     url: https://web.facebook.com/login/identify?ctx=recover&_rdc=1&_rdr#
     tags: []

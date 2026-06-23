@@ -24,6 +24,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.abuseipdb.com/
   - name: similartech
     url: https://similartech.com/
     tags: []
@@ -39,6 +40,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://whatsmyname.app/
   - name: similarsitesearch
     url: https://www.similarsitesearch.com/
     tags: []
@@ -116,6 +118,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://radar.cloudflare.com/
   - name: webscout
     url: https://webscout.io/
     tags: []
@@ -136,6 +139,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://search.odin.io/
   - name: domaincodex
     url: https://www.domaincodex.com/
     tags: []
@@ -171,6 +175,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/http://dnshistory.org
   - name: DNS Spy
     url: https://dnsspy.io
     tags: []
@@ -186,6 +191,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://hackertarget.com/ip-tools
   - name: Shodan
     url: https://www.shodan.io
     tags: []
@@ -289,11 +295,13 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/http://zoomeye.org/
   - name: securitytrails
     url: https://securitytrails.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://securitytrails.com/
   - name: hakrawler
     url: https://github.com/hakluke/hakrawler
     tags:
@@ -339,6 +347,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.similarweb.com/
   - name: smallseotools compare web similar
     url: https://smallseotools.com/similar-sites/
     tags: []
@@ -382,6 +391,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://whoisrequest.com
   - name: completedns
     url: https://completedns.com
     tags: []
@@ -437,6 +447,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://web-check.xyz/
   - name: brightcloud ip lookup
     url: https://www.brightcloud.com/tools/url-ip-lookup.php
     tags: []
@@ -571,6 +582,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://faviconhasher.codejavu.tech/
   - name: FavFreak
     url: https://github.com/devanshbatham/FavFreak
     tags:
@@ -592,6 +604,8 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://forum.seccodeid.com/d/waymore-find-way-more-from-the-wayback-machine
   - name: DMCA Lumen DB
     url: https://lumendatabase.org/
     tags: []
@@ -654,6 +668,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://socradar.io/labs/
   - name: ReconDog
     url: https://github.com/s0md3v/ReconDog
     tags:
@@ -665,6 +680,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://osint.rocks/
   - name: cyscan
     url: https://cyscan.io/
     tags: []
@@ -732,6 +748,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://search.dnslytics.com/
   - name: blacklistchecker
     url: https://blacklistchecker.com/
     tags: []

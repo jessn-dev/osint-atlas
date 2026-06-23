@@ -1,13 +1,14 @@
 category: Railways
 slug: railways
-group: general
-description: Railways — general resources (11 entries).
+group: transport
+description: Railways — transport resources (11 entries).
 items:
   - name: AU Railways
     url: http://www.railpage.org.au/railmaps/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/http://www.railpage.org.au/railmaps/
   - name: Global Open Railways
     url: https://www.openrailwaymap.org/
     tags: []
@@ -50,6 +51,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.zugfinder.net/
   - name: KAI ID ROUTE
     url: https://commuterline.id/perjalanan-krl/peta-rute
     tags: []

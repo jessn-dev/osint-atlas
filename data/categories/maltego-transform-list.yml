@@ -1,7 +1,7 @@
 category: Maltego Transform List
 slug: maltego-transform-list
-group: general
-description: Maltego Transform List — general resources (9 entries).
+group: reference
+description: Maltego Transform List — reference resources (9 entries).
 items:
   - name: GraphSense-Maltego-transform
     url: https://github.com/INTERPOL-Innovation-Centre/GraphSense-Maltego-transform

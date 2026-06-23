@@ -1,13 +1,14 @@
 category: Competitive Programming
 slug: competitive-programming
-group: general
-description: Competitive Programming — general resources (3 entries).
+group: search
+description: Competitive Programming — search resources (3 entries).
 items:
   - name: Hackerrank
     url: https://www.hackerrank.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.hackerrank.com/
   - name: Code chef
     url: https://www.codechef.com/
     tags: []

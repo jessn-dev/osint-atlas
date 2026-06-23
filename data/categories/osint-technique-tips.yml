@@ -1,7 +1,7 @@
 category: OSINT Technique Tips
 slug: osint-technique-tips
-group: web
-description: OSINT Technique Tips — web resources (22 entries).
+group: reference
+description: OSINT Technique Tips — reference resources (22 entries).
 items:
   - name: Awesome guide attack vector OSINT
     url: https://github.com/sinwindie/OSINT
@@ -24,6 +24,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.overtoperator.com/s/daily-intel-brief
   - name: maltego
     url: https://www.maltego.com/blog/top-osint-infosec-resources-for-you-and-your-team/
     tags:
@@ -35,6 +36,8 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://www.skopenow.com/resource-center/image-based-osint-investigations-tips-techniques
   - name: Telegram OSINT
     url: https://github.com/Ginsberg5150/Discord-and-Telegram-OSINT-references
     tags:
@@ -53,6 +56,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.recordedfuture.com/threat-intelligence-lifecycle
   - name: Five Phashes of the Threat Intelligence Lifecycle
     url: https://flashpoint.io/blog/threat-intelligence-lifecycle/
     tags: []
@@ -68,6 +72,8 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://securityorb.com/featured/the-open-source-intelligence-osint-cycle/
   - name: Learn and training OSINT free
     url: https://sites.google.com/view/tpdprivacy/home?authuser=0
     tags:

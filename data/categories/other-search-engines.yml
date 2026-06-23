@@ -1,7 +1,7 @@
 category: Other Search Engines
 slug: other-search-engines
-group: general
-description: Other Search Engines — general resources (57 entries).
+group: search
+description: Other Search Engines — search resources (57 entries).
 items:
   - name: odcrawler
     url: https://odcrawler.xyz/
@@ -59,6 +59,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/http://www.topix.com
   - name: Shodan
     url: https://www.shodan.io/
     tags: []
@@ -74,11 +75,13 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.onesearch.com/
   - name: Searchencrypt
     url: https://www.searchencrypt.com/home
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.searchencrypt.com/home
   - name: Duckgo
     url: https://duckduckgo.com/
     tags: []
@@ -89,6 +92,8 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://forum.seccodeid.com/d/waymore-find-way-more-from-the-wayback-machine
   - name: StartPage
     url: https://www.startpage.com/
     tags: []
@@ -124,6 +129,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.goo.ne.jp/
   - name: swisscows
     url: https://swisscows.com/en
     tags: []
@@ -261,6 +267,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://search.censys.io/
   - name: verifyhalal
     url: https://verifyhalal.com/
     tags: []

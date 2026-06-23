@@ -1,7 +1,7 @@
 category: OSINT Adult or Porn (18+)
 slug: osint-adult-or-porn-18
-group: general
-description: OSINT Adult or Porn (18+) — general resources (43 entries).
+group: media
+description: OSINT Adult or Porn (18+) — media resources (43 entries).
 items:
   - name: samsguide forums
     url: https://samsguide.living/
@@ -28,6 +28,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://trakteer.id/
   - name: bedpage
     url: http://bedpage.com/
     tags: []
@@ -89,6 +90,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://id.quora.com/
   - name: X
     url: https://twitter.com/
     tags: []
@@ -130,16 +132,19 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.xnxx.com/account/checkemail
   - name: xvideos
     url: https://www.xvideos.com/account/checkemail
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.xvideos.com/account/checkemail
   - name: archiveofsins Archives
     url: https://archiveofsins.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://archiveofsins.com/
   - name: deviantart
     url: https://www.deviantart.com/
     tags: []
@@ -150,11 +155,13 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.tripadvisor.com/
   - name: wikisexguide
     url: https://forum.wikisexguide.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://forum.wikisexguide.com/
   - name: semprot forums
     url: https://www.semprot.com/
     tags: []
@@ -190,6 +197,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://fansmetrics.com/
   - name: onlysearch
     url: https://onlysearch.co/
     tags: []
@@ -205,6 +213,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://hubite.com/en/onlyfans-search/
   - name: fansearch
     url: https://www.fansearch.com/
     tags: []
@@ -215,6 +224,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.xmodelfinder.com/
   - name: sotugas onlyfans search username
     url: https://sotugas.com/onlyfans/
     tags: []

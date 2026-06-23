@@ -1,7 +1,7 @@
 category: Vehicle OSINT
 slug: vehicle-osint
-group: general
-description: Vehicle OSINT — general resources (56 entries).
+group: transport
+description: Vehicle OSINT — transport resources (56 entries).
 items:
   - name: licenseplatemania
     url: https://licenseplatemania.com/
@@ -38,6 +38,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://carnet.ai/
   - name: ID number plate
     url: https://auto2000.co.id/berita-dan-tips/plat-nomor-seluruh-indonesia
     tags: []
@@ -68,6 +69,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.commercialtrucktrader.com/
   - name: License Plate AI Recognition
     url: https://github.com/winter2897/Real-time-Auto-License-Plate-Recognition-with-Jetson-Nano
     tags:
@@ -84,6 +86,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.vehiclehistory.com/license-plate-search
   - name: faxvin
     url: https://www.faxvin.com/license-plate-lookup
     tags: []
@@ -114,6 +117,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://avtocod.ru/
   - name: dmvcivls.gov
     url: https://dmvcivls-wselfservice.ct.gov/Registration/VerifyRegistration
     tags:
@@ -156,6 +160,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://mail.e-data.com.ua/
   - name: platetracker
     url: https://www.stopice.net/platetracker/index.cgi
     tags: []
@@ -171,11 +176,13 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.vehiclehistory.com/
   - name: vindecoderz
     url: https://www.vindecoderz.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.vindecoderz.com/
   - name: fordvinlookup
     url: https://www.fordvinlookup.com/
     tags: []
@@ -211,6 +218,8 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://www.toyota.com/owners/my-vehicle/vehicle-specification.html
   - name: audiworld
     url: https://www.audiworld.com/forums/vindecoder.php
     tags: []
@@ -247,6 +256,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://carvx.jp/
   - name: cyclevin
     url: https://cyclevin.com/
     tags: []
@@ -283,8 +293,11 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.jaklingkoindonesia.co.id/id/map
   - name: Palembang ID Pub Transport
     url: https://geoportal.palembang.go.id/pencarian?kategori=Transportasi
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://geoportal.palembang.go.id/pencarian?kategori=Transportasi

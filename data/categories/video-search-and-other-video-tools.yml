@@ -1,7 +1,7 @@
 category: Video Search and Other Video Tools
 slug: video-search-and-other-video-tools
-group: general
-description: Video Search and Other Video Tools — general resources (35 entries).
+group: media
+description: Video Search and Other Video Tools — media resources (35 entries).
 items:
   - name: Google Lens
     url: https://lens.google/
@@ -18,6 +18,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/http://on.aol.com
   - name: Bing Videos
     url: http://www.bing.com/?scope=video
     tags: []
@@ -63,6 +64,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/http://www.liveleak.com
   - name: Metatube
     url: http://www.metatube.com
     tags: []
@@ -73,6 +75,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/http://www.veoh.com
   - name: Vimeo
     url: https://vimeo.com
     tags: []
@@ -93,6 +96,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.amnestyusa.org/citizenevidence
   - name: YouTube Metadata
     url: https://mattw.io/youtube-metadata/
     tags: []
@@ -145,6 +149,8 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://www.shutterstock.com/royalty-free/reverse-image-search-for-video
   - name: invid-project
     url: https://www.invid-project.eu/tools-and-services/invid-verification-plugin/
     tags: []

@@ -33,16 +33,19 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://en.geneanet.org/
   - name: wiewaswie NL
     url: https://www.wiewaswie.nl/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.wiewaswie.nl/
   - name: familytreenow
     url: https://familytreenow.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://familytreenow.com/
   - name: locatefamily
     url: https://www.locatefamily.com/
     tags: []
@@ -63,3 +66,4 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://truepeoplesearch.com/

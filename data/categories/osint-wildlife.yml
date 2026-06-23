@@ -1,7 +1,7 @@
 category: OSINT Wildlife
 slug: osint-wildlife
-group: general
-description: OSINT Wildlife — general resources (10 entries).
+group: geoint
+description: OSINT Wildlife — geoint resources (10 entries).
 items:
   - name: SIKU
     url: https://siku.org/project-management
@@ -24,6 +24,8 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://viirs.skytruth.org/apps/heatmap/flaringmap.html#lat=33.85472&lon=35.86229&zoom=8&offset=27
   - name: protectedplanet
     url: https://www.protectedplanet.net/
     tags: []
@@ -39,6 +41,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://sipongi.menlhk.go.id/peta
   - name: greenpeace
     url: https://www.greenpeace.org/indonesia/
     tags: []

@@ -1,7 +1,7 @@
 category: OSINT Drone Search
 slug: osint-drone-search
-group: general
-description: OSINT Drone Search — general resources (1 entries).
+group: transport
+description: OSINT Drone Search — transport resources (1 entries).
 items:
   - name: dronestagr
     url: https://www.dronestagr.am/?s=indonesia

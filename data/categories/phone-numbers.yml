@@ -23,6 +23,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/http://www.cellrevealer.com
   - name: spydialer
     url: http://www.spydialer.com
     tags: []
@@ -63,6 +64,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.reskrim.com/cek.php
   - name: Device Info
     url: https://www.deviceinfo.me/
     tags: []
@@ -73,6 +75,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.unknownphone.com/
   - name: Whocallsme
     url: https://whocallsme.com/
     tags: []
@@ -88,6 +91,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.phonebooks.com/
   - name: International Phone Directories
     url: https://www.thisnumber.com/
     tags: []
@@ -162,6 +166,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.signalhire.com/
   - name: Emobiletracker
     url: https://www.emobiletracker.com/
     tags: []
@@ -194,11 +199,13 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://freepeoplesearch.com/
   - name: Epios
     url: https://epieos.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://epieos.com/
   - name: anymailfinder
     url: https://anymailfinder.com/
     tags: []
@@ -255,6 +262,7 @@ items:
       - open-source
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://github.com/bgwastu/inspektur
   - name: lolarchiver
     url: https://osint.lolarchiver.com/#
     tags: []
@@ -271,12 +279,16 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://web.archive.org/web/20240730155821/http://www.ppipuskrip.com/cek-kode-hlr-telkomsel.html
   - name: HLR Tsel Area Code
     url: >-
       https://web.archive.org/web/20240730160717/https://kumparan.com/how-to-tekno/cara-mengetahui-kode-area-no-hp-orang-lain-1yzrnn0bUx1
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://web.archive.org/web/20240730160717/https://kumparan.com/how-to-tekno/cara-mengetahui-kode-area-no-hp-orang-lain-1yzrnn0bUx1
   - name: Indosat HLR
     url: https://panduanbs.com/kode-area-wilayah-hlr-nomor-indosat-ooredo/
     tags: []
@@ -292,11 +304,13 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://f-droid.org/id/packages/com.itds.sms.ping/
   - name: numlookup
     url: https://www.numlookup.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.numlookup.com/
   - name: haveibeenzuckered
     url: https://haveibeenzuckered.com/
     tags: []
@@ -312,6 +326,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.truepeoplesearch.com/
   - name: spokeo
     url: https://www.spokeo.com/
     tags: []
@@ -328,11 +343,13 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://osint.rocks/
   - name: castrickclues
     url: https://castrickclues.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://castrickclues.com/
   - name: usersearch
     url: https://usersearch.com/
     tags: []

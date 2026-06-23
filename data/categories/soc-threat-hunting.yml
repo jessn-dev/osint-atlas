@@ -8,6 +8,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://analyzer.vecert.io/
   - name: ransomlook
     url: https://www.ransomlook.io/browse
     tags: []
@@ -56,6 +57,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.ransom-db.com/
   - name: grafana
     url: https://grafana.com/
     tags: []
@@ -87,6 +89,8 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://cybersecurity.att.com/resource-center#content_analyst-reports
   - name: Yara
     url: https://yara.readthedocs.io/en/stable/
     tags: []
@@ -113,6 +117,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://virus.exchange/
   - name: Malware Sample and IOC
     url: https://github.com/rivitna/Malware
     tags:
@@ -145,6 +150,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.vmware.com/products/carbon-black-cloud-endpoint.html
   - name: Insightidr
     url: https://www.rapid7.com/products/insightidr/
     tags: []
@@ -181,6 +187,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.abuseipdb.com/
   - name: Check-The-Sum
     url: https://check-the-sum.fr/
     tags: []
@@ -232,6 +239,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.phishtank.com/phish_archive.php
   - name: Sophos
     url: https://www.sophos.com/en-us/intelix
     tags: []
@@ -263,6 +271,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.threatminer.org/
   - name: Virus Share
     url: https://virusshare.com/
     tags: []
@@ -279,6 +288,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://community.riskiq.com/
   - name: TypeDB
     url: https://github.com/typedb-osi/typedb-cti
     tags:
@@ -354,6 +364,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://vx-underground.org/
   - name: shellpub
     url: https://n.shellpub.com/en
     tags: []
@@ -422,6 +433,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://bazaar.abuse.ch/browse/
   - name: greynoise
     url: https://www.greynoise.io/
     tags: []
@@ -467,6 +479,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://lab.dynamite.ai/
   - name: packetsafari analys pcap file
     url: https://app.packetsafari.com/
     tags: []
@@ -553,6 +566,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://capesandbox.com/
   - name: docguard
     url: https://www.docguard.io/
     tags: []

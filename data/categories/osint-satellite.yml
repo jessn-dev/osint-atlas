@@ -65,6 +65,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://satellitetracker.net/
   - name: starlink
     url: https://www.starlink.com/map
     tags: []
@@ -366,6 +367,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://stuffin.space/
   - name: NASA Sat list and mission
     url: https://www.nasa.gov/a-to-z-of-nasa-missions/
     tags:
@@ -487,6 +489,8 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://medium.com/@anapau_diazg/visualizing-a-marine-oil-spill-with-sentinel-2-msi-imagery-cb0aaa2045b
   - name: >-
       NOAA Contracts with Planet to Gain Situational Awareness of Oil Spills, Marine Debris, and
       Marine Life
@@ -534,6 +538,7 @@ items:
       - free
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://gijn.org/resource/guide-acquire-free-satellite-images/
   - name: Automatic Detection of War-Destroyed Buildings from High-Resolution Remote Sensing Images
     url: https://www.mdpi.com/2072-4292/17/3/509
     tags: []

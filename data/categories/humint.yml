@@ -1,7 +1,7 @@
 category: HUMINT
 slug: humint
-group: general
-description: HUMINT — general resources (3 entries).
+group: people
+description: HUMINT — people resources (3 entries).
 items:
   - name: MICE”- the 4 pillars of CIA spy recruitment
     url: https://spyauthor.medium.com/mice-the-4-pillars-of-cia-spy-recruitment-61d3f5cf9d3c
@@ -22,3 +22,4 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.insurgent.ca/p/decoding-mice

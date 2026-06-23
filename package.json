@@ -14,6 +14,8 @@
     "data:migrate": "tsx scripts/migrate.ts",
     "data:dedupe": "tsx scripts/dedupe.ts",
     "data:enrich": "tsx scripts/enrich.ts",
+    "data:regroup": "tsx scripts/regroup.ts",
+    "data:archive": "tsx scripts/archive-dead.ts",
     "data:sync": "tsx scripts/sync-upstream.ts",
     "links:check": "tsx scripts/check-links.ts"
   },

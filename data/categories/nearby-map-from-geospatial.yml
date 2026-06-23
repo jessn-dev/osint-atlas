@@ -18,6 +18,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.tripadvisor.com/
   - name: booking
     url: https://booking.com
     tags: []
@@ -43,6 +44,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://copernix.io/
   - name: trip
     url: https://www.trip.com/
     tags: []
@@ -68,6 +70,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.yelp.com/
   - name: wikinearby
     url: https://wikinearby.toolforge.org/
     tags: []

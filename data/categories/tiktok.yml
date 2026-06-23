@@ -60,6 +60,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://urlebird.com/
   - name: tikface TikTok Viewer
     url: https://www.tikface.com/
     tags: []

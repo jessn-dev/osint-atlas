@@ -13,6 +13,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/http://www.crimereports.com
   - name: OONI
     url: https://explorer.ooni.org/search?since=2025-05-02&until=2025-06-02&failure=false
     tags: []

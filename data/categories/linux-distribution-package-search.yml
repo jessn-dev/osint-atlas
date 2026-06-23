@@ -1,7 +1,7 @@
 category: Linux Distribution Package Search
 slug: linux-distribution-package-search
-group: general
-description: Linux Distribution Package Search — general resources (6 entries).
+group: reference
+description: Linux Distribution Package Search — reference resources (6 entries).
 items:
   - name: Redhat Linux
     url: https://access.redhat.com/search/?q=packages&documentKind=Solution%26Article
@@ -23,6 +23,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://pkgs.org/
   - name: Ubbuntu Package
     url: https://packages.ubuntu.com/
     tags: []

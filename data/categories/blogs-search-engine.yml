@@ -1,10 +1,11 @@
 category: Blogs Search Engine
 slug: blogs-search-engine
-group: general
-description: Blogs Search Engine — general resources (1 entries).
+group: search
+description: Blogs Search Engine — search resources (1 entries).
 items:
   - name: Google Blog
     url: https://www.searchblogspot.com/blogger-profiles
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.searchblogspot.com/blogger-profiles

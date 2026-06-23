@@ -1,13 +1,14 @@
 category: IMEI Investigation
 slug: imei-investigation
-group: general
-description: IMEI Investigation — general resources (6 entries).
+group: sigint
+description: IMEI Investigation — sigint resources (6 entries).
 items:
   - name: SNDeepinfo
     url: https://sndeep.info/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://sndeep.info/
   - name: Imei Numbers
     url: http://imei-number.com/
     tags: []

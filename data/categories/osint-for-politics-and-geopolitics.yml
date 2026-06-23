@@ -33,6 +33,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.splcenter.org/hate-map
   - name: safeairspace
     url: https://safeairspace.net/
     tags: []
@@ -48,17 +49,20 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.tasteatlas.com/
   - name: global terrorism database
     url: https://www.start.umd.edu/gtd/
     tags:
       - academic
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.start.umd.edu/gtd/
   - name: datasets global terrorism database Kaggle
     url: https://www.kaggle.com/datasets/START-UMD/gtd
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.kaggle.com/datasets/START-UMD/gtd
   - name: search-uk-sanctions
     url: https://search-uk-sanctions-list.service.gov.uk/
     tags:
@@ -76,11 +80,13 @@ items:
       - official
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://chroniclingamerica.loc.gov/
   - name: Data catalog world bank
     url: https://datacatalog.worldbank.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://datacatalog.worldbank.org/
   - name: Google Patents
     url: https://patents.google.com/
     tags: []
@@ -108,6 +114,8 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://rollcall.com/factbase/trump/topic/social/?platform=all&sort=date&sort_order=desc&page=1
   - name: propublica Trump twitter archive
     url: https://projects.propublica.org/politwoops/search?q=trump
     tags: []
@@ -150,6 +158,8 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://www.consilium.europa.eu/en/policies/fight-against-terrorism/sanctions-against-terrorism/#list
   - name: EU financial sanctions list
     url: >-
       https://data.europa.eu/data/datasets/consolidated-list-of-persons-groups-and-entities-subject-to-eu-financial-sanctions?locale=en

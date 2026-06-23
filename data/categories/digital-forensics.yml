@@ -1,7 +1,7 @@
 category: Digital Forensics
 slug: digital-forensics
-group: general
-description: Digital Forensics — general resources (92 entries).
+group: threat
+description: Digital Forensics — threat resources (92 entries).
 items:
   - name: Binwalk
     url: https://github.com/ReFirmLabs/binwalk
@@ -78,6 +78,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://virus.exchange/
   - name: Malware Sample and IOC
     url: https://github.com/rivitna/Malware
     tags:
@@ -89,6 +90,8 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://forum.seccodeid.com/d/avillaforensics-mobile-digital-forensics
   - name: Autopsy
     url: https://www.autopsy.com/
     tags: []
@@ -115,6 +118,8 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://forum.seccodeid.com/d/ntfstool-forensics-tool-for-ntfs-parser-mft-bitlocker-deleted-files
   - name: Sleuthkit
     url: https://www.sleuthkit.org/sleuthkit/
     tags: []
@@ -362,6 +367,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://portswigger.net/burp
   - name: volatilityfoundation
     url: https://github.com/volatilityfoundation
     tags:
@@ -416,6 +422,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://socradar.io/labs/
   - name: Cuckoo
     url: https://cuckoo.readthedocs.io/en/latest/installation/host/installation/
     tags: []

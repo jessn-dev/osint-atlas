@@ -1,13 +1,14 @@
 category: OSINT for Scraping and Data Collection
 slug: osint-for-scraping-and-data-collection
-group: general
-description: OSINT for Scraping and Data Collection — general resources (28 entries).
+group: web
+description: OSINT for Scraping and Data Collection — web resources (28 entries).
 items:
   - name: Zenrows
     url: https://www.zenrows.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.zenrows.com/
   - name: Scrapfly
     url: https://scrapfly.io/
     tags: []
@@ -28,6 +29,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.npmjs.com/package/puppeteer-extra-plugin-stealth
   - name: spiderfoot
     url: https://github.com/smicallef/spiderfoot
     tags:

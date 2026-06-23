@@ -1,13 +1,14 @@
 category: OnlyFans
 slug: onlyfans
-group: general
-description: OnlyFans — general resources (6 entries).
+group: socmint
+description: OnlyFans — socmint resources (6 entries).
 items:
   - name: fansmetrics
     url: https://fansmetrics.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://fansmetrics.com/
   - name: onlysearch
     url: https://onlysearch.co/
     tags: []
@@ -23,6 +24,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://hubite.com/en/onlyfans-search/
   - name: fansearch
     url: https://www.fansearch.com/
     tags: []

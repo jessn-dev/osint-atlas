@@ -1,7 +1,7 @@
 category: Slack
 slug: slack
-group: general
-description: Slack — general resources (1 entries).
+group: socmint
+description: Slack — socmint resources (1 entries).
 items:
   - name: SlackPirate
     url: https://github.com/emtunc/SlackPirate

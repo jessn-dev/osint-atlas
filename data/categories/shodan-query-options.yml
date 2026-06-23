@@ -1,7 +1,7 @@
 category: Shodan Query Options
 slug: shodan-query-options
-group: general
-description: Shodan Query Options — general resources (2 entries).
+group: web
+description: Shodan Query Options — web resources (2 entries).
 items:
   - name: effective-shodan-searches
     url: https://pen-testing.sans.org/blog/2015/12/08/effective-shodan-searches

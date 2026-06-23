@@ -1,7 +1,7 @@
 category: Torrent
 slug: torrent
-group: darkweb
-description: Torrent — darkweb resources (6 entries).
+group: web
+description: Torrent — web resources (6 entries).
 items:
   - name: utorrent
     url: https://www.utorrent.com/
@@ -37,3 +37,4 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://iknowwhatyoudownload.com/

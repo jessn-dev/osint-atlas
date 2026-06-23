@@ -3,6 +3,7 @@ export type ItemStatus = 'active' | 'dead' | 'risky' | 'unchecked';
 export interface Item {
   name: string;
   url: string;
+  archive_url?: string;
   description?: string;
   tags: string[];
   status: ItemStatus;
@@ -34,6 +35,7 @@ export interface GraphNode {
   group: string;
   status?: ItemStatus;
   url?: string;
+  archive_url?: string;
   parentId?: string;
   tags?: string[];
   count?: number;

@@ -1,7 +1,7 @@
 category: Bluesky
 slug: bluesky
-group: general
-description: Bluesky — general resources (10 entries).
+group: socmint
+description: Bluesky — socmint resources (10 entries).
 items:
   - name: Bluesky api doc
     url: https://docs.bsky.app/

@@ -1,7 +1,7 @@
 category: OSINT Art Collection
 slug: osint-art-collection
-group: general
-description: OSINT Art Collection — general resources (10 entries).
+group: media
+description: OSINT Art Collection — media resources (10 entries).
 items:
   - name: Getty Edu
     url: https://www.getty.edu/art/collection/
@@ -24,6 +24,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.artnet.com/artists/
   - name: NGV AU
     url: https://www.ngv.vic.gov.au/explore/collection/
     tags:
@@ -35,6 +36,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.daao.org.au/
   - name: Old Indiana Photo
     url: https://www.oldindianphotos.in/
     tags: []

@@ -1,7 +1,7 @@
 category: OSINT Barcode Reader
 slug: osint-barcode-reader
-group: general
-description: OSINT Barcode Reader — general resources (2 entries).
+group: media
+description: OSINT Barcode Reader — media resources (2 entries).
 items:
   - name: Barcode online reader
     url: https://online-barcode-reader.inliteresearch.com/

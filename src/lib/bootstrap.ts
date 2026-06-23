@@ -20,9 +20,13 @@ function showItem(n: GraphNode): void {
   const tags = (n.tags ?? []).map((t) => `<span class="tag">${esc(t)}</span>`).join('');
   const link = n.url ? `<p><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.url)}</a></p>` : '';
   const status = n.status ? `<p>status: <span class="status ${n.status}">${n.status}</span></p>` : '';
+  const archive =
+    n.status === 'dead' && n.archive_url
+      ? `<p><a class="archive" href="${esc(n.archive_url)}" target="_blank" rel="noopener">📦 view archived snapshot</a></p>`
+      : '';
   panelBody.innerHTML =
     `<div class="group">${esc(n.group)} · tool</div>` +
-    `<h2>${esc(n.label)}</h2>${link}${status}${tags ? `<p>${tags}</p>` : ''}`;
+    `<h2>${esc(n.label)}</h2>${link}${status}${archive}${tags ? `<p>${tags}</p>` : ''}`;
   panel.classList.add('open');
 }
 
@@ -75,6 +79,9 @@ function showCategoryBySlug(slug: string, fromGroup?: string): void {
         `<li class="row" data-name="${esc(it.name.toLowerCase())}">` +
         `<span class="dot ${it.status}"></span>` +
         `<a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.name)}</a>` +
+        (it.status === 'dead' && it.archive_url
+          ? `<a class="archive" href="${esc(it.archive_url)}" target="_blank" rel="noopener" title="archived snapshot">📦</a>`
+          : '') +
         (it.tags.length ? `<span class="rowtags">${it.tags.map(esc).join(' · ')}</span>` : '') +
         `</li>`,
     )

@@ -1,7 +1,7 @@
 category: OSINT Playground
 slug: osint-playground
-group: general
-description: OSINT Playground — general resources (3 entries).
+group: reference
+description: OSINT Playground — reference resources (3 entries).
 items:
   - name: challenge bellincgcat
     url: https://challenge.bellingcat.com/

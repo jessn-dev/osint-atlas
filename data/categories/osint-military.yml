@@ -1,7 +1,7 @@
 category: OSINT Military
 slug: osint-military
-group: general
-description: OSINT Military — general resources (128 entries).
+group: geoint
+description: OSINT Military — geoint resources (128 entries).
 items:
   - name: Phantom Tide
     url: https://phantom.labs.jamessawyer.co.uk/
@@ -103,6 +103,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://app.skylens.io/
   - name: Kamerka
     url: https://github.com/woj-ciech/Kamerka-GUI
     tags:
@@ -124,6 +125,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.garmin.co.id/products/outdoor/gpsmap64s-sea/
   - name: SALW
     url: https://salw-dashboard.electrifai.net/analytics/main
     tags: []
@@ -187,6 +189,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://map.nbr.org/interactivemap/
   - name: ADS B Tracking Military Aircraft
     url: https://www.ads-b.nl/
     tags: []
@@ -207,11 +210,13 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://syria.liveuamap.com/
   - name: NATO INT
     url: https://www.nato.int/nato-on-the-map/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.nato.int/nato-on-the-map/
   - name: understandingwar
     url: https://www.understandingwar.org/map-room
     tags: []
@@ -227,6 +232,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://planefinder.net/
   - name: WEB SDR
     url: http://websdr.ewi.utwente.nl:8901/
     tags: []
@@ -288,6 +294,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://liveuamap.com/
   - name: Arcgis Military Overlay
     url: https://solutions.arcgis.com/defense/help/military-overlay/#requirements
     tags: []
@@ -367,6 +374,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://osmp.ngo/
   - name: Table of explosive detonation velocities
     url: https://en.wikipedia.org/wiki/Table_of_explosive_detonation_velocities
     tags: []
@@ -393,6 +401,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://ffi-publikasjoner.archive.knowledgearc.net/discover
   - name: The Rocket Artillery Reference Book
     url: >-
       https://ffi-publikasjoner.archive.knowledgearc.net/bitstream/handle/20.500.12242/2257/09-00179.pdf
@@ -400,6 +409,8 @@ items:
       - document
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://ffi-publikasjoner.archive.knowledgearc.net/bitstream/handle/20.500.12242/2257/09-00179.pdf
   - name: globalsecurity AMMUNITION COLOR CODES
     url: https://www.globalsecurity.org/military/world/index.html
     tags: []
@@ -467,6 +478,7 @@ items:
       - academic
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://nuclearweaponsedproj.mit.edu/Node/114
   - name: outrider nuclear weapon calculator area with animation
     url: https://outrider.org/nuclear-weapons/interactive/bomb-blast
     tags: []
@@ -519,11 +531,14 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://gijn.org/resource/tipsheet-for-investigative-journalists-on-war-crimes-and-open-source-research/
   - name: ARES
     url: https://armamentresearch.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://armamentresearch.com/
   - name: eyesonrussia
     url: https://eyesonrussia.org/
     tags: []
@@ -539,6 +554,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://military.freedar.uk/
   - name: sourcehere
     url: https://sourcehere.com/search
     tags: []
@@ -554,6 +570,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://israelpalestine.liveuamap.com/
   - name: iplivecams tel aviv Israel
     url: https://www.iplivecams.com/live-cams/tel-aviv-yafo-israel/
     tags: []
@@ -599,6 +616,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://warthunder.com/en
   - name: Modern Warship
     url: https://promo.worldofwarships.com/
     tags: []

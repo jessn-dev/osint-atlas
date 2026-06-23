@@ -1,7 +1,7 @@
 category: Discord Server Search
 slug: discord-server-search
-group: general
-description: Discord Server Search — general resources (14 entries).
+group: socmint
+description: Discord Server Search — socmint resources (14 entries).
 items:
   - name: Discord servers
     url: https://discordservers.com/
@@ -13,6 +13,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.dht.chylex.com/
   - name: Darvester
     url: https://github.com/darvester/darvester
     tags:
@@ -40,6 +41,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://disboard.org/servers
   - name: Discord server search
     url: https://discord.center/
     tags: []

@@ -33,6 +33,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://osint.rocks/
   - name: OSINT indsutries
     url: https://www.osint.industries/
     tags: []
@@ -48,6 +49,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.namecheckr.com/
   - name: Namechk
     url: http://www.namechk.com
     tags: []
@@ -58,6 +60,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/http://www.knowem.com
   - name: Instantusername
     url: https://instantusername.com/#/
     tags: []
@@ -73,6 +76,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://checkusernames.com/
   - name: Maigret
     url: https://github.com/soxoj/maigret
     tags:
@@ -99,6 +103,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://whatsmyname.app/
   - name: holehe
     url: https://github.com/megadose/holehe
     tags:
@@ -156,6 +161,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://castrickclues.com/
   - name: usersearch
     url: https://usersearch.com/
     tags: []

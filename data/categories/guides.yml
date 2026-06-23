@@ -1,7 +1,7 @@
 category: Guides
 slug: guides
-group: general
-description: Guides — general resources (15 entries).
+group: reference
+description: Guides — reference resources (15 entries).
 items:
   - name: Bellingcat
     url: https://bellingcat.gitbook.io/toolkit/resources/guides-and-handbooks
@@ -13,6 +13,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://publish.obsidian.md/dukera-gewel/about
   - name: Soxoj Sowel
     url: https://sowel.soxoj.com/about
     tags: []
@@ -41,6 +42,8 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://www.onchain.industries/blog/how-to-investigate-a-cryptocurrency-scammer
   - name: Unique 0-click deanonymization attack targeting Signal, Discord and hundreds of platform
     url: https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117
     tags:
@@ -84,3 +87,5 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://www.science.org/content/article/deepfakes-are-everywhere-godfather-digital-forensics-fighting-back

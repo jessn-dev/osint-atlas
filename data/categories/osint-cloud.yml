@@ -1,7 +1,7 @@
 category: OSINT Cloud
 slug: osint-cloud
-group: general
-description: OSINT Cloud — general resources (6 entries).
+group: web
+description: OSINT Cloud — web resources (6 entries).
 items:
   - name: Google CSE search drive
     url: https://cse.google.com/cse?cx=013991603413798772546:nwzqlcysx_w

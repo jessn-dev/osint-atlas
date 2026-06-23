@@ -1,7 +1,7 @@
 category: Web Directory
 slug: web-directory
-group: darkweb
-description: Web Directory — darkweb resources (2 entries).
+group: web
+description: Web Directory — web resources (2 entries).
 items:
   - name: Vlib
     url: https://vlib.org/
@@ -13,3 +13,4 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://web.archive.org/web/20240000000000*/http:/www.dmoz.org/

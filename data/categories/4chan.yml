@@ -1,13 +1,14 @@
 category: 4chan
 slug: 4chan
-group: general
-description: 4chan — general resources (7 entries).
+group: socmint
+description: 4chan — socmint resources (7 entries).
 items:
   - name: 4chan
     url: https://4chan.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://4chan.org/
   - name: 4chansearch
     url: https://4chansearch.com/
     tags: []
@@ -18,6 +19,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://find.4chan.org/
   - name: search4chan
     url: https://search4chan.org/
     tags: []
@@ -38,3 +40,4 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://archived.moe/

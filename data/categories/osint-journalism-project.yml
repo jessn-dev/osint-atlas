@@ -1,7 +1,7 @@
 category: OSINT Journalism Project
 slug: osint-journalism-project
-group: general
-description: OSINT Journalism Project — general resources (9 entries).
+group: search
+description: OSINT Journalism Project — search resources (9 entries).
 items:
   - name: journalism
     url: https://github.com/wbkd/awesome-interactive-journalism
@@ -14,11 +14,13 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://gijn.org/
   - name: Journalist toolbox
     url: https://www.journaliststoolbox.org/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.journaliststoolbox.org/
   - name: Google Journalist Studio
     url: https://journaliststudio.google.com/pinpoint/case-studies/
     tags: []
@@ -39,6 +41,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://gijn.org/resource/
   - name: Danger zone
     url: https://github.com/freedomofpress/dangerzone
     tags:

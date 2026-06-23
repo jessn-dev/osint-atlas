@@ -72,6 +72,9 @@ svg { width: 100vw; height: 100vh; display: block; }
 .row.nav-cat a { color: var(--fg); }
 .row.nav-cat:hover a { color: var(--accent); }
 .row .rowcount { color: var(--muted); font-size: 11px; flex: 0 0 auto; }
+.archive { flex: 0 0 auto; text-decoration: none; opacity: 0.8; }
+.archive:hover { opacity: 1; }
+.panel a.archive { color: var(--accent); }
 
 .node.more circle { stroke-dasharray: 3 3; }
 .node.more text { fill: var(--accent); }

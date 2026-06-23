@@ -15,16 +15,22 @@ export function cleanName(s: string): string {
   return s.replace(/\s*\[!\[.*$/s, '').replace(/\s+/g, ' ').trim();
 }
 
+// Ordered: first match wins. Narrow/strong signals before generic ones.
 const GROUP_RULES: [RegExp, string][] = [
-  [/social|facebook|instagram|twitter|tiktok|reddit|youtube|linkedin|telegram|mastodon|socmint/i, 'socmint'],
-  [/phone|sigint|wireless|signal|sms|cell/i, 'sigint'],
-  [/image|exif|geo|satellite|map|sat-img|masint|osm/i, 'geoint'],
+  [/\bdark|onion|\btor\b/i, 'darkweb'],
+  [/social|facebook|instagram|twitter|tiktok|reddit|youtube|linkedin|telegram|telegra|mastodon|socmint|4chan|bluesky|discord|keybase|myspace|office365|onlyfans|parler|patreon|pinterest|slack|snapchat|steam|\bvk\b|threads|\birc\b|chat app|onedrive|forum|medium|hastag|hashtag|keyword/i, 'socmint'],
+  [/aircraft|flight|aviation|drone|vehicle|railway|\btrain\b|maritime|\bship\b|vessel|license plate/i, 'transport'],
+  [/crypto|cryptocurrency|financial|finint|fraud|data broker|\bmoney\b|\bbank\b|payment|blockchain/i, 'finance'],
+  [/audio|video|deepfake|\bart\b|artist|barcode|emoji|plagiari|similarity|branding|verify|fact check|podcast|\bmusic\b|content removal|image|photo|exif|adult|porn/i, 'media'],
+  [/\bai\b|\bgpt\b|\bllm\b|artificial intel/i, 'ai'],
+  [/phone|sigint|wireless|signal|\bsms\b|\bcell\b|imei|\bsdr\b|\bradio\b|spectrum/i, 'sigint'],
+  [/\bgeo|satellite|\bmap\b|sat-img|masint|\bosm\b|shadow|astronomy|property|wildlife|location|mapping|military|mil osint|\bwar\b/i, 'geoint'],
   [/breach|leak|stealer|password|credential|dork/i, 'breach'],
-  [/domain|dns|ip|whois|web intel|url|company|recon/i, 'web'],
-  [/dark|onion|tor/i, 'darkweb'],
-  [/people|username|email|public record|family/i, 'people'],
-  [/threat|malware|cyber|soc|hunting|cve/i, 'threat'],
-  [/wiki|gitbook|article|book|academy|legal|tips/i, 'reference'],
+  [/threat|malware|cyber|\bsoc\b|hunting|\bcve\b|exploit|zero ?day|red ?team|secure code|\bctf\b|forensic|reverse eng/i, 'threat'],
+  [/people|username|email|public record|family|nickname|humint|sockpuppet/i, 'people'],
+  [/search engine|meta search|code search|custom cse|\bcse\b|academic|google advanced|blogs search|news osint|slides search|document and slides|jurnal|journal|github|gitlab|dataset|data visualization|competitive programming/i, 'search'],
+  [/wiki|gitbook|article|\bbook\b|academy|legal|\btips\b|guide|\bjobs\b|language|\bgame\b|playground|\bmisc\b|recommend|cheat sheet|opsec|privacy|calender|calendar|archive|historical|wayback|linux distribution|distro|maltego/i, 'reference'],
+  [/domain|\bdns\b|\bip\b|whois|web intel|\burls?\b|company|recon|network|cloud|\bserver\b|shodan|\biot\b|\bapi\b|scraping|software|online tool|\bdevice\b|censorship|monitoring|alerting|torrent|\bp2p\b|directory|shortlink|website changes/i, 'web'],
 ];
 
 export function inferGroup(name: string): string {

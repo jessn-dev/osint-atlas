@@ -1,7 +1,7 @@
 category: Github
 slug: github
-group: general
-description: Github — general resources (30 entries).
+group: search
+description: Github — search resources (30 entries).
 items:
   - name: gitleak find info in Github
     url: https://gitleak.io/
@@ -13,6 +13,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://gitdb.net/
   - name: gitleaks
     url: https://github.com/gitleaks/gitleaks
     tags:
@@ -100,6 +101,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.gittodoc.com/
   - name: gitsearchai
     url: https://www.gitsearchai.com/
     tags: []

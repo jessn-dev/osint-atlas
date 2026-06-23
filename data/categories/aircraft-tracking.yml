@@ -1,7 +1,7 @@
 category: Aircraft Tracking
 slug: aircraft-tracking
-group: general
-description: Aircraft Tracking — general resources (47 entries).
+group: transport
+description: Aircraft Tracking — transport resources (47 entries).
 items:
   - name: Phantom Tide
     url: https://phantom.labs.jamessawyer.co.uk/
@@ -43,11 +43,13 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://planefinder.net/
   - name: Live ATC
     url: https://www.liveatc.net/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.liveatc.net/
   - name: planespotters
     url: https://www.planespotters.net/
     tags: []
@@ -63,6 +65,8 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://web.archive.org/web/20240000000000*/https://airrecognition.com/
   - name: federal aviation administration
     url: https://www.faa.gov/
     tags:
@@ -99,6 +103,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://asn.flightsafety.org/
   - name: airfleets
     url: https://www.airfleets.net/home/
     tags: []
@@ -124,6 +129,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.jetphotos.com/
   - name: raf
     url: https://www.raf.mod.uk/
     tags: []
@@ -140,6 +146,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://dictatoralert.org/
   - name: airspace
     url: https://www.airspace-review.com/
     tags: []
@@ -176,6 +183,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.airportia.com/
   - name: utopiax
     url: https://www.utopiax.org/
     tags: []
@@ -189,6 +197,8 @@ items:
       - document
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://web.archive.org/web/20241222182708/https://imsis-djpu.dephub.go.id/PortalDKPPU/CAR2023-eng.pdf
   - name: Plane Registration
     url: https://id.wikipedia.org/wiki/Registrasi_pesawat
     tags: []
@@ -219,6 +229,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://military.freedar.uk/
   - name: airplanes
     url: https://globe.airplanes.live/
     tags: []
@@ -229,6 +240,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.airnavradar.com/data/flights
   - name: aireon
     url: https://aireon.com/
     tags: []
@@ -244,3 +256,4 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://rzjets.net/aircraft/

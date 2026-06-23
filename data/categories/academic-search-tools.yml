@@ -1,18 +1,20 @@
 category: Academic Search Tools
 slug: academic-search-tools
-group: general
-description: Academic Search Tools — general resources (15 entries).
+group: search
+description: Academic Search Tools — search resources (15 entries).
 items:
   - name: Base Search
     url: https://www.base-search.net/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.base-search.net/
   - name: SCI HUB
     url: https://www.sci-hub.se/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.sci-hub.se/
   - name: msearch
     url: https://msearch.io/
     tags: []
@@ -33,6 +35,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://worldwidescience.org/index.html
   - name: CORE
     url: https://core.ac.uk/
     tags:
@@ -81,3 +84,5 @@ items:
       - onion
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/

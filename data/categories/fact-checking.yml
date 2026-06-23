@@ -1,7 +1,7 @@
 category: Fact Checking
 slug: fact-checking
-group: general
-description: Fact Checking — general resources (19 entries).
+group: media
+description: Fact Checking — media resources (19 entries).
 items:
   - name: Captin Fact
     url: https://captainfact.io/
@@ -66,6 +66,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://cekfakta.tempo.co/
   - name: How to Verify Guide
     url: https://www.howtoverify.info/Image/Where/Geolocation/Manual_geolocation
     tags: []

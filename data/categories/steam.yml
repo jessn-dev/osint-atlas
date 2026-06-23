@@ -1,13 +1,14 @@
 category: Steam
 slug: steam
-group: general
-description: Steam — general resources (4 entries).
+group: socmint
+description: Steam — socmint resources (4 entries).
 items:
   - name: STEAM DB
     url: https://steamdb.info/calculator/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://steamdb.info/calculator/
   - name: Steam OSINT tool
     url: https://github.com/matiash26/Steam-OSINT-TOOL
     tags:

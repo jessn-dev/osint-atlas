@@ -1,7 +1,7 @@
 category: OSINT Search Hacker Nickname
 slug: osint-search-hacker-nickname
-group: general
-description: OSINT Search Hacker Nickname — general resources (24 entries).
+group: people
+description: OSINT Search Hacker Nickname — people resources (24 entries).
 items:
   - name: threatactorusernames
     url: https://threatactorusernames.com/
@@ -23,6 +23,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://defacer.id/
   - name: zone xsec
     url: https://zone-xsec.com/
     tags: []
@@ -53,6 +54,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://web.archive.org/web/*/z-x.my.id*
   - name: ctftime
     url: https://ctftime.org/
     tags: []
@@ -110,6 +112,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.hackerrank.com/contests/interncup/leaderboard
   - name: codewars
     url: https://www.codewars.com/users/leaderboard
     tags: []
@@ -120,6 +123,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://codeforces.com/ratings
   - name: topcoder
     url: https://www.topcoder.com/marathon-match-tournament/leaderboard
     tags: []

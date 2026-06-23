@@ -60,6 +60,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://data.humdata.org/group
   - name: Planet - satellite maps
     url: https://www.planet.com/products/
     tags: []
@@ -170,6 +171,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://moscow.flamp.ru/
   - name: sun calc
     url: https://www.suncalc.org/
     tags: []

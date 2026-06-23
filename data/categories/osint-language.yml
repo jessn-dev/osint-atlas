@@ -1,13 +1,14 @@
 category: OSINT Language
 slug: osint-language
-group: general
-description: OSINT Language — general resources (28 entries).
+group: reference
+description: OSINT Language — reference resources (28 entries).
 items:
   - name: kemendikdasmen ID
     url: https://kbji.kemendikdasmen.go.id/.well-known/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://kbji.kemendikdasmen.go.id/.well-known/
   - name: educalingo
     url: https://educalingo.com/
     tags: []
@@ -18,6 +19,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://kbbi.kemdikbud.go.id/
   - name: grammarly
     url: https://www.grammarly.com/
     tags: []
@@ -33,6 +35,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.babla.co.id/pengucapan/bahasa-china/
   - name: goong
     url: https://goong.com/id/
     tags: []
@@ -98,6 +101,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://niawdeleon.com/
   - name: global dictionary
     url: https://www.wiktionary.org/
     tags: []
@@ -133,6 +137,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.merriam-webster.com/
   - name: knowyourmeme
     url: https://knowyourmeme.com/
     tags: []

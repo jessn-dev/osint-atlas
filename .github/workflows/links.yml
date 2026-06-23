@@ -17,6 +17,8 @@ jobs:
       - run: npm ci
       - name: Check links (writes status back to YAML)
         run: npm run links:check
+      - name: Update Wayback fallback for dead links
+        run: npm run data:archive
       - name: Open PR with status updates
         uses: peter-evans/create-pull-request@v6
         with:

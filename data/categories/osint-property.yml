@@ -1,7 +1,7 @@
 category: OSINT Property
 slug: osint-property
-group: general
-description: OSINT Property — general resources (2 entries).
+group: geoint
+description: OSINT Property — geoint resources (2 entries).
 items:
   - name: ZILLOW
     url: https://www.zillow.com/homes/for_sale/

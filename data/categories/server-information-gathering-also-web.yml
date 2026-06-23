@@ -1,7 +1,7 @@
 category: Server Information Gathering Also Web
 slug: server-information-gathering-also-web
-group: general
-description: Server Information Gathering Also Web — general resources (21 entries).
+group: web
+description: Server Information Gathering Also Web — web resources (21 entries).
 items:
   - name: viewdns - IP history
     url: https://viewdns.info/iphistory/?domain
@@ -13,6 +13,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://radar.cloudflare.com/
   - name: fullhunt
     url: https://fullhunt.io/
     tags: []
@@ -33,6 +34,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://search.odin.io/
   - name: onyphe
     url: https://search.onyphe.io/
     tags: []
@@ -43,6 +45,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://search.censys.io/
   - name: zoomeye
     url: https://www.zoomeye.ai/
     tags: []
@@ -74,6 +77,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://securitytrails.com/
   - name: SSL Scan
     url: https://www.kali.org/tools/sslscan/
     tags: []

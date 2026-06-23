@@ -1,7 +1,7 @@
 category: Ship Tracking & Maritim
 slug: ship-tracking-maritim
-group: web
-description: Ship Tracking & Maritim — web resources (35 entries).
+group: transport
+description: Ship Tracking & Maritim — transport resources (35 entries).
 items:
   - name: theshippingdatabase
     url: https://theshippingdatabase.com/
@@ -58,21 +58,26 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://shipfinder.co/
   - name: shiplocation
     url: https://www.shiplocation.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.shiplocation.com/
   - name: CMA CGM vesel finder
     url: https://www.cma-cgm.com/ebusiness/schedules/voyage
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.cma-cgm.com/ebusiness/schedules/voyage
   - name: marinevesseltraffic
     url: https://www.marinevesseltraffic.com/2013/02/military-ship-track.html
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://www.marinevesseltraffic.com/2013/02/military-ship-track.html
   - name: globalmaritimetraffic
     url: https://www.globalmaritimetraffic.org/gmtds.html
     tags: []
@@ -83,6 +88,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.lightphotos.net/photos/map_all.php
   - name: openseamap
     url: https://map.openseamap.org/
     tags: []
@@ -98,6 +104,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://map.nbr.org/interactivemap/
   - name: shipspotting
     url: https://www.shipspotting.com/
     tags: []

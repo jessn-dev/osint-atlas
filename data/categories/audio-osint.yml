@@ -1,7 +1,7 @@
 category: Audio OSINT
 slug: audio-osint
-group: general
-description: Audio OSINT — general resources (19 entries).
+group: media
+description: Audio OSINT — media resources (19 entries).
 items:
   - name: Audio metadata
     url: https://github.com/tmont/audio-metadata
@@ -14,6 +14,8 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://support.google.com/translate/answer/6142468?hl=en&co=GENIE.Platform%3DDesktop
   - name: Microsoft Translator
     url: https://play.google.com/store/apps/details?id=com.microsoft.translator&hl=en&gl=US
     tags: []
@@ -70,6 +72,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.soundeffectssearch.com/advanced-search/
   - name: vocalremover
     url: https://vocalremover.org/
     tags: []

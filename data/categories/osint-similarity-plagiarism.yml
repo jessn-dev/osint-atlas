@@ -1,7 +1,7 @@
 category: OSINT Similarity (Plagiarism)
 slug: osint-similarity-plagiarism
-group: general
-description: OSINT Similarity (Plagiarism) — general resources (53 entries).
+group: media
+description: OSINT Similarity (Plagiarism) — media resources (53 entries).
 items:
   - name: 1text
     url: https://1text.com/
@@ -113,6 +113,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.shutterstock.com/search/like-video
   - name: Google Vidio Search
     url: https://www.google.com/videohp?hl=id
     tags: []
@@ -143,6 +144,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.similarweb.com/website/
   - name: similarsites
     url: https://www.similarsites.com/
     tags: []
@@ -193,11 +195,14 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://www.semrush.com/website/%3Cwebcompetitor-domain.com%3E/competitors/
   - name: Find Similar Sites
     url: https://www.findsimilarsites.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.findsimilarsites.com/
   - name: sitechecker
     url: https://sitechecker.pro/similar-websites/
     tags: []
@@ -218,6 +223,8 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/http://www.moreofit.com/similar-to/www.pornhub.com/Top_10_Sites_Like_Pornhub/
   - name: xranks
     url: https://xranks.com/
     tags: []
@@ -228,6 +235,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://alternativeto.net/
   - name: DMCA Lumen DB
     url: https://lumendatabase.org/
     tags: []
@@ -258,6 +266,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.sgpbusiness.com/
   - name: WIPO INT
     url: https://branddb.wipo.int/
     tags: []

@@ -1,7 +1,7 @@
 category: Enhance Image Quality
 slug: enhance-image-quality
-group: geoint
-description: Enhance Image Quality — geoint resources (23 entries).
+group: media
+description: Enhance Image Quality — media resources (23 entries).
 items:
   - name: Upscale Media Image Enhancer
     url: https://www.upscale.media/upload
@@ -48,6 +48,8 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://dockship.io/model/neural-enhance/5de4333901afe15d4ec10393
   - name: neural-enhance
     url: https://github.com/alexjc/neural-enhance
     tags:
@@ -95,6 +97,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://waifu2x.org/
   - name: imglarger
     url: https://imglarger.com/Anime16K
     tags: []
@@ -115,6 +118,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://imgify.net/ai-photo-enhancer/
   - name: myheritage hoto-enhancer
     url: https://www.myheritage.nl/photo-enhancer
     tags: []

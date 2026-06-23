@@ -1,7 +1,7 @@
 category: Red Teamer OSINT
 slug: red-teamer-osint
-group: general
-description: Red Teamer OSINT — general resources (1 entries).
+group: threat
+description: Red Teamer OSINT — threat resources (1 entries).
 items:
   - name: ID - Linux chattr command
     url: https://www.linuxsec.org/2019/06/perintah-chattr.html

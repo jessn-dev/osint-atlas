@@ -1,7 +1,7 @@
 category: Secure Code & Application
 slug: secure-code-application
-group: general
-description: Secure Code & Application — general resources (10 entries).
+group: threat
+description: Secure Code & Application — threat resources (10 entries).
 items:
   - name: veracode
     url: https://www.veracode.com/products/binary-static-analysis-sast

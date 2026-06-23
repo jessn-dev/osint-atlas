@@ -1,7 +1,7 @@
 category: Document and Slides Search OSINT
 slug: document-and-slides-search-osint
-group: general
-description: Document and Slides Search OSINT — general resources (36 entries).
+group: search
+description: Document and Slides Search OSINT — search resources (36 entries).
 items:
   - name: filephish
     url: https://greylensresearch.github.io/filephish/
@@ -34,16 +34,19 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://doclibra.com/
   - name: FilePursuit
     url: https://filepursuit.com/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://filepursuit.com/
   - name: NAPALM FTP Indexer
     url: https://www.searchftps.net/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.searchftps.net/
   - name: Cryptome - search doc about publication that are prohibited by government
     url: https://cryptome.org/
     tags: []
@@ -75,6 +78,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://metashieldanalyzer.elevenpaths.com/
   - name: CV REesume Search
     url: https://booleanstrings.com/hidden-resumes/#gsc.tab=0&gsc.q=
     tags: []
@@ -105,6 +109,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://thedocs.worldbank.org/en/doc/webdocs
   - name: Data OCCRP
     url: https://data.occrp.org/
     tags: []

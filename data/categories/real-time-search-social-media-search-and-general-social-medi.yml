@@ -26,6 +26,7 @@ items:
       - open-source
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://github.com/Rog3rSm1th/Profil3r
   - name: Oblivion
     url: https://github.com/loseys/Oblivion
     tags:
@@ -76,3 +77,4 @@ items:
       - open-source
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://github.com/bgwastu/inspektur

@@ -20,6 +20,8 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://allsourceanalysis.com/tag/open-source-intelligence-osint/
   - name: Learn Sat Sensor
     url: https://bellingcat.github.io/RS4OSINT/A2_Remote_Sensing.html
     tags: []

@@ -1,7 +1,7 @@
 category: GPT OSINT (AI)
 slug: gpt-osint-ai
-group: general
-description: GPT OSINT (AI) — general resources (55 entries).
+group: ai
+description: GPT OSINT (AI) — ai resources (55 entries).
 items:
   - name: Hermes agent
     url: https://github.com/nousresearch/hermes-agent
@@ -14,6 +14,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://claude.ai/login
   - name: deepseek
     url: https://www.deepseek.com/
     tags: []
@@ -39,6 +40,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://openai.com/chatgpt/
   - name: Chat-PDF
     url: https://www.chatpdf.com/
     tags: []
@@ -49,6 +51,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.perplexity.ai/
   - name: UBIKRON
     url: https://www.osint-tool.com/unravel-help/
     tags: []

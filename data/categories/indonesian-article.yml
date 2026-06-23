@@ -58,6 +58,8 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: >-
+      https://web.archive.org/web/2/https://mastomi.id/articles/2025-01/cegah-website-tampilkan-konten-judol-dengan-cloudflare-worker
   - name: Melacak Pengguna Telegram Menggunakan Fitur People Nearby
     url: >-
       https://candramawa.medium.com/melacak-pengguna-telegram-menggunakan-fitur-people-nearby-bd841f561e36

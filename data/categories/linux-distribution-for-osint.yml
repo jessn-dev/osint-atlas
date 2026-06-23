@@ -1,7 +1,7 @@
 category: Linux Distribution For OSINT
 slug: linux-distribution-for-osint
-group: general
-description: Linux Distribution For OSINT — general resources (5 entries).
+group: reference
+description: Linux Distribution For OSINT — reference resources (5 entries).
 items:
   - name: tlosint-live
     url: https://github.com/tracelabs/tlosint-live

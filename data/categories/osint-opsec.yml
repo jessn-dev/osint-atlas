@@ -1,7 +1,7 @@
 category: OSINT OPSEC
 slug: osint-opsec
-group: general
-description: OSINT OPSEC — general resources (14 entries).
+group: reference
+description: OSINT OPSEC — reference resources (14 entries).
 items:
   - name: Sunder Survilance Cam
     url: https://sunders.uber.space/?lat=-2.4833826&lon=117.8902853&zoom=11

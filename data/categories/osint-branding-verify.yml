@@ -1,7 +1,7 @@
 category: OSINT Branding & Verify
 slug: osint-branding-verify
-group: general
-description: OSINT Branding & Verify — general resources (44 entries).
+group: media
+description: OSINT Branding & Verify — media resources (44 entries).
 items:
   - name: prescam
     url: https://www.prescam.com/
@@ -23,6 +23,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.trustpilot.com/
   - name: Google Alert
     url: https://www.google.com/alerts
     tags: []
@@ -38,6 +39,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.tripadvisor.com/
   - name: Trustindex
     url: https://www.trustindex.io/
     tags: []
@@ -58,16 +60,19 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://umrahcerdas.kemenag.go.id/
   - name: Jobstreet.co.id
     url: https://www.jobstreet.co.id/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.jobstreet.co.id/
   - name: WEB Check
     url: https://web-check.xyz/
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://web-check.xyz/
   - name: brightcloud ip lookup
     url: https://www.brightcloud.com/tools/url-ip-lookup.php
     tags: []
@@ -147,11 +152,13 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://opentender.net/
   - name: lpse lkpp ID
     url: https://lpse.lkpp.go.id/eproc4
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://lpse.lkpp.go.id/eproc4
   - name: ahu ID
     url: https://ahu.go.id/pencarian/profil-pt
     tags: []
@@ -172,6 +179,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://pdki-indonesia.dgip.go.id/search?type=trademark&keyword=
   - name: Katadata ID
     url: https://databoks.katadata.co.id/
     tags: []
@@ -182,6 +190,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://pddikti.kemdikbud.go.id/
   - name: pipl
     url: https://pipl.com/
     tags: []
@@ -212,6 +221,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://daftar-hitam.inaproc.id/
   - name: WIPO INT
     url: https://branddb.wipo.int/
     tags: []
@@ -222,6 +232,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://spse.inaproc.id/
   - name: URL Haus
     url: https://urlhaus.abuse.ch/
     tags: []

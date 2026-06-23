@@ -1,7 +1,7 @@
 category: Pinterest
 slug: pinterest
-group: general
-description: Pinterest — general resources (3 entries).
+group: socmint
+description: Pinterest — socmint resources (3 entries).
 items:
   - name: Pingroupie
     url: http://pingroupie.com
@@ -18,3 +18,4 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://sourcinglab.io/search/pinterest

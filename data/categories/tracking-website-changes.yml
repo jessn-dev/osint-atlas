@@ -1,7 +1,7 @@
 category: Tracking Website Changes
 slug: tracking-website-changes
-group: general
-description: Tracking Website Changes — general resources (9 entries).
+group: web
+description: Tracking Website Changes — web resources (9 entries).
 items:
   - name: Changedetection
     url: http://www.changedetection.com
@@ -23,11 +23,13 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://www.mahkamahagung.go.id/id/webmon
   - name: trustpositif Kominfo ID
     url: https://trustpositif.komdigi.go.id/normalisasi
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://trustpositif.komdigi.go.id/normalisasi
   - name: OONI
     url: https://explorer.ooni.org/search?since=2025-05-02&until=2025-06-02&failure=false
     tags: []
@@ -48,3 +50,4 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://w3snoop.com/

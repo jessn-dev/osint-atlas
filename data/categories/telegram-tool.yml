@@ -23,6 +23,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://directorytg.com/
   - name: hottg
     url: https://www.hottg.com/
     tags: []
@@ -65,6 +66,7 @@ items:
       - telegram
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/http://www.telegramdb.org/
   - name: 'Telegram Database: channels, groups and users'
     url: https://t.me/s/privatelinks
     tags:
@@ -82,11 +84,13 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://tgstat.ru/
   - name: Social Finder
     url: https://socialfinder.app/list/Telegram
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://socialfinder.app/list/Telegram
   - name: Lyzem Search
     url: https://lyzem.com/
     tags: []
@@ -97,6 +101,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://telemetr.io/
   - name: TGDev
     url: https://tgdev.io/
     tags: []
@@ -108,6 +113,7 @@ items:
       - telegram
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://intelx.io/tools?tab=telegram
   - name: Tele Phone Number Checker - Bellingcat
     url: https://github.com/bellingcat/telegram-phone-number-checker
     tags:
@@ -195,6 +201,7 @@ items:
       - telegram
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://apk.ibnux.com/data/
   - name: OSINT Industries
     url: https://app.osint.industries/
     tags: []
@@ -238,6 +245,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+    archive_url: https://web.archive.org/web/2/https://tgram.io/
   - name: TeleGraphite telehgram scrapper
     url: https://github.com/hamodywe/telegram-scraper-TeleGraphite
     tags:
