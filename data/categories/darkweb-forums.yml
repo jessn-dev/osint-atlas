@@ -198,3 +198,43 @@ items:
       - onion
     status: dead
     last_checked: '2026-06-23'
+  - name: PWN forums (ONION SITE)
+    url: http://pwnfrm7rbf6kyerigxi677lcz5ifmoagdbqqknwdu2by27wfdst5qmqd.onion/
+    tags:
+      - onion
+    status: unchecked
+  - name: Dread forum (ONION SITE)
+    url: http://dreadyj7l26jqvyk3xycgljkkagc32x2y5urlcse3qocylzn53oj2byd.onion/
+    tags:
+      - onion
+    status: unchecked
+  - name: dreadforum surface web
+    url: https://dreadforum.io/
+    tags: []
+    status: unchecked
+  - name: breached surface web
+    url: https://breached.su/
+    tags: []
+    status: unchecked
+  - name: darknetarmy surface web
+    url: https://darknetarmy.io/
+    tags: []
+    status: unchecked
+  - name: cracked surface web
+    url: https://cracked.st/
+    tags: []
+    status: unchecked
+  - name: spear surface web
+    url: https://spear.cx/
+    tags: []
+    status: unchecked
+  - name: Breach forums (ONION SITE)
+    url: http://darkfoxaqhfpxkrbt7vxns2z2u2k72sgmqbzeorupaiottw3ecm2wgyd.onion/
+    tags:
+      - onion
+    status: unchecked
+  - name: Breach forums 2 (ONION SITE)
+    url: http://breach3cupt44pnca4fn4npav6huarn3etzbjsusfqmcepff47qwnxqd.onion/member
+    tags:
+      - onion
+    status: unchecked

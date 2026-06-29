@@ -196,3 +196,7 @@ items:
     tags: []
     status: active
     last_checked: '2026-06-23'
+  - name: BF Database Search
+    url: https://bf.based.re/
+    tags: []
+    status: unchecked

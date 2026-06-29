@@ -759,3 +759,20 @@ items:
     tags: []
     status: active
     last_checked: '2026-06-23'
+  - name: Jieyab89 TLD and NS checker domain
+    url: https://github.com/Jieyab89/OSINT-Cheat-sheet/tree/main/Script/Web-TLD-Enumerate-NS-Check
+    tags:
+      - open-source
+    status: unchecked
+  - name: Check availabe domain tld list
+    url: https://tld-list.com/
+    tags: []
+    status: unchecked
+  - name: check available domain
+    url: https://instantdomainsearch.com/
+    tags: []
+    status: unchecked
+  - name: VirusTotal Whois History
+    url: https://www.virustotal.com/gui/home/upload
+    tags: []
+    status: unchecked
