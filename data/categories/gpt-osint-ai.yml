@@ -8,287 +8,287 @@ items:
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: claude
     url: https://claude.ai/login
     archive_url: https://web.archive.org/web/2/https://claude.ai/login
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: deepseek
     url: https://www.deepseek.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: cursor
     url: https://www.cursor.com/features
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ollama uncensored
     url: https://ollama.com/library/llama2-uncensored
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Blackbox AI
     url: https://www.blackbox.ai/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Chat GPT
     url: https://openai.com/chatgpt/
     archive_url: https://web.archive.org/web/2/https://openai.com/chatgpt/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Chat-PDF
     url: https://www.chatpdf.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: perplexity
     url: https://www.perplexity.ai/
     archive_url: https://web.archive.org/web/2/https://www.perplexity.ai/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: UBIKRON
     url: https://www.osint-tool.com/unravel-help/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: earthkit
     url: https://agent.earthkit.app/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: browser-use
     url: https://github.com/browser-use/browser-use
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: interviewcoder
     url: https://www.interviewcoder.co/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: murf AI Voice
     url: https://murf.ai/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: nari-labs/dia
     url: https://github.com/nari-labs/dia
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: xbow - AI offensive security (BETA TEST)
     url: https://xbow.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: QWEN AI
     url: https://chat.qwen.ai/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: gihtub copilot
     url: https://github.com/features/copilot
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: firecrawl
     url: https://www.firecrawl.dev/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: kling AI - Generate media and vidio
     url: https://www.klingai.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: geoguessr GPT
     url: https://chatgpt.com/g/g-brlHi7t2R-geoguessr-gpt
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: gemini
     url: https://gemini.google.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: 2short
     url: https://2short.ai/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: suna
     url: https://www.suna.so/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: mistral
     url: https://mistral.ai/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: hexstrike
     url: https://www.hexstrike.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: garak
     url: https://github.com/NVIDIA/garak
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: CAI
     url: https://github.com/aliasrobotics/CAI
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: codex CLI
     url: https://developers.openai.com/codex/cli/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: grok
     url: https://grok.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: antigravity
     url: https://antigravity.google/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Microsoft Copilot
     url: https://copilot.microsoft.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: system-prompts-and-models-of-ai-tools
     url: https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Claude Code Plugins Orchestration and Automation
     url: https://github.com/wshobson/agents/tree/main
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: imprompter
     url: https://imprompter.ai/#pii-exfiltration
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: imprompter Github
     url: https://github.com/Reapor-Yurnero/imprompter
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: owasp prompt injection
     url: https://owasp.org/www-community/attacks/PromptInjection
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: MAC Studio
     url: https://www.apple.com/id/mac-studio/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Nvidia
     url: https://www.nvidia.com/en-us/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Digitalocean rent a gpu
     url: https://www.digitalocean.com/pricing/gpu-droplets
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: openwebui
     url: https://docs.openwebui.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: LM Studio
     url: https://lmstudio.ai/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: maia
     url: https://maia.id/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: megallm
     url: https://megallm.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: openrouter
     url: https://openrouter.ai/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: dify
     url: https://dify.ai/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Lobe
     url: https://github.com/lobehub/lobe-chat
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: anything llm
     url: https://github.com/Mintplex-Labs/anything-llm
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: RAG (Retrieval-Augmented Generation)
     url: https://aws.amazon.com/id/what-is/retrieval-augmented-generation/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Retrieval-Augmented Generation - NVIDIA
     url: https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: What is prompt system and prompt user
     url: https://www.regie.ai/blog/user-prompts-vs-system-prompts
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: What is MCP
     url: https://modelcontextprotocol.io/introduction
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: skills
     url: https://skills.sh/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Claude Adjusment and Usage Policy for Cyber Use Case
     url: https://claude.com/form/cyber-use-case
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Best OSINT AI Prompts
     url: https://docsbot.ai/prompts/tags?tag=OSINT
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

@@ -8,220 +8,232 @@ items:
     archive_url: https://web.archive.org/web/2/https://imginn.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: pixnoy insta viewer
     url: https://www.pixnoy.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: InstagramPrivSniffer
     url: https://github.com/obitouka/InstagramPrivSniffer
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: instrack
     url: https://instrack.app/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: mollygram
     url: https://mollygram.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: indownloader
     url: https://indownloader.app/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: instanavigation
     url: https://instanavigation.net/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: storynavigation
     url: https://storynavigation.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: anonyig IG Profiler
     url: https://anonyig.com/en/
     archive_url: https://web.archive.org/web/2/https://anonyig.com/en/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Hashtagify
     url: http://hashtagify.me
     archive_url: https://web.archive.org/web/2/http://hashtagify.me
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Iconosquare
     url: http://iconosquare.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Picodash
     url: https://www.picodash.com
     archive_url: https://web.archive.org/web/2/https://www.picodash.com
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Dumpor
     url: https://dumpor.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://dumpor.com/
   - name: Inflact
     url: https://inflact.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Greatfon
     url: https://greatfon.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://greatfon.com/
   - name: Save Free
     url: https://www.save-free.com/
     tags:
       - free
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.save-free.com/
   - name: Insta Location Search
     url: https://github.com/bellingcat/instagram-location-search
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Insta Profiler
     url: https://imginn.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Storistalker
     url: https://storistalker.com/#back
     archive_url: https://web.archive.org/web/2/https://storistalker.com/#back
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: exportcomments
     url: https://exportcomments.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Blastup - Insta Downloader
     url: https://blastup.com/instagram-downloader
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://blastup.com/instagram-downloader
   - name: Insta Stories View
     url: https://storiesdown.com/
     archive_url: https://web.archive.org/web/2/https://storiesdown.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Instagram Auditor
     url: https://socialauditor.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Instagram Auditor 2
     url: https://hypeauditor.com/free-tools/instagram-audit/?username=indozone.id
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: upfluence
     url: https://www.upfluence.com/instagram-audit-tool
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: toolzu
     url: https://toolzu.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: pathsocial
     url: https://www.pathsocial.com/id/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.pathsocial.com/id/
   - name: export comment Insta
     url: https://exportgram.net/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Get account ID instagram
     url: https://commentpicker.com/instagram-user-id.php
     tags:
       - account-required
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: dumpor.io
     url: https://dumpor.io/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://dumpor.io/
   - name: greatfon
     url: https://greatfon.io/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://greatfon.io/
   - name: instaclip
     url: https://instaclip.app/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://instaclip.app/
   - name: fameswap
     url: https://fameswap.com/tool-instagram-user-id
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://fameswap.com/tool-instagram-user-id
   - name: ignorant
     url: https://github.com/megadose/ignorant
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: socialblade
     url: https://socialblade.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://socialblade.com/
   - name: Find ID Insta Acc
     url: https://skweezer.net/find-instagram-user-id
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://skweezer.net/find-instagram-user-id
   - name: dolphinradar
     url: https://www.dolphinradar.com/web-viewer-for-instagram
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: boostfluence
     url: https://www.boostfluence.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: indown
     url: https://indown.io/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://indown.io/
   - name: storiesig picuki viewer
     url: https://storiesig.info/en/picuki/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: instasploit
     url: https://gitlab.com/anezatra-katedram/instasploit
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: IGDetective
     url: https://www.igdetective.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

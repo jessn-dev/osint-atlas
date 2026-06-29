@@ -8,30 +8,32 @@ items:
     archive_url: https://web.archive.org/web/2/https://fansmetrics.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: onlysearch
     url: https://onlysearch.co/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: onlyfinder
     url: https://onlyfinder.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://onlyfinder.com/
   - name: onlyfans search
     url: https://hubite.com/en/onlyfans-search/
     archive_url: https://web.archive.org/web/2/https://hubite.com/en/onlyfans-search/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: fansearch
     url: https://www.fansearch.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: sotugas onlyfans search username
     url: https://sotugas.com/onlyfans/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://sotugas.com/onlyfans/

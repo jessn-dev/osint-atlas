@@ -7,294 +7,296 @@ items:
     url: https://odcrawler.xyz/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Etools
     url: http://www.etools.ch
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: criminalip
     url: https://www.criminalip.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Archive.org
     url: http://www.arhive.org
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Yandex
     url: https://yandex.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Pastebin
     url: http://www.pastebin.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: friendpaste
     url: https://friendpaste.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: centos paste
     url: https://paste.centos.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Github Gist
     url: https://gist.github.com/
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: justpaste
     url: https://justpaste.it/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Topix.com
     url: http://www.topix.com
     archive_url: https://web.archive.org/web/2/http://www.topix.com
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Shodan
     url: https://www.shodan.io/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.shodan.io/
   - name: Piratebays
     url: https://thepiratebays.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Onesearch
     url: https://www.onesearch.com/
-    archive_url: https://web.archive.org/web/2/https://www.onesearch.com/
     tags: []
-    status: dead
-    last_checked: '2026-06-23'
+    status: active
+    last_checked: '2026-06-29'
   - name: Searchencrypt
     url: https://www.searchencrypt.com/home
     archive_url: https://web.archive.org/web/2/https://www.searchencrypt.com/home
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Duckgo
     url: https://duckduckgo.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Waymore
     url: https://forum.seccodeid.com/d/waymore-find-way-more-from-the-wayback-machine
     archive_url: >-
       https://web.archive.org/web/2/https://forum.seccodeid.com/d/waymore-find-way-more-from-the-wayback-machine
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: StartPage
     url: https://www.startpage.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Searx
     url: https://searx.space/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: CommonCrawl
     url: https://commoncrawl.org/latest-crawl
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Similar Sites
     url: https://www.similarsites.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Zap Meta
     url: https://www.zapmeta.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Carrot Search
     url: https://search.carrot2.org/#/search/web
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Goo Search
     url: https://www.goo.ne.jp/
     archive_url: https://web.archive.org/web/2/https://www.goo.ne.jp/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: swisscows
     url: https://swisscows.com/en
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: odp
     url: http://www.odp.org/homepage.php
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Yiipy Search
     url: https://www.yippysearchengine.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: webarchiveviewer
     url: https://cybdetective.com/webarchiveviewer/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: duckduckgo Bangs
     url: https://duckduckgo.com/bangs
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: mediasova
     url: https://search.mediasova.com/en/index
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: mojeek
     url: https://www.mojeek.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: boardreader
     url: https://boardreader.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Geoint CSE search
     url: https://cse.google.com/cse?cx=015328649639895072395:sbv3zyxzmji#gsc.tab=0&gsc.sort=
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: lolarchiver
     url: https://osint.lolarchiver.com/#
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://osint.lolarchiver.com/#
   - name: wbmii
     url: https://webmii.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Wiki Leaks
     url: https://wikileaks.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: bellingcat wayback-google-analytics
     url: https://github.com/bellingcat/wayback-google-analytics
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: yamli Arabic search
     url: https://www.yamli.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ASK
     url: http://www.ask.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Baidu
     url: http://www.baidu.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Infospace
     url: http://www.infospace.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: gibiru
     url: https://gibiru.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: kagi
     url: https://kagi.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: brave
     url: https://search.brave.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: stract
     url: https://stract.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Google Safe Browsing
     url: https://developers.google.com/safe-browsing/reference?hl=id
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: qwant
     url: https://www.qwant.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: alltheinternet
     url: https://www.alltheinternet.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: sogou CN
     url: https://www.sogou.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: chronos Wayback Machine OSINT Framework
     url: https://github.com/mhmdiaa/chronos
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: censys
     url: https://search.censys.io/
     archive_url: https://web.archive.org/web/2/https://search.censys.io/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: verifyhalal
     url: https://verifyhalal.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Google cse search general
     url: https://cse.google.com/cse?cx=013991603413798772546:jyvyp2ppxma#gsc.tab=0
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: webcrawler
     url: https://www.webcrawler.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: usersearch
     url: https://usersearch.ai/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://usersearch.ai/
   - name: OONI
     url: https://explorer.ooni.org/search?since=2025-05-02&until=2025-06-02&failure=false
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: wikimedia search place and other
     url: https://commons.wikimedia.org/wiki/Main_Page
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

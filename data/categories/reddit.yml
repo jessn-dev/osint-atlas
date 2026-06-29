@@ -7,90 +7,92 @@ items:
     url: https://redlib.catsarch.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Reddit Account Extractor
     url: https://www.reddit.com/user/<USERNAME-HERE>/about.json
     archive_url: https://web.archive.org/web/2/https://www.reddit.com/user/<USERNAME-HERE>/about.json
     tags:
       - account-required
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Archive Reddit
     url: https://www.redditarchive.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Reddit Search
     url: https://redditcommentsearch.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Vizit
     url: https://redditstuff.github.io/sna/vizit/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Sub reddit
     url: https://subreddits.org/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://subreddits.org/
   - name: RedActive
     url: https://www.redective.com/
     archive_url: https://web.archive.org/web/2/https://www.redective.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: f5bot
     url: https://f5bot.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: reditr
     url: https://reditr.com/search
     archive_url: https://web.archive.org/web/2/https://reditr.com/search
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Redit Search CSE
     url: https://cse.google.com/cse?cx=007749065626525752968:qh5bqebwi30
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Reddit find sub
     url: https://anvaka.github.io/
     archive_url: https://web.archive.org/web/2/https://anvaka.github.io/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: reveddit
     url: https://www.reveddit.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.reveddit.com/
   - name: Reddit google cse search
     url: https://cse.google.com/cse?cx=017261104271573007538:bbzhlah6n4o#gsc.tab=0&gsc.sort=
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Reddit Viewer uforio
     url: http://web.uforio.com/#search
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: realsrikar Reddit search and viewer
     url: https://realsrikar.github.io/
     archive_url: https://web.archive.org/web/2/https://realsrikar.github.io/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Better Reddit Search
     url: https://betterredditsearch.web.app/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: rosint
     url: https://www.rosint.dev/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

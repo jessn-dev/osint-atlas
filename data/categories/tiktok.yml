@@ -7,70 +7,72 @@ items:
     url: https://tiktok.einzzcookie.org
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Picuki
     url: https://www.picuki.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.picuki.com/
   - name: tiktok-hashtag-analysis
     url: https://github.com/bellingcat/tiktok-hashtag-analysis
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: tiktok API
     url: https://pypi.org/project/TikTokApi/
     tags:
       - api
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: tiktok date extract
     url: https://bellingcat.github.io/tiktok-timestamp/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: exportcomments
     url: https://exportcomments.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Google CSE Tiktok
     url: https://cse.google.com/cse?cx=013991603413798772546:igv4fyrnnfu#gsc.tab=0
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: socialblade
     url: https://socialblade.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Tiktok Legal Guidelance for law enforcement
     url: https://www.tiktok.com/legal/page/global/law-enforcement/en
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: mavekite tiktok analytics
     url: https://mavekite.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: urlebird tiktok viewer
     url: https://urlebird.com/
     archive_url: https://web.archive.org/web/2/https://urlebird.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: tikface TikTok Viewer
     url: https://www.tikface.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.tikface.com/
   - name: snaptik tiktok downloader
     url: https://snaptik.app/en2
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: >-
       CrotDalam - Collection & Reconnaissance Of TikTok — Discovery, Analysis, Logging, And
       Monitoring
@@ -78,9 +80,9 @@ items:
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Tktok username lookup and viewer
     url: https://omar-thing.nekoweb.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

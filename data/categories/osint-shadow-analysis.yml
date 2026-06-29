@@ -7,88 +7,91 @@ items:
     url: https://andrewmarsh.com/software/sunpath3d-web/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: suncalc
     url: https://www.suncalc.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: timeanddate
     url: https://www.timeanddate.com/weather/indonesia/jakarta/historic
     archive_url: https://web.archive.org/web/2/https://www.timeanddate.com/weather/indonesia/jakarta/historic
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: sunearthtools
     url: https://www.sunearthtools.com/dp/tools/pos_sun.php
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: academo azimuth calc
     url: https://academo.org/demos/azimuth-calculator/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: findmyshadow
     url: https://www.findmyshadow.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.findmyshadow.com/
   - name: shadowcalculator
     url: http://shadowcalculator.eu/#/lat/50.08/lng/19.9
     archive_url: https://web.archive.org/web/2/http://shadowcalculator.eu/#/lat/50.08/lng/19.9
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: shademap
     url: https://shademap.app/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://shademap.app/
   - name: bellingcat shadow finder
     url: https://github.com/bellingcat/ShadowFinder
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Moon Calc
     url: https://www.mooncalc.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: moonsighting
     url: https://www.moonsighting.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.moonsighting.com/
   - name: mooncalendar
     url: https://www.mooncalc.org/mooncalendar/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Dcode Azimuth Calc
     url: https://www.dcode.fr/azimuth
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: carbidedepot Trigonometry Calculator
     url: https://www.carbidedepot.com/formulas-trigright.asp
     archive_url: https://web.archive.org/web/2/https://www.carbidedepot.com/formulas-trigright.asp
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: shadowmap
     url: https://app.shadowmap.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: gaisma sunrise, sunset arround world
     url: https://www.gaisma.com/en/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: sunpath3d
     url: https://drajmarsh.bitbucket.io/sunpath3d.html
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

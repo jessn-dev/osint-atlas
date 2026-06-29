@@ -8,134 +8,143 @@ items:
     tags:
       - maltego
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: 'Investigative Journalism on Disinformation Campaigns: UC Berkeley Human Rights Center'
     url: >-
       https://www.maltego.com/blog/investigative-journalism-on-disinformation-campaigns-uc-berkeley-human-rights-center/
     tags:
       - maltego
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Effective Techniques for Intelligence Analysis
     url: https://www.maltego.com/blog/effective-techniques-for-intelligence-analysis/
     tags:
       - maltego
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Creating an Effective Sock Puppet for OSINT Investigations – Introduction
     url: https://web.archive.org/web/20210125191016/https://jakecreps.com/2018/11/02/sock-puppets/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: >-
+      https://web.archive.org/web/2/https://web.archive.org/web/20210125191016/https://jakecreps.com/2018/11/02/sock-puppets/
   - name: OSINT Tools & Software for Passive & Active Recon & Security!
     url: https://www.pcwdld.com/osint-tools-and-software#wbounce-modal
     archive_url: https://web.archive.org/web/2/https://www.pcwdld.com/osint-tools-and-software#wbounce-modal
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OSINT Open Source Intelligence Fundamental
     url: https://en-blog.seccodeid.com/2022/09/osint-open-source-intelligence.html
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Os2int
     url: https://os2int.com/toolbox/
-    archive_url: https://web.archive.org/web/2/https://os2int.com/toolbox/
     tags: []
-    status: dead
-    last_checked: '2026-06-23'
+    status: active
+    last_checked: '2026-06-29'
   - name: Types of Threat Intelligence Gathering
     url: https://socradar.io/types-of-threat-intelligence-gathering/
     archive_url: https://web.archive.org/web/2/https://socradar.io/types-of-threat-intelligence-gathering/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Learn transform Maltego
     url: https://www.maltego.com/transform-hub/
     tags:
       - maltego
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Investigation phone Maltego
     url: https://www.maltego.com/blog/investigating-phone-numbers-with-opencnam-and-ipqualityscore/
     tags:
       - maltego
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Maltego transform phone search
     url: https://docs.maltego.com/support/solutions/articles/15000033679-phonesearch
     tags:
       - maltego
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: 'OSINT WIFI Tutorial: Track People using WiFi via Wigle'
     url: https://www.ehacking.net/2021/04/osint-wifi-tutorial-track-people-using-wifi-via-wigle.html
     archive_url: >-
       https://web.archive.org/web/2/https://www.ehacking.net/2021/04/osint-wifi-tutorial-track-people-using-wifi-via-wigle.html
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Finding location using MCC, MNC, LAC, and Cell ID
     url: https://stackoverflow.com/questions/18686888/finding-location-using-mcc-mnc-lac-and-cell-id
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Cell Tower Triangulation – How it Works
     url: https://wrongfulconvictionsblog.org/2012/06/01/cell-tower-triangulation-how-it-works/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: >-
+      https://web.archive.org/web/2/https://wrongfulconvictionsblog.org/2012/06/01/cell-tower-triangulation-how-it-works/
   - name: OSINT Blog
     url: https://ohshint.gitbook.io/oh-shint-its-a-blog/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Belingcat Investigation
     url: https://www.bellingcat.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: dutchosintguy
     url: https://www.dutchosintguy.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: sector035
     url: https://sector035.nl/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://sector035.nl/
   - name: Leaked Docs Show What Phones Cellebrite Can (and Can’t) Unlock
     url: https://www.404media.co/leaked-docs-show-what-phones-cellebrite-can-and-cant-unlock/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Email tracing and hunting
     url: https://medium.com/hacking-info-sec/how-to-gmail-osint-like-a-boss-1ca4f55f55e2
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: >-
+      https://web.archive.org/web/2/https://medium.com/hacking-info-sec/how-to-gmail-osint-like-a-boss-1ca4f55f55e2
   - name: Bellingcat Hackathon (Awesome OSINT tool)
     url: >-
       https://www.bellingcat.com/resources/2022/10/06/automated-map-searches-scam-busting-tools-and-twitter-search-translations-here-are-the-results-of-bellingcats-second-hackathon/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OSINT in general and removal your data
     url: https://osintteam.blog/dosint-deceiving-osint-a994724af95f
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://osintteam.blog/dosint-deceiving-osint-a994724af95f
   - name: >-
       Geolocation and AI with StreetClip: introduction, country classification and building a web
       interface
     url: >-
       https://osintteam.blog/geolocation-and-ai-with-streetclip-introduction-country-classification-and-building-a-web-e13bd0e6d857
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: >-
+      https://web.archive.org/web/2/https://osintteam.blog/geolocation-and-ai-with-streetclip-introduction-country-classification-and-building-a-web-e13bd0e6d857
   - name: UK OSINT
     url: https://www.uk-osint.net/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

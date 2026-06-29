@@ -7,10 +7,10 @@ items:
     url: https://vlib.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Dmoz
     url: https://web.archive.org/web/20240000000000*/http:/www.dmoz.org/
     archive_url: https://web.archive.org/web/2/https://web.archive.org/web/20240000000000*/http:/www.dmoz.org/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

@@ -7,124 +7,128 @@ items:
     url: https://yewtu.be/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: invidious YT Viewer Available Instances
     url: https://docs.invidious.io/instances/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Youtube Comments Finder and Downloader
     url: https://ytbcomments.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: citizenevidence
     url: https://citizenevidence.amnestyusa.org/
     archive_url: https://web.archive.org/web/2/https://citizenevidence.amnestyusa.org/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: watchframebyframe
     url: http://www.watchframebyframe.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: YT Mtedata
     url: https://mattw.io/youtube-metadata/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: TY Geo Find
     url: https://mattw.io/youtube-geofind/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: YT chat downloader
     url: https://github.com/xenova/chat-downloader
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: youtubecommentsdownloader
     url: https://youtubecommentsdownloader.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ytcomment
     url: https://ytcomment.kmcat.uk/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: exportcomments
     url: https://exportcomments.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Downsub
     url: https://downsub.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Savesubs
     url: https://savesubs.com/
     archive_url: https://web.archive.org/web/2/https://savesubs.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: hadzy - YT Comment
     url: https://hadzy.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://hadzy.com/
   - name: Filmot
     url: https://filmot.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: appsgolem
     url: https://appsgolem.com/en/download-most-replayed-moment-youtube-video
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Get account ID YT
     url: https://commentpicker.com/
     tags:
       - account-required
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Youtube Subscribe History
     url: https://xxluke.de/subscription-history/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Summarize Any YouTube Video
     url: https://ytbsum.codexfolio.com/
     archive_url: https://web.archive.org/web/2/https://ytbsum.codexfolio.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Youtube search operator
     url: https://seosly.com/blog/youtube-search-operators/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://seosly.com/blog/youtube-search-operators/
   - name: socialblade
     url: https://socialblade.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://socialblade.com/
   - name: channelcrawler
     url: https://app.channelcrawler.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ytlarge
     url: https://ytlarge.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://ytlarge.com/
   - name: youtube-lookup vidio
     url: https://youtube-lookup.vercel.app/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

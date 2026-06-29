@@ -7,24 +7,28 @@ items:
     url: >-
       https://medium.com/digital-marketing-lab/subtle-information-hackers-find-in-the-background-of-your-social-media-photos-938ec1876246
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: >-
+      https://web.archive.org/web/2/https://medium.com/digital-marketing-lab/subtle-information-hackers-find-in-the-background-of-your-social-media-photos-938ec1876246
   - name: Find Twitter ID with wayback
     url: >-
       https://popzazzle.blogspot.com/2019/05/twitter-detective-masterhack-how-to-retrospectively-find-twitter-user-id.html?m=1
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: 'OSINT on Discord: How to Find Discord Emails, Phone Numbers and More'
     url: >-
       https://www.osint.industries/post/osint-on-discord-how-to-find-discord-emails-phone-numbers-and-more
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Extract information anonymous telegram user with sticker
     url: >-
       https://hackernoon.com/whats-wrong-with-stickers-in-telegram-deanonymize-anonymous-channels-in-two-clicks
     tags:
       - telegram
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: >-
+      https://web.archive.org/web/2/https://hackernoon.com/whats-wrong-with-stickers-in-telegram-deanonymize-anonymous-channels-in-two-clicks

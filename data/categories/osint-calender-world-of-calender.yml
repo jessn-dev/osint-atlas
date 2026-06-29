@@ -8,14 +8,14 @@ items:
     archive_url: https://web.archive.org/web/2/https://www.timeanddate.com/holidays/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: officeholidays
     url: https://www.officeholidays.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: calendarpedia
     url: https://www.calendarpedia.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

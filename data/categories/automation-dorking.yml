@@ -8,76 +8,78 @@ items:
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Dorkish
     url: https://github.com/yousseflahouifi/dorkish
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Shodan Quries
     url: https://github.com/jakejarvis/awesome-shodan-queries
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: List Dork
     url: https://github.com/BullsEye0/google_dork_list/blob/master/google_Dorks.txt
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: CENSYS Queries
     url: https://github.com/thehappydinoa/awesome-censys-queries
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Google Dork Simplified
     url: https://github.com/dheerajydv19/Google-Dorks-Simplified
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Gdorks
     url: https://github.com/Ishanoshada/GDorks
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: NAMINT
     url: https://seintpl.github.io/NAMINT/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: BullsEye0 dorks
     url: https://github.com/BullsEye0/dorks-eye
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: lullar.com
     url: https://com.lullar.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: recruitin
     url: https://recruitin.net/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://recruitin.net/
   - name: Dorking webcamcse
     url: https://cipher387.github.io/webcamcse/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: DEEP DORK
     url: https://guilherme-moraiss.github.io/Deep-Dork-Web/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: securitytoolkits - list dorking
     url: https://securitytoolkits.com/bug-hunting
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://securitytoolkits.com/bug-hunting

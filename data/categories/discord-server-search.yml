@@ -7,73 +7,75 @@ items:
     url: https://discordservers.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Discord history tracker
     url: https://www.dht.chylex.com/
     archive_url: https://web.archive.org/web/2/https://www.dht.chylex.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Darvester
     url: https://github.com/darvester/darvester
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Discord Leaks
     url: https://discordleaks.unicornriot.ninja/discord/server/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Dutchosintguy Discord
     url: https://github.com/Dutchosintguy/OSINT-Discord-resources
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: discordbee.com
     url: https://discordbee.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Disboard
     url: https://disboard.org/servers
     archive_url: https://web.archive.org/web/2/https://disboard.org/servers
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Discord server search
     url: https://discord.center/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: discadia finding Discord Servers
     url: https://discadia.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: search Discord Bots
     url: https://top.gg/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Discord Bots
     url: https://discordbotlist.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OsintCat
     url: https://www.osintcat.net/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: dclookup Discord Lookup
     url: https://www.dclookup.id/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.dclookup.id/
   - name: gatecord
     url: https://gatecord.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://gatecord.com/

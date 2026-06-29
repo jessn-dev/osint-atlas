@@ -7,53 +7,53 @@ items:
     url: https://www.veracode.com/products/binary-static-analysis-sast
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: snyk
     url: https://snyk.io/product/snyk-code/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: fortify-static-code-analyzer
     url: https://www.opentext.com/products/fortify-static-code-analyzer
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: tenable
     url: https://www.tenable.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: horusec
     url: https://github.com/ZupIT/horusec
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Vulert
     url: https://vulert.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: bearer
     url: https://github.com/bearer/bearer
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: MATE
     url: https://github.com/GaloisInc/MATE
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: codeql
     url: https://github.com/github/codeql
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Sonar
     url: https://www.sonarsource.com/solutions/security/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

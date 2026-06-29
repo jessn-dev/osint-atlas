@@ -7,40 +7,42 @@ items:
     url: https://cse.google.com/cse?cx=006368593537057042503:ig4r3rz35qi#gsc.tab=0
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: telemetr.me RU Lang
     url: https://telemetr.me/all_posts/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: tgdb BOT
     url: https://www.tgdb.org/bot
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: directorytg
     url: https://directorytg.com/
     archive_url: https://web.archive.org/web/2/https://directorytg.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: hottg
     url: https://www.hottg.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.hottg.com/
   - name: Discover The Best Telegram Channels
     url: https://telegramchannels.me/
     tags:
       - telegram
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://telegramchannels.me/
   - name: Telegram viewer
     url: https://xn--r1a.website/#
     tags:
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Maltego Telegram
     url: https://github.com/vognik/maltego-telegram
     tags:
@@ -48,281 +50,285 @@ items:
       - open-source
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Telegago
     url: https://cse.google.com/cse?cx=006368593537057042503:efxu7xprihg#gsc.tab=0
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Telegram search CSE
     url: https://cse.google.com/cse?cx=004805129374225513871:p8lhfo0g3hg&q=
     tags:
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: TelegramDB
     url: http://www.telegramdb.org/
     archive_url: https://web.archive.org/web/2/http://www.telegramdb.org/
     tags:
       - telegram
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: 'Telegram Database: channels, groups and users'
     url: https://t.me/s/privatelinks
     tags:
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Telegram channels and groups catalog
     url: https://tgstat.com/
     tags:
       - telegram
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://tgstat.com/
   - name: tgstat RU
     url: https://tgstat.ru/
     archive_url: https://web.archive.org/web/2/https://tgstat.ru/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Social Finder
     url: https://socialfinder.app/list/Telegram
     archive_url: https://web.archive.org/web/2/https://socialfinder.app/list/Telegram
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Lyzem Search
     url: https://lyzem.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Tele Channel Overiview
     url: https://telemetr.io/
     archive_url: https://web.archive.org/web/2/https://telemetr.io/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: TGDev
     url: https://tgdev.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: IntelX Telegram
     url: https://intelx.io/tools?tab=telegram
     archive_url: https://web.archive.org/web/2/https://intelx.io/tools?tab=telegram
     tags:
       - telegram
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Tele Phone Number Checker - Bellingcat
     url: https://github.com/bellingcat/telegram-phone-number-checker
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Telegram-Trilateration
     url: https://github.com/jkctech/Telegram-Trilateration
     tags:
       - open-source
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Teletehon
     url: https://docs.telethon.dev/en/stable/basic/installation.html
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Bellingcat Telegram Joiner
     url: https://bellingcat.github.io/telegram-group-joiner/
     tags:
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Awesome-Telegram-OSINT
     url: https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT
     tags:
       - open-source
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Telegram-OSINT
     url: https://github.com/The-Osint-Toolbox/Telegram-OSINT
     tags:
       - open-source
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: tlgrm channels by categories
     url: https://tlgrm.eu/channels
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: TeleBotList
     url: https://github.com/MoonWalker440/TeleBotList
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: telepathydb
     url: https://telepathydb.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: telemetryapp
     url: https://www.telemetryapp.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: fragment
     url: https://fragment.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: combot Tele Group
     url: https://combot.org/top/telegram/groups
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: telegram-store
     url: https://telegram-store.com/
     tags:
       - telegram
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://telegram-store.com/
   - name: tosint
     url: https://github.com/drego85/tosint
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Telegram Scammer list ACC Database
     url: https://apk.ibnux.com/data/
     archive_url: https://web.archive.org/web/2/https://apk.ibnux.com/data/
     tags:
       - telegram
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OSINT Industries
     url: https://app.osint.industries/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://app.osint.industries/
   - name: xtea
     url: https://xtea.io/ts_en.html
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: AllInOneLeaksBOT
     url: https://t.me/AllInOneLeaksBOT
     tags:
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Collection Wayback Machine Tele
     url: https://archive.org/details/archiveteam_telegram
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OSINT.ME CSE
     url: https://cse.google.com/cse?cx=6c3e0c0d3da8e3b4a
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Tele search CSE
     url: https://cse.google.com/cse?cx=004805129374225513871%3Ap8lhfo0g3hg
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: A Telegram Mass Surveillance Bot in Python
     url: https://github.com/paulpierre/informer
     tags:
       - open-source
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: TGRAM
     url: https://tgram.io/
     archive_url: https://web.archive.org/web/2/https://tgram.io/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: TeleGraphite telehgram scrapper
     url: https://github.com/hamodywe/telegram-scraper-TeleGraphite
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: userinfobot - telegram
     url: https://telegram.me/userinfobot
     tags:
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: GetTheirIDBot
     url: https://t.me/GetTheirIDBot
     tags:
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: PasswordSearchBot
     url: https://t.me/PasswordSearchBot
     tags:
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Telegram-Trilateration
     url: https://github.com/jkctech/Telegram-Trilateration?tab=readme-ov-file
     tags:
       - open-source
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Discover the location of nearby Telegram users
     url: https://github.com/tejado/telegram-nearby-map
     tags:
       - open-source
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: waybien search telegram chat, grup and other
     url: https://waybien.com/en
     tags:
       - telegram
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://waybien.com/en
   - name: tdirectory
     url: https://tdirectory.me/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: deepdarkCTI telegram dataset
     url: https://github.com/fastfire/deepdarkCTI
     tags:
       - open-source
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: t.me/<change usernam>
     url: https://t.me/USERNAME
     tags:
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: t.me/joinchat/<VALUE>
     url: https://t.me/joinchat/HASHVALUE
     tags:
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: t.me/+<change phone num>
     url: https://t.me/+TELEPHONE-NUMBER
     tags:
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: t.me/s/<change username>
     url: https://t.me/s/PREVIEWCHANNEL
     tags:
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

@@ -7,182 +7,185 @@ items:
     url: https://lens.google/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Google Vid
     url: https://www.google.com/videohp
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Aol Videos
     url: http://on.aol.com
     archive_url: https://web.archive.org/web/2/http://on.aol.com
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Bing Videos
     url: http://www.bing.com/?scope=video
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Clarify
     url: http://clarify.io
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: DailyMotion
     url: http://www.dailymotion.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Deturl
     url: http://deturl.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Earthcam
     url: http://www.earthcam.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Insecam
     url: http://insecam.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: clipchamp
     url: https://clipchamp.com/en/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: 'Internet Archive: Open Source Videos'
     url: https://archive.org/details/opensource_movies
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: LiveLeak
     url: http://www.liveleak.com
     archive_url: https://web.archive.org/web/2/http://www.liveleak.com
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Metatube
     url: http://www.metatube.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Veoh
     url: http://www.veoh.com
     archive_url: https://web.archive.org/web/2/http://www.veoh.com
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Vimeo
     url: https://vimeo.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Yahoo Video Search
     url: http://video.search.yahoo.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: YouTube
     url: https://www.youtube.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: YouTube Data Viewer
     url: https://www.amnestyusa.org/citizenevidence
     archive_url: https://web.archive.org/web/2/https://www.amnestyusa.org/citizenevidence
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: YouTube Metadata
     url: https://mattw.io/youtube-metadata/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: YouTube Geofind
     url: https://mattw.io/youtube-geofind/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Video Stabilization Methods
     url: https://github.com/yaochih/awesome-video-stabilization
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Azure vidio indexer
     url: https://vi.microsoft.com/en-us
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Bilibili scraper
     url: https://github.com/yixiangyin/bilibili-scraper
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: airportwebcams
     url: https://airportwebcams.net/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Earthcam
     url: https://www.earthcam.com/#google_vignette
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: tvway
     url: http://tvway.ru/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: unscreen
     url: https://www.unscreen.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: shutterstock
     url: https://www.shutterstock.com/royalty-free/reverse-image-search-for-video
     archive_url: >-
       https://web.archive.org/web/2/https://www.shutterstock.com/royalty-free/reverse-image-search-for-video
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: invid-project
     url: https://www.invid-project.eu/tools-and-services/invid-verification-plugin/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: asciinema
     url: https://asciinema.org/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://asciinema.org/
   - name: videosearch
     url: https://videosearch.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: dailymotion
     url: https://www.dailymotion.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: rumble
     url: https://rumble.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://rumble.com/
   - name: unlistedvideos
     url: https://unlistedvideos.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://unlistedvideos.com/
   - name: huggingface scene Edit Detection
     url: https://huggingface.co/spaces/fffiloni/scene-edit-detection
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

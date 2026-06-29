@@ -7,19 +7,20 @@ items:
     url: https://www.google.com/advanced_search
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Google Scholar
     url: https://scholar.google.com
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://scholar.google.com
   - name: Google Alerts
     url: https://www.google.com/alerts
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Google Search History
     url: https://myactivity.google.com/myactivity
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

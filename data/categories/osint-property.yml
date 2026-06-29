@@ -7,9 +7,9 @@ items:
     url: https://www.zillow.com/homes/for_sale/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: trulia
     url: https://www.trulia.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

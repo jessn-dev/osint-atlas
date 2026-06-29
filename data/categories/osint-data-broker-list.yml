@@ -8,53 +8,54 @@ items:
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: glamrock data-brokers
     url: https://github.com/glamrock/data-brokers
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: privacyrights
     url: https://privacyrights.org/data-brokers
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: simpleoptout
     url: https://github.com/troy/simpleoptout
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: spokeo
     url: https://www.spokeo.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: whitepages
     url: https://www.whitepages.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.whitepages.com/
   - name: beenverified
     url: https://www.beenverified.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: doxbin
     url: https://doxbin.com/home
     archive_url: https://web.archive.org/web/2/https://doxbin.com/home
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: intelius
     url: https://www.intelius.com/
     archive_url: https://web.archive.org/web/2/https://www.intelius.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: rocketreach
     url: https://rocketreach.co/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

@@ -7,26 +7,26 @@ items:
     url: https://exiftool.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: List tagname
     url: https://exiftool.org/TagNames/
     archive_url: https://web.archive.org/web/2/https://exiftool.org/TagNames/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: List tagnme 2
     url: https://metacpan.org/dist/Image-ExifTool/view/lib/Image/ExifTool/TagNames.pod
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: List tagname 3
     url: https://manpages.org/imageexiftooltagnames/3
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Exif python script remover
     url: https://github.com/davidbombal/red-python-scripts/blob/main/remove_exif.py
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

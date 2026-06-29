@@ -7,118 +7,117 @@ items:
     url: https://www.aiornot.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: sensity.ai
     url: https://sensity.ai/
-    archive_url: https://web.archive.org/web/2/https://sensity.ai/
     tags: []
-    status: dead
-    last_checked: '2026-06-23'
+    status: active
+    last_checked: '2026-06-29'
   - name: AmIReal
     url: https://seintpl.github.io/AmIReal/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: invid-project
     url: https://www.invid-project.eu/tools-and-services/invid-verification-plugin/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: gptzero
     url: https://gptzero.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: isitai
     url: https://isitai.com/ai-image-detector/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: hivemoderation
     url: https://hivemoderation.com/ai-generated-content-detection
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: deepware
     url: https://scanner.deepware.ai/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: audio elevenlabs
     url: https://elevenlabs.io/ai-speech-classifier
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: GIJN Investigate AI Deepfake
     url: https://gijn.org/resource/tipsheet-investigating-ai-audio-deepfakes/
     archive_url: >-
       https://web.archive.org/web/2/https://gijn.org/resource/tipsheet-investigating-ai-audio-deepfakes/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: datajournalism AI Deepfake
     url: >-
       https://datajournalism.com/read/handbook/verification-3/investigating-actors-content/6-how-to-think-about-deepfakes-and-emerging-manipulation-technologie
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: DW Guide Investigate Deepfake
     url: https://www.dw.com/en/fact-check-how-do-i-spot-a-deepfake/a-60029650
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: sightengine
     url: https://dashboard.sightengine.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: wasitai
     url: https://wasitai.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: restream
     url: https://restream.io/tools/transcribe-video-to-text
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: detect-ai-images
     url: https://detect-ai-images.web.app/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Audio AI Deepfake Detection
     url: https://detect.resemble.ai/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: DeepFake Detector
     url: https://huggingface.co/spaces/FaceOnLive/Deepfake-Detector
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: aivoicedetector
     url: https://aivoicedetector.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: thehive
     url: https://docs.thehive.ai/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Mever
     url: https://mever.iti.gr/forensics/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: fakeimagedetector
     url: https://www.fakeimagedetector.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: imagewhisperer
     url: https://imagewhisperer.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

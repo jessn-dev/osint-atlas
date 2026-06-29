@@ -8,16 +8,16 @@ items:
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Bellingcat VK scrapper
     url: https://github.com/bellingcat/vk-url-scraper
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: VK com
     url: https://vk.com/
     archive_url: https://web.archive.org/web/2/https://vk.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

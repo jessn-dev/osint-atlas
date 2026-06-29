@@ -8,143 +8,147 @@ items:
     archive_url: https://web.archive.org/web/2/https://kbji.kemendikdasmen.go.id/.well-known/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: educalingo
     url: https://educalingo.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://educalingo.com/
   - name: KBBI Kemendikbud - ID
     url: https://kbbi.kemdikbud.go.id/
     archive_url: https://web.archive.org/web/2/https://kbbi.kemdikbud.go.id/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: grammarly
     url: https://www.grammarly.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: quillbot
     url: https://quillbot.com/translate
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: babla
     url: https://www.babla.co.id/pengucapan/bahasa-china/
     archive_url: https://web.archive.org/web/2/https://www.babla.co.id/pengucapan/bahasa-china/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: goong
     url: https://goong.com/id/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Google
     url: https://translate.google.co.id/?sl=auto&tl=en&op=translate
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: deepl
     url: https://www.deepl.com/en/translator
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: glosbe
     url: https://id.glosbe.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: World map Country, language, writing system
     url: https://www.key-shortcut.com/en/writing-systems/world-map-of-alphabets-scripts#map
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: >-
+      https://web.archive.org/web/2/https://www.key-shortcut.com/en/writing-systems/world-map-of-alphabets-scripts#map
   - name: chatgpt
     url: https://chatgpt.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://chatgpt.com/
   - name: 2lingual
     url: https://2lingual.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Javanese dictionary 1
     url: https://www.kamusjawa.net/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Javanese dictionary 2
     url: https://jv.wiktionary.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Chinese dictionary 1
     url: https://www.mdbg.net/chinese/dictionary
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Chinese dictionary 2
     url: https://dictionary.writtenchinese.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: hanzii Translator
     url: https://hanzii.net/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://hanzii.net/
   - name: Chinese Hokkien dictionary 1
     url: https://niawdeleon.com/
-    archive_url: https://web.archive.org/web/2/https://niawdeleon.com/
     tags: []
-    status: dead
-    last_checked: '2026-06-23'
+    status: active
+    last_checked: '2026-06-29'
   - name: global dictionary
     url: https://www.wiktionary.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: urbandictionary - contain slang
     url: https://www.urbandictionary.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: greensdictofslang
     url: https://greensdictofslang.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: youglish
     url: https://youglish.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: wiktionary
     url: https://en.wiktionary.org/wiki/Wiktionary:Main_Page
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: digitalcultures
     url: https://digitalcultures.net/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: merriam slang dictionary
     url: https://www.merriam-webster.com/
     archive_url: https://web.archive.org/web/2/https://www.merriam-webster.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: knowyourmeme
     url: https://knowyourmeme.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: giphy
     url: https://giphy.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

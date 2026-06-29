@@ -7,30 +7,30 @@ items:
     url: https://www.dutchosintguy.com/post/cryptography-osint-can-you-read-emoji
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Emoji Wiki
     url: https://emojis.wiki/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Emoji Guide
     url: https://emojiguide.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Emoji Tracker
     url: https://emojitracker.com/details/1F44F
     archive_url: https://web.archive.org/web/2/https://emojitracker.com/details/1F44F
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: emojipedia
     url: https://emojipedia.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: fastemoji
     url: https://www.fastemoji.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

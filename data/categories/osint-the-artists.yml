@@ -8,26 +8,26 @@ items:
     archive_url: https://web.archive.org/web/2/https://www.artnet.com/artists/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: NGV AU
     url: https://www.ngv.vic.gov.au/explore/collection/
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: influzoom
     url: https://influzoom.com/
     archive_url: https://web.archive.org/web/2/https://influzoom.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: google arts and culture
     url: https://artsandculture.google.com/explore
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: famousbirthdays
     url: https://www.famousbirthdays.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

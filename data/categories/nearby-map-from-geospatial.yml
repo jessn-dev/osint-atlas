@@ -7,82 +7,82 @@ items:
     url: https://virtualglobetrotting.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: foursquare
     url: https://location.foursquare.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: tripadvisor
     url: https://www.tripadvisor.com/
     archive_url: https://web.archive.org/web/2/https://www.tripadvisor.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: booking
     url: https://booking.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: agoda
     url: https://agoda.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: wanderlog review on Google maps
     url: https://wanderlog.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: airbnb
     url: https://www.airbnb.co.id/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: copernix
     url: https://copernix.io/
     archive_url: https://web.archive.org/web/2/https://copernix.io/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: trip
     url: https://www.trip.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: traveloka
     url: https://www.traveloka.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: hotels
     url: https://id.hotels.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: booking
     url: https://www.booking.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: yelp
     url: https://www.yelp.com/
     archive_url: https://web.archive.org/web/2/https://www.yelp.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: wikinearby
     url: https://wikinearby.toolforge.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Wikimapia
     url: http://wikimapia.org
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: vrbo
     url: https://www.vrbo.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

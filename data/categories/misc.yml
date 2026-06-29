@@ -9,81 +9,91 @@ items:
       - open-source
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: osintrack
     url: https://osintrack.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://osintrack.com/
   - name: pasal ID
     url: https://pasal.id/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: tubeoffline - Tools and media downloader
     url: https://www.tubeoffline.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.tubeoffline.com/
   - name: humantraffickingsearch
     url: https://humantraffickingsearch.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: turboscribe - YT Tools and downloander and conveter
     url: https://turboscribe.ai/
     archive_url: https://web.archive.org/web/2/https://turboscribe.ai/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: telegra.ph
     url: https://telegra.ph/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: List of interesting and active OSINT researchers/bloggers
     url: https://github.com/ubikron/OSINT-People
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OSINT of Israel
     url: https://unishka.substack.com/p/osint-of-israel
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://unishka.substack.com/p/osint-of-israel
   - name: OSINT of Indonesia
     url: https://unishka.substack.com/p/osint-of-indonesia
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://unishka.substack.com/p/osint-of-indonesia
   - name: OSINT of the Philippines
     url: https://unishka.substack.com/p/osint-of-the-philippines
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://unishka.substack.com/p/osint-of-the-philippines
   - name: OSINT of UAE
     url: https://unishka.substack.com/p/osint-of-uae
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://unishka.substack.com/p/osint-of-uae
   - name: OSINT of Syria
     url: https://unishka.substack.com/p/osint-of-syria
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://unishka.substack.com/p/osint-of-syria
   - name: OSINT of Iraq
     url: https://unishka.substack.com/p/osint-of-iraq
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://unishka.substack.com/p/osint-of-iraq
   - name: OSINT of Egypt
     url: https://unishka.substack.com/p/osint-of-egypt
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://unishka.substack.com/p/osint-of-egypt
   - name: OSINT of India
     url: https://unishka.substack.com/p/osint-of-india
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://unishka.substack.com/p/osint-of-india

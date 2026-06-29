@@ -7,125 +7,129 @@ items:
     url: https://threatactorusernames.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: attrition
     url: https://attrition.org/mirror/attrition/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Zone H
     url: https://www.zone-h.org/archive?hz=1
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: defacer ID
     url: https://defacer.id/
     archive_url: https://web.archive.org/web/2/https://defacer.id/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: zone xsec
     url: https://zone-xsec.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: haxor ID
     url: https://haxor.id/archive
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://haxor.id/archive
   - name: ownzyou
     url: https://ownzyou.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: hack db
     url: https://hack-db.org//
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://hack-db.org//
   - name: defacer net
     url: https://defacer.net/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: z-x archived site
     url: https://web.archive.org/web/*/z-x.my.id*
-    archive_url: https://web.archive.org/web/2/https://web.archive.org/web/*/z-x.my.id*
     tags: []
-    status: dead
-    last_checked: '2026-06-23'
+    status: active
+    last_checked: '2026-06-29'
   - name: ctftime
     url: https://ctftime.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Facebook
     url: https://www.facebook.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: x
     url: https://x.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://x.com/
   - name: telegram
     url: https://telegram.org/k/
     tags:
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: stackoverflow
     url: https://stackoverflow.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: substack
     url: https://substack.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://substack.com/
   - name: hackerone
     url: >-
       https://hackerone.com/leaderboard?year=2026&quarter=2&owasp=a1&country=US&assetType=WEB_APP&tab=bbp&userTypeTab=individual
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: intigriti
     url: https://app.intigriti.com/leaderboard?ninetydays=true&severity=1
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: bugcrowd
     url: https://bugcrowd.com/leaderboard/p1top4/international/past-month
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: yeswehack
     url: https://yeswehack.com/ranking
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: hackerrank
     url: https://www.hackerrank.com/contests/interncup/leaderboard
     archive_url: https://web.archive.org/web/2/https://www.hackerrank.com/contests/interncup/leaderboard
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: codewars
     url: https://www.codewars.com/users/leaderboard
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: codeforces
     url: https://codeforces.com/ratings
     archive_url: https://web.archive.org/web/2/https://codeforces.com/ratings
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: topcoder
     url: https://www.topcoder.com/marathon-match-tournament/leaderboard
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.topcoder.com/marathon-match-tournament/leaderboard

@@ -7,147 +7,150 @@ items:
     url: https://fingerprint.to/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: shadowdragon free tools
     url: https://shadowdragon.io/blog/category/free-osint-tools/
     tags:
       - free
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: hackertarget
     url: https://hackertarget.com/
     archive_url: https://web.archive.org/web/2/https://hackertarget.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: bosint
     url: https://app.bosint.gg/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://app.bosint.gg/
   - name: whatsmyname
     url: https://whatsmyname.app/
     archive_url: https://web.archive.org/web/2/https://whatsmyname.app/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OSINT rocks
     url: https://osint.rocks/
     archive_url: https://web.archive.org/web/2/https://osint.rocks/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: scrapersnbots - available support more site for scrapper
     url: https://www.scrapersnbots.com/webtools/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Labs TIB
     url: https://labs.tib.eu/info/en/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Tweet Deck
     url: https://tweetdeck.twitter.com/
     archive_url: https://web.archive.org/web/2/https://tweetdeck.twitter.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Hash tracking
     url: https://www.hashtracking.com/
     archive_url: https://web.archive.org/web/2/https://www.hashtracking.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OSINT Combine
     url: https://www.osintcombine.com/tools
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Device Info
     url: https://www.deviceinfo.me/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: GRABIFY IP
     url: https://grabify.link/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Cek Rekening
     url: https://cekrekening.id/home
     archive_url: https://web.archive.org/web/2/https://cekrekening.id/home
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Thatsthem
     url: https://thatsthem.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: IntelligenceX
     url: https://intelx.io/tools
     archive_url: https://web.archive.org/web/2/https://intelx.io/tools
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: lolarchiver
     url: https://osint.lolarchiver.com/#
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://osint.lolarchiver.com/#
   - name: OSINT indsutries
     url: https://www.osint.industries/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Phantom Tide
     url: https://phantom.labs.jamessawyer.co.uk/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Meta OSINT
     url: https://metaosint.github.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Maltego
     url: https://www.maltego.com/
     tags:
       - maltego
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Twint
     url: https://forum.seccodeid.com/d/twint-twitter-intelligence-tool
     archive_url: https://web.archive.org/web/2/https://forum.seccodeid.com/d/twint-twitter-intelligence-tool
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Telegram OSINT
     url: https://forum.seccodeid.com/d/telegram-nearby-map
     archive_url: https://web.archive.org/web/2/https://forum.seccodeid.com/d/telegram-nearby-map
     tags:
       - telegram
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: UBIKRON
     url: https://www.osint-tool.com/unravel-help/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: netlas.io
     url: https://app.netlas.io/host/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: usersearch
     url: https://usersearch.ai/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://usersearch.ai/
   - name: securitytrails
     url: https://securitytrails.com/
     archive_url: https://web.archive.org/web/2/https://securitytrails.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

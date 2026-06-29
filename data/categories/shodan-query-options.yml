@@ -7,9 +7,9 @@ items:
     url: https://pen-testing.sans.org/blog/2015/12/08/effective-shodan-searches
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: shodan tips
     url: https://danielmiessler.com/study/shodan/#gs.VBVsyo0
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

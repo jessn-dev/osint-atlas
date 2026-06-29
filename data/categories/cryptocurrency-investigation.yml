@@ -8,143 +8,141 @@ items:
     archive_url: https://web.archive.org/web/2/https://explorer.bitquery.io/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Blockchain
     url: https://www.blockchain.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Flashpoint
     url: >-
       https://flashpoint.io/resources/research/flashpoint-and-chainalysis-investigate-hydra-where-cryptocurrency-cybercrime-goes-dark/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Intel471
     url: https://intel471.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Tatum
     url: https://tatum.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: bitquery
     url: https://www.bitquery.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Bitcoin Abuse
     url: https://www.bitcoinabuse.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: GraphSense
     url: https://github.com/INTERPOL-Innovation-Centre/GraphSense-Maltego-transform
     tags:
       - maltego
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Blockhain Explorer
     url: https://www.blockexplorer.com/l/en-US/
     archive_url: https://web.archive.org/web/2/https://www.blockexplorer.com/l/en-US/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: blockcypher
     url: https://live.blockcypher.com/
     archive_url: https://web.archive.org/web/2/https://live.blockcypher.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: BTC Scan
     url: https://btcscan.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: TON of privacy
     url: https://github.com/aaarghhh/a_TON_of_privacy
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OXT
     url: https://oxt.me/
     archive_url: https://web.archive.org/web/2/https://oxt.me/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: etherscan
     url: https://etherscan.io/
-    archive_url: https://web.archive.org/web/2/https://etherscan.io/
     tags: []
-    status: dead
-    last_checked: '2026-06-23'
+    status: active
+    last_checked: '2026-06-29'
   - name: Maltego Transform ShadowDragon
     url: https://www.maltego.com/transform-hub/socialnet/
     tags:
       - maltego
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Maltego Social Links Pro
     url: https://www.maltego.com/transform-hub/social-links-pro/
     tags:
       - maltego
       - paid
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: trackenn
     url: https://github.com/kennbroorg/trackenn?tab=readme-ov-file
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: tokensniffer
     url: https://tokensniffer.com/
     archive_url: https://web.archive.org/web/2/https://tokensniffer.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: opensea
     url: https://opensea.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: nyckel NFT Finder
     url: https://www.nyckel.com/nft-finder
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: chainabuse
     url: https://www.chainabuse.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: bitinfocharts
     url: https://bitinfocharts.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: blockchair
     url: https://blockchair.com/
-    archive_url: https://web.archive.org/web/2/https://blockchair.com/
     tags: []
-    status: dead
-    last_checked: '2026-06-23'
+    status: active
+    last_checked: '2026-06-29'
   - name: chainalysis
     url: https://www.chainalysis.com/blockchain-intelligence/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: breadcrumbs
     url: https://www.breadcrumbs.app/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: cryptoscamdb crypto scam
     url: https://cryptoscamdb.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

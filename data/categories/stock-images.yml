@@ -7,135 +7,141 @@ items:
     url: https://unrwa.photoshelter.com/search
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Flickr
     url: https://flickr.com/search
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: pexels
     url: https://www.pexels.com/
     archive_url: https://web.archive.org/web/2/https://www.pexels.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: AlltheFreeStock
     url: http://allthefreestock.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Death to Stock
     url: http://deathtothestockphoto.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Freeimages
     url: http://www.freeimages.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Freestocks.org
     url: http://freestocks.org
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Gratisography
     url: http://www.gratisography.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: IM Free
     url: http://www.imcreator.com/free
     archive_url: https://web.archive.org/web/2/http://www.imcreator.com/free
     tags:
       - free
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ISO Republic
     url: http://isorepublic.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: iStockphoto
     url: http://www.istockphoto.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Kaboompics
     url: http://kaboompics.com
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/http://kaboompics.com
   - name: LibreStock
     url: https://librestock.com
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://librestock.com
   - name: Life of Pix
     url: http://www.lifeofpix.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: NegativeSpace
     url: http://negativespace.co
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/http://negativespace.co
   - name: New Old Stock
     url: http://nos.twnsnd.co
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/http://nos.twnsnd.co
   - name: Pixabay
     url: https://pixabay.com
     archive_url: https://web.archive.org/web/2/https://pixabay.com
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Stocksnap
     url: https://stocksnap.io
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://stocksnap.io
   - name: Shutterstock
     url: http://www.shutterstock.com
     archive_url: https://web.archive.org/web/2/http://www.shutterstock.com
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: tookapic
     url: https://stock.tookapic.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Unsplash
     url: https://unsplash.com
     archive_url: https://web.archive.org/web/2/https://unsplash.com
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Pimeyes
     url: https://pimeyes.com/en
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Pixiv
     url: https://www.pixiv.net/en/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.pixiv.net/en/
   - name: gettyimages
     url: https://www.gettyimages.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: imgur
     url: https://imgur.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: flickr map
     url: https://www.flickr.com/map
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

@@ -8,51 +8,51 @@ items:
     archive_url: https://web.archive.org/web/2/https://0day.today/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Zerodium
     url: https://zerodium.com/
     archive_url: https://web.archive.org/web/2/https://zerodium.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: 0day fans
     url: https://0dayfans.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: 0day database
     url: https://www.zero-day.cz/database/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: zerodayinitiative
     url: https://www.zerodayinitiative.com/advisories/published/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: PWN2OWN
     url: https://www.secwest.net/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: 0day in the wild
     url: >-
       https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit?gid=1331951416#gid=1331951416
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: attackerkb
     url: https://attackerkb.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: crowdfense
     url: https://www.crowdfense.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: exploit db
     url: https://www.exploit-db.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

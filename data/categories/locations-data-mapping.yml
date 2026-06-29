@@ -7,213 +7,217 @@ items:
     url: https://findpiclocation.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: geoseeer AI Geo find
     url: https://geoseeer.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Google maps
     url: https://www.google.co.id/maps
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Social geo lens
     url: https://www.osintcombine.com/social-geo-lens
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Open street map
     url: https://www.openstreetmap.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Google Maps Geocoding
     url: https://www.maltego.com/transform-hub/google-maps-geocoding-transforms/
     tags:
       - maltego
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Googleearthengine
     url: https://earthengine.google.com/#intro
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OSM Bellingcat
     url: https://osm-search.bellingcat.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: byt5-geotagging
     url: https://github.com/Yachay-AI/byt5-geotagging
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: CSIS maps
     url: https://amti.csis.org/maps/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Humdata maps
     url: https://data.humdata.org/group
     archive_url: https://web.archive.org/web/2/https://data.humdata.org/group
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Planet - satellite maps
     url: https://www.planet.com/products/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OSM Finder
     url: https://github.com/Xetnus/osm-finder
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OSM Finder - Web based
     url: https://osm-finder.netlify.app/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: wanderlog review on Google maps
     url: https://wanderlog.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: map making app
     url: https://map-making.app/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Overpass turbo
     url: https://overpass-turbo.eu/#
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Bellingcat Shadow Finder
     url: https://github.com/bellingcat/ShadowFinder
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Belinggcat Shadow Finder Hosted
     url: >-
       https://colab.research.google.com/github/GalenReich/ShadowFinder/blob/main/ShadowFinderColab.ipynb#scrollTo=OBTVWE8tu2Pe
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Moon Calc
     url: https://www.mooncalc.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Coordinate Calc
     url: https://www.maps.ie/coordinates.html
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.maps.ie/coordinates.html
   - name: latlongdata calc
     url: https://latlongdata.com/lat-long-converter/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Docs overpass API
     url: https://overpass-api.de/
     tags:
       - api
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Zoom earth
     url: https://zoom.earth/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: satellites pro
     url: https://satellites.pro/#
     tags:
       - paid
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://satellites.pro/#
   - name: wikimapia
     url: https://wikimapia.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: peakfinder
     url: https://www.peakfinder.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: kartaview
     url: https://kartaview.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: mapillary
     url: https://www.mapillary.com/app/?lat=20&lng=0&z=1.5
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: calcmaps
     url: https://www.calcmaps.com/map-area/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: nominatim OSM
     url: https://nominatim.openstreetmap.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: moscow RU
     url: https://moscow.flamp.ru/
     archive_url: https://web.archive.org/web/2/https://moscow.flamp.ru/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: sun calc
     url: https://www.suncalc.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: planetscalc
     url: https://www.planetscalc.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: moonsighting
     url: https://www.moonsighting.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.moonsighting.com/
   - name: mooncalendar
     url: https://www.mooncalc.org/mooncalendar/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: earthkit
     url: https://earthkit.app/satellite
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: gaisma sunrise, sunset arround world
     url: https://www.gaisma.com/en/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Ej Atlas
     url: https://ejatlas.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: showmystreet
     url: https://showmystreet.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: flightradar24 gps jamming
     url: https://www.flightradar24.com/data/gps-jamming?date=2025-06-19
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.flightradar24.com/data/gps-jamming?date=2025-06-19

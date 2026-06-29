@@ -8,175 +8,179 @@ items:
     archive_url: https://web.archive.org/web/2/https://colonialarchitecture.eu/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: niod archive
     url: https://www.niod.nl/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.niod.nl/
   - name: digitalcollections
     url: https://digitalcollections.universiteitleiden.nl/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: zoeken
     url: https://zoeken.beeldengeluid.nl/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: nationaalarchief
     url: https://www.nationaalarchief.nl/en/research
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: archives
     url: https://www.archives.gov/
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Arsip Indonesia
     url: https://arsip-indonesia.org/id/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://arsip-indonesia.org/id/
   - name: Worldcat
     url: https://search.worldcat.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ID MPN SIDAK Kominfo
     url: https://mpn.kominfo.go.id/arsip/
     archive_url: https://web.archive.org/web/2/https://mpn.kominfo.go.id/arsip/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ID Komdigi MPN Library
     url: https://mpn.komdigi.go.id/perpus/index.php
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ID Komdigi MPN
     url: https://mpn.komdigi.go.id/arsip/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: geheugen delpher
     url: https://geheugen.delpher.nl/nl
     archive_url: https://web.archive.org/web/2/https://geheugen.delpher.nl/nl
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Old maps online
     url: https://www.oldmapsonline.org/en/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.oldmapsonline.org/en/
   - name: Delpher
     url: https://www.delpher.nl/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: pastvu map
     url: https://pastvu.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Latest change OSM
     url: https://rene78.github.io/latest-changes/#5/-3.448/115.532
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Web Archive
     url: https://web.archive.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: chroniclingamerica
     url: https://chroniclingamerica.loc.gov/
     archive_url: https://web.archive.org/web/2/https://chroniclingamerica.loc.gov/
     tags:
       - official
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: britishnewspaperarchive
     url: https://www.britishnewspaperarchive.co.uk/
     archive_url: https://web.archive.org/web/2/https://www.britishnewspaperarchive.co.uk/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Google Archive News
     url: https://news.google.com/newspapers
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: LOC Library of Congress collects
     url: https://www.loc.gov/programs/veterans-history-project/about-this-program/
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: europeana collection newspaper
     url: https://www.europeana.eu/en/collections/topic/18-newspaper
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: BNF France
     url: https://gallica.bnf.fr/accueil/en/content/accueil-en?mode=desktop
     archive_url: >-
       https://web.archive.org/web/2/https://gallica.bnf.fr/accueil/en/content/accueil-en?mode=desktop
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Myheritage
     url: https://www.myheritage.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: FamilySearch
     url: https://www.familysearch.org/id/indonesia/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: geneanet
     url: https://en.geneanet.org/
     archive_url: https://web.archive.org/web/2/https://en.geneanet.org/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: CSE Google Search
     url: https://cse.google.com/cse?cx=partner-pub-7233843800519946:6667570044&ie=UTF-8&q=
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: google arts and culture
     url: https://artsandculture.google.com/explore
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: newspaperarchive
     url: https://newspaperarchive.com/
     archive_url: https://web.archive.org/web/2/https://newspaperarchive.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: openhistoricalmap
     url: https://www.openhistoricalmap.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: chronas
     url: https://www.chronas.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: histography
     url: https://histography.io/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://histography.io/
   - name: dinosaurpictures
     url: https://dinosaurpictures.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

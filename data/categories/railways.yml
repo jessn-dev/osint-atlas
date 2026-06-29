@@ -5,60 +5,59 @@ description: Railways — transport resources (11 entries).
 items:
   - name: AU Railways
     url: http://www.railpage.org.au/railmaps/
-    archive_url: https://web.archive.org/web/2/http://www.railpage.org.au/railmaps/
     tags: []
-    status: dead
-    last_checked: '2026-06-23'
+    status: active
+    last_checked: '2026-06-29'
   - name: Global Open Railways
     url: https://www.openrailwaymap.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Open Railways
     url: https://wiki.openstreetmap.org/wiki/OpenRailwayMap
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Train Tracker
     url: >-
       https://mobility.portal.geops.io/world.geops.transit?lang=en&layers=strassennamen,haltekanten,haltestellen,pois,world.geops.traviclive&x=810000&y=5900000&z=5.5
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Yandex Train Map
     url: https://rasp.yandex.ru/map/trains/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: KAI ID
     url: https://penumpang.kai.id/daop
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: KAI ID Map Railway
     url: https://www.arcgis.com/apps/View/index.html?appid=27b7119dc6754d3e9e584a4fa71e5744
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: World Railway Train
     url: >-
       https://mobility.portal.geops.io/world.geops.transit?layers=paerke,strassennamen,haltekanten,haltestellen,pois,world.geops.traviclive&x=12003263.13&y=-842145.41&z=7.98
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Railway zugfinder
     url: https://www.zugfinder.net/
     archive_url: https://web.archive.org/web/2/https://www.zugfinder.net/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: KAI ID ROUTE
     url: https://commuterline.id/perjalanan-krl/peta-rute
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ID Railway Map
     url: https://168railway.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

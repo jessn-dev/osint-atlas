@@ -9,72 +9,73 @@ items:
     url: https://www.rivaliq.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: SociaBlade
     url: http://socialblade.com
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/http://socialblade.com
   - name: Social Searcher
     url: http://www.social-searcher.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Profil3r
     url: https://github.com/Rog3rSm1th/Profil3r
     archive_url: https://web.archive.org/web/2/https://github.com/Rog3rSm1th/Profil3r
     tags:
       - open-source
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Oblivion
     url: https://github.com/loseys/Oblivion
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Social Analyzer
     url: https://github.com/qeeqbox/social-analyzer
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Snsscrape
     url: https://github.com/JustAnotherArchivist/snscrape
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: stratosphere
     url: https://github.com/elehcimd/stratosphere
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ShadowDragon
     url: https://shadowdragon.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: sociallinks
     url: https://sociallinks.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Crimewall
     url: https://sociallinks.io/products/sl-crimewall
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: socialscan
     url: https://pypi.org/project/socialscan/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: inspektur
     url: https://github.com/bgwastu/inspektur
     archive_url: https://web.archive.org/web/2/https://github.com/bgwastu/inspektur
     tags:
       - open-source
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

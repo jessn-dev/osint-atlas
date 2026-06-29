@@ -7,21 +7,25 @@ items:
     url: >-
       https://x-it.medium.com/worldwide-cellular-tower-data-triangulation-for-cell-phone-location-tracking-3c912da78de1
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: >-
+      https://web.archive.org/web/2/https://x-it.medium.com/worldwide-cellular-tower-data-triangulation-for-cell-phone-location-tracking-3c912da78de1
   - name: Melacak Posisi Berdasarkan LAC dan Cell ID pada Simcard No.Handphone
     url: >-
       https://1sit.blog.amikom.me/2015/05/29/melacak-posisi-berdasarkan-lac-dan-cell-id-pada-simcard-no-handphone/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: >-
+      https://web.archive.org/web/2/https://1sit.blog.amikom.me/2015/05/29/melacak-posisi-berdasarkan-lac-dan-cell-id-pada-simcard-no-handphone/
   - name: karionotelco
     url: https://karionotelco.blogspot.com/p/blog-page_6191.html
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Memperkenalkan LAC-CI
     url: https://www.slideshare.net/riswan78/introducing-to-location-area-code-cell-id
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

@@ -7,273 +7,280 @@ items:
     url: https://1text.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: gptzero
     url: https://gptzero.me/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: grammarly
     url: https://www.grammarly.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: duplichecker
     url: https://www.duplichecker.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.duplichecker.com/
   - name: smallseotools
     url: https://smallseotools.com/plagiarism-checker/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: turnitin
     url: https://www.turnitin.com/products/similarity/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: hivemoderation
     url: https://hivemoderation.com/ai-generated-content-detection
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: humata
     url: https://www.humata.ai/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: kipper
     url: https://www.kipper.ai/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: sintelix
     url: https://sintelix.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ntlk
     url: https://www.nltk.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: voyant
     url: https://voyant-tools.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: brandmentions
     url: https://brandmentions.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: copyleaks
     url: https://copyleaks.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://copyleaks.com/
   - name: gowinston
     url: https://gowinston.ai/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://gowinston.ai/
   - name: humbot
     url: https://humbot.ai/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://humbot.ai/
   - name: ithenticate
     url: https://www.ithenticate.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: DiffChecker
     url: https://www.diffchecker.com/image-diff/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: text compare
     url: https://text-compare.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Youtube search with voice
     url: https://www.youtube.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Google search with voice
     url: https://www.google.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: shutterstock
     url: https://www.shutterstock.com/search/like-video
     archive_url: https://web.archive.org/web/2/https://www.shutterstock.com/search/like-video
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Google Vidio Search
     url: https://www.google.com/videohp?hl=id
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: invid-project
     url: https://www.invid-project.eu/tools-and-services/invid-verification-plugin/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Face Similarity Test Online
     url: https://facecomparison.toolpie.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: reversely
     url: https://www.reversely.ai/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: google image search
     url: https://www.google.com/imghp?hl=EN
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: similarweb
     url: https://www.similarweb.com/website/
     archive_url: https://web.archive.org/web/2/https://www.similarweb.com/website/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: similarsites
     url: https://www.similarsites.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: sitelike
     url: https://www.sitelike.org/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.sitelike.org/
   - name: pr-cy.io
     url: https://pr-cy.io/tools/similar-websites/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Clone UI Design
     url: https://clone-ui.design/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Website informer
     url: https://website.informer.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: vstat
     url: https://vstat.info/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://vstat.info/
   - name: siteslike
     url: https://www.siteslike.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: domains - search similarity domain and niche web
     url: https://www.domains.ch/en
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: smallseotools compare web similar
     url: https://smallseotools.com/similar-sites/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: semrush
     url: https://www.semrush.com/website/%3Cwebcompetitor-domain.com%3E/competitors/
     archive_url: >-
       https://web.archive.org/web/2/https://www.semrush.com/website/%3Cwebcompetitor-domain.com%3E/competitors/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Find Similar Sites
     url: https://www.findsimilarsites.com/
     archive_url: https://web.archive.org/web/2/https://www.findsimilarsites.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: sitechecker
     url: https://sitechecker.pro/similar-websites/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: topsimilarsites
     url: https://www.topsimilarsites.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: similarsitesearch
     url: https://www.similarsitesearch.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: moreofit
     url: http://www.moreofit.com/similar-to/www.pornhub.com/Top_10_Sites_Like_Pornhub/
     archive_url: >-
       https://web.archive.org/web/2/http://www.moreofit.com/similar-to/www.pornhub.com/Top_10_Sites_Like_Pornhub/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: xranks
     url: https://xranks.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: alternativeto
     url: https://alternativeto.net/
-    archive_url: https://web.archive.org/web/2/https://alternativeto.net/
     tags: []
-    status: dead
-    last_checked: '2026-06-23'
+    status: active
+    last_checked: '2026-06-29'
   - name: DMCA Lumen DB
     url: https://lumendatabase.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: siteprice
     url: https://www.siteprice.org/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.siteprice.org/
   - name: similartech
     url: https://similartech.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Venture Radar
     url: https://www.ventureradar.com/search
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: tracxn
     url: https://tracxn.com/?redirect=false
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: sgpbusiness
     url: https://www.sgpbusiness.com/
     archive_url: https://web.archive.org/web/2/https://www.sgpbusiness.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: WIPO INT
     url: https://branddb.wipo.int/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: socialblade similarity
     url: https://socialblade.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://socialblade.com/

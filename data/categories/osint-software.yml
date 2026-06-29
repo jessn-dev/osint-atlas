@@ -5,81 +5,86 @@ description: OSINT Software — web resources (15 entries).
 items:
   - name: alternativeto
     url: https://alternativeto.net/
-    archive_url: https://web.archive.org/web/2/https://alternativeto.net/
     tags: []
-    status: dead
-    last_checked: '2026-06-23'
+    status: active
+    last_checked: '2026-06-29'
   - name: alternative
     url: https://alternative.me/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Apk mirror
     url: https://www.apkmirror.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.apkmirror.com/
   - name: apkpure
     url: https://apkpure.com/id/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://apkpure.com/id/
   - name: slant
     url: https://www.slant.co/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.slant.co/
   - name: capterra
     url: https://www.capterra.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.capterra.com/
   - name: G2
     url: https://www.g2.com/
     archive_url: https://web.archive.org/web/2/https://www.g2.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: softwaresuggest
     url: https://www.softwaresuggest.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: softpedia
     url: https://www.softpedia.com/
     archive_url: https://web.archive.org/web/2/https://www.softpedia.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: DAPK APK SEARCH
     url: https://github.com/m4ll0k/BBTz/blob/master/dapk.py
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: apkeep
     url: https://github.com/EFForg/apkeep?tab=readme-ov-file
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: cyberarsenal
     url: https://cyberarsenal.org/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://cyberarsenal.org/
   - name: XSS
     url: https://xss.is/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: apkcombo
     url: https://apkcombo.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: sourceforge
     url: https://sourceforge.net
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://sourceforge.net

@@ -7,14 +7,14 @@ items:
     url: https://challenge.bellingcat.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: tracelabs
     url: https://www.tracelabs.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: geoguessr
     url: https://www.geoguessr.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

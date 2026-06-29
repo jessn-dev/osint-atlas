@@ -8,14 +8,14 @@ items:
     archive_url: https://web.archive.org/web/2/https://www.hackerrank.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Code chef
     url: https://www.codechef.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Code war
     url: https://www.codewars.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

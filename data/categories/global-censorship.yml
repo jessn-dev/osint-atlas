@@ -7,9 +7,9 @@ items:
     url: https://voidly.ai/censorship-index
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OONI
     url: https://explorer.ooni.org/search?since=2025-05-02&until=2025-06-02&failure=false
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

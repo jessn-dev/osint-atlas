@@ -7,137 +7,135 @@ items:
     url: https://www.infostealers.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: eumostwanted EU
     url: https://eumostwanted.eu/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: nationalcrimeagency UK
     url: https://www.nationalcrimeagency.gov.uk/most-wanted
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: FBI Most Wanted
     url: https://web.archive.org/web/20030315000000*/https://www.fbi.gov/wanted/cyber
-    archive_url: >-
-      https://web.archive.org/web/2/https://web.archive.org/web/20030315000000*/https://www.fbi.gov/wanted/cyber
     tags: []
-    status: dead
-    last_checked: '2026-06-23'
+    status: active
+    last_checked: '2026-06-29'
   - name: FBI
     url: https://www.fbi.gov/wanted
     tags:
       - official
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.fbi.gov/wanted
   - name: secretservice
     url: https://www.secretservice.gov/investigations/mostwanted
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: pusiknas Polri ID
     url: https://pusiknas.polri.go.id/dpo
     archive_url: https://web.archive.org/web/2/https://pusiknas.polri.go.id/dpo
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: kejaksaan ID
     url: https://pelayanan.kejaksaan.go.id/layanan/permohonan/dpo
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: reskrimum Polri ID
     url: https://web.archive.org/web/20220124010657/https://reskrimum.metro.polri.go.id/dpo/
-    archive_url: >-
-      https://web.archive.org/web/2/https://web.archive.org/web/20220124010657/https://reskrimum.metro.polri.go.id/dpo/
     tags: []
-    status: dead
-    last_checked: '2026-06-23'
+    status: active
+    last_checked: '2026-06-29'
   - name: reskrimum Metro Polri ID
     url: https://reskrimum.metro.polri.go.id/dpo/
     archive_url: https://web.archive.org/web/2/https://reskrimum.metro.polri.go.id/dpo/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Maltego Transform ShadowDragon
     url: https://www.maltego.com/transform-hub/socialnet/
     tags:
       - maltego
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: stealthmole
     url: https://www.stealthmole.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: NCA most wanted
     url: https://nationalcrimeagency.gov.uk/most-wanted-search
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ShadowDragon
     url: https://shadowdragon.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: sociallinks
     url: https://sociallinks.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Crimewall
     url: https://sociallinks.io/products/sl-crimewall
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: breach-hq
     url: https://breach-hq.com/threat-actors
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: United Nation PBB
     url: https://main.un.org/securitycouncil/en/content/un-sc-consolidated-list
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ID Sistem Informasi Penelusuran Perkara
     url: https://sipp.pn-negara.go.id/
     archive_url: https://web.archive.org/web/2/https://sipp.pn-negara.go.id/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: socradar
     url: https://socradar.io/labs/
     archive_url: https://web.archive.org/web/2/https://socradar.io/labs/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: scamsearch
     url: https://www.scamsearch.io/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.scamsearch.io/
   - name: ID mahkamahagung
     url: https://putusan3.mahkamahagung.go.id/
     archive_url: https://web.archive.org/web/2/https://putusan3.mahkamahagung.go.id/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: APT Group List
     url: >-
       https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Interpol Red Notice
     url: https://www.interpol.int/How-we-work/Notices/Red-Notices/View-Red-Notices
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Pitch darkweb (ONION SITE)
     url: https://pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion/
     archive_url: >-
@@ -145,7 +143,7 @@ items:
     tags:
       - onion
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Dread darkweb (ONION SITE)
     url: https://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion
     archive_url: >-
@@ -153,46 +151,47 @@ items:
     tags:
       - onion
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: CSI DB
     url: https://www.csidb.net/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.csidb.net/
   - name: altenen
     url: https://altenens.is
     archive_url: https://web.archive.org/web/2/https://altenens.is
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Groups MITRE
     url: https://attack.mitre.org/groups/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: threatactorusernames
     url: https://threatactorusernames.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: darkseclabs
     url: https://darkseclabs.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: scamdb
     url: https://www.scamdb.net/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: cryptoscamdb crypto scam
     url: https://cryptoscamdb.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Interpol Int
     url: >-
       https://www-interpol-int.translate.goog/How-we-work/Databases?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=tc
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

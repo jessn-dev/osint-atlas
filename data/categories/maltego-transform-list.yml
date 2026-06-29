@@ -9,53 +9,53 @@ items:
       - maltego
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Offical Maltego Transform List
     url: https://www.maltego.com/transform-hub/
     tags:
       - maltego
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Github cipher387 maltego transforms list
     url: https://github.com/cipher387/maltego-transforms-list
     tags:
       - maltego
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Holehe Maltego Transforms
     url: https://github.com/megadose/holehe-maltego
     tags:
       - maltego
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Farsight DNSDB Transforms for Maltego
     url: https://www.maltego.com/transform-hub/farsight-dnsdb/
     tags:
       - maltego
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Web Screnshhot Maltego Transforms
     url: https://github.com/TURROKS/Maltego_Web2Screenshot
     tags:
       - maltego
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Maltego Transform ShadowDragon
     url: https://www.maltego.com/transform-hub/socialnet/
     tags:
       - maltego
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Maltego Social Links Pro
     url: https://www.maltego.com/transform-hub/social-links-pro/
     tags:
       - maltego
       - paid
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Maltego Telegram
     url: https://github.com/vognik/maltego-telegram
     tags:
@@ -63,4 +63,4 @@ items:
       - open-source
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

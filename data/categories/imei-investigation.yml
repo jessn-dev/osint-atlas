@@ -8,29 +8,31 @@ items:
     archive_url: https://web.archive.org/web/2/https://sndeep.info/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Imei Numbers
     url: http://imei-number.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/http://imei-number.com/
   - name: Nobbi
     url: http://www.nobbi.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: IMEI Info
     url: https://www.imei.info/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.imei.info/
   - name: International Numberingplans
     url: https://www.numberingplans.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: IPhone IMEI
     url: https://iunlocker.com/en/check_imei.php
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

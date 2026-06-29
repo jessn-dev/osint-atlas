@@ -7,29 +7,30 @@ items:
     url: https://www.dcode.fr/identification-chiffrement
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: CyberChef
     url: https://gchq.github.io/CyberChef/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: base64decode
     url: https://www.base64decode.org/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.base64decode.org/
   - name: hashes
     url: https://hashes.com/en/tools/hash_identifier
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: kali hash identifier
     url: https://www.kali.org/tools/hash-identifier/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: rapidtables
     url: https://www.rapidtables.com/convert/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

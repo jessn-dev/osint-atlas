@@ -7,315 +7,318 @@ items:
     url: https://geoseeer.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: facerec face compare aka face reccon
     url: https://facerec.gjung.com/ComparingFaces
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ExifTool
     url: https://exiftool.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Exif Search
     url: http://www.exif-search.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: FotoForensics
     url: http://www.fotoforensics.com
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/http://www.fotoforensics.com
   - name: JPEGsnoop
     url: https://sourceforge.net/projects/jpegsnoop
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://sourceforge.net/projects/jpegsnoop
   - name: Forensically
     url: https://29a.ch/photo-forensics/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: DiffChecker
     url: https://www.diffchecker.com/image-diff/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Pimeyes
     url: https://pimeyes.com/en
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Reminiai
     url: https://remini.ai/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Search4face
     url: https://search4faces.com/en/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Vkfacewatch
     url: https://vk.watch/
     archive_url: https://web.archive.org/web/2/https://vk.watch/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Facecheck
     url: https://facecheck.id/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Findmyclone
     url: https://www.findmyclone.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Face++
     url: https://www.faceplusplus.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: AWS-Recon
     url: https://aws.amazon.com/rekognition/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Image Analyzer
     url: https://www.maltego.com/transform-hub/image-analyzer/
     tags:
       - maltego
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Pelock
     url: https://www.pelock.com/products/steganography-online-codec
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OCR Image
     url: https://www.newocr.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: labs.tib.eu
     url: https://labs.tib.eu/geoestimation/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: imago-forensics
     url: https://github.com/redaelli/imago-forensics
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Face recon
     url: https://github.com/ageitgey/face_recognition
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Cleanup pictures
     url: https://cleanup.pictures/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Mever
     url: https://mever.iti.gr/forensics/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: InVID Verification
     url: https://www.invid-project.eu/tools-and-services/invid-verification-plugin/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Google Lens
     url: https://lens.google.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Exif Purge
     url: https://www.exifpurge.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Fake face detector
     url: https://seintpl.github.io/AmIReal/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: GeoSpy
     url: https://geospy.web.app/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ImgOps
     url: https://imgops.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Telegram Face Match Bot
     url: https://t.me/facematch_bot
     tags:
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: picarta
     url: https://picarta.ai/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ID KTP OCR
     url: https://github.com/fauzantaqiyuddin/fastapi-ocr-ktp
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Python exif extractor
     url: https://github.com/davidbombal/red-python-scripts/blob/main/exif.py
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: exterro
     url: https://www.exterro.com/digital-forensics-software/ftk-imager
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: media IO
     url: https://www.media.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Geospy Github
     url: https://github.com/atiilla/geospy
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: imagga
     url: https://imagga.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: geospy
     url: https://geospy.ai/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Image J
     url: https://imagej.net/ij/index.html
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Imjoy
     url: https://ij.imjoy.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Image J github
     url: https://github.com/imagej/ImageJ
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: imagemeasurement
     url: https://imagemeasurement.online/image/view
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: powertoys Microsoft
     url: https://learn.microsoft.com/en-us/windows/powertoys/screen-ruler
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Apple Ruler
     url: https://support.apple.com/id-id/102468
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: geohints
     url: https://geohints.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: graylark
     url: https://graylark.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: stylesuxx Steganography Online
     url: https://stylesuxx.github.io/steganography/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: earthkit
     url: https://earthkit.app/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: imageforensic
     url: https://www.imageforensic.org/
     archive_url: https://web.archive.org/web/2/https://www.imageforensic.org/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: watermarkremover
     url: https://www.watermarkremover.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: georgeom
     url: https://georgeom.net/StegOnline/upload
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: picsman
     url: https://www.picsman.ai/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.picsman.ai/
   - name: Face Similarity Test Online
     url: https://facecomparison.toolpie.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: photopea
     url: https://www.photopea.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: demuc
     url: https://demuc.de/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: gimp
     url: https://www.gimp.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: photoshop
     url: https://www.adobe.com/id_en/products/photoshop.html
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Remove Background
     url: https://theinpaint.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Depix - to recover plaintext from pixelized screenshots
     url: https://github.com/spipm/Depixelization_poc
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: smartdeblur
     url: http://smartdeblur.net/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

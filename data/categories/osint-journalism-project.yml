@@ -8,49 +8,49 @@ items:
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: gijn
     url: https://gijn.org/
     archive_url: https://web.archive.org/web/2/https://gijn.org/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Journalist toolbox
     url: https://www.journaliststoolbox.org/
     archive_url: https://web.archive.org/web/2/https://www.journaliststoolbox.org/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Google Journalist Studio
     url: https://journaliststudio.google.com/pinpoint/case-studies/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: expertisefinder
     url: https://expertisefinder.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: datajournalism
     url: https://datajournalism.com/read
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Resources Journalism
     url: https://gijn.org/resource/
     archive_url: https://web.archive.org/web/2/https://gijn.org/resource/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Danger zone
     url: https://github.com/freedomofpress/dangerzone
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: protect from macro virus guide
     url: >-
       https://support.microsoft.com/id-id/office/protect-yourself-from-macro-viruses-a3f3576a-bfef-4d25-84dc-70d18bde5903
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

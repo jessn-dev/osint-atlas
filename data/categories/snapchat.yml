@@ -7,10 +7,10 @@ items:
     url: https://map.snapchat.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ignorant
     url: https://github.com/megadose/ignorant
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

@@ -5,180 +5,181 @@ description: Code Search — search resources (34 entries).
 items:
   - name: gitdb
     url: https://gitdb.net/
-    archive_url: https://web.archive.org/web/2/https://gitdb.net/
     tags: []
-    status: dead
-    last_checked: '2026-06-23'
+    status: active
+    last_checked: '2026-06-29'
   - name: code google
     url: https://code.google.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: srclog
     url: https://srclog.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Chromium Code Search
     url: https://source.chromium.org/chromium
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Android Code Search
     url: https://cs.android.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Debian Code Search
     url: http://codesearch.debian.net
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: SearchCode
     url: https://searchcode.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: SourceCodeOnline
     url: http://www.sourcecodeonline.com
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/http://www.sourcecodeonline.com
   - name: Woboq
     url: https://code.woboq.org
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: publicwww
     url: https://publicwww.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: awesomeopensource
     url: https://awesomeopensource.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://awesomeopensource.com/
   - name: nerdydata
     url: https://www.nerdydata.com/reports/new
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Github code search
     url: https://github.com/search?type=code
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: sourcegraph
     url: https://sourcegraph.com/search
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: cybdetective code search
     url: https://cybdetective.com/codesearch.html
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: postman
     url: https://www.postman.com/explore/collections
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: swaggerhub
     url: https://app.swaggerhub.com/search
     archive_url: https://web.archive.org/web/2/https://app.swaggerhub.com/search
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ecosyste
     url: https://ecosyste.ms/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: wpdirectory
     url: https://wpdirectory.net/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: launchpad
     url: https://launchpad.net/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: snipplr
     url: https://snipplr.com/all
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: invent
     url: https://invent.kde.org/explore
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: stackoverflow
     url: https://stackoverflow.com/questions
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Find Pasted Text
     url: https://cse.google.com/cse?cx=013991603413798772546:nxs552dhq8k
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Github code search CSE
     url: https://cse.google.com/cse?cx=017261104271573007538:fqn_jyftcdq#gsc.tab=0&gsc.sort=
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Gist Github
     url: https://gist.github.com/starred
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: grep
     url: https://grep.app/
     archive_url: https://web.archive.org/web/2/https://grep.app/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: jsonformatter
     url: https://jsonformatter.org/recentLinksPage/json
     archive_url: https://web.archive.org/web/2/https://jsonformatter.org/recentLinksPage/json
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: codebeautify
     url: https://codebeautify.org/recentLinksPage
     archive_url: https://web.archive.org/web/2/https://codebeautify.org/recentLinksPage
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Pastebin
     url: https://pastebin.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: bevigil
     url: https://bevigil.com/osint-api
     tags:
       - api
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: codeberg
     url: https://codeberg.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: dnslytics
     url: https://search.dnslytics.com/
     archive_url: https://web.archive.org/web/2/https://search.dnslytics.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: zerobin
     url: https://zerobin.net/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

@@ -7,76 +7,76 @@ items:
     url: https://sunders.uber.space/?lat=-2.4833826&lon=117.8902853&zoom=11
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: thgtoa
     url: https://github.com/Anon-Planet/thgtoa
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: HiddenVM
     url: https://github.com/aforensics/HiddenVM
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OPSEC Roadmap
     url: https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OPSEC Guides
     url: https://github.com/RistBS/Awesome-RedTeam-Cheatsheet/blob/master/Miscs/OPSEC%20Guide.md
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: BounceBack
     url: https://github.com/D00Movenok/BounceBack
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OPSEC 101
     url: https://github.com/BushidoUK/Operational-Security-101
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: cqcore UK
     url: https://www.cqcore.uk/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Blockchain-dark-forest-selfguard-handbook
     url: https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook/blob/main/README_ID.md
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Docker
     url: https://www.docker.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: vmware
     url: https://www.vmware.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: virtualbox
     url: https://www.virtualbox.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Google Cloud
     url: https://cloud.google.com/products/compute
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Digital Ocean
     url: https://www.paperspace.com/pricing
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

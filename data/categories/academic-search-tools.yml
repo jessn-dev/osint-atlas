@@ -8,76 +8,80 @@ items:
     archive_url: https://web.archive.org/web/2/https://www.base-search.net/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: SCI HUB
     url: https://www.sci-hub.se/
     archive_url: https://web.archive.org/web/2/https://www.sci-hub.se/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: msearch
     url: https://msearch.io/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://msearch.io/
   - name: Google scholar
     url: https://scholar.google.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://scholar.google.com/
   - name: Jstor
     url: https://www.jstor.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: worldwidescience
     url: https://worldwidescience.org/index.html
     archive_url: https://web.archive.org/web/2/https://worldwidescience.org/index.html
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: CORE
     url: https://core.ac.uk/
     tags:
       - academic
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Academic Literature on Open Source Research & Methods
     url: >-
       https://docs.google.com/document/d/1uqzGi9asZZlaEs8syHbh3AsizVccU-IKJp4zPufaaBk/edit#heading=h.s9zomzvdp109
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OSINT ethics
     url: https://stanleycenter.org/publications/osint-applied-ethics-workbook/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: >-
+      https://web.archive.org/web/2/https://stanleycenter.org/publications/osint-applied-ethics-workbook/
   - name: G Drive - Navigating digital media
     url: https://drive.google.com/drive/folders/1eF9FE-2B-bVciTCbajMR_f1Q7fHZl0s5
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Cryptome - search doc about publication that are prohibited by government
     url: https://cryptome.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: smartquantai
     url: https://www.smartquantai.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: semanticscholar
     url: https://www.semanticscholar.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Web Archive
     url: https://web.archive.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Z Librrary [ONION SITE]
     url: http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/
     archive_url: >-
@@ -85,4 +89,4 @@ items:
     tags:
       - onion
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

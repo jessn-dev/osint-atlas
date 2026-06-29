@@ -6,8 +6,10 @@ items:
   - name: MICE”- the 4 pillars of CIA spy recruitment
     url: https://spyauthor.medium.com/mice-the-4-pillars-of-cia-spy-recruitment-61d3f5cf9d3c
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: >-
+      https://web.archive.org/web/2/https://spyauthor.medium.com/mice-the-4-pillars-of-cia-spy-recruitment-61d3f5cf9d3c
   - name: >-
       Rethinking and Old Approach: An Alternative Framework for Agent Recruitment: From MICE to
       RASCLS
@@ -16,10 +18,10 @@ items:
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Decoding MICE
     url: https://www.insurgent.ca/p/decoding-mice
     archive_url: https://web.archive.org/web/2/https://www.insurgent.ca/p/decoding-mice
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

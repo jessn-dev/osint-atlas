@@ -6,5 +6,6 @@ items:
   - name: graphtreon
     url: https://graphtreon.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://graphtreon.com/

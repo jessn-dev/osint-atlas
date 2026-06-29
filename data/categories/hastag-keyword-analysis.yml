@@ -7,75 +7,76 @@ items:
     url: https://app.brandmentions.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: wordtracker
     url: https://www.wordtracker.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: keywordtool
     url: https://keywordtool.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: tweetbinder
     url: https://www.tweetbinder.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: onemilliontweetmap
     url: https://onemilliontweetmap.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: trackmyhashtag
     url: https://www.trackmyhashtag.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Tweet Deck
     url: https://pro.twitter.com/
     archive_url: https://web.archive.org/web/2/https://pro.twitter.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: droneemprit
     url: https://pers.droneemprit.id/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Google Trends
     url: https://trends.google.com/trends/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Google keyword planner
     url: https://ads.google.com/intl/en_id/home/tools/keyword-planner/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: keyworddiscovery
     url: https://www.keyworddiscovery.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Yandex Trends
     url: https://wordstat.yandex.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: orangedatamining
     url: https://orangedatamining.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: twtdata
     url: https://www.twtdata.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.twtdata.com/
   - name: gephi
     url: https://gephi.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

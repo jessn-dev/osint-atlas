@@ -8,29 +8,28 @@ items:
     tags:
       - account-required
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Thispersondoesnotexist
     url: https://www.thispersondoesnotexist.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Protonmail
     url: https://protonmail.com/
-    archive_url: https://web.archive.org/web/2/https://protonmail.com/
     tags: []
-    status: dead
-    last_checked: '2026-06-23'
+    status: active
+    last_checked: '2026-06-29'
   - name: Nordvpn
     url: https://nordvpn.com/
     archive_url: https://web.archive.org/web/2/https://nordvpn.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: NOX
     url: https://www.bignox.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Browser Extension
     url: https://nordvpn.com/blog/use-these-browser-extensions-for-your-privacy/
     archive_url: >-
@@ -38,518 +37,530 @@ items:
     tags:
       - browser-extension
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Burner Phone Number
     url: https://www.mintmobile.com/
     archive_url: https://web.archive.org/web/2/https://www.mintmobile.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Phone Burner
     url: https://www.phoneburner.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Hushed
     url: https://hushed.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Temp Phone Number
     url: https://temporary-phone-number.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://temporary-phone-number.com/
   - name: Temp Phone Number and SMS activate
     url: https://sms-activate.org/en
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Temp Phone Number SMS Receive
     url: https://temp-number.org/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://temp-number.org/
   - name: dingtone Second Phone Number
     url: https://www.dingtone.me/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: call Second Phone Number
     url: https://www.call.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Temp Mail 1
     url: https://mail.tm/en/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Temp Mail 2
     url: https://temp-mail.org/en/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://temp-mail.org/en/
   - name: Temp Mail 3
     url: https://tempmailo.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://tempmailo.com/
   - name: Temp Mail 4
     url: https://www.guerrillamail.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Temp Mail 5
     url: https://www.mailinator.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Temp Mail 6
     url: https://tempmail.so/
     archive_url: https://web.archive.org/web/2/https://tempmail.so/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Temp Mail 7
     url: https://tempmailto.online/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Temp Mail 8 w custom
     url: https://emailfake.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Temp email gmail
     url: https://www.emailnator.com/mailbox
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Temp email gmail 2
     url: https://smailpro.com/temporary-email
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Temp email gmail 3
     url: https://boomlify.com/en/gmail-temp-mail
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Temp email gmail 4
     url: https://www.temporary-mail.net/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.temporary-mail.net/
   - name: Temp email gmail 5
     url: https://www.mailticking.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.mailticking.com/
   - name: Temp email gmail 6
     url: https://tempgbox.net/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Cryptocurrency Payment Monero
     url: https://www.getmonero.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Cryptocurrency Payment Bitcoin
     url: https://bitcoin.org/en/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Openpgp
     url: https://www.openpgp.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Operating System
     url: https://tails.boum.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Zmail
     url: https://zmail.sourceforge.net/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://zmail.sourceforge.net/
   - name: Open DNS
     url: https://www.opendns.com/home-internet-security/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: I2P
     url: https://geti2p.net/en/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: TOR
     url: https://www.torproject.org/download/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: proxychains
     url: https://www.kali.org/tools/proxychains-ng/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Apple Kuncitara - Securing your own device
     url: https://support.apple.com/id-id/guide/iphone/iph049680987/ios
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: AI Vidio Maker
     url: https://www.synthesia.io/free-ai-video-demo#OptimizedForSharing_New
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: fakeinfo
     url: https://fakeinfo.net/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://fakeinfo.net/
   - name: Online SMS
     url: https://online-sms.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: fakepersongenerator
     url: https://www.fakepersongenerator.com/fake-name-generator
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.fakepersongenerator.com/fake-name-generator
   - name: dangerzone - Securing your own device
     url: https://github.com/freedomofpress/dangerzone
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: coveryourtracks - Securing your own device
     url: https://coveryourtracks.eff.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: NIK creator ID
     url: https://nik.zakiego.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: NIK & KK ID Generator
     url: >-
       https://web.archive.org/web/20241204174239/https://www.scribd.com/document/402863097/Nik-Kk-Generator
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: >-
+      https://web.archive.org/web/2/https://web.archive.org/web/20241204174239/https://www.scribd.com/document/402863097/Nik-Kk-Generator
   - name: EKTP-Generator ID
     url: https://github.com/veldanava/EKTP-Generator
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: FAKE KTP ID
     url: https://www.capcut.com/templates/FAKE-KTP-7231021297839475969?template_scale=360%3A227
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Google Safe Browsing
     url: https://developers.google.com/safe-browsing?hl=id
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: SNS masking
     url: https://smsviro.com/home/#pricing
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: USER AGENT LIST
     url: https://www.useragentstring.com/pages/useragentstring.php
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: dnmx email
     url: https://dnmx.cc/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: fakesims - Generate User Persona
     url: https://fakesims.com/username-generator.html
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Receive SMS Online - SmsPva
     url: https://smspva.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Proton Mail
     url: https://account.proton.me/mail
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Tuta Mail
     url: https://app.tuta.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: simplelogin email
     url: https://app.simplelogin.io/
     tags:
       - account-required
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: zoho
     url: https://www.zoho.com/id/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: wefaceswap - faceswap
     url: https://www.wefaceswap.com/faceswap
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Roop Image face swap from AI
     url: https://github.com/s0md3v/roop
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: DeepFaceLive
     url: https://github.com/iperov/DeepFaceLive
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: DeepFaceLab
     url: https://github.com/iperov/DeepFaceLab
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Facefusion
     url: https://docs.facefusion.io/installation/platform/windows
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Roop
     url: https://github.com/s0md3v/roop/wiki
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Deepfake Offensive Toolkit
     url: https://github.com/sensity-ai/dot
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: huggingface Seach model
     url: https://huggingface.co/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: deepfakesweb
     url: https://deepfakesweb.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Swapface
     url: https://swapface.org/#/home
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: liveportrait animate your photo
     url: https://liveportrait.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: LivePortrait
     url: https://github.com/KwaiVGI/LivePortrait
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: stargan-v2
     url: https://github.com/clovaai/stargan-v2
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: inZOI
     url: https://store.steampowered.com/app/2456740/inZOI/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: heygen
     url: https://www.heygen.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Guide AI Virtual Cam
     url: https://www.sqlsec.com/2024/05/aiface.html#%E8%BE%93%E5%85%A5%E8%A7%86%E9%A2%91
     archive_url: >-
       https://web.archive.org/web/2/https://www.sqlsec.com/2024/05/aiface.html#%E8%BE%93%E5%85%A5%E8%A7%86%E9%A2%91
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: facegsmproject
     url: https://github.com/facegsmproject/FaceGSM?tab=readme-ov-file
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: WAN AI
     url: https://wan.video/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: SORA AI
     url: https://sora.chatgpt.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://sora.chatgpt.com/
   - name: deevid
     url: https://deevid.ai/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Gemini VEO 3
     url: https://gemini.google/subscriptions
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: klingai
     url: https://app.klingai.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: VCamera
     url: https://github.com/andvipgroup/VCamera
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OBS
     url: https://obsproject.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: splitcam
     url: https://splitcam.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: altercam
     url: https://altercam.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Virtual cam apk mod
     url: https://apkcombo.com/id/virtual-camera-live-assist/virtual.camera.app/download/apk
-    archive_url: >-
-      https://web.archive.org/web/2/https://apkcombo.com/id/virtual-camera-live-assist/virtual.camera.app/download/apk
     tags: []
-    status: dead
-    last_checked: '2026-06-23'
+    status: active
+    last_checked: '2026-06-29'
   - name: vcamare - CN
     url: https://vcames.xyz/
     archive_url: https://web.archive.org/web/2/https://vcames.xyz/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: virtual camera moudle lsposed
     url: https://github.com/Xposed-Modules-Repo/com.example.vcam
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: android virtual cam - CN
     url: https://github.com/w2016561536/android_virtual_cam
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Deep-Live-Cam
     url: https://github.com/hacksider/Deep-Live-Cam
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: VirtuCam
     url: https://t.me//VirtuCam
     tags:
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: android_virtual_cam
     url: https://github.com/llearn/android_virtual_cam/releases
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: DroidCam
     url: https://play.google.com/store/apps/details?id=com.dev47apps.obsdroidcam
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: pict2cam
     url: https://github.com/adriangl/pict2cam?tab=readme-ov-file
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: VirtuCam
     url: https://t.me/+A2jKvWBRh0plYjhk
     tags:
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: W2 Pro Cam IOS
     url: https://www.ios-repo-updates.com/repository/bigboss/package/xc.lzsxcl.w2/
     tags:
       - paid
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: >-
+      https://web.archive.org/web/2/https://www.ios-repo-updates.com/repository/bigboss/package/xc.lzsxcl.w2/
   - name: Frida script
     url: https://gist.github.com/JarLob/a2954430c35905b48f758391cdaf209e
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Frida script 2
     url: https://codeshare.frida.re/@dzervas/android-location-spoofing/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Android Fake GPS APK
     url: https://play.google.com/store/apps/details?id=com.just4funtools.fakegpslocationprofessional
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Android Fake GPS APK 2
     url: https://play.google.com/store/apps/details?id=com.lexa.fakegps
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: torproject
     url: https://www.torproject.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Browser Sandbox
     url: https://www.browserling.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: cybercheck360
     url: https://cybercheck360.com/url-sandbox/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: browser lol
     url: https://browser.lol/en/create
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

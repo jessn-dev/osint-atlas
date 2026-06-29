@@ -6,15 +6,16 @@ items:
   - name: t.ly
     url: https://t.ly/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://t.ly/
   - name: bit.ly
     url: https://bitly.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: tiny url
     url: https://tinyurl.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

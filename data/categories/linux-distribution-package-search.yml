@@ -7,35 +7,35 @@ items:
     url: https://access.redhat.com/search/?q=packages&documentKind=Solution%26Article
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Debian Linux
     url: https://packages.debian.org/index
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Arch Linux
     url: https://archlinux.org/packages/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: pkgs
     url: https://pkgs.org/
     archive_url: https://web.archive.org/web/2/https://pkgs.org/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Ubbuntu Package
     url: https://packages.ubuntu.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Boot-Repair ubuntu
     url: https://help.ubuntu.com/community/Boot-Repair
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: pkgs Kali Linux
     url: https://pkg.kali.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

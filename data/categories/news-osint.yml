@@ -7,435 +7,443 @@ items:
     url: https://cpj.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: forensic-architecture
     url: https://forensic-architecture.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ID FWI (Forest Watch Indonesia)
     url: https://perpustakaan.fwi.or.id/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Google CSE search news
     url: https://cse.google.com/cse?cx=013991603413798772546:fvmtax6anhd
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ICW ID
     url: https://antikorupsi.org/id
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://antikorupsi.org/id
   - name: washingtonpost
     url: https://www.washingtonpost.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: middleeasteye
     url: https://www.middleeasteye.net/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: europeana collection newspaper
     url: https://www.europeana.eu/en/collections/topic/18-newspaper
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: BNF France
     url: https://gallica.bnf.fr/accueil/en/content/accueil-en?mode=desktop
     archive_url: >-
       https://web.archive.org/web/2/https://gallica.bnf.fr/accueil/en/content/accueil-en?mode=desktop
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: skynews
     url: https://news.sky.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: france24
     url: https://www.france24.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: paxforpeace
     url: https://paxforpeace.nl/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://paxforpeace.nl/
   - name: Bellingcat
     url: https://bellingcat.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: The Guardians
     url: https://www.theguardian.com/international
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Drone Emprit
     url: https://pers.droneemprit.id/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Google News
     url: https://news.google.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: MagPortal
     url: http://www.magportal.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Flipboard
     url: https://flipboard.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: aljazeera
     url: https://www.aljazeera.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: gijn
     url: https://gijn.org/
     archive_url: https://web.archive.org/web/2/https://gijn.org/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: institute aljazeera
     url: https://institute.aljazeera.net/en
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: AP news
     url: https://apnews.com/hub/israel-hamas-war
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: unocha
     url: https://www.unocha.org/
     archive_url: https://web.archive.org/web/2/https://www.unocha.org/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ohchr
     url: https://www.ohchr.org/en/ohchr_homepage
     archive_url: https://web.archive.org/web/2/https://www.ohchr.org/en/ohchr_homepage
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ochaopt
     url: https://www.ochaopt.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: narasi ID
     url: https://narasi.tv/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://narasi.tv/
   - name: Tempo ID
     url: https://www.tempo.co/
     archive_url: https://web.archive.org/web/2/https://www.tempo.co/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: watchdoc ID
     url: https://watchdoc.co.id/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: kumparan ID
     url: https://kumparan.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: katadata ID
     url: https://katadata.co.id/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: BRIN ID
     url: https://brin.go.id/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ShadowDragon
     url: https://shadowdragon.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Delpher
     url: https://www.delpher.nl/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: colonialarchitecture
     url: https://colonialarchitecture.eu/
     archive_url: https://web.archive.org/web/2/https://colonialarchitecture.eu/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: niod archive
     url: https://www.niod.nl/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.niod.nl/
   - name: digitalcollections
     url: https://digitalcollections.universiteitleiden.nl/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: zoeken
     url: https://zoeken.beeldengeluid.nl/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: nationaalarchief
     url: https://www.nationaalarchief.nl/en/research
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: archives
     url: https://www.archives.gov/
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Arsip Indonesia
     url: https://arsip-indonesia.org/id/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://arsip-indonesia.org/id/
   - name: Worldcat
     url: https://search.worldcat.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ID MPN SIDAK kominfo
     url: https://mpn.kominfo.go.id/arsip/
     archive_url: https://web.archive.org/web/2/https://mpn.kominfo.go.id/arsip/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: monash edu
     url: https://repository.monash.edu/items/browse
     archive_url: https://web.archive.org/web/2/https://repository.monash.edu/items/browse
     tags:
       - academic
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: scholarlypublications
     url: https://scholarlypublications.universiteitleiden.nl/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: nationaalarchief
     url: https://www.nationaalarchief.nl/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: myheritage
     url: https://www.myheritage.nl/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: CNN World
     url: https://edition.cnn.com/world
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: CNN ID
     url: https://www.cnnindonesia.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.cnnindonesia.com/
   - name: Nationalgeographic
     url: https://www.nationalgeographic.com/search
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: BPS ID
     url: https://www.bps.go.id/id
     archive_url: https://web.archive.org/web/2/https://www.bps.go.id/id
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Vice ID
     url: https://www.vice.com/id
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: DW ID
     url: https://www.dw.com/id
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: histography
     url: https://histography.io/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://histography.io/
   - name: muckrack
     url: https://muckrack.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: internet archive
     url: https://archive.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Journalist toolbox
     url: https://www.journaliststoolbox.org/
     archive_url: https://web.archive.org/web/2/https://www.journaliststoolbox.org/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: rferl
     url: https://www.rferl.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: newspapers
     url: https://www.newspapers.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.newspapers.com/
   - name: chroniclingamerica
     url: https://chroniclingamerica.loc.gov/
     archive_url: https://web.archive.org/web/2/https://chroniclingamerica.loc.gov/
     tags:
       - official
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Google Newspaper (Archive and other)
     url: https://news.google.com/newspapers
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: rollcall
     url: https://rollcall.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: reuters
     url: https://www.reuters.com/
     archive_url: https://web.archive.org/web/2/https://www.reuters.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: sipri
     url: https://www.sipri.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: newspapermap provider arround world
     url: https://newspapermap.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OCCRP Organized Crime and Corruption Reporting Project
     url: https://www.occrp.org/en
     archive_url: https://web.archive.org/web/2/https://www.occrp.org/en
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: timesofisrael
     url: https://www.timesofisrael.com/
     archive_url: https://web.archive.org/web/2/https://www.timesofisrael.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: The international news
     url: https://www.thenews.com.pk/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Cryptome - search doc about publication that are prohibited by government
     url: https://cryptome.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: haaretz
     url: https://www.haaretz.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: thecradle
     url: https://thecradle.co/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: nytimes
     url: https://www.nytimes.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: thebureauinvestigates
     url: https://www.thebureauinvestigates.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: info-res
     url: https://www.info-res.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: CSE News and resume search
     url: >-
       https://cse.google.com/cse?cx=009462381166450434430%3Afrzo6adfjso&q#gsc.tab=0&gsc.q=jakarta&gsc.sort=
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ID KontraS
     url: https://kontras.org/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://kontras.org/
   - name: BBC
     url: https://www.bbc.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ID Metro TV
     url: https://www.metrotvnews.com/
-    archive_url: https://web.archive.org/web/2/https://www.metrotvnews.com/
     tags: []
-    status: dead
-    last_checked: '2026-06-23'
+    status: active
+    last_checked: '2026-06-29'
   - name: ID Komdigi MPN Library
     url: https://mpn.komdigi.go.id/perpus/index.php
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ID Komdigi MPN
     url: https://mpn.komdigi.go.id/arsip/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: forbiddenstories
     url: https://forbiddenstories.org/en-fadi-al-wahidi-shot-press-gaza/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: doublethinklab
     url: https://doublethinklab.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Wiki Leaks
     url: https://wikileaks.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: CIA - Factbook
     url: https://www.cia.gov/library/publications/the-world-factbook/
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

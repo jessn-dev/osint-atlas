@@ -7,166 +7,166 @@ items:
     url: https://gitleak.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: gitdb
     url: https://gitdb.net/
-    archive_url: https://web.archive.org/web/2/https://gitdb.net/
     tags: []
-    status: dead
-    last_checked: '2026-06-23'
+    status: active
+    last_checked: '2026-06-29'
   - name: gitleaks
     url: https://github.com/gitleaks/gitleaks
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ecosyste
     url: https://ecosyste.ms/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: srclog
     url: https://srclog.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: trendshift github trend repo
     url: https://trendshift.io/github-trending-repositories
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: GROT
     url: https://github.com/montysecurity/GROT
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Github search name and find ID
     url: https://caius.github.io/github_id/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Github Archive
     url: https://www.gharchive.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Github Dork
     url: https://github.com/techgaun/github-dorks
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Github API (view owner repo and etc)
     url: https://docs.github.com/en/rest/activity/events?apiVersion=2022-11-28
     tags:
       - api
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Github advisories DB
     url: https://github.com/advisories
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: sn0int github profil extractor
     url: https://sn0int.com/r/kpcyrd/github
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Github Trending Repo
     url: https://trendingrepos.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Octosuite Github
     url: https://github.com/bellingcat/octosuite
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Github find project map
     url: https://anvaka.github.io/map-of-github/#2/0/0
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Github find email
     url: https://ghintel.secrets.ninja/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://ghintel.secrets.ninja/
   - name: gittodoc
     url: https://www.gittodoc.com/
     archive_url: https://web.archive.org/web/2/https://www.gittodoc.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: gitsearchai
     url: https://www.gitsearchai.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: gitdiagram
     url: https://gitdiagram.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: braingainsoft find github email
     url: https://braingainsoft.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: github-tools-collection
     url: https://glc.st/posts/github-tools-collection//
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: trufflehog
     url: https://trufflesecurity.com/trufflehog
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: github-release-stats
     url: https://tooomm.github.io/github-release-stats/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ossinsight github repo and username stats
     url: https://ossinsight.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Github star repo analyzer
     url: https://www.star-history.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: gitcolombo find email github and commit
     url: https://gitcolombo.soxoj.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Advanced Search
     url: https://github.com/search/advanced
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: GitDorker
     url: https://github.com/obheda12/GitDorker
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: gitdorks_go
     url: https://github.com/damit5/gitdorks_go
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: profile-summary-for-github.com
     url: https://profile-summary-for-github.com/search
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

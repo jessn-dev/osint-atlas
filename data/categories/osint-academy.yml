@@ -8,15 +8,15 @@ items:
     tags:
       - free
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Maltego academy
     url: https://academy.maltego.com/
     tags:
       - maltego
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Darkweb academy
     url: https://www.darkwebacademy.com/labs/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

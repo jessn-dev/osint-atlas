@@ -7,1018 +7,1048 @@ items:
     url: https://www.interpol.int/How-we-work/Notices/Yellow-Notices/View-Yellow-Notices#
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Google image removal
     url: https://support.google.com/websearch/answer/4628134
     archive_url: https://web.archive.org/web/2/https://support.google.com/websearch/answer/4628134
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Delete Me
     url: https://joindeleteme.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: backgroundchecks
     url: https://backgroundchecks.org/justdeleteme/#go
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ATII
     url: https://followmoneyfightslavery.org/
     archive_url: https://web.archive.org/web/2/https://followmoneyfightslavery.org/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Stopncii
     url: https://stopncii.org
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://stopncii.org
   - name: Google content removal
     url: https://search.google.com/search-console/remove-outdated-content
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Web archiver remover
     url: https://help.archive.org/help/how-do-i-request-to-remove-something-from-archive-org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Facebook Privacy
     url: https://www.facebook.com/help/124518907626945
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: zerofox
     url: https://www.zerofox.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Instagram Privacy
     url: https://help.instagram.com/147542625391305
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Missing Kids
     url: https://www.missingkids.org/gethelpnow/isyourexplicitcontentoutthere
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Takeit Down
     url: https://takeitdown.ncmec.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Inhope
     url: https://www.inhope.org/EN#hotlineReferral
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ReportIWF Indonesia
     url: https://report.iwf.org.uk/id
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ReportIWF
     url: https://www.iwf.org.uk/our-technology/report-remove/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: kemenpppa Indonesia
     url: https://www.kemenpppa.go.id/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: National Center for Missing and Exploited Children
     url: https://report.cybertip.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Inhope
     url: https://inhope.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: cybertip Canada
     url: https://www.cybertip.ca/en/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: internethotline Japan
     url: https://www.internethotline.jp/
     archive_url: https://web.archive.org/web/2/https://www.internethotline.jp/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: safekaznet Kazakhstan
     url: http://www.safekaznet.kz/en/report-2
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/http://www.safekaznet.kz/en/report-2
   - name: Liga Internet Russia
     url: https://ligainternet.ru/hotline/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Kocs Korean
     url: https://www.kocsc.or.kr/mainPage.do
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Thailand Internet Hotline
     url: https://www.thaihotline.org/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.thaihotline.org/
   - name: Jugendschutz Germany
     url: https://www.jugendschutz.net/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: FSM Germany
     url: https://www.fsm.de/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ECO Germany
     url: https://www.internet-beschwerdestelle.de/de/index.html
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: NCOSE
     url: https://endsexualexploitation.org/about/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: More info all region
     url: https://support.google.com/websearch/answer/148666?hl=id
     archive_url: https://web.archive.org/web/2/https://support.google.com/websearch/answer/148666?hl=id
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: 411 white pages
     url: https://www.whitepages.com/suppression-requests
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.whitepages.com/suppression-requests
   - name: 411 Info
     url: https://411.info/manage/
     archive_url: https://web.archive.org/web/2/https://411.info/manage/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Absolute People Search
     url: https://absolutepeoplesearch.com/optout
     archive_url: https://web.archive.org/web/2/https://absolutepeoplesearch.com/optout
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Acxiom
     url: https://isapps.acxiom.com/optout/optout.aspx
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Addresses
     url: https://www.intelius.com/opt-out/submit/
     archive_url: https://web.archive.org/web/2/https://www.intelius.com/opt-out/submit/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Address Search
     url: https://addresssearch.com/remove-info.php
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Archives
     url: https://archives.com/optout
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://archives.com/optout
   - name: Apollo
     url: https://www.apollo.io/privacy-policy/remove/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Arivify
     url: https://www.arivify.com/removal
     archive_url: https://web.archive.org/web/2/https://www.arivify.com/removal
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Azerch
     url: https://www.azerch.com/Policies/Privacy
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Background Alert
     url: https://www.backgroundalert.com/optout/
     archive_url: https://web.archive.org/web/2/https://www.backgroundalert.com/optout/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Background Check
     url: https://backgroundcheck.run/ng/control/privacy
     archive_url: https://web.archive.org/web/2/https://backgroundcheck.run/ng/control/privacy
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Background Checkers
     url: https://www.backgroundcheckers.net/optOut/name/landing
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: BatchSkipTracing
     url: https://batchskiptracing.com/personal-information
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://batchskiptracing.com/personal-information
   - name: BatchLeads
     url: https://batchleads.io/personal-information
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: BatchDialer
     url: https://batchdialer.com/personal-information
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: BatchDriven
     url: https://batchdriven.com/personal
     archive_url: https://web.archive.org/web/2/https://batchdriven.com/personal
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Been Verified
     url: https://www.beenverified.com/faq/opt-out/
     archive_url: https://web.archive.org/web/2/https://www.beenverified.com/faq/opt-out/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Buzzfile
     url: http://www.buzzfile.com/Company/Remove
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Call Truth
     url: https://www.calltruth.com/opt_out.php
     archive_url: https://web.archive.org/web/2/https://www.calltruth.com/opt_out.php
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Caller Smart
     url: https://www.callersmart.com/opt-out
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.callersmart.com/opt-out
   - name: Centeda
     url: https://centeda.com/ng/control/privacy
     archive_url: https://web.archive.org/web/2/https://centeda.com/ng/control/privacy
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Check People
     url: https://www.checkpeople.com/opt-out
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Check Secrets
     url: https://www.checksecrets.com/optOut/name/landing
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Checkr
     url: https://candidate.checkr.com/privacy/delete
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: City-Data
     url: https://www.city-data.com/privacy-form.php?w=usget
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ClickSearch
     url: https://clicksearch.us/optout
     archive_url: https://web.archive.org/web/2/https://clicksearch.us/optout
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Clustr Maps
     url: https://clustrmaps.com/bl/opt-out
     archive_url: https://web.archive.org/web/2/https://clustrmaps.com/bl/opt-out
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Complete Investigation Services
     url: http://www.cisworldwide.com/search/index.php?xpath=lp_optout
     archive_url: https://web.archive.org/web/2/http://www.cisworldwide.com/search/index.php?xpath=lp_optout
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Confidential Phone Lookup
     url: https://www.confidentialphonelookup.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Contact Out
     url: https://contactout.com/optout
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Connected Investors
     url: https://connectedinvestors.com/content/do-not-sell
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Corporation Wiki
     url: https://www.corporationwiki.com/profiles/public
     archive_url: https://web.archive.org/web/2/https://www.corporationwiki.com/profiles/public
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Councilon
     url: https://councilon.com/ex/control/privacy
     archive_url: https://web.archive.org/web/2/https://councilon.com/ex/control/privacy
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Cyber Background Checks
     url: https://www.cyberbackgroundchecks.com/removal
     archive_url: https://web.archive.org/web/2/https://www.cyberbackgroundchecks.com/removal
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Data Axle
     url: https://www.data-axle.com/do-not-sell-my-data/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.data-axle.com/do-not-sell-my-data/
   - name: DataVeria
     url: https://dataveria.com/ng/control/privacy
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://dataveria.com/ng/control/privacy
   - name: DataChk
     url: https://www.datacheckinc.com/contact/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Dehashed
     url: https://dehashed.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://dehashed.com/
   - name: DelvePoint
     url: https://www.delvepoint.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: DexKnows
     url: https://tinyurl.com/dexknowscom
     archive_url: https://web.archive.org/web/2/https://tinyurl.com/dexknowscom
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: DirectMail
     url: https://www.directmail.com/mail_preference/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: DMA Choice
     url: https://www.ims-dm.com/cgi/dncc.php
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Epsilon-Main
     url: https://www.epsilon.com/privacy-policy/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Fama
     url: https://fama.io/privacy/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: FamilySearch
     url: https://familysearch.org/privacy
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Family Tree Now
     url: https://www.familytreenow.com/optout
     archive_url: https://web.archive.org/web/2/https://www.familytreenow.com/optout
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Fast People Fast
     url: https://findpeoplefast.net/company/remove-my-info
     archive_url: https://web.archive.org/web/2/https://findpeoplefast.net/company/remove-my-info
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Fast People Search
     url: https://www.fastpeoplesearch.com/removal
     archive_url: https://web.archive.org/web/2/https://www.fastpeoplesearch.com/removal
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Fax VIN
     url: https://www.faxvin.com/company/privacy
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Find People Search
     url: https://findpeoplesearch.com/customerservice/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Free Background Checks
     url: https://www.infopay.com/privacy
     tags:
       - free
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Free People Directory
     url: https://www.freepeopledirectory.com/optout
     tags:
       - free
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Free Public Profile
     url: https://www.freepublicprofile.com/Removal
     tags:
       - free
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.freepublicprofile.com/Removal
   - name: FindRec
     url: https://findrec.com/ng/control/privacy
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://findrec.com/ng/control/privacy
   - name: Glad I Know
     url: https://gladiknow.com/opt-out
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: GoLookup
     url: https://golookup.com/support/optout
     archive_url: https://web.archive.org/web/2/https://golookup.com/support/optout
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Grey Pages
     url: https://www.grey-pages.com/removal
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Haines & Company
     url: https://www.haines.com/privacy-policy/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Hometry
     url: https://homemetry.com/control/privacy
     archive_url: https://web.archive.org/web/2/https://homemetry.com/control/privacy
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: HPCC-USA
     url: https://www.hpcc-usa.org/research/change-listing.html
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.hpcc-usa.org/research/change-listing.html
   - name: ID Crawl
     url: https://www.idcrawl.com/opt-out
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ID True
     url: https://www.idtrue.com/optout/
     archive_url: https://web.archive.org/web/2/https://www.idtrue.com/optout/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Infospace
     url: https://infospace.intelius.com/optout.php
     archive_url: https://web.archive.org/web/2/https://infospace.intelius.com/optout.php
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Infotracer
     url: https://infotracer.com/optout
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Instant Check Mate
     url: https://instantcheckmate.com/optout
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://instantcheckmate.com/optout
   - name: InstantPeopleFinder
     url: https://www.intelius.com/opt-out
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.intelius.com/opt-out
   - name: IntelligenceX
     url: https://intelx.io/abuse
     archive_url: https://web.archive.org/web/2/https://intelx.io/abuse
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Kiwi Searches
     url: https://kiwisearches.com/optout
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: LexisNexis/Accurint
     url: https://optout.lexisnexis.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: LexisNexis Direct Marketing
     url: https://www.lexisnexis.com/privacy/directmarketingopt-out.aspx
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Locate Family
     url: https://www.locatefamily.com/removal2.html
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.locatefamily.com/removal2.html
   - name: Locate People
     url: https://www.locatepeople.org/optout
     archive_url: https://web.archive.org/web/2/https://www.locatepeople.org/optout
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: MashPanel
     url: https://www.mashpanel.com/remove.php
     archive_url: https://web.archive.org/web/2/https://www.mashpanel.com/remove.php
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Mastercard
     url: >-
       https://www.mastercard.us/en-us/vision/corp-responsibility/commitment-to-privacy/privacy/data-analytics-opt-out.html
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Mastercard
     url: >-
       https://www.mastercard.us/en-us/vision/corp-responsibility/commitment-to-privacy/privacy/email-opt-out.html
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: MugshotLook
     url: https://www.mugshotlook.com/optOut/name/landing
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: MyHeritage
     url: https://faq.myheritage.com/en/article/how-do-i-delete-my-account-on-myheritage
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: >-
+      https://web.archive.org/web/2/https://faq.myheritage.com/en/article/how-do-i-delete-my-account-on-myheritage
   - name: MyLife
     url: https://www.mylife.com/ccpa/index.pubview
     archive_url: https://web.archive.org/web/2/https://www.mylife.com/ccpa/index.pubview
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: National Cellular Directory
     url: https://www.nationalcellulardirectory.com/optout/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Neighbor Report
     url: https://neighbor.report/remove
     archive_url: https://web.archive.org/web/2/https://neighbor.report/remove
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: NewEnglandFacts
     url: https://newenglandfacts.com/ng/control/privacy
     archive_url: https://web.archive.org/web/2/https://newenglandfacts.com/ng/control/privacy
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Numberville
     url: https://numberville.com/opt-out.html
     archive_url: https://web.archive.org/web/2/https://numberville.com/opt-out.html
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Nuwber
     url: https://nuwber.com/removal/link
     archive_url: https://web.archive.org/web/2/https://nuwber.com/removal/link
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Official USA
     url: https://www.officialusa.com/opt-out
     archive_url: https://web.archive.org/web/2/https://www.officialusa.com/opt-out
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Old Friends
     url: https://old-friends.co/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: PeekYou
     url: https://www.peekyou.com/about/contact/optout/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.peekyou.com/about/contact/optout/
   - name: Peep Lookup
     url: https://www.peeplookup.com/opt_out
     archive_url: https://web.archive.org/web/2/https://www.peeplookup.com/opt_out
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: PeopleBackgroundCheck
     url: https://people-background-check.com/ng/control/privacy
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://people-background-check.com/ng/control/privacy
   - name: People By Name
     url: https://www.peoplebyname.com/remove.php
     archive_url: https://web.archive.org/web/2/https://www.peoplebyname.com/remove.php
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: People By Phone
     url: https://www.peoplebyphone.com/remove-my-number/
     archive_url: https://web.archive.org/web/2/https://www.peoplebyphone.com/remove-my-number/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: People Data Labs
     url: https://www.peopledatalabs.com/opt-out-form
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: People Finder
     url: https://peoplefinder.com/optout.php
     archive_url: https://web.archive.org/web/2/https://peoplefinder.com/optout.php
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: People Finders
     url: https://www.peoplefinders.com/opt-out#IT
     archive_url: https://web.archive.org/web/2/https://www.peoplefinders.com/opt-out#IT
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: People Looker
     url: https://www.peoplelooker.com/f/optout/search
     archive_url: https://web.archive.org/web/2/https://www.peoplelooker.com/f/optout/search
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: People Search 123
     url: https://www.peoplesearch123.com/optOut/name/landing
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: People Search Expert
     url: https://www.peoplesearchexpert.com
-    archive_url: https://web.archive.org/web/2/https://www.peoplesearchexpert.com
     tags: []
-    status: dead
-    last_checked: '2026-06-23'
+    status: active
+    last_checked: '2026-06-29'
   - name: People Search Now
     url: https://www.peoplesearchnow.com/opt-out
     archive_url: https://web.archive.org/web/2/https://www.peoplesearchnow.com/opt-out
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: People Searcher
     url: https://www.peoplesearcher.com/optOut/name/landing
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: People Smart
     url: https://www.peoplesmart.com/app/optout/search
     archive_url: https://web.archive.org/web/2/https://www.peoplesmart.com/app/optout/search
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: People Trace UK
     url: https://www.peopletraceuk.com/RequestRecordRemoval.asp
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: People's Check
     url: https://www.peoplescheck.com/optout/
     archive_url: https://web.archive.org/web/2/https://www.peoplescheck.com/optout/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: People Whiz
     url: https://www.peoplewhiz.com/remove-my-info
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.peoplewhiz.com/remove-my-info
   - name: Phonebook BT
     url: https://www.productsandservices.bt.com/consumer/edw/privacypolicy/copyform/bt/#/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: >-
+      https://web.archive.org/web/2/https://www.productsandservices.bt.com/consumer/edw/privacypolicy/copyform/bt/#/
   - name: Pub360
     url: https://pub360.com/ng/control/privacy
     archive_url: https://web.archive.org/web/2/https://pub360.com/ng/control/privacy
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Public Data Digger
     url: https://publicdatadigger.com/removeprofile
     archive_url: https://web.archive.org/web/2/https://publicdatadigger.com/removeprofile
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Public Data USA
     url: https://publicdatausa.com/optout.php
     archive_url: https://web.archive.org/web/2/https://publicdatausa.com/optout.php
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Public Info Services
     url: https://www.publicinfoservices.com/help-center/remove-my-public-record
     archive_url: >-
       https://web.archive.org/web/2/https://www.publicinfoservices.com/help-center/remove-my-public-record
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Public Records
     url: https://publicrecords.directory/contact.php
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Public Records Now
     url: https://www.publicrecordsnow.com/static/view/optout/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.publicrecordsnow.com/static/view/optout/
   - name: Radaris
     url: https://radaris.com/control/privacy
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://radaris.com/control/privacy
   - name: Reveal Name
     url: https://www.revealname.com/opt_out
     archive_url: https://web.archive.org/web/2/https://www.revealname.com/opt_out
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Reveal Phone Owner
     url: https://www.revealphoneowner.com/data-removal
     archive_url: https://web.archive.org/web/2/https://www.revealphoneowner.com/data-removal
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Sales Spider
     url: http://salespidermedia.com/opt-out-and-information-removal.php
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Search Bug
     url: https://www.searchbug.com/peoplefinder/how-to-remove.aspx
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.searchbug.com/peoplefinder/how-to-remove.aspx
   - name: Search People Free
     url: https://www.searchpeoplefree.com/opt-out
     archive_url: https://web.archive.org/web/2/https://www.searchpeoplefree.com/opt-out
     tags:
       - free
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Selfie Systems
     url: https://www.spokeo.com/optout
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Smart Background Checks
     url: https://www.smartbackgroundchecks.com/optout
     archive_url: https://web.archive.org/web/2/https://www.smartbackgroundchecks.com/optout
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Social Catfish
     url: https://socialcatfish.com/opt-out/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Spy Dialer
     url: https://www.spydialer.com/optout.aspx
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: SpyFly
     url: https://www.spyfly.com/help-center/remove-info
     archive_url: https://web.archive.org/web/2/https://www.spyfly.com/help-center/remove-info
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Spytox
     url: https://www.spytox.com/opt_out
     archive_url: https://web.archive.org/web/2/https://www.spytox.com/opt_out
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Sync Me
     url: https://sync.me/optout/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Telephone Directories
     url: https://www.telephonedirectories.us/Edit_Records
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.telephonedirectories.us/Edit_Records
   - name: Tenn Help
     url: https://www.tennhelp.com/public-resources/change-listing.html
     archive_url: https://web.archive.org/web/2/https://www.tennhelp.com/public-resources/change-listing.html
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: That's Them
     url: https://thatsthem.com/optout
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Thomson Reuters/Westlaw/CLEAR
     url: >-
       https://privacyportal-cdn.onetrust.com/dsarwebform/dbf5ae8a-0a6a-4f4b-b527-7f94d0de6bbc/5dc91c0f-f1b7-4b6e-9d42-76043adaf72d.html
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: TLO
     url: https://service.transunion.com/dss/ccpa_optout.page
     archive_url: https://web.archive.org/web/2/https://service.transunion.com/dss/ccpa_optout.page
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Tower Data
     url: https://dashboard.towerdata.com/optout/
     archive_url: https://web.archive.org/web/2/https://dashboard.towerdata.com/optout/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: True Caller
     url: https://www.truecaller.com/unlisting
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: True People Search
     url: https://www.truepeoplesearch.com/removal
     archive_url: https://web.archive.org/web/2/https://www.truepeoplesearch.com/removal
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: True People Search.net
     url: https://truepeoplesearch.net/remove-my-info
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://truepeoplesearch.net/remove-my-info
   - name: Truth Finder
     url: https://www.truthfinder.com/opt-out/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.truthfinder.com/opt-out/
   - name: United States Phonebook
     url: http://www.unitedstatesphonebook.com/contact.php
     archive_url: https://web.archive.org/web/2/http://www.unitedstatesphonebook.com/contact.php
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Unmask
     url: https://unmask.com/opt-out
     archive_url: https://web.archive.org/web/2/https://unmask.com/opt-out
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: USA People Search
     url: https://www.usa-people-search.com/manage/
     archive_url: https://web.archive.org/web/2/https://www.usa-people-search.com/manage/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: US Phone Pro
     url: https://www.usphonepro.com/opt_out
     archive_url: https://web.archive.org/web/2/https://www.usphonepro.com/opt_out
     tags:
       - paid
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: US Phonebook
     url: https://www.usphonebook.com/opt-out
     archive_url: https://web.archive.org/web/2/https://www.usphonebook.com/opt-out
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: US Search
     url: https://www.ussearch.com/opt-out/submit/
     archive_url: https://web.archive.org/web/2/https://www.ussearch.com/opt-out/submit/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Valassis
     url: https://valassis.com/do-not-sell-my-personal-information/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Valpak/Cox
     url: https://www.valpak.com/coupons/show/mailinglistsuppression
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Verecor
     url: https://findrec.com/page/privacy
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://findrec.com/page/privacy
   - name: Vericora
     url: https://vericora.com/ng/control/privacy
     archive_url: https://web.archive.org/web/2/https://vericora.com/ng/control/privacy
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Veriforia
     url: https://veriforia.com/ng/control/privacy
     archive_url: https://web.archive.org/web/2/https://veriforia.com/ng/control/privacy
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Veripages
     url: https://veripages.com/page/contact
-    archive_url: https://web.archive.org/web/2/https://veripages.com/page/contact
     tags: []
-    status: dead
-    last_checked: '2026-06-23'
+    status: active
+    last_checked: '2026-06-29'
   - name: Verispy
     url: https://www.dataaccessmanagement.com/verispy/
     archive_url: https://web.archive.org/web/2/https://www.dataaccessmanagement.com/verispy/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Veritora
     url: https://federal-data.com/control/profile?url=
     archive_url: https://web.archive.org/web/2/https://federal-data.com/control/profile?url=
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Visa
     url: https://marketingreportoptout.visa.com/OPTOUT/request.do
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Voter Records
     url: https://voterrecords.com/faq
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://voterrecords.com/faq
   - name: White Pages
     url: http://www.whitepages.com/suppression_requests
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/http://www.whitepages.com/suppression_requests
   - name: WYTY
     url: https://www.wyty.com/remove/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: XLEK
     url: https://www.xlek.com/optout.php
     archive_url: https://web.archive.org/web/2/https://www.xlek.com/optout.php
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Yellow Book
     url: https://www.beenverified.com/app/optout/search
     archive_url: https://web.archive.org/web/2/https://www.beenverified.com/app/optout/search
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ZoomInfo
     url: https://www.zoominfo.com/about-zoominfo/privacy-manage-profile
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Get Contact Unlisting
     url: https://getcontact.com/en/manage
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Interpol int
     url: https://www.interpol.int/en/How-we-work/Notices/Yellow-Notices/View-Yellow-Notices
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: accountkiller
     url: https://www.accountkiller.com/en/all-sites
     tags:
       - account-required
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

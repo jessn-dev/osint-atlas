@@ -7,107 +7,107 @@ items:
     url: https://monitor.civicus.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: freedomhouse
     url: https://freedomhouse.org/countries/freedom-world/scores
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: hunger map
     url: https://hungermap.wfp.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: native-land
     url: https://native-land.ca/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: riskmap
     url: https://www.riskmap.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: splcenter
     url: https://www.splcenter.org/hate-map
     archive_url: https://web.archive.org/web/2/https://www.splcenter.org/hate-map
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: safeairspace
     url: https://safeairspace.net/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: globaldetentionproject
     url: https://www.globaldetentionproject.org/detention-centres/map-view
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: tasteatlas - find culture and food
     url: https://www.tasteatlas.com/
     archive_url: https://web.archive.org/web/2/https://www.tasteatlas.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: global terrorism database
     url: https://www.start.umd.edu/gtd/
     archive_url: https://web.archive.org/web/2/https://www.start.umd.edu/gtd/
     tags:
       - academic
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: datasets global terrorism database Kaggle
     url: https://www.kaggle.com/datasets/START-UMD/gtd
     archive_url: https://web.archive.org/web/2/https://www.kaggle.com/datasets/START-UMD/gtd
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: search-uk-sanctions
     url: https://search-uk-sanctions-list.service.gov.uk/
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: sanctionsmap
     url: https://www.sanctionsmap.eu/#/main
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: chroniclingamerica
     url: https://chroniclingamerica.loc.gov/
     archive_url: https://web.archive.org/web/2/https://chroniclingamerica.loc.gov/
     tags:
       - official
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Data catalog world bank
     url: https://datacatalog.worldbank.org/
     archive_url: https://web.archive.org/web/2/https://datacatalog.worldbank.org/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Google Patents
     url: https://patents.google.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: unosat satellite database
     url: https://unosat.org/products
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: foia
     url: https://www.foia.gov/
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: thetrumparchive twitter Trump archive
     url: https://www.thetrumparchive.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: rollcall
     url: >-
       https://rollcall.com/factbase/trump/topic/social/?platform=all&sort=date&sort_order=desc&page=1
@@ -115,43 +115,43 @@ items:
       https://web.archive.org/web/2/https://rollcall.com/factbase/trump/topic/social/?platform=all&sort=date&sort_order=desc&page=1
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: propublica Trump twitter archive
     url: https://projects.propublica.org/politwoops/search?q=trump
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: trumpstruth
     url: https://trumpstruth.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: PolitiTweet Archive
     url: https://polititweet.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: worldmonitor map
     url: https://worldmonitor.app/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: irwatch
     url: https://irwatch.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Europol Publications
     url: https://www.europol.europa.eu/publications-events
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: terrorist-organizations
     url: https://www.state.gov/foreign-terrorist-organizations
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Sanctions against terrorism
     url: >-
       https://www.consilium.europa.eu/en/policies/fight-against-terrorism/sanctions-against-terrorism/#list
@@ -159,40 +159,41 @@ items:
       https://web.archive.org/web/2/https://www.consilium.europa.eu/en/policies/fight-against-terrorism/sanctions-against-terrorism/#list
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: EU financial sanctions list
     url: >-
       https://data.europa.eu/data/datasets/consolidated-list-of-persons-groups-and-entities-subject-to-eu-financial-sanctions?locale=en
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ID Pejabat rekam jejak
     url: https://rekamjejak.net/direktori?query=&category=&party=&page=1&limit=9
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: mappingmilitants
     url: https://mappingmilitants.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: trackingterrorism
     url: https://trackingterrorism.org/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://trackingterrorism.org/
   - name: visionofhumanity GTI
     url: https://www.visionofhumanity.org/maps/global-terrorism-index/#/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: economicsandpeace
     url: https://www.economicsandpeace.org/global-terrorism-index/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: databoks katadata
     url: https://databoks.katadata.co.id/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

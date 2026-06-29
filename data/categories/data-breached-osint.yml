@@ -7,273 +7,276 @@ items:
     url: https://zerobin.net/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: xposedornot
     url: https://xposedornot.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: telegra.ph
     url: https://telegra.ph/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: leakix
     url: https://leakix.net/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: leakScraper
     url: https://github.com/Acceis/leakScraper
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: clatscope
     url: https://github.com/clats97/clatscope
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: hackedlist
     url: https://hackedlist.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Dehashed
     url: https://www.dehashed.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.dehashed.com/
   - name: Haveibeenpwned
     url: https://haveibeenpwned.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Intelligence X
     url: https://intelx.io/
     archive_url: https://web.archive.org/web/2/https://intelx.io/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Wiki Leaks
     url: https://wikileaks.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: DDO Secrets
     url: https://ddosecrets.com/wiki/Distributed_Denial_of_Secrets
     archive_url: https://web.archive.org/web/2/https://ddosecrets.com/wiki/Distributed_Denial_of_Secrets
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: darkforums
     url: https://darkforums.io/
     archive_url: https://web.archive.org/web/2/https://darkforums.io/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: breachforums
     url: https://breachforums.cz/index.php
     archive_url: https://web.archive.org/web/2/https://breachforums.cz/index.php
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Stealthmole
     url: https://www.stealthmole.com/products/darkweb-tracker
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Doxbin
     url: https://doxbin.com/
     archive_url: https://web.archive.org/web/2/https://doxbin.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Breach Directory
     url: https://breachdirectory.org/
     archive_url: https://web.archive.org/web/2/https://breachdirectory.org/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Snusbase
     url: https://snusbase.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Flare
     url: https://flare.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Leaklookup
     url: https://leak-lookup.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Pastos
     url: https://github.com/carlospolop/Pastos
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Facebook Data Breach Cheker
     url: https://haveibeenzuckered.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Intel471
     url: https://intel471.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Maltego Transform ShadowDragon
     url: https://www.maltego.com/transform-hub/socialnet/
     tags:
       - maltego
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: offshoreleaks
     url: https://offshoreleaks.icij.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: proxynova password breach
     url: https://proxynova.com/tools/comb/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: WhiteIntel
     url: https://whiteintel.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Leaked Domain
     url: https://leaked.domains/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: databreaches
     url: https://databreaches.net/
     archive_url: https://web.archive.org/web/2/https://databreaches.net/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: lolarchiver
     url: https://osint.lolarchiver.com/#
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://osint.lolarchiver.com/#
   - name: Leakcheck
     url: https://leakcheck.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: 9ghz
     url: https://9ghz.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: leakpeek
     url: https://leakpeek.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: leakradar
     url: https://leakradar.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: leakedpassword
     url: https://leakedpassword.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: scatteredsecrets
     url: https://scatteredsecrets.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: BF Database Search
     url: https://bf.based.re/
     archive_url: https://web.archive.org/web/2/https://bf.based.re/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: darkradar
     url: https://www.darkradar.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: leakbase
     url: https://leakbase.la/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://leakbase.la/
   - name: Proxynova
     url: https://www.proxynova.com/tools/comb/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: osintleak
     url: https://osintleak.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Hawker
     url: https://github.com/RetrO-M/Hawker
     archive_url: https://web.archive.org/web/2/https://github.com/RetrO-M/Hawker
     tags:
       - open-source
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: deepfind
     url: https://www.deepfind.me/tools
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: profiler
     url: https://search.profiler.me/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: breachguard
     url: https://breachguard.profiler.me/
     archive_url: https://web.archive.org/web/2/https://breachguard.profiler.me/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: intelbase
     url: https://intelbase.is/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: mozilla monitor
     url: https://monitor.mozilla.org/
-    archive_url: https://web.archive.org/web/2/https://monitor.mozilla.org/
     tags: []
-    status: dead
-    last_checked: '2026-06-23'
+    status: active
+    last_checked: '2026-06-29'
   - name: google darkweb security checkup
     url: https://myactivity.google.com/dark-web-report/setup-profile
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: open-search aleph
     url: https://open-search.aleph-networks.eu/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Scribd
     url: http://www.scribd.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: documentcloud
     url: https://www.documentcloud.org/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.documentcloud.org/
   - name: Leak Finder [ONION SITE]
     url: http://leakfindrg5s2zcwwdmxlvz6oefz6hdwlkckh4eir4huqcpjsefxkead.onion/Market
     archive_url: >-
@@ -281,111 +284,114 @@ items:
     tags:
       - onion
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: hacked email com [archived site]
     url: https://web.archive.org/web/*/http://hacked-emails.com/*
-    archive_url: https://web.archive.org/web/2/https://web.archive.org/web/*/http://hacked-emails.com/*
     tags: []
-    status: dead
-    last_checked: '2026-06-23'
+    status: active
+    last_checked: '2026-06-29'
   - name: domainbigdata com [archived site]
     url: https://web.archive.org/web/*/https://domainbigdata.com/*
-    archive_url: https://web.archive.org/web/2/https://web.archive.org/web/*/https://domainbigdata.com/*
     tags: []
-    status: dead
-    last_checked: '2026-06-23'
+    status: active
+    last_checked: '2026-06-29'
   - name: Personal data leak check
     url: https://cybernews.com/personal-data-leak-check/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://cybernews.com/personal-data-leak-check/
   - name: github
     url: https://github.com
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: pastebin
     url: https://pastebin.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: databreach
     url: https://databreach.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://databreach.com/
   - name: leaking forum
     url: https://leaking.cc/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Hudson Rock Cybercrime Intelligence Free Tools
     url: https://www.hudsonrock.com/threat-intelligence-cybercrime-tools
     tags:
       - free
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: dehashed
     url: https://dehashed.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://dehashed.com/
   - name: breach house
     url: https://breach.house/all_stealers
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OsintCat
     url: https://www.osintcat.net/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.osintcat.net/
   - name: idleakcheck
     url: https://idleakcheck.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: oathnet
     url: https://oathnet.org/
     archive_url: https://web.archive.org/web/2/https://oathnet.org/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: breach VIP
     url: https://breach.vip/
     archive_url: https://web.archive.org/web/2/https://breach.vip/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: infodra
     url: https://infodra.com/
     archive_url: https://web.archive.org/web/2/https://infodra.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: breachbase
     url: https://breachbase.com/search
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: antipublic
     url: https://antipublic.net/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: haveibeenransom
     url: https://haveibeenransom.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: cabalbreach HIBP check
     url: https://osintcabal.org/livecenter/cabalbreach-chiasmodon.html
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://osintcabal.org/livecenter/cabalbreach-chiasmodon.html
   - name: linktr
     url: https://linktr.ee/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

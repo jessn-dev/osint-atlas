@@ -8,454 +8,456 @@ items:
     archive_url: https://web.archive.org/web/2/https://securitytrails.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: maldevacademy database
     url: https://search.maldevacademy.com/
     archive_url: https://web.archive.org/web/2/https://search.maldevacademy.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ThreatCheck
     url: https://github.com/rasta-mouse/ThreatCheck
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: S3Scanner
     url: https://github.com/sa7mon/S3Scanner
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: gitleaks
     url: https://github.com/gitleaks/gitleaks
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: AutoRecon
     url: https://github.com/AutoRecon/AutoRecon
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: web-check
     url: https://web-check.as93.net/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: PayloadsAllThePDFs
     url: https://github.com/luigigubello/PayloadsAllThePDFs
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: resourcehacker
     url: https://www.angusj.com/resourcehacker/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: php exeoutput
     url: https://www.exeoutput.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: python pyinstaller
     url: https://pyinstaller.org/en/stable/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: python py2exe
     url: https://www.py2exe.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: 0day
     url: https://0day.today/
-    archive_url: https://web.archive.org/web/2/https://0day.today/
     tags: []
-    status: dead
-    last_checked: '2026-06-23'
+    status: active
+    last_checked: '2026-06-29'
   - name: cvexploits
     url: https://cvexploits.io/
     archive_url: https://web.archive.org/web/2/https://cvexploits.io/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: rustcat
     url: https://github.com/robiot/rustcat
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: criminalip
     url: https://www.criminalip.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: SearchSploit
     url: https://www.exploit-db.com/searchsploit
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Apk mirror
     url: https://www.apkmirror.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.apkmirror.com/
   - name: apkpure
     url: https://apkpure.com/id/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://apkpure.com/id/
   - name: pylingual
     url: https://pylingual.io/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://pylingual.io/
   - name: Phishious
     url: https://github.com/CanIPhish/Phishious
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Operative framework
     url: https://github.com/gaulliath/operative-framework/releases/tag/2.0a
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Mod Login
     url: https://github.com/clong/ModLogin
     tags:
       - account-required
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Cr3dOv3r
     url: https://github.com/D4Vinci/Cr3dOv3r
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Crackmapexec
     url: https://www.kali.org/tools/crackmapexec/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Datasploit
     url: https://github.com/datasploit/datasploit
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: CloudFail
     url: https://github.com/m0rtem/CloudFail
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: cloudgazer
     url: https://github.com/Aidennnn33/cloudgazer
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Rustcan
     url: https://github.com/RustScan/RustScan
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: NMAP
     url: https://nmap.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Getrails
     url: https://pypi.org/project/getrails/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OWASP Maryam
     url: https://owasp.org/www-project-maryam/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Metabigor
     url: https://github.com/j3ssie/metabigor?tab=readme-ov-file
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OSINT BBOT
     url: https://github.com/blacklanternsecurity/bbot
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Spiderfoot
     url: https://github.com/smicallef/spiderfoot
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Zeus-Scanner
     url: https://github.com/Ekultek/Zeus-Scanner
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Zenrows
     url: https://www.zenrows.com/
     archive_url: https://web.archive.org/web/2/https://www.zenrows.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Scrapfly
     url: https://scrapfly.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: capsolver
     url: https://www.capsolver.com/id
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: 2captcha
     url: https://2captcha.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Puppeter
     url: https://www.npmjs.com/package/puppeteer-extra-plugin-stealth
     archive_url: https://web.archive.org/web/2/https://www.npmjs.com/package/puppeteer-extra-plugin-stealth
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: MOBSF
     url: https://github.com/MobSF/Mobile-Security-Framework-MobSF
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: RMS - Mobile Pentest
     url: https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Mortar
     url: https://github.com/0xsp-SRD/mortar
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: APK Leaks
     url: https://github.com/dwisiswant0/apkleaks
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Web copilot
     url: https://github.com/h4r5h1t/webcopilot
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Nuclei template js template
     url: https://github.com/ayadim/Nuclei-bug-hunter/blob/main/file/web/js/js-analyse.yaml
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Atlas Sql Tamper Suggester
     url: https://github.com/m4ll0k/Atlas
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Go Phish
     url: https://getgophish.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: evilginx
     url: https://evilginx.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Advanced SQL Injection
     url: https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Payload all the things
     url: https://github.com/swisskyrepo/PayloadsAllTheThings
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Hack Tricks
     url: https://book.hacktricks.xyz/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: GAP-Burp-Extension
     url: https://github.com/xnl-h4ck3r/GAP-Burp-Extension
     tags:
       - browser-extension
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Cloundflare
     url: https://github.com/greycatz/CloudUnflare
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Cloudmare
     url: https://github.com/MrH0wl/Cloudmare
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: emkei
     url: https://emkei.cz/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: GraphSpy
     url: https://github.com/RedByte1337/GraphSpy
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: revshells
     url: https://www.revshells.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: enum4linux
     url: https://github.com/CiscoCXSecurity/enum4linux
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: vulmap
     url: https://github.com/zhzyker/vulmap
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: HPING
     url: https://github.com/antirez/hping
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: AlliN
     url: https://github.com/P1-Team/AlliN
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: KUNYU
     url: https://github.com/knownsec/Kunyu
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: jwt tool
     url: https://github.com/ticarpi/jwt_tool
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Jawir
     url: https://github.com/dundorma/jawir
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: jwt-secrets-list
     url: https://github.com/wallarm/jwt-secrets/blob/master/jwt.secrets.list
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: aparoid
     url: https://github.com/stefan2200/aparoid
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: sploitus
     url: https://sploitus.com/
     archive_url: https://web.archive.org/web/2/https://sploitus.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: thehacker recipe
     url: https://www.thehacker.recipes/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OPSEC
     url: https://github.com/WesleyWong420/OPSEC-Tradecraft
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: CSAF CSLAB
     url: https://github.com/csalab-id/csaf
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: hakoriginfinder
     url: https://github.com/hakluke/hakoriginfinder
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: gmapsapiscanner
     url: https://github.com/ozguralp/gmapsapiscanner
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: jsluice
     url: https://github.com/BishopFox/jsluice
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: DisableFlagSecure
     url: https://github.com/LSPosed/DisableFlagSecure
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: trufflehog
     url: https://github.com/trufflesecurity/trufflehog
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: SecretFinder
     url: https://github.com/m4ll0k/SecretFinder
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: uproot-JS
     url: https://github.com/0xDexter0us/uproot-JS
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: JS beautify vscode extension
     url: https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify
     archive_url: >-
@@ -463,534 +465,539 @@ items:
     tags:
       - browser-extension
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Bug bounty hunter javascript reccon
     url: https://www.bugbountyhunter.com/guides/?type=javascript_files
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Javascript reccon
     url: https://gist.github.com/fuckup1337/49484c35c8ad8ae1d165ffe7d71375eb
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Nuclei OSINT Templates
     url: https://github.com/cipher387/juicyinfo-nuclei-templates
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Official Nuclei Templates
     url: https://github.com/projectdiscovery/nuclei-templates
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: XRAY
     url: https://github.com/chaitin/xray/blob/master/README_ID.md
     archive_url: https://web.archive.org/web/2/https://github.com/chaitin/xray/blob/master/README_ID.md
     tags:
       - open-source
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: aquasecurity vuln list
     url: https://github.com/aquasecurity/vuln-list
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: trivy
     url: https://github.com/aquasecurity/trivy
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: grype
     url: https://github.com/anchore/grype
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: aquasecurity Redhat vuln list
     url: https://github.com/aquasecurity/vuln-list-redhat
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Vuls
     url: https://vuls.io/docs/en/abstract.html
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OneForAll
     url: https://github.com/shmilylty/OneForAll/blob/master/docs/en-us/README.md
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Can I Take Over xyz
     url: https://github.com/EdOverflow/can-i-take-over-xyz
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Can I Take Over DNS
     url: https://github.com/indianajson/can-i-take-over-dns
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: DevsecOps Secure Code
     url: https://devsecopsguides.com/docs/rules
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: dwisiswant0 Nuceli Template Dir
     url: https://github.com/dwisiswant0/nuclei-templates-dir
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: dwisiswant0 CF-CHECK
     url: https://github.com/dwisiswant0/cf-check/releases
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: HTTP Docs
     url: https://devdoc.net/web/developer.mozilla.org/en-US/docs/HTTP.1.html
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Devoper Mozila
     url: https://developer.mozilla.org/en-US/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: List Red Team Tool Cheat Sheet
     url: https://highon.coffee/blog/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://highon.coffee/blog/
   - name: Red Team Notes
     url: https://notes.benheater.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://notes.benheater.com/
   - name: OSCP NOTES
     url: https://github.com/0xsyr0/OSCP
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: mytechnotalent Reverse-Engineering
     url: https://github.com/mytechnotalent/Reverse-Engineering
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Mobile Nuclei Template
     url: https://github.com/optiv/mobile-nuclei-templates?tab=readme-ov-file
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Awesome Threat Intel
     url: https://github.com/hudsonrock-partnerships/awesome-threat-intelligence
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Hacker Search Engine
     url: https://awesome-hacker-search-engines.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: tinyhack
     url: https://tinyhack.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://tinyhack.com/
   - name: compactbyte
     url: https://blog.compactbyte.com/arsip/arsip-tulisan-yohanes/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: noxer
     url: https://github.com/AggressiveUser/noxer
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Get-ReverseShell
     url: https://github.com/gh0x0st/Get-ReverseShell
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OSCE 3 Guide
     url: https://github.com/CyberSecurityUP/OSCE3-Complete-Guide
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Enumerate IAM
     url: https://github.com/andresriancho/enumerate-iam
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Ired team
     url: https://www.ired.team/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Subt
     url: https://github.com/tegal1337/subt
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: apk2url
     url: https://github.com/n0mi1k/apk2url
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: dogbolt
     url: https://dogbolt.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ezXSS
     url: https://github.com/ssl/ezXSS
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: grayhatwarfare
     url: https://grayhatwarfare.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: pivotnacci
     url: https://github.com/blackarrowsec/pivotnacci
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: vulnshot
     url: https://vulnshot.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://vulnshot.com/
   - name: Fierpa Lambda
     url: https://github.com/firerpa/lamda
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: shellter
     url: https://www.kali.org/tools/shellter/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Child Gatting
     url: https://gist.github.com/patois/1fede18833d5e6e62e75d915e3621c8f
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: PentestingEverything
     url: https://github.com/m14r41/PentestingEverything
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: busybox
     url: https://busybox.net/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: toybox
     url: https://landley.net/toybox/downloads/binaries/latest/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: frida
     url: https://frida.re/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Frida-Server
     url: https://github.com/frida/frida/releases
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: codeshare Frida script
     url: https://codeshare.frida.re/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Wireshark
     url: https://www.wireshark.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: greynoise
     url: https://viz.greynoise.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: XSS Payload and Crafting Portswigger
     url: https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
     archive_url: >-
       https://web.archive.org/web/2/https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: SQL Injection Portswigger Cheat Sheet
     url: https://portswigger.net/web-security/sql-injection/cheat-sheet
-    archive_url: https://web.archive.org/web/2/https://portswigger.net/web-security/sql-injection/cheat-sheet
     tags: []
-    status: dead
-    last_checked: '2026-06-23'
+    status: active
+    last_checked: '2026-06-29'
   - name: GitTools
     url: https://github.com/internetwache/GitTools
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: bytecodeviewer
     url: https://bytecodeviewer.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: android-penetration-testing-cheat-sheet
     url: https://github.com/ivan-sincek/android-penetration-testing-cheat-sheet
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: List of MIME types / Internet Media Types
     url: https://www.freeformatter.com/mime-types-list.html
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: mimetype
     url: https://mimetype.io/all-types
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: zygisk-reflutter
     url: https://github.com/yohanes/zygisk-reflutter
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: httptoolkit
     url: https://httptoolkit.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: LSPosed
     url: https://github.com/LSPosed/LSPosed
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: kernelsu
     url: https://kernelsu.org/id_ID/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: IOS Version Jailbreak Chart
     url: >-
       https://docs.google.com/spreadsheets/d/1QjWyoDfaiF-TWhzVdvEMRqA3OQXsz6e8of3SxZB1W_M/edit?gid=128016025#gid=128016025
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ghidra cheat sheet
     url: https://ghidra-sre.org/CheatSheet.html
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: proxychains
     url: https://www.kali.org/tools/proxychains-ng/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: loldrivers
     url: https://www.loldrivers.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: pwnwiki
     url: http://pwnwiki.io/#!index.md
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: lolapps
     url: https://lolapps-project.github.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: lolesxi
     url: https://lolesxi-project.github.io/LOLESXi/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: lothardware
     url: https://lothardware.com.tr/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: boostsecurityio
     url: https://boostsecurityio.github.io/lotp/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: List of mime type
     url: https://developer.mozilla.org/en-US/docs/Web/HTTP/MIME_types
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: subdosec vulnshot
     url: https://subdosec.vulnshot.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://subdosec.vulnshot.com/
   - name: IOS Tweak Cydia Repo Updated
     url: https://www.ios-repo-updates.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.ios-repo-updates.com/
   - name: beeceptor
     url: https://beeceptor.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: objection
     url: https://github.com/sensepost/objection
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Fiddler
     url: https://www.telerik.com/fiddler
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: privacyspace
     url: https://github.com/Xposed-Modules-Repo/cn.geektang.privacyspace
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Dopamine
     url: https://github.com/opa334/Dopamine
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: SSL bypass check
     url: https://github.com/0xCD4/SSL-bypass
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: PSPY Linux
     url: https://github.com/DominicBreuker/pspy
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: MT.CN
     url: https://mt2.cn/guide/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: winmerge
     url: https://winmerge.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: GhidraMCP
     url: https://github.com/LaurieWired/GhidraMCP
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: burpscan
     url: https://github.com/sherlock-ohm/burpscan
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: nowafpls
     url: https://github.com/assetnote/nowafpls
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: caido
     url: https://caido.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: proxifier
     url: https://www.proxifier.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: mitmproxy
     url: https://www.mitmproxy.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ProxyBridge
     url: https://github.com/InterceptSuite/ProxyBridge
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: MobileApp-Pentest-Cheatsheet
     url: https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Facial Recognition Attack's - Checklist
     url: https://github.com/CyberSecurityUP/Facial-Recognition-PenTest-Checklist
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: A guide AV Evasion
     url: https://evasions.checkpoint.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: jadx-ai-mcp
     url: https://github.com/zinja-coder/jadx-ai-mcp
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: TrickyStore
     url: https://github.com/5ec1cff/TrickyStore
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: susfs4ksu-module
     url: https://github.com/sidex15/susfs4ksu-module
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Powershell-Scripts-for-Hackers-and-Pentesters
     url: https://github.com/Whitecat18/Powershell-Scripts-for-Hackers-and-Pentesters
     archive_url: >-
@@ -998,1404 +1005,1411 @@ items:
     tags:
       - open-source
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Sn1per
     url: https://github.com/1N3/Sn1per
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Pulse-MCP-Awesome list tool and guide
     url: https://www.pulsemcp.com/servers/himanshusanecha-osint-toolkit
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.pulsemcp.com/servers/himanshusanecha-osint-toolkit
   - name: kitploit
     url: https://kitploit.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: cheatsheet - Offsec
     url: https://cheatsheet.haax.fr/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: search public bucket
     url: https://buckets.grayhatwarfare.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Amazon cloud search google cse
     url: https://cse.google.com/cse?cx=005797772976587943970:g-6ohngosio#gsc.tab=0&gsc.sort=
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Amazon cloud search google cse 2
     url: >-
       https://cse.google.com/cse?cx=018215287813575168593:c17elzg384a#gsc.tab=0&gsc.q=amikom&gsc.sort=
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Post Leak
     url: https://github.com/cosad3s/postleaks
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: cyscan
     url: https://cyscan.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: investigator
     url: https://abhijithb200.github.io/investigator/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: attackerkb
     url: https://attackerkb.com/activity-feed
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Kernel-PWN
     url: https://github.com/Low-LevelDev-ID/kernel-pwn/tree/main
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Argus
     url: https://github.com/jasonxtn/Argus?tab=readme-ov-file
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: API Hudson rock
     url: https://docs.hudsonrock.com/
     tags:
       - api
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: censys
     url: https://censys.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: IOS Pentesting
     url: https://github.com/ansjdnakjdnajkd/iOS
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Find Pasted Text
     url: https://cse.google.com/cse?cx=013991603413798772546:nxs552dhq8k
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: leakradar
     url: https://leakradar.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: subdomainradar
     url: https://subdomainradar.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: rootAVD
     url: https://github.com/newbit1/rootAVD
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Magisk
     url: https://github.com/topjohnwu/magisk/releases/
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Shamiko
     url: https://github.com/LSPosed/LSPosed.github.io/releases
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: KernelSU
     url: https://github.com/tiann/KernelSU
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: KernelSU Next
     url: https://github.com/KernelSU-Next/KernelSU-Next
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: unlocktool
     url: https://unlocktool.net/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://unlocktool.net/
   - name: ncunlock
     url: https://ncunlock.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: CloakQuest3r
     url: https://github.com/spyboy-productions/CloakQuest3r
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Frida-Script-Runner
     url: https://github.com/z3n70/Frida-Script-Runner
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: plaguards
     url: https://github.com/Bread-Yolk/plaguards
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: postman
     url: https://www.postman.com/explore/collections
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: github search
     url: https://github.com/search/advanced
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Web Leaked Credentials
     url: https://github.com/h4x0r-dz/Leaked-Credentials/
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OSINT SH
     url: https://osint.sh/buckets/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://osint.sh/buckets/
   - name: subfinder
     url: https://github.com/projectdiscovery/subfinder
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Sudomy
     url: https://github.com/screetsec/Sudomy
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Url Scan
     url: https://urlscan.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: netexec
     url: https://www.kali.org/tools/netexec/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: guardian-cli
     url: https://github.com/zakirkun/guardian-cli
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: vulners
     url: https://vulners.com/
-    archive_url: https://web.archive.org/web/2/https://vulners.com/
     tags: []
-    status: dead
-    last_checked: '2026-06-23'
+    status: active
+    last_checked: '2026-06-29'
   - name: malapi
     url: https://malapi.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: social engineering
     url: https://www.social-engineer.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: anonymailer
     url: https://anonymailer.net/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: SET
     url: https://github.com/trustedsec/social-engineer-toolkit
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: httrack
     url: https://www.httrack.com/
-    archive_url: https://web.archive.org/web/2/https://www.httrack.com/
     tags: []
-    status: dead
-    last_checked: '2026-06-23'
+    status: active
+    last_checked: '2026-06-29'
   - name: saveweb2zip
     url: https://saveweb2zip.com/en
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: same web cloner
     url: https://same.dev/
     archive_url: https://web.archive.org/web/2/https://same.dev/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: anonymailer email sender
     url: https://www.anonymailer.net/m-demo.asp
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: letsencrypt for free ssl
     url: https://letsencrypt.org/id/
     tags:
       - free
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: AdvPhishing
     url: https://github.com/Ignitetch/AdvPhishing
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: QRLJacking
     url: https://github.com/OWASP/QRLJacking
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Active Directory Cheat
     url: https://github.com/esidate/pentesting-active-directory
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Active-Directory-Exploitation-Cheat-Sheet
     url: https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Active Directory and Red Teaming attack vectors
     url: https://github.com/zulfi0/RedTeaming_CheatSheet
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: BloodHound
     url: https://github.com/BloodHoundAD/BloodHound
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Certify
     url: https://github.com/GhostPack/Certify
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Certipy
     url: https://github.com/ly4k/Certipy
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: certi
     url: https://github.com/zer1t0/certi
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: PKINITtools
     url: https://github.com/dirkjanm/PKINITtools
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ADCSPwn
     url: https://github.com/bats3c/ADCSPwn
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: PassTheCert
     url: https://github.com/AlmondOffSec/PassTheCert
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: kerbrute
     url: https://github.com/ropnop/kerbrute
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Adinfo
     url: https://github.com/lzzbb/Adinfo
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: SharpADWS
     url: https://github.com/wh0amitz/SharpADWS
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: SOAPHound
     url: https://github.com/FalconForceTeam/SOAPHound
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: SharpHostInfo
     url: https://github.com/shmilylty/SharpHostInfo
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: lolad project
     url: https://lolad-project.github.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Ninja C2
     url: https://github.com/ahmedkhlief/Ninja
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: BloodHound MCP based
     url: https://github.com/stevenyu113228/BloodHound-MCP/tree/main
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: AD Mindmap - AD Guides
     url: https://mayfly277.github.io/posts/AD-mindmap-2k25/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: WebShell-Bypass-Guide
     url: https://github.com/AabyssZG/WebShell-Bypass-Guide
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: bypass.tidesec.com/web/
     url: http://bypass.tidesec.com/web/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Tiny-PHP-Webshell
     url: https://github.com/bayufedra/Tiny-PHP-Webshell
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: metasploit-framework
     url: https://github.com/rapid7/metasploit-framework
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: CrackMapExec
     url: https://github.com/byt3bl33d3r/CrackMapExec
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: impacket
     url: https://github.com/fortra/impacket
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: wmiexec-Pro
     url: https://github.com/XiaoliChan/wmiexec-Pro
     tags:
       - open-source
       - paid
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: pstools
     url: https://docs.microsoft.com/en-us/sysinternals/downloads/pstools
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Rubeus
     url: https://github.com/GhostPack/Rubeus
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Powermad
     url: https://github.com/Kevin-Robertson/Powermad
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: PowerSploit
     url: https://github.com/PowerShellMafia/PowerSploit
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Responder
     url: https://github.com/lgandx/Responder
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Responder-Windows
     url: https://github.com/lgandx/Responder-Windows
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: EDR-Antivirus-Bypass-to-Gain-Shell-Access
     url: https://github.com/murat-exp/EDR-Antivirus-Bypass-to-Gain-Shell-Access/tree/main
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: LaZagne
     url: https://github.com/AlessandroZ/LaZagne
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: WirelessKeyView
     url: https://www.nirsoft.net/utils/wireless_key.html
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Windows credential manager
     url: https://www.nirsoft.net/utils/credentials_file_view.html
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Pillager
     url: https://github.com/qwqdanchun/Pillager/
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: searchall
     url: https://github.com/Naturehi666/searchall
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: HackBrowserData
     url: https://github.com/moonD4rk/HackBrowserData
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: mimikatz
     url: https://github.com/ParrotSec/mimikatz
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: SharpDPAPI
     url: https://github.com/GhostPack/SharpDPAPI
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Empire
     url: https://github.com/EmpireProject/Empire
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Responder
     url: https://github.com/SpiderLabs/Responder
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: SecretsDump
     url: https://wadcoms.github.io/wadcoms/Impacket-SecretsDump/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ispyconnect Default Camera Passwords
     url: https://www.ispyconnect.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: antipublic
     url: https://antipublic.net/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: breachbase
     url: https://breachbase.com/search
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Hudson Rock Cybercrime Intelligence Free Tools
     url: https://www.hudsonrock.com/threat-intelligence-cybercrime-tools
     tags:
       - free
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: dehashed
     url: https://dehashed.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://dehashed.com/
   - name: breach house
     url: https://breach.house/all_stealers
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OsintCat
     url: https://www.osintcat.net/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.osintcat.net/
   - name: idleakcheck
     url: https://idleakcheck.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: oathnet
     url: https://oathnet.org/
     archive_url: https://web.archive.org/web/2/https://oathnet.org/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Have I Been Pwned
     url: https://haveibeenpwned.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Dehashed
     url: https://www.dehashed.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.dehashed.com/
   - name: Leak-Lookup
     url: https://leak-lookup.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Snusbase
     url: https://snusbase.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: LeakCheck.io
     url: https://leakcheck.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: crackstation.net
     url: https://crackstation.net/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: breachdirectory.org
     url: https://breachdirectory.org/
     archive_url: https://web.archive.org/web/2/https://breachdirectory.org/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Intel Techniques Breach Tool
     url: https://inteltechniques.com/tools/Breaches.html
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: projectdiscovery credential monitor
     url: https://cloud.projectdiscovery.io/leaks
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: breach VIP
     url: https://breach.vip/
     archive_url: https://web.archive.org/web/2/https://breach.vip/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: infodra
     url: https://infodra.com/
     archive_url: https://web.archive.org/web/2/https://infodra.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: hashcat
     url: https://github.com/hashcat/hashcat
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: john
     url: https://github.com/openwall/john
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: thc hydra
     url: https://github.com/vanhauser-thc/thc-hydra
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: CiLocks
     url: https://github.com/tegal1337/CiLocks
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Hashes
     url: https://hashes.com/en/decrypt/hash
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Hashes Escrow
     url: https://hashes.com/en/escrow/view
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Search that hash
     url: https://github.com/bee-san/Search-That-Hash
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Medusa
     url: https://www.kali.org/tools/medusa/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: mattw
     url: https://mattw.io/hashID/types
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: netexec
     url: https://www.netexec.wiki/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: haiti
     url: https://github.com/noraj/haiti
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: SecLists
     url: https://github.com/danielmiessler/SecLists
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: SecDictionary
     url: https://github.com/SexyBeast233/SecDictionary
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ffuf
     url: https://github.com/ffuf/ffuf
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Dictionary-Of-Pentesting
     url: https://github.com/insightglacier/Dictionary-Of-Pentesting
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: fuzzDicts
     url: https://github.com/TheKingOfDuck/fuzzDicts
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Web-Fuzzing-Box
     url: https://github.com/gh0stkey/Web-Fuzzing-Box
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: PentesterSpecialDict
     url: https://github.com/ppbibo/PentesterSpecialDict
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: fuzz.txt
     url: https://github.com/Bo0oM/fuzz.txt
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: wordlists
     url: https://github.com/assetnote/wordlists
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Hashmob
     url: https://hashmob.net/resources/hashmob
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: RockYou2024
     url: https://github.com/exploit-development/RockYou2024
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: bopscrk - Generate own wordlist
     url: https://github.com/r3nt0n/bopscrk
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: leakedpassword
     url: https://leakedpassword.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: top25-parameter
     url: https://github.com/lutfumertceylan/top25-parameter
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: weakpass.com/generate
     url: https://weakpass.com/generate
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: weakpass.com/generate/domains
     url: https://weakpass.com/generate/domains
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: weakpass
     url: https://github.com/zzzteph/weakpass
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: probable_subdomains
     url: https://github.com/zzzteph/probable_subdomains
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: crunch-wordlist
     url: https://sourceforge.net/projects/crunch-wordlist
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://sourceforge.net/projects/crunch-wordlist
   - name: Windows-Crunch
     url: https://github.com/shadwork/Windows-Crunch
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: DefaultCreds-cheat-sheet
     url: https://github.com/ihebski/DefaultCreds-cheat-sheet
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: datarecovery
     url: https://datarecovery.com/rd/default-passwords/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: cirt.net
     url: https://cirt.net/passwords
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: routerpasswords
     url: https://www.routerpasswords.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.routerpasswords.com/
   - name: portforward
     url: https://portforward.com/router-password/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: cleancss
     url: https://www.cleancss.com/router-default/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: toolmao
     url: https://www.toolmao.com/baiduapp/routerpwd/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: default-password
     url: https://default-password.info/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: many-password
     url: https://github.com/many-passwords/many-passwords?tab=readme-ov-file
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: BrowserGhost
     url: https://github.com/QAX-A-Team/BrowserGhost
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: firefox_decrypt
     url: https://github.com/unode/firefox_decrypt
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: how-does-MobaXterm-encrypt-password
     url: https://github.com/HyperSine/how-does-MobaXterm-encrypt-password
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: navicat_password_decrypt
     url: https://github.com/Zhuoyuan1/navicat_password_decrypt
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: how-does-navicat-encrypt-password
     url: https://github.com/HyperSine/how-does-navicat-encrypt-password
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Sunflower_get_Password
     url: https://github.com/wafinfo/Sunflower_get_Password
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: shcrt
     url: https://github.com/depau/shcrt
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: SharpDecryptPwd decrypt locally
     url: https://github.com/RowTeam/SharpDecryptPwd
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: SharpXDecrypt
     url: https://github.com/JDArmy/SharpXDecrypt
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Gfobins
     url: https://gtfobins.github.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Lolbas
     url: https://lolbas-project.github.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Loonbins
     url: https://www.loobins.io/tactics/collection/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Mac OS privilage escalation
     url: https://book.hacktricks.xyz/macos-hardening/macos-security-and-privilege-escalation
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: PEASS NG
     url: https://github.com/peass-ng/PEASS-ng
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: PEAS NG Kali Linux
     url: https://www.kali.org/tools/peass-ng/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: wadcoms
     url: https://wadcoms.github.io/#+Windows
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: g0tmi1k linux priv esc
     url: https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Windows Privilage Escalation
     url: https://github.com/Ignitetechnologies/Windows-Privilege-Escalation?tab=readme-ov-file
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: gtfoargs
     url: https://gtfoargs.github.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: loobins
     url: https://www.loobins.io/binaries/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: lots-project
     url: https://lots-project.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: wackopicko CSLAB
     url: https://wackopicko.csalab.app/
     archive_url: https://web.archive.org/web/2/https://wackopicko.csalab.app/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: 8ksec Battlegrounds
     url: https://8ksec.io/battle/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: juiceshop CSLAB
     url: https://juiceshop.csalab.app/#/
     archive_url: https://web.archive.org/web/2/https://juiceshop.csalab.app/#/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: dvwa CSLAB
     url: https://dvwa.csalab.app/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: hackthebox
     url: https://www.hackthebox.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: tryhackme
     url: https://tryhackme.com/
     archive_url: https://web.archive.org/web/2/https://tryhackme.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: LaraVuln Jieyab89
     url: https://github.com/Jieyab89/LaraVuln
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: game of active directory
     url: https://github.com/Orange-Cyberdefense/GOAD
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Damn-Vulnerable-Drone
     url: https://github.com/nicholasaleks/Damn-Vulnerable-Drone?tab=readme-ov-file
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: mobilehackinglab
     url: https://www.mobilehackinglab.com/free-mobile-hacking-labs
     archive_url: https://web.archive.org/web/2/https://www.mobilehackinglab.com/free-mobile-hacking-labs
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: hextree
     url: https://www.hextree.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Damn-Vulnerable-RESTaurant-API-Game
     url: https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game
     tags:
       - api
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: MBTL
     url: https://github.com/bayufedra/MBPTL
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Awesome vulnerable
     url: https://github.com/kaiiyer/awesome-vulnerable
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Pretexta social engineering simulation
     url: https://github.com/dalpan/Pretexta
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: PWNFOX
     url: https://addons.mozilla.org/id/firefox/addon/pwnfox/
     tags:
       - browser-extension
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: HAE
     url: https://github.com/xnl-h4ck3r/HandE-Burp-Extension
     tags:
       - browser-extension
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Jsminner
     url: https://github.com/PortSwigger/js-miner
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Java Deserialization Scanner
     url: https://portswigger.net/bappstore/228336544ebe4e68824b5146dbbd93ae
     archive_url: >-
       https://web.archive.org/web/2/https://portswigger.net/bappstore/228336544ebe4e68824b5146dbbd93ae
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: PyCript-WebSocket
     url: https://github.com/Anof-cyber/PyCript-WebSocket/
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Autorize
     url: https://portswigger.net/bappstore/f9bbac8c4acf4aefa4d7dc92a991af2f
     archive_url: >-
       https://web.archive.org/web/2/https://portswigger.net/bappstore/f9bbac8c4acf4aefa4d7dc92a991af2f
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Retire.js
     url: https://github.com/RetireJS/retire.js
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Upload Scanner
     url: https://portswigger.net/bappstore/b2244cbb6953442cb3c82fa0a0d908fa
     archive_url: >-
       https://web.archive.org/web/2/https://portswigger.net/bappstore/b2244cbb6953442cb3c82fa0a0d908fa
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Backslash Powered Scanner
     url: https://portswigger.net/bappstore/9cff8c55432a45808432e26dbb2b41d8
     archive_url: >-
       https://web.archive.org/web/2/https://portswigger.net/bappstore/9cff8c55432a45808432e26dbb2b41d8
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Turbo Intruder
     url: https://portswigger.net/bappstore/9abaa233088242e8be252cd4ff534988
     archive_url: >-
       https://web.archive.org/web/2/https://portswigger.net/bappstore/9abaa233088242e8be252cd4ff534988
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Wayback Machine
     url: https://portswigger.net/bappstore/5c7c516c690345c19fbf55b2b2ebeb76
     archive_url: >-
       https://web.archive.org/web/2/https://portswigger.net/bappstore/5c7c516c690345c19fbf55b2b2ebeb76
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: 403 Bypasser
     url: https://portswigger.net/bappstore/444407b96d9c4de0adb7aed89e826122
     archive_url: >-
       https://web.archive.org/web/2/https://portswigger.net/bappstore/444407b96d9c4de0adb7aed89e826122
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: BURP MCP SERVER
     url: https://github.com/PortSwigger/mcp-server
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: IP Rotate
     url: https://portswigger.net/bappstore/2eb2b1cb1cf34cc79cda36f0f9019874
     archive_url: >-
       https://web.archive.org/web/2/https://portswigger.net/bappstore/2eb2b1cb1cf34cc79cda36f0f9019874
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: cobaltstrike
     url: https://www.cobaltstrike.com/
     archive_url: https://web.archive.org/web/2/https://www.cobaltstrike.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: bruteratel C4
     url: https://bruteratel.com/tabs/tutorials/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Poweshell Empire
     url: https://bc-security.gitbook.io/empire-wiki
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Havoc
     url: https://github.com/HavocFramework/Havoc
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Starkiller
     url: https://github.com/BC-SECURITY/Starkiller
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: villain
     url: https://www.kali.org/tools/villain/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: sliver C2
     url: https://sliver.sh/docs
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: mythic C2
     url: https://docs.mythic-c2.net/installation
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Lki C2
     url: https://github.com/boku7/Loki
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: HAVOC
     url: https://havocframework.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: AdaptixC2
     url: https://github.com/Adaptix-Framework/AdaptixC2
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: exploitpack
     url: https://exploitpack.com/index.html
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: phpsploit
     url: https://github.com/nil0x42/phpsploit
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: C2concealer
     url: https://github.com/RedSiege/C2concealer
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Kali Linnux
     url: https://www.kali.org/tools/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: blackarch Linux
     url: https://blackarch.org/tools.html
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Parrot Sec Linux
     url: https://parrotsec.org/docs/category/tools/
     archive_url: https://web.archive.org/web/2/https://parrotsec.org/docs/category/tools/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: katoolin3 for Ubbuntu Kali tools
     url: https://github.com/s-h-3-l-l/katoolin3
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Ruber ducky
     url: https://shop.hak5.org/collections/hotplug-attack-tools/products/usb-rubber-ducky
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OMG cable
     url: https://shop.hak5.org/products/omg-cable
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: bash-bunny
     url: https://shop.hak5.org/collections/hotplug-attack-tools/products/bash-bunny
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: shark jack
     url: https://shop.hak5.org/collections/hotplug-attack-tools/products/shark-jack
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: LAN turtle
     url: https://shop.hak5.org/collections/implants/products/lan-turtle
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: HackRF
     url: https://greatscottgadgets.com/hackrf/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: bladeRF
     url: https://www.nuand.com/bladerf-1/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: RasberryPI
     url: https://www.raspberrypi.com/products/raspberry-pi-4-model-b/
     archive_url: https://web.archive.org/web/2/https://www.raspberrypi.com/products/raspberry-pi-4-model-b/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: RTL SDR
     url: https://www.rtl-sdr.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: usbkill
     url: https://usbkill.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OSMOCOM GSM
     url: https://osmocom.org/projects/baseband/wiki/Hardware
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: esp8266
     url: https://www.espressif.com/en/products/socs/esp8266
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: arduino
     url: https://www.arduino.cc/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: flipperzero
     url: https://flipperzero.one/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: wifi-pineapple
     url: https://shop.hak5.org/products/wifi-pineapple
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: LAN Cable
     url: https://en.wikipedia.org/wiki/Ethernet
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: LockPick
     url: https://en.wikipedia.org/wiki/Lock_picking
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: NodeMCU Board
     url: https://www.amazon.in/Easy-Electronics-NodeMcu-Development-Board/dp/B06XYRS6KC
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Chisel
     url: https://github.com/jpillora/chisel/releases/tag/v1.9.1
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Ligolo-NG
     url: https://github.com/nicocha30/ligolo-ng
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: NGROK
     url: >-
       https://swisskyrepo.github.io/InternalAllTheThings/redteam/pivoting/network-pivoting-techniques/#ngrok
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: SSH Pivoting
     url: https://cyberkhalid.github.io/posts/ssh-pivot/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: frp
     url: https://github.com/fatedier/frp
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Linux hardening checklist - CSA LAB
     url: https://csalab-id.github.io/documents/compliance/CIS_Benchmark_Ubuntu_24_04.pdf
     tags:
       - document
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: pentest-book
     url: https://github.com/six2dez/pentest-book
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: rlwrap
     url: https://pkg.kali.org/pkg/rlwrap
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: cobalt Strike Community Kit
     url: https://cobalt-strike.github.io/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://cobalt-strike.github.io/

@@ -8,45 +8,45 @@ items:
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Rocket reach
     url: https://rocketreach.co/person
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: reversecontact
     url: https://www.reversecontact.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Linkedin CSE - Search OSINT
     url: https://cse.google.com/cse?cx=daaf18e804f81bed0
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Linkedin Google Search Custom
     url: https://cse.google.com/cse?cx=002879889969213338875:ykfcyju2xe8
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Linkedin Google Search Custom 2
     url: https://cse.google.com/cse?cx=012951739560700154499:8rl_7tkzjgq#gsc.tab=0
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: coresignal
     url: https://coresignal.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Linkedin Attack Vector
     url: https://www.osintdojo.com/diagrams/linkedin
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: intelx Linkedin
     url: https://intelx.io/tools?tab=linkedin
     archive_url: https://web.archive.org/web/2/https://intelx.io/tools?tab=linkedin
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

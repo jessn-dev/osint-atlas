@@ -6,483 +6,488 @@ items:
   - name: soaratlas
     url: https://soaratlas.com/discover?q=jakarta
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://soaratlas.com/discover?q=jakarta
   - name: NASA Earth Data
     url: https://search.earthdata.nasa.gov/search
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: SOAR Earth
     url: https://soar.earth/maps?
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: apollomapping
     url: https://apollomapping.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://apollomapping.com/
   - name: MODIS NASA
     url: https://modis.gsfc.nasa.gov/gallery/
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ESRI
     url: https://geoxc-apps.bd.esri.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: n2yo
     url: https://www.n2yo.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: satellitemap
     url: https://satellitemap.space/?constellation=starlink
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: planet
     url: https://www.planet.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: space track
     url: https://www.space-track.org/auth/login
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: google earth
     url: https://earth.google.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: satellitetracker
     url: https://satellitetracker.net/
     archive_url: https://web.archive.org/web/2/https://satellitetracker.net/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: starlink
     url: https://www.starlink.com/map
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: orbtrack
     url: https://www.orbtrack.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: isstracker database
     url: https://isstracker.pl/en/satelity
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Zoom Earth
     url: https://zoom.earth/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: In the sky
     url: https://in-the-sky.org/satmap_worldmap.php
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Maxar
     url: https://www.maxar.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Windy
     url: https://www.windy.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Satellites Pro
     url: https://satellites.pro/
     tags:
       - paid
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://satellites.pro/
   - name: livingatlas
     url: https://livingatlas.arcgis.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: platform leo labs
     url: https://platform.leolabs.space/visualization
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: earthobservatory NASA
     url: https://earthobservatory.nasa.gov/global-maps
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: EO Browser
     url: https://apps.sentinel-hub.com/eo-browser/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: NASA Firms
     url: https://firms.modaps.eosdis.nasa.gov/
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: BMKG
     url: https://www.bmkg.go.id/satelit/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: GEE Google Earth Engine
     url: https://earthengine.google.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: NASA Worldview
     url: https://worldview.earthdata.nasa.gov/
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: dataspace
     url: https://browser.dataspace.copernicus.eu/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: imagehunter
     url: https://imagehunter.apollomapping.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://imagehunter.apollomapping.com/
   - name: earthkit
     url: https://earthkit.app/satellite
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: arcgis
     url: https://www.arcgis.com/apps/View/index.html
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: evdc ESA Orbit
     url: https://evdc.esa.int/orbit/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: skytruth
     url: https://cerulean.skytruth.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Alert skytruth
     url: https://monitor.skytruth.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Microsoft GlobalMLBuildingFootprints
     url: https://github.com/microsoft/GlobalMLBuildingFootprints
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: List of satellite map images with missing or unclear data
     url: https://en.wikipedia.org/wiki/List_of_satellite_map_images_with_missing_or_unclear_data
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ventusky
     url: https://www.ventusky.com/?p=-6.6;115.7;4&l=satellite
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: satdump
     url: https://www.satdump.org/about/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: airbus sat
     url: https://space-solutions.airbus.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: blacksky
     url: https://www.blacksky.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: EOS LAND SAT
     url: https://eos.com/landviewer/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: eorc JP
     url: https://www.eorc.jaxa.jp/ALOS/en/index_e.htm
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Copernicus
     url: >-
       https://atmosphere.copernicus.eu/charts/packages/cams/?facets=%7B%22Family%22%3A%5B%22Fires%22%5D%7D
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Meteorological Satellite Center Himawari Sat
     url: https://www.data.jma.go.jp/mscweb/data/himawari/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Earth ESA sat
     url: https://earth.esa.int/eogateway/missions/planetscope#instruments-section
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: euspaceimaging
     url: https://www.euspaceimaging.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: medgismar GIS
     url: https://medgismar.rempec.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: umbra open data
     url: https://umbra.space/open-data/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Bellingcat Monitor the Umbra open data catalogue
     url: https://github.com/bellingcat/umbra-open-data-tracker?tab=readme-ov-file
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ghgsat
     url: https://www.ghgsat.com/en/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: NASA EMIT
     url: https://earth.jpl.nasa.gov/emit/
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: NASA NEO
     url: https://neo.gsfc.nasa.gov/
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: AWS Earth
     url: https://aws.amazon.com/earth/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: NOAA Data Access Viewer
     url: https://coast.noaa.gov/dataviewer/#/
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: capellaspace
     url: https://www.capellaspace.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: shadowbreakintl
     url: https://www.shadowbreakintl.com/#products
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: globalforestwatch
     url: https://www.globalforestwatch.org/map/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: HERE MAP
     url: https://maps.here.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: s2maps
     url: https://s2maps.eu/#
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: mapbox
     url: https://www.mapbox.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: wego here
     url: https://wego.here.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Mapquest
     url: https://www.mapquest.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Earth Exploer
     url: https://earthexplorer.usgs.gov/
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: leaflet
     url: https://leaflet-extras.github.io/leaflet-providers/preview/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: cesium
     url: https://cesium.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: maxar geohive
     url: https://geohive.maxar.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ongeo
     url: https://ongeo-intelligence.com/satellite-imagery-report
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Sat selfi by Mark Rober
     url: https://space.crunchlabs.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://space.crunchlabs.com/
   - name: stuffin space sat map
     url: https://stuffin.space/
     archive_url: https://web.archive.org/web/2/https://stuffin.space/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: NASA Sat list and mission
     url: https://www.nasa.gov/a-to-z-of-nasa-missions/
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: SatIntel - sat osint cli
     url: https://github.com/ANG13T/SatIntel
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Hack a sat CTF WU
     url: https://github.com/deptofdefense/hack-a-sat-library
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: MDA SPACE
     url: https://mda.space/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: unosat
     url: https://unosat.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: robosat
     url: https://github.com/mapbox/robosat
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: satellitevu - high thermal
     url: https://www.satellitevu.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Iceye Sat
     url: https://www.iceye.com/satellites
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: albedo
     url: https://albedo.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Sentinel 1 copernicus
     url: https://sentinels.copernicus.eu/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ESA
     url: https://www.esa.int/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Sentinel Hub
     url: https://www.sentinel-hub.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: vantor
     url: https://vantor.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: NASA visibleearth catalog
     url: https://visibleearth.nasa.gov/
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Copy over live data sat
     url: https://copy-over.com/feeds?tab=satellites
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: openaerialmap search and find sat image
     url: https://map.openaerialmap.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Landsat Sat
     url: https://id.wikipedia.org/wiki/Program_Landsat
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: MODIS Sat
     url: https://id.wikipedia.org/wiki/Moderate-Resolution_Imaging_Spectroradiometer
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Suomi NPP Sat
     url: https://fi.wikipedia.org/wiki/Suomi_NPP
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Sentinel-3 Sat
     url: https://en.wikipedia.org/wiki/Sentinel-3
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Guide Remote Sensing
     url: https://bellingcat.github.io/RS4OSINT/A2_Remote_Sensing.html
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Sentinel 2 Bands and Combinations
     url: https://gisgeography.com/sentinel-2-bands-combinations/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Visualizing a Marine Oil Spill with Sentinel-2 MSI Imagery
     url: >-
       https://medium.com/@anapau_diazg/visualizing-a-marine-oil-spill-with-sentinel-2-msi-imagery-cb0aaa2045b
@@ -490,7 +495,7 @@ items:
       https://web.archive.org/web/2/https://medium.com/@anapau_diazg/visualizing-a-marine-oil-spill-with-sentinel-2-msi-imagery-cb0aaa2045b
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: >-
       NOAA Contracts with Planet to Gain Situational Awareness of Oil Spills, Marine Debris, and
       Marine Life
@@ -498,56 +503,57 @@ items:
       https://www.planet.com/pulse/noaa-contracts-with-planet-to-gain-situational-awareness-of-oil-spills-marine-debris-and-marine-life/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Aerial Observation and Identification Guide
     url: https://www.amsa.gov.au/sites/default/files/2014-01-mp-amsa22-identification-oil-on-water.pdf
     tags:
       - document
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: What does real-time satellite data really look like?
     url: https://skywatch.com/real-time-satellite-data/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://skywatch.com/real-time-satellite-data/
   - name: Starting Satellite Investigations
     url: https://exposingtheinvisible.org/en/guides/starting-satellite-investigations/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: A Journalist's Guide to using AI + Satellite Imagery for Storytelling
     url: >-
       https://aifromabove.notion.site/A-Journalist-s-Guide-to-using-AI-Satellite-Imagery-for-Storytelling-c32a310269124f069da96b73e872e574
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: How to analyse satellite imagery
     url: https://institute.aljazeera.net/en/ajr/article/2191
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: A Beginner's Guide to Sentinel Hub
     url: https://citizenevidence.org/2023/03/21/summit-series-a-beginners-guide-to-sentinel-hub/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Reporter's Tipsheet for Acquiring Free Satellite Images
     url: https://gijn.org/resource/guide-acquire-free-satellite-images/
     archive_url: https://web.archive.org/web/2/https://gijn.org/resource/guide-acquire-free-satellite-images/
     tags:
       - free
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Automatic Detection of War-Destroyed Buildings from High-Resolution Remote Sensing Images
     url: https://www.mdpi.com/2072-4292/17/3/509
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: >-
       Earthquake building damage detection based on synthetic-aperture-radar imagery and machine
       learning
     url: https://nhess.copernicus.org/articles/23/789/2023/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

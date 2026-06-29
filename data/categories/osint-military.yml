@@ -7,401 +7,408 @@ items:
     url: https://phantom.labs.jamessawyer.co.uk/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: List of aircraft carriers
     url: https://en.wikipedia.org/wiki/List_of_aircraft_carriers
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: globalsecurity military
     url: https://www.globalsecurity.org/military/index.html
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: 3D Rendered Synthetic Data
     url: https://vframe.io/3d-rendered-data/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: militaryfactory
     url: https://www.militaryfactory.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.militaryfactory.com/
   - name: Military and other uniform badges
     url: https://www.uniforminsignia.net/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: SMALL ARMS SURVEY
     url: >-
       https://www.smallarmssurvey.org/resource/introductory-guide-identification-small-arms-light-weapons-and-associated-ammunition
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: dfrlab.org
     url: https://dfrlab.org/research/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: atlanticcouncil
     url: https://www.atlanticcouncil.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: NASA EARTH
     url: https://www.earthdata.nasa.gov/learn/find-data/near-real-time/firms
     tags:
       - official
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: >-
+      https://web.archive.org/web/2/https://www.earthdata.nasa.gov/learn/find-data/near-real-time/firms
   - name: EARTH DATA NASA
     url: https://wvs.earthdata.nasa.gov/
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: peakvisor
     url: https://peakvisor.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: peakfinder
     url: https://www.peakfinder.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Geoconfirmed
     url: https://geoconfirmed.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Air Wars
     url: https://airwars.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Copernicus
     url: >-
       https://atmosphere.copernicus.eu/charts/packages/cams/?facets=%7B%22Family%22%3A%5B%22Fires%22%5D%7D
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Ej Atlas
     url: https://ejatlas.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Intro OSINT Military
     url: >-
       https://www.linkedin.com/pulse/mastering-military-osint-comprehensive-guide-modern-niels-groeneveld
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Skylens
     url: https://app.skylens.io/
     archive_url: https://web.archive.org/web/2/https://app.skylens.io/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Kamerka
     url: https://github.com/woj-ciech/Kamerka-GUI
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: onemilliontweetmap
     url: https://onemilliontweetmap.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: birdhunt
     url: https://birdhunt.co/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: garmin
     url: https://www.garmin.co.id/products/outdoor/gpsmap64s-sea/
     archive_url: https://web.archive.org/web/2/https://www.garmin.co.id/products/outdoor/gpsmap64s-sea/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: SALW
     url: https://salw-dashboard.electrifai.net/analytics/main
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Earth ESA
     url: https://earth.esa.int/eogateway
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: APP Sentinel
     url: https://apps.sentinel-hub.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: NASA Fire Dataset
     url: https://firms.modaps.eosdis.nasa.gov/
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Google Earth Pro
     url: https://earth.google.com/web/
     tags:
       - paid
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: CIA GOV
     url: https://www.cia.gov/the-world-factbook/
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Acleddata
     url: https://acleddata.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://acleddata.com/
   - name: Global Conflict
     url: https://www.cfr.org/global-conflict-tracker
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Google Public Data
     url: https://www.google.com/publicdata/directory
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: huntintel
     url: https://www.huntintel.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: planet
     url: https://www.planet.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: NBR Map
     url: https://map.nbr.org/interactivemap/
     archive_url: https://web.archive.org/web/2/https://map.nbr.org/interactivemap/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ADS B Tracking Military Aircraft
     url: https://www.ads-b.nl/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: itamilradar
     url: https://www.itamilradar.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: info-res
     url: https://www.info-res.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: syria.liveuamap
     url: https://syria.liveuamap.com/
     archive_url: https://web.archive.org/web/2/https://syria.liveuamap.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: NATO INT
     url: https://www.nato.int/nato-on-the-map/
     archive_url: https://web.archive.org/web/2/https://www.nato.int/nato-on-the-map/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: understandingwar
     url: https://www.understandingwar.org/map-room
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: worldbeyondwar
     url: https://worldbeyondwar.org/no-bases/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: planefinder
     url: https://planefinder.net/
     archive_url: https://web.archive.org/web/2/https://planefinder.net/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: WEB SDR
     url: http://websdr.ewi.utwente.nl:8901/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Bellingcat Radar
     url: https://ollielballinger.users.earthengine.app/view/bellingcat-radar-interference-tracker
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: airrecognition
     url: https://web.archive.org/web/20240000000000*/https://airrecognition.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: gpsjam
     url: https://gpsjam.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: freemaptools
     url: https://www.freemaptools.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: earthobservatory NASA
     url: https://earthobservatory.nasa.gov/global-maps
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: mooncalc
     url: https://www.mooncalc.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: suncalc
     url: https://www.suncalc.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: moonsighting
     url: https://www.moonsighting.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.moonsighting.com/
   - name: mooncalendar
     url: https://www.mooncalc.org/mooncalendar/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: conflict-damage
     url: https://www.conflict-damage.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Liveuamap
     url: https://liveuamap.com/
     archive_url: https://web.archive.org/web/2/https://liveuamap.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Arcgis Military Overlay
     url: https://solutions.arcgis.com/defense/help/military-overlay/#requirements
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: cesium
     url: https://ion.cesium.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: armscontrol
     url: https://www.armscontrol.org/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.armscontrol.org/
   - name: sipri
     url: https://www.sipri.org/databases
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: 'Online Identification of Explosive Ordnance: Resources'
     url: >-
       https://docs.google.com/spreadsheets/d/19xNmsQpcz7UwHOPy1Zrwud-2jVdctulT5W3_0fUNn8k/edit?gid=0#gid=0
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: skyvector
     url: https://skyvector.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: airspace
     url: https://www.airspace-review.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: worldview NASA
     url: https://worldview.earthdata.nasa.gov/
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Ukraine Cyber Operation
     url: https://github.com/curated-intel/Ukraine-Cyber-Operations
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Microsoft GlobalMLBuildingFootprints
     url: https://github.com/microsoft/GlobalMLBuildingFootprints
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Conflict Gaza damage
     url: https://ee-ollielballinger.projects.earthengine.app/view/gazadamage
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Conflict Ukraine damage
     url: https://oballinger.github.io/PWTT/#ukraine-damage-assessment
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Ukriane Bellingcat Map
     url: https://ukraine.bellingcat.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: bulletpicker
     url: https://www.bulletpicker.com/celluloid.html
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.bulletpicker.com/celluloid.html
   - name: Open Source Munitions Portal (OSMP)
     url: https://osmp.ngo/
     archive_url: https://web.archive.org/web/2/https://osmp.ngo/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Table of explosive detonation velocities
     url: https://en.wikipedia.org/wiki/Table_of_explosive_detonation_velocities
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Types of explosive ordnance
     url: https://www.gichd.org/explosive-ordnance/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: conflictarm - Weapon Documentary
     url: https://www.conflictarm.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Guide Identification Weapon
     url: https://www.jmu.edu/cisr/research/index.shtml
     tags:
       - academic
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Norwegua Defense Research & Publication
     url: https://ffi-publikasjoner.archive.knowledgearc.net/discover
     archive_url: https://web.archive.org/web/2/https://ffi-publikasjoner.archive.knowledgearc.net/discover
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: The Rocket Artillery Reference Book
     url: >-
       https://ffi-publikasjoner.archive.knowledgearc.net/bitstream/handle/20.500.12242/2257/09-00179.pdf
@@ -410,121 +417,123 @@ items:
     tags:
       - document
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: globalsecurity AMMUNITION COLOR CODES
     url: https://www.globalsecurity.org/military/world/index.html
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Color-Coded Bullets Tips
     url: https://forensicreader.com/color-coded-bullets-tables/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: cat-uxo weapon and missile
     url: https://cat-uxo.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: osm-tag-info-military
     url: https://taginfo.openstreetmap.org/keys/military#map
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Aircraft Mil Dataset
     url: https://github.com/sdr-enthusiasts/plane-alert-db
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: live-military
     url: https://www.live-military-mode-s.eu/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: hotgunz
     url: https://www.hotgunz.com/search.php
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.hotgunz.com/search.php
   - name: camopedia
     url: https://camopedia.org/index.php/Indonesia
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Wikipedia Milltary Ranks
     url: https://en.wikipedia.org/wiki/List_of_comparative_military_ranks
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ICRC International Committee of the Red Cross
     url: https://www.icrc.org/en
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Explosive damage blast estimation
     url: https://unsaferguard.org/un-saferguard/blast-damage-estimation
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: nuclearsecrecy estimate calculator
     url: https://nuclearsecrecy.com/nukemap/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: nuclearweaponsedproj calculator
     url: https://nuclearweaponsedproj.mit.edu/Node/114
     archive_url: https://web.archive.org/web/2/https://nuclearweaponsedproj.mit.edu/Node/114
     tags:
       - academic
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: outrider nuclear weapon calculator area with animation
     url: https://outrider.org/nuclear-weapons/interactive/bomb-blast
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Military Aircraft Wiki
     url: https://en.wikipedia.org/wiki/Military_aircraft
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: globalfirepower
     url: https://www.globalfirepower.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.globalfirepower.com/
   - name: worldatlas
     url: https://www.worldatlas.com/countries
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: army-technology
     url: https://www.army-technology.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: zones_nucleardetonation
     url: https://remm.hhs.gov/zones_nucleardetonation.htm
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: nuclearsecrecy missil map simulation
     url: https://nuclearsecrecy.com/missilemap/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: atomicarchive awesome to learn sains and chemistry
     url: https://www.atomicarchive.com/resources/links/index.html
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Cryptome - search doc about publication that are prohibited by government
     url: https://cryptome.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Tipsheet for Investigative Journalists on War Crimes and Open Source Research
     url: >-
       https://gijn.org/resource/tipsheet-for-investigative-journalists-on-war-crimes-and-open-source-research/
@@ -532,153 +541,156 @@ items:
       https://web.archive.org/web/2/https://gijn.org/resource/tipsheet-for-investigative-journalists-on-war-crimes-and-open-source-research/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ARES
     url: https://armamentresearch.com/
     archive_url: https://web.archive.org/web/2/https://armamentresearch.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: eyesonrussia
     url: https://eyesonrussia.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: blacksky
     url: https://www.blacksky.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: military radar
     url: https://military.freedar.uk/
     archive_url: https://web.archive.org/web/2/https://military.freedar.uk/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: sourcehere
     url: https://sourcehere.com/search
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ID indodefence
     url: https://indodefence.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://indodefence.com/
   - name: israelpalestine war map
     url: https://israelpalestine.liveuamap.com/
     archive_url: https://web.archive.org/web/2/https://israelpalestine.liveuamap.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: iplivecams tel aviv Israel
     url: https://www.iplivecams.com/live-cams/tel-aviv-yafo-israel/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: camscape
     url: https://www.camscape.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: tzevaadom map event
     url: https://www.tzevaadom.co.il/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: flightradar24 gps jamming
     url: https://www.flightradar24.com/data/gps-jamming?date=2025-06-19
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.flightradar24.com/data/gps-jamming?date=2025-06-19
   - name: warpowerindonesia
     url: https://www.warpowerindonesia.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.warpowerindonesia.com/
   - name: vantor
     url: https://vantor.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: maps tochnyi mostly Ukraine war
     url: https://maps.tochnyi.info/humansafari/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: understandingwar
     url: https://understandingwar.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: War Thunder
     url: https://warthunder.com/en
     archive_url: https://web.archive.org/web/2/https://warthunder.com/en
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Modern Warship
     url: https://promo.worldofwarships.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Microsoft Flight Simulator
     url: https://www.flightsimulator.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Airsoft Gun
     url: https://en.wikipedia.org/wiki/Airsoft_gun
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Arma Reforger
     url: https://store.steampowered.com/app/1874880/Arma_Reforger/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Sniper Ghost Warrior Contracts 2
     url: https://store.steampowered.com/app/1338770/Sniper_Ghost_Warrior_Contracts_2/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Ready or Not
     url: https://store.steampowered.com/app/1144200/Ready_or_Not/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: FalconLaw
     url: https://www.youtube.com/@falconclaw_
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: GarandThumb
     url: https://www.youtube.com/@GarandThumb
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: The FieldCraft Survival Channel
     url: https://www.youtube.com/@fieldcraftsurvival
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ID LycmaMilTech
     url: https://www.youtube.com/@LycmaMilTech
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: wiki firearm brands
     url: https://en.wikipedia.org/wiki/List_of_firearm_brands
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Armament Research Services (ARES) Podcast
     url: https://rss.com/podcasts/bellingcatstagetalk/1945244/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: smallarmssurvey
     url: https://www.smallarmssurvey.org/databases
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

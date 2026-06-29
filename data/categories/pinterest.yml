@@ -7,15 +7,16 @@ items:
     url: http://pingroupie.com
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Pinterest Downloader
     url: https://www.expertsphp.com/pinterest-photo-downloader.html
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.expertsphp.com/pinterest-photo-downloader.html
   - name: Pinterest search
     url: https://sourcinglab.io/search/pinterest
     archive_url: https://web.archive.org/web/2/https://sourcinglab.io/search/pinterest
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

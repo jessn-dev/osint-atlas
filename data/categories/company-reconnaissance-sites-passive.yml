@@ -7,455 +7,457 @@ items:
     url: https://nemesis.assai.id/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Hunter
     url: https://hunter.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: SignalHire
     url: https://www.signalhire.com/
     archive_url: https://web.archive.org/web/2/https://www.signalhire.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Spiderfoot
     url: https://www.spiderfoot.net/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Spiderfoot HX
     url: https://www.spiderfoot.net/open-source-vs-hx/
     archive_url: https://web.archive.org/web/2/https://www.spiderfoot.net/open-source-vs-hx/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Rocket Reach
     url: https://rocketreach.co/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Glasdoor
     url: https://www.glassdoor.com/
     archive_url: https://web.archive.org/web/2/https://www.glassdoor.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Linkedin
     url: https://www.linkedin.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Indeed
     url: https://www.indeed.com/companies?from=gnav-title-webapp
     archive_url: https://web.archive.org/web/2/https://www.indeed.com/companies?from=gnav-title-webapp
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ZoomInfo
     url: https://www.zoominfo.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Crunchbase
     url: https://www.crunchbase.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Apolo
     url: https://www.apollo.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Lusha
     url: https://www.lusha.com/
     archive_url: https://web.archive.org/web/2/https://www.lusha.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Jobstreet
     url: https://www.jobstreet.com.ph/
     archive_url: https://web.archive.org/web/2/https://www.jobstreet.com.ph/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: BOTW
     url: https://botw.org/
     archive_url: https://web.archive.org/web/2/https://botw.org/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: opencorporates
     url: https://opencorporates.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Data OCCRP
     url: https://data.occrp.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OSINT Maps
     url: https://cybdetective.com/osintmap/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Tripadvisor
     url: https://www.tripadvisor.com/
     archive_url: https://web.archive.org/web/2/https://www.tripadvisor.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Trustindex
     url: https://www.trustindex.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: G Map Review
     url: https://www.google.com/maps/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Provenexpert
     url: https://www.provenexpert.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: SIMPU RI
     url: https://umrahcerdas.kemenag.go.id/
     archive_url: https://web.archive.org/web/2/https://umrahcerdas.kemenag.go.id/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: collegerecruiter
     url: https://www.collegerecruiter.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: corporationwiki
     url: https://www.corporationwiki.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.corporationwiki.com/
   - name: Maltego social links
     url: https://www.maltego.com/transform-hub/social-links-ce/
     tags:
       - maltego
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: indokontraktor ID
     url: https://indokontraktor.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: opentender ID
     url: https://opentender.net/
-    archive_url: https://web.archive.org/web/2/https://opentender.net/
     tags: []
-    status: dead
-    last_checked: '2026-06-23'
+    status: active
+    last_checked: '2026-06-29'
   - name: IndoTender ID
     url: https://indotender.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://indotender.com/
   - name: ahu ID
     url: https://ahu.go.id/pencarian/profil-pt
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Minerba ESDM ID
     url: https://momi.minerba.esdm.go.id/gisportal/home/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: MODI ID
     url: https://modi.esdm.go.id/portal/dataPerusahaan
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Minerba ESDM ID Map
     url: https://momi.minerba.esdm.go.id/public/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: HAKI ID
     url: https://pdki-indonesia.dgip.go.id/search?type=trademark&keyword=
-    archive_url: https://web.archive.org/web/2/https://pdki-indonesia.dgip.go.id/search?type=trademark&keyword=
     tags: []
-    status: dead
-    last_checked: '2026-06-23'
+    status: active
+    last_checked: '2026-06-29'
   - name: Email Format
     url: https://www.email-format.com/i/search/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: opensanctions
     url: https://www.opensanctions.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ALEPT OCCRP
     url: https://aleph.occrp.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: offshoreleaks
     url: https://offshoreleaks.icij.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: gajiterbaru
     url: https://gajiterbaru.id/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: sociallinks
     url: https://sociallinks.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Job Planet
     url: https://id.jobplanet.com/
     archive_url: https://web.archive.org/web/2/https://id.jobplanet.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Deals Job
     url: https://dealls.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Pay Scale
     url: https://www.payscale.com/research/US/Employer
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: salary
     url: https://www.salary.com/research/employer
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Paylab Salary Info
     url: https://www.paylab.com/id/salaryinfo
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: emploleaks
     url: https://github.com/infobyte/emploleaks
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: UK Company Search
     url: https://find-and-update.company-information.service.gov.uk/
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Venture Radar
     url: https://www.ventureradar.com/search
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: tracxn
     url: https://tracxn.com/?redirect=false
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Kemenperin ID
     url: https://kemenperin.go.id/direktori-perusahaan
     archive_url: https://web.archive.org/web/2/https://kemenperin.go.id/direktori-perusahaan
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: IDX ID
     url: https://www.idx.co.id/en/listed-companies/company-profiles
     archive_url: https://web.archive.org/web/2/https://www.idx.co.id/en/listed-companies/company-profiles
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: OJK ID
     url: https://www.ojk.go.id/id/kanal/iknb/data-dan-statistik/direktori/direktori-iknb/Default.aspx
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: lpse lkpp ID
     url: https://lpse.lkpp.go.id/eproc4
     archive_url: https://web.archive.org/web/2/https://lpse.lkpp.go.id/eproc4
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: companieshouse ID
     url: https://companieshouse.id/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://companieshouse.id/
   - name: Fintech ID
     url: https://fintech.id/id/member
     archive_url: https://web.archive.org/web/2/https://fintech.id/id/member
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Website informer
     url: https://website.informer.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: contactout
     url: https://contactout.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: opensecrets
     url: https://www.opensecrets.org/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.opensecrets.org/
   - name: spyfu
     url: https://www.spyfu.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: google finance
     url: https://www.google.com/finance/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: siteworthtraffic
     url: https://www.siteworthtraffic.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ID Bappebti
     url: https://ceklegalitas.bappebti.go.id/
-    archive_url: https://web.archive.org/web/2/https://ceklegalitas.bappebti.go.id/
     tags: []
-    status: dead
-    last_checked: '2026-06-23'
+    status: active
+    last_checked: '2026-06-29'
   - name: candid
     url: https://app.candid.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: mycareersfuture SG
     url: https://www.mycareersfuture.gov.sg/
     tags:
       - official
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: protocol
     url: https://protocol.ooo/
     archive_url: https://web.archive.org/web/2/https://protocol.ooo/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: snef SG
     url: https://snef.org.sg/
-    archive_url: https://web.archive.org/web/2/https://snef.org.sg/
     tags: []
-    status: dead
-    last_checked: '2026-06-23'
+    status: active
+    last_checked: '2026-06-29'
   - name: kendoemailapp
     url: https://kendoemailapp.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: sgpbusiness
     url: https://www.sgpbusiness.com/
     archive_url: https://web.archive.org/web/2/https://www.sgpbusiness.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: CrossLinked
     url: https://github.com/m8sec/CrossLinked
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: resourcecontracts
     url: https://www.resourcecontracts.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: sayari
     url: https://sayari.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: lexisnexis
     url: https://www.lexisnexis.com/en-us
     archive_url: https://web.archive.org/web/2/https://www.lexisnexis.com/en-us
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Public Database of Domestic Politically Exposed Persons of Russia, Belarus and Kazakhstan
     url: https://rupep.org/en/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://rupep.org/en/
   - name: ID E catalogue
     url: https://e-katalog.lkpp.go.id/
     archive_url: https://web.archive.org/web/2/https://e-katalog.lkpp.go.id/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ID SIRUP LKPP
     url: https://sirup.lkpp.go.id/sirup/rekap/klpd/L40
     archive_url: https://web.archive.org/web/2/https://sirup.lkpp.go.id/sirup/rekap/klpd/L40
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ID INAPROC daftar hitam penyedia
     url: https://daftar-hitam.inaproc.id/
     archive_url: https://web.archive.org/web/2/https://daftar-hitam.inaproc.id/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ID SIKAP CARI PELAKU USAHA
     url: https://sikap.lkpp.go.id/pelaku-usaha/cari
     archive_url: https://web.archive.org/web/2/https://sikap.lkpp.go.id/pelaku-usaha/cari
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: ID TKDN Kemenperin
     url: https://tkdn.kemenperin.go.id/search.php?where=perush&what=
     archive_url: https://web.archive.org/web/2/https://tkdn.kemenperin.go.id/search.php?where=perush&what=
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: WIPO INT
     url: https://branddb.wipo.int/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: urlvoid
     url: https://www.urlvoid.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: chinaconnects
     url: https://chinaconnects.iiss.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: libraryofleaks
     url: https://search.libraryofleaks.org/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: open-search aleph
     url: https://open-search.aleph-networks.eu/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: usersearch
     url: https://usersearch.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://usersearch.com/
   - name: geoportal ESDM ID
     url: https://geoportal.esdm.go.id/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

@@ -7,118 +7,120 @@ items:
     url: https://whatsanalyze-80665.web.app/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: WhatsApp Group Links
     url: https://whatsgrouplink.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Download WhatsApp Profile Picture
     url: https://watools.io/download-profile-picture
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: realgrouplinks
     url: https://realgrouplinks.com/
     archive_url: https://web.archive.org/web/2/https://realgrouplinks.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: whatsapp Law Enforcement Online Requests
     url: https://www.whatsapp.com/records/login
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Whatsapp profile picture checker and other
     url: https://whatsapp.checkleaked.cc/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: WhatsApp-OSINT
     url: https://github.com/kinghacker0/WhatsApp-OSINT?tab=readme-ov-file
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Telegram viewer
     url: https://xn--r1a.website/#
     tags:
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: TelegramDB
     url: http://www.telegramdb.org/
     archive_url: https://web.archive.org/web/2/http://www.telegramdb.org/
     tags:
       - telegram
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Telegram Search Engine
     url: https://xtea.io/
     tags:
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Telegram channels and groups catalog
     url: https://tgstat.com/
     tags:
       - telegram
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://tgstat.com/
   - name: Social Finder
     url: https://socialfinder.app/list/Telegram
     archive_url: https://web.archive.org/web/2/https://socialfinder.app/list/Telegram
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Telegago
     url: >-
       https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Lyzem Search
     url: https://lyzem.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Discover The Best Telegram Channels
     url: https://telegramchannels.me/
     tags:
       - telegram
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://telegramchannels.me/
   - name: Tele Channel Overiview
     url: https://telemetr.io/
     archive_url: https://web.archive.org/web/2/https://telemetr.io/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: TGDev
     url: https://tgdev.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Teletehon
     url: https://docs.telethon.dev/en/stable/basic/installation.html
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Telegram Search CSE
     url: https://cse.google.com/cse?cx=004805129374225513871:p8lhfo0g3hg&q=
     tags:
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Bellingcat Telegram Joiner
     url: https://bellingcat.github.io/telegram-group-joiner/
     tags:
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: instagram spoiler Decode hidden text from Telegram
     url: https://spoiler.soxoj.com/
     tags:
       - telegram
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

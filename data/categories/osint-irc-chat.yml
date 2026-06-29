@@ -7,14 +7,14 @@ items:
     url: https://netsplit.de/channels/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: kiwiirc
     url: https://kiwiirc.com/search
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: sn0int irc-monitor
     url: https://sn0int.com/r/kpcyrd/irc-monitor
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'

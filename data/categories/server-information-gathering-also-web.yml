@@ -7,109 +7,111 @@ items:
     url: https://viewdns.info/iphistory/?domain
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: cloudflare radar
     url: https://radar.cloudflare.com/
     archive_url: https://web.archive.org/web/2/https://radar.cloudflare.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: fullhunt
     url: https://fullhunt.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: shodan
     url: https://www.shodan.io/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://www.shodan.io/
   - name: hunter
     url: https://hunter.how/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: odin
     url: https://search.odin.io/
     archive_url: https://web.archive.org/web/2/https://search.odin.io/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: onyphe
     url: https://search.onyphe.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: censys
     url: https://search.censys.io/
     archive_url: https://web.archive.org/web/2/https://search.censys.io/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: zoomeye
     url: https://www.zoomeye.ai/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: zoomeye mcp
     url: https://github.com/zoomeye-ai/mcp_zoomeye
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: greynoise
     url: https://viz.greynoise.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Testssl
     url: https://testssl.sh/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: Nesus
     url: https://www.tenable.com/products/nessus
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: securitytrails
     url: https://securitytrails.com/
     archive_url: https://web.archive.org/web/2/https://securitytrails.com/
     tags: []
     status: dead
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: SSL Scan
     url: https://www.kali.org/tools/sslscan/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: subdomainfinder search history subdomain
     url: https://subdomainfinder.c99.nl/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: godaddy
     url: https://www.godaddy.com/en
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: host io
     url: https://host.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: crt.sh
     url: https://crt.sh/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
   - name: dnsdumpster
     url: https://dnsdumpster.com/
     tags: []
-    status: active
-    last_checked: '2026-06-23'
+    status: dead
+    last_checked: '2026-06-29'
+    archive_url: https://web.archive.org/web/2/https://dnsdumpster.com/
   - name: rapiddns
     url: https://rapiddns.io/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-06-29'
