@@ -159,3 +159,12 @@ items:
       - open-source
     status: active
     last_checked: '2026-06-23'
+  - name: twifork (twikit) - Twitter scrapper
+    url: https://github.com/PawiX25/twifork
+    tags:
+      - open-source
+    status: unchecked
+  - name: TikTokApi
+    url: https://pypi.org/project/TikTokApi/
+    tags: []
+    status: unchecked

@@ -225,3 +225,19 @@ items:
     tags: []
     status: active
     last_checked: '2026-06-23'
+  - name: picuki
+    url: https://picuki.site/
+    tags: []
+    status: unchecked
+  - name: viewsocials
+    url: https://www.viewsocials.com/
+    tags: []
+    status: unchecked
+  - name: anonstories
+    url: https://anonstories.org/
+    tags: []
+    status: unchecked
+  - name: InstaStoriesViewer
+    url: https://insta-stories-viewer.com/opposite6890.recon/
+    tags: []
+    status: unchecked

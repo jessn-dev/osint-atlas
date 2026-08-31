@@ -495,3 +495,11 @@ items:
     tags: []
     status: active
     last_checked: '2026-06-23'
+  - name: windvane
+    url: https://windvane.lichoin.com/
+    tags: []
+    status: unchecked
+  - name: tomba
+    url: https://tomba.io/
+    tags: []
+    status: unchecked

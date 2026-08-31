@@ -393,3 +393,16 @@ items:
     tags: []
     status: active
     last_checked: '2026-06-23'
+  - name: Jieyab ft Xquik Twitter Scrappe and MCP and monitoring
+    url: https://github.com/Jieyab89/OSINT-Cheat-sheet/tree/main/Script/SOCMINT-Twitter
+    tags:
+      - open-source
+    status: unchecked
+  - name: trends24 whats trend in X arround world
+    url: https://trends24.in/indonesia/
+    tags: []
+    status: unchecked
+  - name: Xquik
+    url: https://xquik.com/
+    tags: []
+    status: unchecked

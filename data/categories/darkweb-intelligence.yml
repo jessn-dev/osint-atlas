@@ -615,3 +615,9 @@ items:
       - onion
     status: dead
     last_checked: '2026-06-23'
+  - name: Jieyab89 darkweb scrapping link
+    url: >-
+      https://github.com/Jieyab89/OSINT-Cheat-sheet/blob/main/Script/Darkweb-Scrapping/onion-site-directory-scrapper.py
+    tags:
+      - open-source
+    status: unchecked

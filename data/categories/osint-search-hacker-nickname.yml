@@ -129,3 +129,11 @@ items:
     tags: []
     status: active
     last_checked: '2026-06-23'
+  - name: breach-hq
+    url: https://breach-hq.com/threat-actors
+    tags: []
+    status: unchecked
+  - name: mirror h archived
+    url: https://web.archive.org/web/*/https://mirror-h.org/*
+    tags: []
+    status: unchecked
