@@ -7,25 +7,25 @@ items:
     url: https://seosly.com/blog/yandex-search-operators/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-09-07'
   - name: BING
     url: https://seosly.com/blog/bing-search-operators/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-09-07'
   - name: mediasova
     url: https://search.mediasova.com/en/index
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-09-07'
   - name: wbmii
     url: https://webmii.com/
     tags: []
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-09-07'
   - name: YaSeeker - Yandex Search Tools
     url: https://github.com/HowToFind-bot/YaSeeker
     tags:
       - open-source
     status: active
-    last_checked: '2026-06-23'
+    last_checked: '2026-09-07'
