@@ -301,3 +301,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+  - name: US autocheck
+    url: https://www.autocheck.com/
+    tags: []
+    status: unchecked
