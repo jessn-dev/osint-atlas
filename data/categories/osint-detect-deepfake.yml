@@ -122,3 +122,24 @@ items:
     tags: []
     status: active
     last_checked: '2026-06-23'
+  - name: DeepFake-O-Meter
+    url: https://zinc.cse.buffalo.edu/
+    tags:
+      - academic
+    status: unchecked
+  - name: deepai
+    url: https://deepai.org/
+    tags: []
+    status: unchecked
+  - name: decopy
+    url: https://decopy.ai/
+    tags: []
+    status: unchecked
+  - name: zerogpt
+    url: https://www.zerogpt.com/
+    tags: []
+    status: unchecked
+  - name: isgen
+    url: https://isgen.ai/
+    tags: []
+    status: unchecked

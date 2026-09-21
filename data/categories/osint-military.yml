@@ -682,3 +682,15 @@ items:
     tags: []
     status: active
     last_checked: '2026-06-23'
+  - name: intelrepository governments and militaries of various nations
+    url: https://intelrepository.com/
+    tags: []
+    status: unchecked
+  - name: Global Wildfire Information System
+    url: https://gwis.jrc.ec.europa.eu/apps/gwis_current_situation/index.html
+    tags: []
+    status: unchecked
+  - name: hunger map
+    url: https://hungermap.wfp.org/
+    tags: []
+    status: unchecked

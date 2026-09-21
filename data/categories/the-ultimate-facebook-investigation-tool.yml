@@ -126,3 +126,7 @@ items:
     tags: []
     status: active
     last_checked: '2026-06-23'
+  - name: facebook ads tracker
+    url: https://www.facebook.com/ads/library/report/
+    tags: []
+    status: unchecked
