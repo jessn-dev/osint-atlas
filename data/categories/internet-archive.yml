@@ -300,3 +300,32 @@ items:
       - open-source
     status: active
     last_checked: '2026-06-23'
+  - name: Wiki Leaks
+    url: https://wikileaks.org/
+    tags: []
+    status: unchecked
+  - name: mirror h archived
+    url: https://web.archive.org/web/*/https://mirror-h.org/*
+    tags: []
+    status: unchecked
+  - name: malware bazaar
+    url: https://bazaar.abuse.ch/
+    tags: []
+    status: unchecked
+  - name: LJ9859 Malware Database
+    url: https://github.com/LJ9859/Malware-Database
+    tags:
+      - open-source
+    status: unchecked
+  - name: malshare
+    url: https://malshare.com/
+    tags: []
+    status: unchecked
+  - name: urlhaus
+    url: https://urlhaus.abuse.ch/
+    tags: []
+    status: unchecked
+  - name: virustotal
+    url: https://www.virustotal.com/gui/home/upload
+    tags: []
+    status: unchecked

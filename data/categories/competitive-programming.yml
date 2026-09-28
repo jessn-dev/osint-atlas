@@ -19,3 +19,7 @@ items:
     tags: []
     status: active
     last_checked: '2026-06-23'
+  - name: leetcode
+    url: https://leetcode.com/
+    tags: []
+    status: unchecked

@@ -2399,3 +2399,29 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+  - name: checkra1n
+    url: https://checkra.in/
+    tags: []
+    status: unchecked
+  - name: roothide
+    url: https://github.com/roothide/Bootstrap
+    tags:
+      - open-source
+    status: unchecked
+  - name: palera1n
+    url: https://palera.in/
+    tags: []
+    status: unchecked
+  - name: topazdump
+    url: https://t.me/topazdump
+    tags:
+      - telegram
+    status: unchecked
+  - name: Cerast Intelligence Search observed domains for exposed paths and misconfigurations.
+    url: https://search.cerast-intelligence.com/
+    tags: []
+    status: unchecked
+  - name: Param Miner
+    url: https://portswigger.net/bappstore/17d2949a985c4b7ca092728dba871943
+    tags: []
+    status: unchecked

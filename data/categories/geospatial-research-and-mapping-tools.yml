@@ -1202,3 +1202,7 @@ items:
     tags: []
     status: active
     last_checked: '2026-06-23'
+  - name: numbeo cost of living database arround world
+    url: https://www.numbeo.com/cost-of-living/
+    tags: []
+    status: unchecked

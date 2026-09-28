@@ -13,3 +13,15 @@ items:
     tags: []
     status: active
     last_checked: '2026-06-23'
+  - name: Barcodepedia
+    url: https://barcodepedia.com/
+    tags: []
+    status: unchecked
+  - name: barcodespider
+    url: https://www.barcodespider.com/
+    tags: []
+    status: unchecked
+  - name: barcode-list.com
+    url: https://barcode-list.com/
+    tags: []
+    status: unchecked
