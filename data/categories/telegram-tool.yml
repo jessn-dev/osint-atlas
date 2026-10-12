@@ -326,3 +326,19 @@ items:
       - telegram
     status: active
     last_checked: '2026-06-23'
+  - name: TGScope
+    url: https://tgscope.io/
+    tags: []
+    status: unchecked
+  - name: TGScope Channel Creation Date
+    url: https://tgscope.io/tools/telegram-channel-creation-date
+    tags: []
+    status: unchecked
+  - name: TGScope Channel Audit
+    url: https://tgscope.io/tools/telegram-channel-audit
+    tags: []
+    status: unchecked
+  - name: TGScope Channel Network Checker
+    url: https://tgscope.io/tools/telegram-channel-network
+    tags: []
+    status: unchecked
