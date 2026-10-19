@@ -1,0 +1,25 @@
+category: OSINT ADS Tracker
+slug: osint-ads-tracker
+group: general
+items:
+  - name: ADS Google Tracker
+    url: https://adstransparency.google.com/?authuser=0&region=ID
+    tags: []
+    status: unchecked
+  - name: ADS Tiktok
+    url: https://ads.tiktok.com/business/creativecenter/inspiration/topads/pc/en?period=30&region=ID
+    tags: []
+    status: unchecked
+  - name: facebook ads tracker
+    url: https://www.facebook.com/ads/library/report/
+    tags: []
+    status: unchecked
+  - name: Linkedin ads tracker
+    url: https://www.linkedin.com/ad-library
+    tags: []
+    status: unchecked
+  - name: X ads tracker
+    url: https://ads.twitter.com/ads-repository
+    tags: []
+    status: unchecked
+description: OSINT ADS Tracker — general resources (5 entries).

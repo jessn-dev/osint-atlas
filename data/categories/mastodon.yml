@@ -8,3 +8,7 @@ items:
     tags: []
     status: active
     last_checked: '2026-06-23'
+  - name: mastodon instances
+    url: https://instances.social/
+    tags: []
+    status: unchecked

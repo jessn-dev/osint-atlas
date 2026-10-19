@@ -186,3 +186,27 @@ items:
     tags: []
     status: active
     last_checked: '2026-06-23'
+  - name: ferrytracker
+    url: https://www.ferrytracker.net/
+    tags: []
+    status: unchecked
+  - name: marinetraffic.org
+    url: https://www.marinetraffic.org/
+    tags: []
+    status: unchecked
+  - name: cruisingearth
+    url: https://www.cruisingearth.com/
+    tags: []
+    status: unchecked
+  - name: sealight resouces and database
+    url: https://www.sealight.live/resources
+    tags: []
+    status: unchecked
+  - name: ESA oceandatalab
+    url: https://ovl.oceandatalab.com/
+    tags: []
+    status: unchecked
+  - name: kapalaku forums ID
+    url: https://www.kapalaku.com/index.php
+    tags: []
+    status: unchecked
