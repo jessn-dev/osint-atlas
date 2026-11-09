@@ -619,3 +619,15 @@ items:
     tags: []
     status: active
     last_checked: '2026-06-23'
+  - name: IoC search by SOCradar
+    url: https://ioc.socradar.io/
+    tags: []
+    status: unchecked
+  - name: DomScan
+    url: https://domscan.net/tools/security
+    tags: []
+    status: unchecked
+  - name: threatlocker
+    url: https://www.threatlocker.com/
+    tags: []
+    status: unchecked

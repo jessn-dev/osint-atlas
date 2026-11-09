@@ -52,3 +52,8 @@ items:
       - api
     status: active
     last_checked: '2026-06-23'
+  - name: NetAPI
+    url: https://netapi.com/help/api/
+    tags:
+      - api
+    status: unchecked

@@ -277,3 +277,23 @@ items:
     tags: []
     status: active
     last_checked: '2026-06-23'
+  - name: zerogpt
+    url: https://www.zerogpt.com/
+    tags: []
+    status: unchecked
+  - name: decopy
+    url: https://decopy.ai/
+    tags: []
+    status: unchecked
+  - name: turnitindetector
+    url: https://www.turnitindetector.ai/
+    tags: []
+    status: unchecked
+  - name: paraphraser
+    url: https://www.paraphraser.io/
+    tags: []
+    status: unchecked
+  - name: yandex
+    url: https://yandex.com/images/search
+    tags: []
+    status: unchecked

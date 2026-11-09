@@ -30,3 +30,7 @@ items:
       - open-source
     status: active
     last_checked: '2026-06-23'
+  - name: Metadata Remover
+    url: https://metadataremover.ai/metadata-viewer
+    tags: []
+    status: unchecked

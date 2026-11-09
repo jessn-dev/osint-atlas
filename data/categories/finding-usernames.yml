@@ -184,3 +184,17 @@ items:
       - open-source
     status: active
     last_checked: '2026-06-23'
+  - name: holehe live tool
+    url: https://holehe.org/
+    tags: []
+    status: unchecked
+  - name: Consensus OSINT
+    url: https://github.com/OSINT-Experts-Society/Consensus-OSINT
+    tags:
+      - open-source
+    status: unchecked
+  - name: gosearch
+    url: https://github.com/ibnaleem/gosearch
+    tags:
+      - open-source
+    status: unchecked

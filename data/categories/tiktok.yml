@@ -84,3 +84,11 @@ items:
     tags: []
     status: active
     last_checked: '2026-06-23'
+  - name: Find ads on TikTok offc
+    url: https://library.tiktok.com/ads
+    tags: []
+    status: unchecked
+  - name: TKMetrics
+    url: https://tkmetrics.com/creators/
+    tags: []
+    status: unchecked

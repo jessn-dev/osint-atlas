@@ -51,3 +51,7 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+  - name: PendingDelete.net
+    url: https://pendingdelete.net/
+    tags: []
+    status: unchecked

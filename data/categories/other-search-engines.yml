@@ -298,3 +298,15 @@ items:
     tags: []
     status: active
     last_checked: '2026-06-23'
+  - name: lukol
+    url: https://www.lukol.com/
+    tags: []
+    status: unchecked
+  - name: Wikimapia
+    url: http://wikimapia.org
+    tags: []
+    status: unchecked
+  - name: search Yahoo
+    url: https://search.yahoo.com/
+    tags: []
+    status: unchecked

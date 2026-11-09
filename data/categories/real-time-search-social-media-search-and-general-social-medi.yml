@@ -78,3 +78,7 @@ items:
       - open-source
     status: dead
     last_checked: '2026-06-23'
+  - name: LurkAPI
+    url: https://lurkapi.com
+    tags: []
+    status: unchecked

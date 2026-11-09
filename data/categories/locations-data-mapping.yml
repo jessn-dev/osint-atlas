@@ -217,3 +217,15 @@ items:
     tags: []
     status: active
     last_checked: '2026-06-23'
+  - name: nomads
+    url: https://nomads.com/
+    tags: []
+    status: unchecked
+  - name: 'nomadtable: travel friends IOS'
+    url: https://apps.apple.com/us/app/nomadtable-travel-friends/id6736921913
+    tags: []
+    status: unchecked
+  - name: Meet Travelers Nearby - Nomax IOS
+    url: https://apps.apple.com/us/app/meet-travelers-nearby-nomax/id6757600229
+    tags: []
+    status: unchecked
