@@ -51,3 +51,8 @@ items:
     tags: []
     status: active
     last_checked: '2026-06-23'
+  - name: EXIF Hound
+    url: https://github.com/minimallyexceptional/exif-hound
+    tags:
+      - open-source
+    status: unchecked

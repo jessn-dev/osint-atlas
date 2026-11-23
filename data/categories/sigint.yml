@@ -1,0 +1,159 @@
+category: SIGINT
+slug: sigint
+group: sigint
+items:
+  - name: osmocom
+    url: https://osmocom.org/projects/baseband/wiki/Hardware
+    tags: []
+    status: unchecked
+  - name: Motorola
+    url: https://osmocom.org/projects/baseband/wiki/MobistelEL570
+    tags: []
+    status: unchecked
+  - name: Hackrf
+    url: https://greatscottgadgets.com/hackrf/
+    tags: []
+    status: unchecked
+  - name: bladerf
+    url: https://www.nuand.com/bladerf-1/
+    tags: []
+    status: unchecked
+  - name: rtl sdr
+    url: https://www.rtl-sdr.com/
+    tags: []
+    status: unchecked
+  - name: Tenda
+    url: https://www.tendacn.com/material/show/2002565
+    tags: []
+    status: unchecked
+  - name: Wifi Pineaple HAK5
+    url: https://shop.hak5.org/products/wifi-pineapple
+    tags: []
+    status: unchecked
+  - name: tp link
+    url: https://www.tp-link.com/id/
+    tags: []
+    status: unchecked
+  - name: Walkie-talkie
+    url: https://en.wikipedia.org/wiki/Walkie-talkie
+    tags: []
+    status: unchecked
+  - name: flipper
+    url: https://flipper.net/
+    tags: []
+    status: unchecked
+  - name: raspberrypi
+    url: https://www.raspberrypi.com/
+    tags: []
+    status: unchecked
+  - name: limesdr
+    url: https://limemicro.com/boards/limesdr/
+    tags: []
+    status: unchecked
+  - name: Faraday Bags Signal Blocking
+    url: https://www.amazon.com/Simket-Fireproof-Waterproof-Anti-Tracking-Shielding/dp/B0BZCFXN8X
+    tags: []
+    status: unchecked
+  - name: wireshark
+    url: https://www.wireshark.org/
+    tags: []
+    status: unchecked
+  - name: kismetwireless
+    url: https://www.kismetwireless.net/
+    tags: []
+    status: unchecked
+  - name: aircrack
+    url: https://www.aircrack-ng.org/
+    tags: []
+    status: unchecked
+  - name: nmap
+    url: https://nmap.org/
+    tags: []
+    status: unchecked
+  - name: netmonster
+    url: https://play.google.com/store/apps/details?id=cz.mroczis.netmonster
+    tags: []
+    status: unchecked
+  - name: wigle
+    url: https://wigle.net/
+    tags: []
+    status: unchecked
+  - name: angryip
+    url: https://angryip.org/
+    tags: []
+    status: unchecked
+  - name: advanced-ip-scanner
+    url: https://www.advanced-ip-scanner.com/id/
+    tags: []
+    status: unchecked
+  - name: pysim
+    url: https://github.com/osmocom/pysim
+    tags:
+      - open-source
+    status: unchecked
+  - name: osmocom
+    url: https://osmocom.org/projects/baseband
+    tags: []
+    status: unchecked
+  - name: unwiredlabs
+    url: https://unwiredlabs.com/
+    tags: []
+    status: unchecked
+  - name: G Maps APIs
+    url: https://mapsplatform.google.com/lp/maps-apis/
+    tags: []
+    status: unchecked
+  - name: leafletjs
+    url: https://leafletjs.com/
+    tags: []
+    status: unchecked
+  - name: arcgis
+    url: https://www.arcgis.com/apps/mapviewer/index.html
+    tags: []
+    status: unchecked
+  - name: d3js
+    url: https://d3js.org/
+    tags: []
+    status: unchecked
+  - name: cytoscape
+    url: https://cytoscape.org/
+    tags: []
+    status: unchecked
+  - name: openstreetmap
+    url: https://www.openstreetmap.org/#map=5/-2.55/118.02
+    tags: []
+    status: unchecked
+  - name: SigPloit
+    url: https://github.com/SigPloiter/SigPloit
+    tags:
+      - open-source
+    status: unchecked
+  - name: How to use the SS7 module
+    url: https://github.com/SigPloiter/SigPloit/wiki/3--How-to-use-the-SS7-module
+    tags:
+      - open-source
+    status: unchecked
+  - name: awesome-telco
+    url: https://github.com/ravens/awesome-telco
+    tags:
+      - open-source
+    status: unchecked
+  - name: 5G-Repo
+    url: https://github.com/shotsan/5G-Repo
+    tags:
+      - open-source
+    status: unchecked
+  - name: ID onnocenter
+    url: >-
+      http://onnocenter.or.id/wiki/index.php?search=Telekomunikasi&title=Special%3ASearch&profile=default&fulltext=1
+    tags: []
+    status: unchecked
+  - name: ID onnocenter OPENBTS
+    url: http://onnocenter.or.id/wiki/index.php/OpenBTS
+    tags: []
+    status: unchecked
+  - name: ID & EN Rifky The Cyber
+    url: https://www.youtube.com/@RifkyTheCyber
+    tags: []
+    status: unchecked
+description: SIGINT — sigint resources (37 entries).

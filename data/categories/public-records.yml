@@ -25,3 +25,12 @@ items:
       - open-source
     status: active
     last_checked: '2026-06-23'
+  - name: Offendersearch
+    url: https://offendersearch.app/
+    tags: []
+    status: unchecked
+  - name: US Search NSOPW
+    url: https://www.nsopw.gov/?home=
+    tags:
+      - official
+    status: unchecked

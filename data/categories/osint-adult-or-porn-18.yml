@@ -230,3 +230,63 @@ items:
     tags: []
     status: active
     last_checked: '2026-06-23'
+  - name: SauceMatch
+    url: https://saucematch.com/
+    tags: []
+    status: unchecked
+  - name: trakteer
+    url: https://new.trakteer.id/
+    tags: []
+    status: unchecked
+  - name: patreon
+    url: https://www.patreon.com/
+    tags: []
+    status: unchecked
+  - name: weibo
+    url: https://weibo.com/
+    tags: []
+    status: unchecked
+  - name: linktr
+    url: https://linktr.ee/
+    tags: []
+    status: unchecked
+  - name: jakartapartyclub
+    url: https://jakartapartyclub.com/
+    tags: []
+    status: unchecked
+  - name: jakarta100bars
+    url: https://www.jakarta100bars.com/
+    tags: []
+    status: unchecked
+  - name: nightlifethailand
+    url: https://nightlifethailand.com/
+    tags: []
+    status: unchecked
+  - name: thailandnightlife
+    url: https://thailandnightlife.net/
+    tags: []
+    status: unchecked
+  - name: thailandinnercircle
+    url: https://www.thailandinnercircle.com/
+    tags: []
+    status: unchecked
+  - name: michat apps
+    url: https://play.google.com/store/apps/details?id=com.michatapp.im&hl=en
+    tags: []
+    status: unchecked
+  - name: nomads
+    url: https://nomads.com/
+    tags: []
+    status: unchecked
+  - name: 'nomadtable: travel friends IOS'
+    url: https://apps.apple.com/us/app/nomadtable-travel-friends/id6736921913
+    tags: []
+    status: unchecked
+  - name: Meet Travelers Nearby - Nomax IOS
+    url: https://apps.apple.com/us/app/meet-travelers-nearby-nomax/id6757600229
+    tags: []
+    status: unchecked
+  - name: scrolller
+    url: https://scrolller.com/
+    tags: []
+    status: unchecked

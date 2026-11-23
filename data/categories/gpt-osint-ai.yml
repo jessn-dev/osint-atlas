@@ -292,3 +292,7 @@ items:
     tags: []
     status: active
     last_checked: '2026-06-23'
+  - name: Felo AI - Generate Adult Content
+    url: https://felo.ai/en/agents/adult-ai-image-generator-free-2YaHxtqp57PwNz59RG6Hsv
+    tags: []
+    status: unchecked

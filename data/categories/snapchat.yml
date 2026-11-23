@@ -14,3 +14,11 @@ items:
       - open-source
     status: active
     last_checked: '2026-06-23'
+  - name: OSINT Dojo Snapchat Attack Vector
+    url: https://www.osintdojo.com/diagrams/snapchat
+    tags: []
+    status: unchecked
+  - name: SnapDataHub
+    url: https://snapdatahub.com/
+    tags: []
+    status: unchecked

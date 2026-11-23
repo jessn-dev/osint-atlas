@@ -50,3 +50,12 @@ items:
     tags: []
     status: dead
     last_checked: '2026-06-23'
+  - name: LurkAPI LinkedIn Profile Viewer
+    url: https://lurkapi.com/free-tools/linkedin-profile-viewer
+    tags: []
+    status: unchecked
+  - name: AlphaOSINT LinkedIn People Search API
+    url: https://alphaosint.com/sources/linkedin-people-search-api/
+    tags:
+      - api
+    status: unchecked

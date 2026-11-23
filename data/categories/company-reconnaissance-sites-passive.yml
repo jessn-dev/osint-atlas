@@ -459,3 +459,11 @@ items:
     tags: []
     status: active
     last_checked: '2026-06-23'
+  - name: auregistre FR
+    url: https://auregistre.fr/
+    tags: []
+    status: unchecked
+  - name: TenderTracker UK
+    url: https://tendertracker.co.uk/
+    tags: []
+    status: unchecked
